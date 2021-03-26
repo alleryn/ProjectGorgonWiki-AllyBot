@@ -1,0 +1,75 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 7 || Basic Holistic Ink || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5076.png</span>&nbsp;[[Antler]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5885.png</span>&nbsp;[[Basic Holistic Ink]] x3
+|-
+| 30 || Dangerous Poisoned Knife || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5041.png</span>&nbsp;[[Flour]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5076.png</span>&nbsp;[[Antler]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5893.png</span>&nbsp;[[Dangerous Poisoned Knife]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 30 || Potent Acidic Cleanser (Organic Recipe) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5076.png</span>&nbsp;[[Antler]] x1<br>[[:Category:Items/GlassChunk|Piece of Glass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Potent Acidic Cleanser]] x1
+|-
+| 40 || Deer Boost Potion 20% || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Dirty Snow Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5076.png</span>&nbsp;[[Antler]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5149.png</span>&nbsp;[[Blusher Mushroom Suspension]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5468.png</span>&nbsp;[[Sugar]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5437.png</span>&nbsp;[[Deer Boost Potion 20%]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x2
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Calligraphy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Secret Calligraphy: Experience || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5885.png</span>&nbsp;[[Basic Holistic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5076.png</span>&nbsp;[[Antler]] x1 || Gain insight: '''+5% Sword Damage'''. (Stacks with regular calligraphy effects)
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 2 || Turn Corpse Trophies Into Crystal Ice || [[:Category:Items/CorpseTrophy|Corpse Trophies]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fletching]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 7 || Beginner's Dense Arrow || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5268.png</span>&nbsp;[[Beginner's Arrowheads]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5228.png</span>&nbsp;[[Beginner's Arrow Shafts]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Feathers]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5076.png</span>&nbsp;[[Antler]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5248.png</span>&nbsp;[[Beginner's Dense Arrow]] x1000
+|-
+| 17 || Basic Dense Arrow || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5269.png</span>&nbsp;[[Basic Arrowheads]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5229.png</span>&nbsp;[[Basic Arrow Shafts]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Prepared Fletchings]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5076.png</span>&nbsp;[[Antler]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5249.png</span>&nbsp;[[Basic Dense Arrow]] x1000
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Gadgeteering]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Simple Item Dispenser || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5096.png</span>&nbsp;[[Simple Nails]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5076.png</span>&nbsp;[[Antler]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5513.png</span>&nbsp;[[Simple Item Dispenser]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Beginner's Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x5<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Basic Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Advanced Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Expert Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x6<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Perceive Spawn Premonitions (3 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 3 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|-
+| 0 || Perceive Spawn Premonitions (5 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x2<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 5 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Shamanic Infusion]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 2 || Beginner's Deer Necklace Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5076.png</span>&nbsp;[[Antler]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5637.png</span>&nbsp;[[Deer Guts]] x1<br>[[:Category:Items/Necklace|Necklace]] x1 || Infuses a necklace with the following power: '''Max Health +10'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 2.
+|-
+| 10 || Beginner's Deer Foot Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5076.png</span>&nbsp;[[Antler]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5637.png</span>&nbsp;[[Deer Guts]] x1<br>[[:Category:Items/Feet|Shoes]] x1 || Infuses boots or shoes with the following power: '''Sprint Speed Boost +0.5'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 10.
+|-
+| 18 || Novice's Deer Necklace Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5076.png</span>&nbsp;[[Antler]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5637.png</span>&nbsp;[[Deer Guts]] x3<br>[[:Category:Items/Necklace|Necklace]] x1 || Infuses a necklace with the following power: '''Max Health +20'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 18.
+|-
+| 26 || Novice's Deer Foot Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5076.png</span>&nbsp;[[Antler]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5637.png</span>&nbsp;[[Deer Guts]] x3<br>[[:Category:Items/Feet|Shoes]] x1 || Infuses boots or shoes with the following power: '''Sprint Speed Boost +1, Unarmed Damage +5'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 26.
+|-
+| 35 || Shaman's Deer Necklace Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5076.png</span>&nbsp;[[Antler]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5637.png</span>&nbsp;[[Deer Guts]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5078.png</span>&nbsp;[[Trophy Deer Skin]] x1<br>[[:Category:Items/Necklace|Necklace]] x1 || Infuses a necklace with the following power: '''Max Health +30'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 35.
+|-
+| 46 || Shaman's Deer Foot Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5076.png</span>&nbsp;[[Antler]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5637.png</span>&nbsp;[[Deer Guts]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5078.png</span>&nbsp;[[Trophy Deer Skin]] x1<br>[[:Category:Items/Feet|Shoes]] x1 || Infuses boots or shoes with the following power: '''Sprint Speed Boost +1.5, Unarmed Damage +15'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 46.
+|-
+| 51 || Deep Deer Necklace Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5076.png</span>&nbsp;[[Antler]] x6<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5637.png</span>&nbsp;[[Deer Guts]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5078.png</span>&nbsp;[[Trophy Deer Skin]] x1<br>[[:Category:Items/Necklace|Necklace]] x1 || Infuses a necklace with the following power: '''Max Health +45'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 51.
+|}

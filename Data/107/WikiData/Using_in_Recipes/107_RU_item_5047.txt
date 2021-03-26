@@ -1,0 +1,25 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Butchering]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 15 || Butcher Sinewy Insect Meat || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5541.png</span>&nbsp;[[Stringy Insect Meat]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5561.png</span>&nbsp;[[Meat Tenderizer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 5% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5542.png</span>&nbsp;[[Sinewy Insect Meat]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 30 || Casino Kabobs || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5541.png</span>&nbsp;[[Stringy Insect Meat]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5533.png</span>&nbsp;[[Stringy Dog Meat]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5455.png</span>&nbsp;[[Green Pepper]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5005.png</span>&nbsp;[[Blusher Mushroom]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5932.png</span>&nbsp;[[Casino Kabobs]] x1
+|-
+| 31 || Recuperative Soup || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5541.png</span>&nbsp;[[Stringy Insect Meat]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5223.png</span>&nbsp;[[Raw Great Chicken]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5135.png</span>&nbsp;[[Broccoli]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5816.png</span>&nbsp;[[Recuperative Soup]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mushroom Farming]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 7 || Mushroom Substrate: Meat || [[:Category:Items/Meat|Meat]] x1<br>[[:Category:Items/Meat|Meat]] x1<br>[[:Category:Items/Meat|Meat]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5535.png</span>&nbsp;[[Mushroom Substrate (Meat)]] x1
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/CheapMeat|Cheap Meat]]

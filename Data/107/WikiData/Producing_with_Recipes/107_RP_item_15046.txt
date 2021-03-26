@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 35 || Strong Acid Resistance || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5075.png</span>&nbsp;[[Augmented Mantis Claw]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Potent Acidic Cleanser]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5590.png</span>&nbsp;[[Pyrite]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5148.png</span>&nbsp;[[Field Mushroom Suspension]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5154.png</span>&nbsp;[[Strong Acid Resistance Potion]] x1
+|}

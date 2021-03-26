@@ -1,0 +1,29 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 40 || Iocaine Suspension || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Iocaine Powder]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5150.png</span>&nbsp;[[Iocaine Suspension]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mycology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 35 || Poisoned Glazed Beets || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5129.png</span>&nbsp;[[Glazed Beets]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Iocaine Powder]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5129.png</span>&nbsp;Poisoned Food (no wiki page) x1
+|-
+| 37 || Poisoned Banana Bread || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5111.png</span>&nbsp;[[Banana Bread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Iocaine Powder]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5111.png</span>&nbsp;Poisoned Food (no wiki page) x1
+|-
+| 39 || Poisoned Apple Juice || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5396.png</span>&nbsp;[[Apple Juice]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Iocaine Powder]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5396.png</span>&nbsp;Poisoned Food (no wiki page) x1
+|-
+| 40 || Iocaine Milk Smoothie || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Iocaine Powder]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5150.png</span>&nbsp;[[Milk Cap Mushroom Smoothie]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5150.png</span>&nbsp;Poisoned Food (no wiki page) x1
+|-
+| 41 || Poisoned Grilled Chicken || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5225.png</span>&nbsp;[[Grilled Chicken]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Iocaine Powder]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5225.png</span>&nbsp;Poisoned Food (no wiki page) x1
+|-
+| 43 || Poisoned Fried Banana || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5767.png</span>&nbsp;[[Fried Banana]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Iocaine Powder]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5133.png</span>&nbsp;Poisoned Food (no wiki page) x1
+|-
+| 45 || Poisoned Cheesy Veggie Delight || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5130.png</span>&nbsp;[[Cheesy Veggie Delight]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Iocaine Powder]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5130.png</span>&nbsp;Poisoned Food (no wiki page) x1
+|-
+| 47 || Poisoned Crab Roll || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5319.png</span>&nbsp;[[Crab Roll]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Iocaine Powder]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5319.png</span>&nbsp;Poisoned Food (no wiki page) x1
+|}

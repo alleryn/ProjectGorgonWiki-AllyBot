@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Brewing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Basic Lager (One Glass) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5717.png</span>&nbsp;[[Barley]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5718.png</span>&nbsp;[[Hops]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5729.png</span>&nbsp;[[Basic Lager Yeast]] x1<br>[[:Category:Items/BrewingFruitA4|Fruit: Red Apple, Grapes, Orange, or Strawberry]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5744.png</span>&nbsp;[[Basic Lager]] x1
+|}

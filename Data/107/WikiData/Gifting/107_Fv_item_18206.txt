@@ -1,0 +1,33 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Sir Johnson]] || Amulna in [[Ilmari]] || Loves ([[:Category:Items/Onyx|Onyxes]] : 501*)
+|- style="background:#4AF24A;"
+| [[Yasinda]] || [[Hogan's Keep]] in Eltibule || Loves ([[:Category:Items/Onyx|Onyxes]] : 501*)
+|- style="background:#4AF24A;"
+| [[Lamashu]] || Northern [[Kur]] || Loves ([[:Category:Items/Onyx|Onyxes]] : 501*)
+|- style="background:#4AF24A;"
+| [[Kleave]] || Eltibule Keep in [[Eltibule]] || Loves ([[:Category:Items/Onyx|Onyxes]] : 501*)
+|- style="background:#9EF24A;"
+| [[Azalak]] || The Housing Complex in Northern [[Serbule]] || Likes ([[:Category:Items/Gem|Gems]] : 201*)
+|- style="background:#9EF24A;"
+| [[Larsan]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Gem|Gems]] : 201*)
+|- style="background:#9EF24A;"
+| [[Preta]] || The Fairy Tree in [[Sun Vale]] || Likes ([[:Category:Items/Crystal|Crystals]])
+|- style="background:#9EF24A;"
+| [[Echur]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Gem|Gems]] : 201*)
+|- style="background:#9EF24A;"
+| [[Spot]] || [[Animal Town]] in Sun Vale || Likes ([[:Category:Items/Crystal|Crystals]])
+|- style="background:#9EF24A;"
+| [[Blanche]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Crystal|Crystals]])
+|- style="background:#9EF24A;"
+| [[Urzab]] || Amulna in [[Ilmari]] || Likes ([[:Category:Items/Crystal|Crystals]])<br>Likes ([[:Category:Items/Gem|Gems]] : 201*)
+|- style="background:#9EF24A;"
+| [[Gurki]] || The Outpost in Northwestern [[Kur]] || Likes ([[:Category:Items/WhiteCrystal|White Crystals]])
+|- style="background:#F24A4A;"
+| [[Fainor]] || Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/Crystal|Crystals]])
+|}
+<nowiki>*</nowiki>[[Armor Patching Onyx]] has an effective value different from its base value (110) when gifted as a member of this item category.

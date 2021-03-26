@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fletching]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 47 || Masterwork Dense Arrow || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5274.png</span>&nbsp;[[Masterwork Arrowheads]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5232.png</span>&nbsp;[[Masterwork Arrow Shafts]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Elegant Fletchings]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5587.png</span>&nbsp;[[Copper Ore]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5252.png</span>&nbsp;[[Masterwork Dense Arrow]] x1000
+|}

@@ -1,0 +1,30 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Turn Junk Into Crystal Ice || [[:Category:Items/VendorTrash|Miscellaneous Junk]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Tailoring]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 10 || Add Pockets To Cloth Shirt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5363.png</span>&nbsp;[[Fine Cotton Yarn]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br>[[:Category:Items/ClothShirt|Cloth Shirt]] x1 || Adds '''+2 Pockets'''.<br>Consumes '''12 Enhancement Points'''.
+|-
+| 23 || Enhance Darkness Damage of Cloth Shirt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5328.png</span>&nbsp;[[Voile Muslin]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5773.png</span>&nbsp;[[Animal Skull]] x1<br>[[:Category:Items/ClothShirt|Cloth Shirt]] x1 || Adds '''+2% Direct Darkness Damage'''.<br>Consumes '''20 Enhancement Points'''.
+|-
+| 30 || Enhance Fire Damage of Cloth Shirt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5328.png</span>&nbsp;[[Voile Muslin]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5182.png</span>&nbsp;[[Sulfur]] x1<br>[[:Category:Items/ClothShirt|Cloth Shirt]] x1 || Adds '''+2% Direct Fire Damage'''.<br>Consumes '''20 Enhancement Points'''.
+|-
+| 33 || Enhance Cold Damage of Cloth Shirt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5329.png</span>&nbsp;[[Cheesecloth]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Ice Core]] x1<br>[[:Category:Items/ClothShirt|Cloth Shirt]] x1 || Adds '''+2% Direct Cold Damage'''.<br>Consumes '''20 Enhancement Points'''.
+|-
+| 40 || Enhance Electricity Damage of Cloth Shirt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5329.png</span>&nbsp;[[Cheesecloth]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5350.png</span>&nbsp;[[Fulgurite]] x1<br>[[:Category:Items/ClothShirt|Cloth Shirt]] x1 || Adds '''+2% Direct Electricity Damage'''.<br>Consumes '''20 Enhancement Points'''.
+|-
+| 43 || Enhance Psychic Damage of Cloth Shirt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5329.png</span>&nbsp;[[Cheesecloth]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5281.png</span>&nbsp;[[Enhanced Cranium Powder]] x1<br>[[:Category:Items/ClothShirt|Cloth Shirt]] x1 || Adds '''+2% Direct Psychic Damage'''.<br>Consumes '''20 Enhancement Points'''.
+|-
+| 50 || Enhance Nature Damage of Cloth Shirt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5941.png</span>&nbsp;[[Breadcloth]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5045.png</span>&nbsp;[[Enchanted Mistletoe]] x1<br>[[:Category:Items/ClothShirt|Cloth Shirt]] x1 || Adds '''+2% Direct Nature Damage'''.<br>Consumes '''20 Enhancement Points'''.
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/Chest|Chest Armor]]
+*[[:Category:Items/Equipment|Pieces of Equipment]]

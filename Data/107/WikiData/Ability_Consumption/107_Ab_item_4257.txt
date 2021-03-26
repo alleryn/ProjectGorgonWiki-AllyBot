@@ -1,0 +1,46 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2108.png</span> || [[First Aid_(ability)|First Aid]] || Simple First Aid Kit || [[First Aid]] || 1 || 10% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2108.png</span> || [[First Aid 2]] || Basic First Aid Kit || [[First Aid]] || 10 || 10% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2218.png</span> || [[Treat Disease]] || Basic First Aid Kit || [[First Aid]] || 15 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2108.png</span> || [[First Aid 3]] || Good First Aid Kit || [[First Aid]] || 20 || 10% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2235.png</span> || [[Field Surgery]] || Good First Aid Kits x3 || [[First Aid]] || 25 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2108.png</span> || [[First Aid 4]] || Expert's First Aid Kit || [[First Aid]] || 30 || 10% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2218.png</span> || [[Treat Disease 2]] || Good First Aid Kit || [[First Aid]] || 35 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2108.png</span> || [[First Aid 5]] || Master First Aid Kit || [[First Aid]] || 40 || 10% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2108.png</span> || [[First Aid 6]] || Amazing First Aid Kit || [[First Aid]] || 50 || 10% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2218.png</span> || [[Treat Disease 3]] || Expert's First Aid Kit || [[First Aid]] || 50 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2235.png</span> || [[Field Surgery 2]] || Expert's First Aid Kits x3 || [[First Aid]] || 50 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3646.png</span> || [[Treat Cold Exposure]] || Expert's First Aid Kit || [[First Aid]] || 55 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2218.png</span> || [[Set Broken Bone]] || Master First Aid Kit || [[First Aid]] || 55 || 33% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2108.png</span> || [[First Aid 7]] || Amazing First Aid Kit || [[First Aid]] || 60 || 25% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3685.png</span> || [[Soberize]] || Amazing First Aid Kit || [[First Aid]] || 60 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2235.png</span> || [[Field Surgery 3]] || Amazing First Aid Kits x3 || [[First Aid]] || 70 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2108.png</span> || [[First Aid 8]] || Astounding First Aid Kit || [[First Aid]] || 70 || 10% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3686.png</span> || [[Emergency Alcohol Treatment]] || Astounding First Aid Kit || [[First Aid]] || 70 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3761.png</span> || [[Field Prophylactic]] || Astounding First Aid Kit || [[First Aid]] || 80 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2108.png</span> || [[First Aid 9]] || Astounding First Aid Kit || [[First Aid]] || 80 || 25% || Never
+|}

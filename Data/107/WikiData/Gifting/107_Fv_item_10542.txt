@@ -1,0 +1,27 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Jaw]] || [[Myconian Cave]] in Serbule || Loves ([[:Category:Items/Plant|Plants]] : 680*)
+|- style="background:#4AF24A;"
+| [[Poe]] || [[Myconian Cave]] in Serbule || Loves ([[:Category:Items/Flower|Flowers]] : 1190*)
+|- style="background:#9EF24A;"
+| [[Fazzi]] || The [[Winter Nexus]] || Likes ([[:Category:Items/Flower|Flowers]] : 1190*)
+|- style="background:#9EF24A;"
+| [[Azalak]] || The Housing Complex in Northern [[Serbule]] || Likes ([[:Category:Items/Flower|Flowers]] : 1190*)
+|- style="background:#9EF24A;"
+| [[Echur]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Flower|Flowers]] : 1190*)
+|- style="background:#9EF24A;"
+| [[Julius Patton]] || Western [[Serbule Hills]] || Likes ([[:Category:Items/Plant|Plants]] : 680*)
+|- style="background:#9EF24A;"
+| [[Zhao]] || Rahu City in [[Rahu]] || Likes ([[:Category:Items/Flower|Flowers]] : 1190*)
+|- style="background:#9EF24A;"
+| [[Rita]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Flower|Flowers]] : 1190*)
+|- style="background:#9EF24A;"
+| [[Therese]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Plant|Plants]] : 680*)
+|- style="background:#F24A4A;"
+| [[Roshun the Traitor]] || The Housing Complex in Northern [[Serbule]] || Hates ([[:Category:Items/Nature|Nature-Related Items]])
+|}
+<nowiki>*</nowiki>[[Traditional Birthing Arrangement]] has an effective value different from its base value (375) when gifted as a member of this item category.

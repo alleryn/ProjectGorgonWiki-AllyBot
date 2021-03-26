@@ -1,0 +1,15 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Carpentry]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Emergency Warmth Fire || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5895.png</span>&nbsp;[[Fuel Oil]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5687.png</span>&nbsp;[[Emergency Warmth Fire]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Foraging]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Emergency Warmth Fire (Foraging) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5057.png</span>&nbsp;[[Grass]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5073.png</span>&nbsp;[[Spiderweb]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5278.png</span>&nbsp;[[Flinty Rock]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5687.png</span>&nbsp;[[Emergency Warmth Fire]] x1
+|}

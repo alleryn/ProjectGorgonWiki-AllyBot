@@ -1,0 +1,23 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Firaki]] || Amulna in [[Ilmari]] || Loves ([[:Category:Items/Silver|Silver Items]] : 150*)
+|- style="background:#9EF24A;"
+| [[Corey The Croaker]] || The [[Winter Nexus]] || Likes ([[:Category:Items/VendorTrash|Vendor Trash]])
+|- style="background:#9EF24A;"
+| [[Way]] || [[Myconian Cave]] in Serbule || Likes ([[:Category:Items/VendorTrash|Vendor Trash]])
+|- style="background:#9EF24A;"
+| [[Jaime Fatholm]] || The Tapestry Inn in [[Serbule Hills]] || Likes ([[:Category:Items/Silver|Silver Items]] : 150*)
+|- style="background:#9EF24A;"
+| [[Mushroom Jack]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/VendorTrash|Vendor Trash]])
+|- style="background:#9EF24A;"
+| [[Yagreet]] || The Fairy Tree in [[Sun Vale]] || Likes ([[:Category:Items/Silver|Silver Items]] : 150*)
+|- style="background:#F24A4A;"
+| [[Suspicious Cow]] || Wandering Northeast of Eltibule Keep in [[Eltibule]] || Hates ([[:Category:Items/VendorTrash|Vendor Trash]])
+|- style="background:#F24A4A;"
+| [[Helena Veilmoor]] || [[Hogan's Keep]] in Eltibule || Hates ([[:Category:Items/VendorTrash|Vendor Trash]])
+|}
+<nowiki>*</nowiki>[[Silver Salad Fork]] has an effective value different from its base value (75) when gifted as a member of this item category.

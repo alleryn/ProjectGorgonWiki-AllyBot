@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Buckle Artistry]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 33 || Buckle of Confident Pounding 9 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5939.png</span>&nbsp;[[Canvas]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5300.png</span>&nbsp;[[Expert-Quality Metal Slab]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Advanced Ink]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_20003.png</span>&nbsp;[[Buckle of Confident Pounding 9]] x1
+|}

@@ -1,0 +1,20 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Blacksmithing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Dye Metal Armor (1 color) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5551.png</span>&nbsp;[[Lac]] x1<br>[[:Category:Items/MetalDyeableArmor|Metal Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|-
+| 15 || Reinforce Metal Pants || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5298.png</span>&nbsp;[[Basic Metal Slab]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5299.png</span>&nbsp;[[Good Metal Slab]] x1<br>[[:Category:Items/MetalPants|Metal Pants]] x1 || Adds '''+5 Armor'''.<br>Consumes '''20 Enhancement Points'''.
+|-
+| 25 || Dye Metal Armor (2 colors) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5551.png</span>&nbsp;[[Lac]] x2<br>[[:Category:Items/MetalDyeableArmor|Metal Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|-
+| 35 || Add Pockets To Metal Pants || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5301.png</span>&nbsp;[[Masterwork Metal Slab]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5580.png</span>&nbsp;[[Gold Ore]] x2<br>[[:Category:Items/MetalPants|Metal Pants]] x1 || Adds '''+1 Pockets'''.<br>Consumes '''12 Enhancement Points'''.
+|-
+| 50 || Dye Metal Armor (3 colors) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5551.png</span>&nbsp;[[Lac]] x3<br>[[:Category:Items/MetalDyeableArmor|Metal Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/Equipment|Pieces of Equipment]]
+*[[:Category:Items/Legs|Items Worn on the Legs]]

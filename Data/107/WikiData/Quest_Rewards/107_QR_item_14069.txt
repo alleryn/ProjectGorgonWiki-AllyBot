@@ -1,0 +1,110 @@
+===Quest Rewards===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Acquired !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Event: A Rough Suit for Raim]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: A Decent Suit for Raim]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: A Quality Suit for Raim]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: An Amazing Suit for Raim]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: A Rough Suit for Tantai]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: A Decent Suit for Tantai]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: A Quality Suit for Tantai]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: An Amazing Suit for Tantai]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Autopsy Kits for Kimoc]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Inspection Kits for Kimoc]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Analysis Kits for Kimoc]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Astounding Kits for Kimoc]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Mild Cheddar Cheese for Serrold]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Raclette Cheese for Serrold]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Edam Cheese for Serrold]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Feta Cheese for Serrold]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Simple Armor Stakes for Garad]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Vises for Garad]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Master Armor Stakes for Garad]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Amazing Armor Stakes for Garad]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Shoddy Chairs for Kalrod]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Crude Crates for Kalrod]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Nice Crates for Kalrod]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Amazing Chairs for Kalrod]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Venison Jerky for Kinira]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Chicken and Broccoli for Kinira]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Chicken Casserole for Kinira]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Vexfish Lettuce Wraps for Kinira]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Pale Ale for Rayar]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Goblin Ale for Rayar]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Brown Ale for Rayar]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Dwarven Stout for Rayar]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Speed Potions for Aceri]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Gur-Horta for Aceri]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Boletus Mushroom Smoothies for Loche]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Blood Mushroom Smoothies for Loche]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Disasterous Spore Bombs for Loche]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Nightmarish Spore Bombs for Loche]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Violet Bouquets for Delia]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Lumberjack Arrangements for Delia]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Fisherman Arrangements for Delia]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Dandelion Bouquets for Delia]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Nice Jewelry for Moxie]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Great Jewelry for Moxie]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Basic Arrows for Jopol]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Expert Arrows for Jopol]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Amazing Arrows for Jopol]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Astonishing Arrows for Jopol]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Rough Woodland Candles for Torana]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Decent Floral Candles for Torana]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Nice Bacon Candles for Torana]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Amazing Brisk Candles for Torana]] || style="text-align:center;" | 1 || 20 Hours || Unknown || Unknown || Unknown || 
+|}

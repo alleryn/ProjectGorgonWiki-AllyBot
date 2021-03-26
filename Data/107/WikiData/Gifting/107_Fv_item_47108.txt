@@ -1,0 +1,14 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Hogan]] || [[Hogan's Keep]] in Eltibule || Loves ([[:Category:Items/Staff|Staves]] and [[:Category:Items/Equipment|Pieces of Equipment]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#4AF24A;"
+| [[The Wombat]] || The Druid Camp in [[Sun Vale]] || Loves ([[:Category:Items/Wooden|Wooden Items]])
+|- style="background:#4AF24A;"
+| [[Roshun the Traitor]] || The Housing Complex in Northern [[Serbule]] || Loves ([[:Category:Items/Staff|Staves]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Sir Arif]] || [[Serbule Crypt]] in Serbule || Likes ([[:Category:Items/Staff|Staves]] and [[:Category:Items/Loot|Loot]])
+|}

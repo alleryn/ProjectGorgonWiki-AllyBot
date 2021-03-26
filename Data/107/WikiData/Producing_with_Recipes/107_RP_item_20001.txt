@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fletching]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 3 || Beginner's Arrow || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5268.png</span>&nbsp;[[Beginner's Arrowheads]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5228.png</span>&nbsp;[[Beginner's Arrow Shafts]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Feathers]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5238.png</span>&nbsp;[[Beginner's Arrow]] x1000
+|}

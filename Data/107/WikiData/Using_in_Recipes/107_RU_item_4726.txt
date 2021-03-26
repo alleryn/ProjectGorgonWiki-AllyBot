@@ -1,0 +1,61 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 20 || Fae Wing-Change Potion (Types A&B) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5441.png</span>&nbsp;[[Fae Wing-Change Potion (Types A&B)]] x1
+|-
+| 21 || Fae Wing-Change Potion (Types C&D) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5441.png</span>&nbsp;[[Fae Wing-Change Potion (Types C&D)]] x1
+|-
+| 22 || Fae Wing-Change Potion (Types E&F) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5441.png</span>&nbsp;[[Fae Wing-Change Potion (Types E&F)]] x1
+|-
+| 23 || Fae Wing-Change Potion (Types G&H) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5441.png</span>&nbsp;[[Fae Wing-Change Potion (Types G&H)]] x1
+|-
+| 24 || Fae Wing-Change Potion (Type I) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5441.png</span>&nbsp;[[Fae Wing-Change Potion (Type I)]] x1
+|-
+| 25 || Fae Hair Style Potion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5441.png</span>&nbsp;[[Fae Hair Style Potion]] x1
+|-
+| 25 || Fae Hair Color Potion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5441.png</span>&nbsp;[[Fae Hair Color Potion]] x1
+|-
+| 30 || Fae Beard Style Potion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5441.png</span>&nbsp;[[Fae Beard Style Potion]] x1
+|-
+| 30 || Fae Beard Color Potion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5441.png</span>&nbsp;[[Fae Beard Color Potion]] x1
+|-
+| 35 || Fae Skin Color Potion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x4 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5441.png</span>&nbsp;[[Fae Skin Color Potion]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 4 || Fairy Stew || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5816.png</span>&nbsp;[[Fairy Stew]] x1
+|-
+| 5 || Enchanted Basic First Aid Kit || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6330.png</span>&nbsp;[[Enchanted Basic First Aid Kit]] x1
+|-
+| 8 || Enchanted Good First Aid Kit || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x6<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6330.png</span>&nbsp;[[Enchanted Good First Aid Kit]] x1
+|-
+| 11 || Fairy Cake || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x8<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5714.png</span>&nbsp;[[Fairy Cake]] x1
+|-
+| 12 || Enchanted Expert's First Aid Kit || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x9<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6330.png</span>&nbsp;[[Enchanted Expert's First Aid Kit]] x1
+|-
+| 16 || Enchanted Master First Aid Kit || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x12<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6330.png</span>&nbsp;[[Enchanted Master First Aid Kit]] x1
+|-
+| 21 || Enchanted Autopsy Kit || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6330.png</span>&nbsp;[[Enchanted Autopsy Kit]] x1
+|-
+| 23 || Storage Portal (10 Items) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x1 || 
+|-
+| 26 || Enchanted Amazing First Aid Kit || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x15<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6330.png</span>&nbsp;[[Enchanted Amazing First Aid Kit]] x1
+|-
+| 33 || Storage Portal (20 Items) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x20<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x2 || 
+|-
+| 40 || Enchanted Astounding First Aid Kit || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x18<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6330.png</span>&nbsp;[[Enchanted Astounding First Aid Kit]] x1
+|-
+| 47 || Storage Portal (30 Items) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x30<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x3 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Teleportation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || (Fae Only) Recall Beginnings || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6329.png</span>&nbsp;[[Fairy Dust]] x1 || 
+|}

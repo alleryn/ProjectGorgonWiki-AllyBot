@@ -1,0 +1,19 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 45 || Shepherd's Pie || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6210.png</span>&nbsp;[[Great Mutton]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5022.png</span>&nbsp;[[Potato]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5024.png</span>&nbsp;[[Onion]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5134.png</span>&nbsp;[[Carrot]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5332.png</span>&nbsp;[[Peppercorns]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5768.png</span>&nbsp;[[Shepherd's Pie]] x1
+|-
+| 50 || Furpot || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5185.png</span>&nbsp;[[Matted Hair]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6210.png</span>&nbsp;[[Great Mutton]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5292.png</span>&nbsp;[[Muntok Peppercorns]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5134.png</span>&nbsp;[[Carrot]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5395.png</span>&nbsp;[[Furpot]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 51 || Mountain Mutton || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6210.png</span>&nbsp;[[Great Mutton]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5455.png</span>&nbsp;[[Green Pepper]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5134.png</span>&nbsp;[[Carrot]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5334.png</span>&nbsp;[[Urda Cheese]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5133.png</span>&nbsp;[[Mountain Mutton]] x2
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mushroom Farming]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 7 || Mushroom Substrate: Meat || [[:Category:Items/Meat|Meat]] x1<br>[[:Category:Items/Meat|Meat]] x1<br>[[:Category:Items/Meat|Meat]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5535.png</span>&nbsp;[[Mushroom Substrate (Meat)]] x1
+|}

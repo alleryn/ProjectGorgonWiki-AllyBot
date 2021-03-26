@@ -1,0 +1,16 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2133.png</span> || [[Fish Gut]] || Skinning Knife || [[Fishing]] || 5 || 5% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2133.png</span> || [[Fish Gut 2]] || Skinning Knife || [[Fishing]] || 15 || 5% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2133.png</span> || [[Fish Gut 3]] || Skinning Knife || [[Fishing]] || 25 || 5% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2133.png</span> || [[Fish Gut 4]] || Skinning Knife || [[Fishing]] || 45 || 5% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2133.png</span> || [[Fish Gut 5]] || Skinning Knife || [[Fishing]] || 60 || 5% || Never
+|}

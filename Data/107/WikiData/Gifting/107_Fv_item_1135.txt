@@ -1,0 +1,17 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Leonard Allenson]] || Near Borghild in [[Serbule]] || Loves ([[:Category:Items/Brass|Brass Items]] : 200*)
+|- style="background:#4AF24A;"
+| [[Kalaba]] || Eltibule Keep in [[Eltibule]] || Loves ([[:Category:Items/Brass|Brass Items]] : 200*)
+|- style="background:#4AF24A;"
+| [[Willem Fangblade]] || [[Red Wing Casino]] || Loves ([[:Category:Items/Brass|Brass Items]] : 200*)
+|- style="background:#9EF24A;"
+| [[Pickles]] || The [[Sacred Grotto]] in Kur || Likes ([[:Category:Items/Gear|Gears]] : 100*)<br>Likes ([[:Category:Items/Gizmo|Gizmos]] : 100*)
+|- style="background:#9EF24A;"
+| [[Jaw]] || [[Myconian Cave]] in Serbule || Likes ([[:Category:Items/Brass|Brass Items]] : 200*)
+|}
+<nowiki>*</nowiki>[[Brass Gear]] has an effective value different from its base value (50) when gifted as a member of this item category.

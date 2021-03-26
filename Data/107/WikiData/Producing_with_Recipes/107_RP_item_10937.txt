@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Flower Arrangement]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 72 || Orcish Precision Display #7 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5942.png</span>&nbsp;[[Flower Wrap]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5566.png</span>&nbsp;[[Mesh Grate]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5710.png</span>&nbsp;[[Pear]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5283.png</span>&nbsp;[[Daisy]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5285.png</span>&nbsp;[[Marigold]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5287.png</span>&nbsp;[[Red Rose]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5467.png</span>&nbsp;[[Winterhue]] x6<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5721.png</span>&nbsp;[[Dandelion]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5721.png</span>&nbsp;[[Fae Mysotis]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5721.png</span>&nbsp;[[Tulip]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5602.png</span>&nbsp;[[Orcish_Precision_Display_7|Orcish Precision Display #7]] x1
+|}

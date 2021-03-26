@@ -1,0 +1,11 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Turn Junk Into Crystal Ice || [[:Category:Items/VendorTrash|Miscellaneous Junk]] x1 || 
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/Crystal|Crystals]]

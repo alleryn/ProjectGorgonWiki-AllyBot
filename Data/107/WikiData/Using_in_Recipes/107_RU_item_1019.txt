@@ -1,0 +1,49 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 40 || Yeti Stick || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6204.png</span>&nbsp;[[Great Venison]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5005.png</span>&nbsp;[[Blusher Mushroom]] x1<br>[[:Category:Items/CheapMeat|Cheap Meat]] x1<br>[[:Category:Items/CheapMeat|Cheap Meat]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Yeti Stick]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 2 || Turn Corpse Trophies Into Crystal Ice || [[:Category:Items/CorpseTrophy|Corpse Trophies]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fletching]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 11 || Basic Arrow Shafts (Organic Recipe) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5275.png</span>&nbsp;[[Oak Dowels]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5116.png</span>&nbsp;[[Empty Fletching Box]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Spider Leg]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5116.png</span>&nbsp;[[Drying Box of Basic Arrow Shafts]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Foraging]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 20 || Basic Campfire (Foraging) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Spider Leg]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5073.png</span>&nbsp;[[Spiderweb]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5278.png</span>&nbsp;[[Flinty Rock]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5687.png</span>&nbsp;[[Basic Campfire]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Beginner's Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x5<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Basic Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Advanced Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Expert Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x6<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Perceive Spawn Premonitions (3 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 3 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|-
+| 0 || Perceive Spawn Premonitions (5 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x2<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 5 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mushroom Farming]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 15 || Mushroom Substrate: Limbs || [[:Category:Items/CorpseLimb|Limb or Extremity]] x1<br>[[:Category:Items/CorpseLimb|Limb or Extremity]] x1<br>[[:Category:Items/CorpseLimb|Limb or Extremity]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Mushroom Substrate (Limbs)]] x1
+|}

@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Artistry]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Jack O Lantern || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5404.png</span>&nbsp;[[Pumpkin]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5401.png</span>&nbsp;[[Butcher Knife]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 0% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5408.png</span>&nbsp;[[Jack O' Lantern]] x1
+|}

@@ -1,0 +1,29 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Brewing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Potato Vodka (Un-Aged) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5326.png</span>&nbsp;[[Barrel]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5022.png</span>&nbsp;[[Potato]] x8<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5729.png</span>&nbsp;[[Basic Lager Yeast]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Un-Aged Potato Vodka]] x1
+|-
+| 10 || Applejack (Un-Aged) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5326.png</span>&nbsp;[[Barrel]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5137.png</span>&nbsp;[[Red Apple]] x8<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5730.png</span>&nbsp;[[Pale Ale Yeast]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Un-Aged Applejack]] x1
+|-
+| 20 || Beet Vodka (Un-Aged) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5326.png</span>&nbsp;[[Barrel]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5101.png</span>&nbsp;[[Beet]] x8<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5731.png</span>&nbsp;[[Marzen Yeast]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Un-Aged Beet Vodka]] x1
+|-
+| 30 || Pale Rum (Un-Aged) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5326.png</span>&nbsp;[[Barrel]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5724.png</span>&nbsp;[[Molasses]] x8<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5732.png</span>&nbsp;[[Goblin Ale Yeast]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Un-Aged Pale Rum]] x1
+|-
+| 40 || Whisky (Un-Aged) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5326.png</span>&nbsp;[[Barrel]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5717.png</span>&nbsp;[[Barley]] x14<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5733.png</span>&nbsp;[[Orcish Bock Yeast]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Un-Aged Whisky]] x1
+|-
+| 50 || Tequila (Un-Aged) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5326.png</span>&nbsp;[[Barrel]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Cactus Juice]] x8<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5466.png</span>&nbsp;[[Desert Rose]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5734.png</span>&nbsp;[[Brown Ale Yeast]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Un-Aged Tequila]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x8
+|-
+| 60 || Dry Gin (Un-Aged) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5326.png</span>&nbsp;[[Barrel]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5717.png</span>&nbsp;[[Barley]] x8<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5725.png</span>&nbsp;[[Juniper Berries]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5735.png</span>&nbsp;[[Hegemony Lager Yeast]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Un-Aged Dry Gin]] x1
+|-
+| 70 || Bourbon (Un-Aged) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5326.png</span>&nbsp;[[Barrel]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5726.png</span>&nbsp;[[Corn]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5724.png</span>&nbsp;[[Molasses]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5737.png</span>&nbsp;[[Pilsner Yeast]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Un-Aged Bourbon]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Gadgeteering]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 50 || Ultra Item Raffler || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5326.png</span>&nbsp;[[Barrel]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5599.png</span>&nbsp;[[Expert Wood Glue]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Ultimate Acidic Cleanser]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5513.png</span>&nbsp;[[Ultra Item Raffler]] x1
+|}

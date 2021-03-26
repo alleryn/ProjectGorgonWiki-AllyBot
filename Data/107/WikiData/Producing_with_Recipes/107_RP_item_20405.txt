@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fishing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 45 || Ice Fishing Gear (8h) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5094.png</span>&nbsp;[[Handsaw]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5312.png</span>&nbsp;[[String]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6206.png</span>&nbsp;[[Pork Shoulder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5081.png</span>&nbsp;[[Nightmare Flesh]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 50% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5311.png</span>&nbsp;[[Ice Fishing Gear (8 hour)]] x1
+|}

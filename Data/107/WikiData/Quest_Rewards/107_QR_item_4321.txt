@@ -1,0 +1,10 @@
+===Quest Rewards===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Acquired !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[All The Fish You Could Want]] || style="text-align:center;" | 5 || One time only || [[Jaime Fatholm]] || Comfortable || The Tapestry Inn in [[Serbule Hills]] || 
+|-
+| [[Kill That Wooly Bastard]] || style="text-align:center;" | 5 || One time only || [[Jaime Fatholm]] || Friends || The Tapestry Inn in [[Serbule Hills]] || 
+|}

@@ -1,0 +1,14 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Daisy (NPC)]] || [[Animal Town]] in Sun Vale || Loves ([[:Category:Items/AlchemyRecipe|Alchemy Recipes]])
+|- style="background:#9EF24A;"
+| [[Preta]] || The Fairy Tree in [[Sun Vale]] || Likes ([[:Category:Items/Scroll|Scrolls]])
+|- style="background:#9EF24A;"
+| [[Mox Warcut]] || [[New Prestonbule Cave]] in Gazluk || Likes ([[:Category:Items/AlchemyRecipe|Alchemy Recipes]])
+|- style="background:#9EF24A;"
+| [[Ragabir]] || [[Red Wing Casino]] || Likes ([[:Category:Items/AlchemyRecipe|Alchemy Recipes]])
+|}

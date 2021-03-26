@@ -1,0 +1,13 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Armor Augmentation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 8 || Extract Chest Augment (Level 0-30) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5812.png</span>&nbsp;[[Small Chest Bauble]] x20<br>[[:Category:Items/Chest|Chest Armor]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5483.png</span>&nbsp;[[Chest Augment]] x1
+|-
+| 31 || Extract Chest Augment (Level 31-60) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5813.png</span>&nbsp;[[Medium Chest Bauble]] x20<br>[[:Category:Items/Chest|Chest Armor]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5483.png</span>&nbsp;[[Chest Augment]] x1
+|-
+| 61 || Extract Chest Augment (Level 61-90) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5495.png</span>&nbsp;[[Large Chest Bauble]] x20<br>[[:Category:Items/Chest|Chest Armor]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5483.png</span>&nbsp;[[Chest Augment]] x1
+|}

@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Sushi Preparation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 12 || Flounder Nigiri || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5035.png</span>&nbsp;[[Flounder Fillet]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5676.png</span>&nbsp;[[Rahu Rice]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5680.png</span>&nbsp;[[Expert's Vinegar]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5672.png</span>&nbsp;[[Seaweed]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5674.png</span>&nbsp;[[Flounder Nigiri]] x2
+|}

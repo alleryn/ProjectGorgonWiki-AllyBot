@@ -1,0 +1,94 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3319.png</span> || [[Heavy Shot]] || Beginner's Dense Arrow (or better) || [[Archery]] || 1 || Always || 30%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3647.png</span> || [[Shoot Crossbow]] || Beginner's Dense Arrow || [[Crossbow]] || 1 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3648.png</span> || [[Knockback Bolt]] || Beginner's Dense Arrow || [[Crossbow]] || 3 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3649.png</span> || [[Fiery Bolt]] || Beginner's Dense Arrow || [[Crossbow]] || 5 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3650.png</span> || [[Acid Bolt]] || Beginner's Dense Arrow || [[Crossbow]] || 7 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3311.png</span> || [[Heavy Multishot]] || Beginner's Dense Arrow x5 || [[Archery]] || 8 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3647.png</span> || [[Shoot Crossbow 2]] || Beginner's Dense Arrow || [[Crossbow]] || 10 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3648.png</span> || [[Knockback Bolt 2]] || Beginner's Dense Arrow || [[Crossbow]] || 13 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3319.png</span> || [[Heavy Shot 2]] || Basic Dense Arrow (or better) || [[Archery]] || 15 || Always || 25%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3649.png</span> || [[Fiery Bolt 2]] || Beginner's Dense Arrow || [[Crossbow]] || 15 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3650.png</span> || [[Acid Bolt 2]] || Beginner's Dense Arrow || [[Crossbow]] || 17 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3647.png</span> || [[Shoot Crossbow 3]] || Basic Dense Arrow || [[Crossbow]] || 20 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3648.png</span> || [[Knockback Bolt 3]] || Basic Dense Arrow || [[Crossbow]] || 23 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3311.png</span> || [[Heavy Multishot 2]] || Basic Dense Arrow x5 || [[Archery]] || 25 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3649.png</span> || [[Fiery Bolt 3]] || Basic Dense Arrow || [[Crossbow]] || 25 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3650.png</span> || [[Acid Bolt 3]] || Basic Dense Arrow || [[Crossbow]] || 27 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3319.png</span> || [[Heavy Shot 3]] || Advanced Dense Arrow (or better) || [[Archery]] || 30 || Always || 20%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3647.png</span> || [[Shoot Crossbow 4]] || Basic Dense Arrow || [[Crossbow]] || 30 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3648.png</span> || [[Knockback Bolt 4]] || Basic Dense Arrow || [[Crossbow]] || 33 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3649.png</span> || [[Fiery Bolt 4]] || Basic Dense Arrow || [[Crossbow]] || 35 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3650.png</span> || [[Acid Bolt 4]] || Basic Dense Arrow || [[Crossbow]] || 37 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3647.png</span> || [[Shoot Crossbow 5]] || Advanced Dense Arrow || [[Crossbow]] || 40 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3311.png</span> || [[Heavy Multishot 3]] || Advanced Dense Arrow x5 || [[Archery]] || 43 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3648.png</span> || [[Knockback Bolt 5]] || Advanced Dense Arrow || [[Crossbow]] || 43 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3649.png</span> || [[Fiery Bolt 5]] || Advanced Dense Arrow || [[Crossbow]] || 45 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3650.png</span> || [[Acid Bolt 5]] || Advanced Dense Arrow || [[Crossbow]] || 47 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3319.png</span> || [[Heavy Shot 4]] || Expert's Dense Arrow (or better) || [[Archery]] || 50 || Always || 15%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3647.png</span> || [[Shoot Crossbow 6]] || Advanced Dense Arrow || [[Crossbow]] || 50 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3648.png</span> || [[Knockback Bolt 6]] || Advanced Dense Arrow || [[Crossbow]] || 53 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3649.png</span> || [[Fiery Bolt 6]] || Advanced Dense Arrow || [[Crossbow]] || 55 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3650.png</span> || [[Acid Bolt 6]] || Advanced Dense Arrow || [[Crossbow]] || 57 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3311.png</span> || [[Heavy Multishot 4]] || Expert's Dense Arrow x5 || [[Archery]] || 59 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3647.png</span> || [[Shoot Crossbow 7]] || Expert's Dense Arrow || [[Crossbow]] || 60 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3648.png</span> || [[Knockback Bolt 7]] || Expert's Dense Arrow || [[Crossbow]] || 63 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3319.png</span> || [[Heavy Shot 5]] || Masterwork Dense Arrow (or better) || [[Archery]] || 65 || Always || 10%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3649.png</span> || [[Fiery Bolt 7]] || Expert's Dense Arrow || [[Crossbow]] || 65 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3650.png</span> || [[Acid Bolt 7]] || Expert's Dense Arrow || [[Crossbow]] || 67 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3647.png</span> || [[Shoot Crossbow 8]] || Expert's Dense Arrow || [[Crossbow]] || 70 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3648.png</span> || [[Knockback Bolt 8]] || Expert's Dense Arrow || [[Crossbow]] || 73 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3319.png</span> || [[Heavy Shot 6]] || Amazing Dense Arrow (or better) || [[Archery]] || 75 || Always || 10%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3311.png</span> || [[Heavy Multishot 5]] || Amazing Dense Arrow x5 || [[Archery]] || 75 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3649.png</span> || [[Fiery Bolt 8]] || Expert's Dense Arrow || [[Crossbow]] || 75 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3650.png</span> || [[Acid Bolt 8]] || Expert's Dense Arrow || [[Crossbow]] || 77 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3647.png</span> || [[Shoot Crossbow 9]] || Masterwork Dense Arrow || [[Crossbow]] || 80 || Always || Never
+|}

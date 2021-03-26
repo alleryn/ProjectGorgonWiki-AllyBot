@@ -1,0 +1,11 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Jewelry Augmentation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 20 || Extract Necklace Augment (Level 0-30) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5796.png</span>&nbsp;[[Small Necklace Ornament]] x20<br>[[:Category:Items/Necklace|Necklace]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5491.png</span>&nbsp;[[Necklace Augment]] x1
+|-
+| 40 || Undo Augment on Necklace || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5796.png</span>&nbsp;[[Small Necklace Ornament]] x25<br>[[:Category:Items/Necklace|Necklace]] x1 || 
+|}

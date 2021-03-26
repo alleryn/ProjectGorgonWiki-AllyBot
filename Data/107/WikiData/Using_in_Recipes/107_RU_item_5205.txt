@@ -1,0 +1,47 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 35 || Rage Inhibitor Extreme || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5155.png</span>&nbsp;[[Rage Inhibitor]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Crab Meat]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5055.png</span>&nbsp;[[Femur]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5155.png</span>&nbsp;[[Rage Inhibitor Extreme]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Boiled Crab || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Crab Meat]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5991.png</span>&nbsp;[[Boiled Crab]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 10 || Chicken Psi-Mantis Style || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5223.png</span>&nbsp;[[Raw Chicken]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Crab Meat]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5103.png</span>&nbsp;[[Cabbage]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6223.png</span>&nbsp;[[Chicken Psi-Mantis Style]] x1
+|-
+| 15 || Laura's Crab Biscuits || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5041.png</span>&nbsp;[[Flour]] x6<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5794.png</span>&nbsp;[[Butter]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Crab Meat]] x4 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5126.png</span>&nbsp;[[Laura's Crab Biscuits]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x2
+|-
+| 15 || Fried Crab || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Crab Meat]] x12<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5041.png</span>&nbsp;[[Flour]] x3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5029.png</span>&nbsp;[[Fried Crab]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 21 || Mokapok Stew || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5865.png</span>&nbsp;[[Lungfish Fillet]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Crab Meat]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5024.png</span>&nbsp;[[Onion]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5819.png</span>&nbsp;[[Watercress]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5821.png</span>&nbsp;[[Mokapok Stew]] x3
+|-
+| 32 || Crab Roll || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5126.png</span>&nbsp;[[Flatbread]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Crab Meat]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5622.png</span>&nbsp;[[Lemon]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5794.png</span>&nbsp;[[Butter]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5319.png</span>&nbsp;[[Crab Roll]] x2
+|-
+| 50 || Shark and Crab Kebabs || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5035.png</span>&nbsp;[[Shark Fillet]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Crab Meat]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5105.png</span>&nbsp;[[Squash]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5134.png</span>&nbsp;[[Carrot]] x3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5933.png</span>&nbsp;[[Shark and Crab Kebabs]] x3
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Word of Power || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Crab Meat]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mycology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 45 || Horrific Spore Bombs || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5005.png</span>&nbsp;[[Blusher Mushroom]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5590.png</span>&nbsp;[[Pyrite]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Crab Meat]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5686.png</span>&nbsp;[[Horrific Spore Bomb]] x3
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Sushi Preparation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 3 || Crab Nigiri || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Crab Meat]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5676.png</span>&nbsp;[[Rahu Rice]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5678.png</span>&nbsp;[[Basic Vinegar]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5819.png</span>&nbsp;[[Watercress]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5674.png</span>&nbsp;[[Crab Nigiri]] x2
+|-
+| 7 || Crab Sushi Roll || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Crab Meat]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5676.png</span>&nbsp;[[Rahu Rice]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5678.png</span>&nbsp;[[Basic Vinegar]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5819.png</span>&nbsp;[[Watercress]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5675.png</span>&nbsp;[[Crab Sushi Roll]] x2
+|}

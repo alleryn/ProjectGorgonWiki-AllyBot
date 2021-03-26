@@ -1,0 +1,330 @@
+=== Snacks ===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible <includeonly>mw-collapsed</includeonly>}} style="text-align: center"
+! Item !! Level !! Gourmand Requirement !! Maximum Health !! Maximum Power !! In-Combat Health Regeneration !! In-Combat Power Regeneration !! Out-of-Combat Health Regeneration !! Out-of-Combat Power Regeneration !! Metabolism Regeneration !! Duration
+|-
+| style="text-align:left;" data-sort-value="Bottle of Milk"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] || 0 || 0 || 0 || 0 || 0 || 0 || 15 || 0 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Mild Cheddar Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5337.png</span>&nbsp;[[Mild Cheddar Cheese]] || 14 || 0 || 14 || 28 || 5 || 11 || 46 || 28 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Bottle of Goat Milk"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Goat Milk]] || 2 || 0 || 0 || 2 || 0 || 1 || 19 || 4 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Sprigganberries"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6278.png</span>&nbsp;[[Sprigganberries]] || 20 || 5 || 0 || 20 || 8 || 12 || 59 || 40 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cantaloupe"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6283.png</span>&nbsp;[[Cantaloupe]] || 25 || 10 || 0 || 25 || 10 || 15 || 70 || 50 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Parasol Mushroom Smoothie"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5145.png</span>&nbsp;[[Parasol Mushroom Smoothie]] || 0 || 0 || 0 || 0 || 0 || 0 || 15 || 0 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Mycena Mushroom Smoothie"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5146.png</span>&nbsp;[[Mycena Mushroom Smoothie]] || 5 || 0 || 0 || 5 || 2 || 3 || 26 || 10 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Boletus Mushroom Smoothie"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5147.png</span>&nbsp;[[Boletus Mushroom Smoothie]] || 10 || 0 || 0 || 10 || 4 || 6 || 37 || 20 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Field Mushroom Smoothie"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5148.png</span>&nbsp;[[Field Mushroom Smoothie]] || 15 || 0 || 0 || 15 || 6 || 9 || 48 || 30 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Blusher Mushroom Smoothie"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5149.png</span>&nbsp;[[Blusher Mushroom Smoothie]] || 20 || 5 || 0 || 20 || 8 || 12 || 59 || 40 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Milk Cap Mushroom Smoothie"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5150.png</span>&nbsp;[[Milk Cap Mushroom Smoothie]] || 25 || 10 || 0 || 25 || 10 || 15 || 70 || 50 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Blood Mushroom Smoothie"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5388.png</span>&nbsp;[[Blood Mushroom Smoothie]] || 30 || 15 || 0 || 30 || 12 || 18 || 82 || 60 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Coral Mushroom Smoothie"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5389.png</span>&nbsp;[[Coral Mushroom Smoothie]] || 40 || 25 || 0 || 40 || 16 || 24 || 104 || 80 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cottage Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5338.png</span>&nbsp;[[Cottage Cheese]] || 4 || 0 || 4 || 8 || 1 || 3 || 23 || 8 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cream Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5338.png</span>&nbsp;[[Cream Cheese]] || 5 || 0 || 5 || 10 || 2 || 4 || 26 || 10 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Prim Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5334.png</span>&nbsp;[[Prim Cheese]] || 6 || 0 || 6 || 12 || 2 || 4 || 28 || 12 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Laressa's Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5338.png</span>&nbsp;[[Laressa's Cheese]] || 9 || 0 || 9 || 18 || 3 || 7 || 35 || 18 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Urda Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5334.png</span>&nbsp;[[Urda Cheese]] || 10 || 0 || 10 || 20 || 4 || 8 || 37 || 20 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Neufchatel Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5338.png</span>&nbsp;[[Neufchatel Cheese]] || 12 || 0 || 12 || 24 || 4 || 9 || 41 || 24 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Ricotta Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5334.png</span>&nbsp;[[Ricotta Cheese]] || 16 || 1 || 16 || 32 || 6 || 12 || 50 || 32 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Munster Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5337.png</span>&nbsp;[[Munster Cheese]] || 17 || 2 || 17 || 34 || 6 || 13 || 52 || 34 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cheshire Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5337.png</span>&nbsp;[[Cheshire Cheese]] || 18 || 3 || 18 || 36 || 7 || 14 || 55 || 36 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Gloucester Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5337.png</span>&nbsp;[[Gloucester Cheese]] || 19 || 4 || 19 || 38 || 7 || 15 || 57 || 38 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Brunost Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5334.png</span>&nbsp;[[Brunost Cheese]] || 20 || 5 || 20 || 40 || 8 || 16 || 59 || 40 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Fairwing Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5337.png</span>&nbsp;[[Fairwing Cheese]] || 21 || 6 || 21 || 42 || 8 || 16 || 61 || 42 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cantal Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5337.png</span>&nbsp;[[Cantal Cheese]] || 22 || 7 || 22 || 44 || 8 || 17 || 64 || 44 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Slave's Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5338.png</span>&nbsp;[[Slave's Cheese]] || 23 || 8 || 23 || 46 || 9 || 18 || 66 || 46 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Sharp Cheddar Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5337.png</span>&nbsp;[[Sharp Cheddar Cheese]] || 24 || 9 || 24 || 48 || 9 || 19 || 68 || 48 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Brocciu Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5334.png</span>&nbsp;[[Brocciu Cheese]] || 26 || 11 || 26 || 52 || 10 || 20 || 73 || 52 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Raclette Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5337.png</span>&nbsp;[[Raclette Cheese]] || 30 || 15 || 30 || 60 || 12 || 24 || 82 || 60 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Havarti Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5337.png</span>&nbsp;[[Havarti Cheese]] || 32 || 17 || 32 || 64 || 12 || 25 || 86 || 64 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Monterey Jack Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5337.png</span>&nbsp;[[Monterey Jack Cheese]] || 33 || 18 || 33 || 66 || 13 || 26 || 88 || 66 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Parmesan Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5337.png</span>&nbsp;[[Parmesan Cheese]] || 36 || 21 || 36 || 72 || 14 || 28 || 95 || 72 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Mozzarella Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5333.png</span>&nbsp;[[Mozzarella Cheese]] || 38 || 23 || 38 || 76 || 15 || 30 || 99 || 76 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Pepper Jack Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5337.png</span>&nbsp;[[Pepper Jack Cheese]] || 42 || 27 || 42 || 84 || 16 || 33 || 108 || 84 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Haerel Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5337.png</span>&nbsp;[[Haerel Cheese]] || 46 || 31 || 46 || 92 || 18 || 36 || 117 || 92 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Gul Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5333.png</span>&nbsp;[[Gul Cheese]] || 51 || 36 || 51 || 102 || 20 || 40 || 128 || 102 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Edam Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5337.png</span>&nbsp;[[Edam Cheese]] || 52 || 37 || 52 || 104 || 20 || 41 || 131 || 104 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Ricotta Forte"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5334.png</span>&nbsp;[[Ricotta Forte]] || 56 || 41 || 56 || 112 || 22 || 44 || 140 || 112 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Sirine Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5341.png</span>&nbsp;[[Sirine Cheese]] || 58 || 43 || 58 || 116 || 23 || 46 || 144 || 116 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Provolone Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5333.png</span>&nbsp;[[Provolone Cheese]] || 62 || 47 || 62 || 124 || 24 || 49 || 153 || 124 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Telemea Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5341.png</span>&nbsp;[[Telemea Cheese]] || 64 || 49 || 64 || 128 || 25 || 51 || 157 || 128 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Scamorza Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5333.png</span>&nbsp;[[Scamorza Cheese]] || 68 || 53 || 68 || 136 || 27 || 54 || 166 || 136 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Halloumi Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5341.png</span>&nbsp;[[Halloumi Cheese]] || 70 || 55 || 70 || 140 || 28 || 56 || 171 || 140 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Feta Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5341.png</span>&nbsp;[[Feta Cheese]] || 72 || 57 || 72 || 144 || 28 || 57 || 175 || 144 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Gouda Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5337.png</span>&nbsp;[[Gouda Cheese]] || 74 || 59 || 74 || 148 || 29 || 59 || 180 || 148 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Ratkin Survival Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5341.png</span>&nbsp;[[Ratkin Survival Cheese]] || 20 || 5 || 20 || 40 || 8 || 16 || 59 || 40 || 0 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Beginner's Buttermilk"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Beginner's Buttermilk]] || 5 || 0 || 0 || 5 || 2 || 3 || 26 || 10 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Apple Juice"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5396.png</span>&nbsp;[[Apple Juice]] || 10 || 0 || 0 || 10 || 4 || 6 || 37 || 20 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Fried Banana"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5767.png</span>&nbsp;[[Fried Banana]] || 30 || 15 || 0 || 30 || 12 || 18 || 82 || 60 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Laura's Cheese Biscuits"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5126.png</span>&nbsp;[[Laura's Cheese Biscuits]] || 45 || 30 || 0 || 45 || 18 || 27 || 115 || 90 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Bitter-Mint Tea"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5397.png</span>&nbsp;[[Bitter-Mint Tea]] || 25 || 10 || 0 || 25 || 10 || 15 || 70 || 50 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Fried Crab"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5029.png</span>&nbsp;[[Fried Crab]] || 15 || 0 || 0 || 15 || 6 || 9 || 48 || 30 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Flatbread"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5126.png</span>&nbsp;[[Flatbread]] || 5 || 0 || 0 || 5 || 2 || 3 || 26 || 10 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Goblin Stew"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5934.png</span>&nbsp;[[Goblin Stew]] || 20 || 5 || 0 || 20 || 8 || 12 || 59 || 40 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Guava Bowl"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5114.png</span>&nbsp;[[Guava Bowl]] || 35 || 20 || 0 || 35 || 14 || 21 || 93 || 70 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Mystery Jerky"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Mystery Jerky]] || 10 || 0 || 0 || 10 || 4 || 6 || 37 || 20 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Snacking Bread"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5111.png</span>&nbsp;[[Snacking Bread]] || 15 || 0 || 0 || 15 || 6 || 9 || 48 || 30 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Myconutmeg"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5892.png</span>&nbsp;[[Myconutmeg]] || 8 || 0 || 0 || 8 || 3 || 4 || 32 || 16 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Orange Juice"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5395.png</span>&nbsp;[[Orange Juice]] || 20 || 5 || 0 || 20 || 8 || 12 || 59 || 40 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Fruity Mushy"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5398.png</span>&nbsp;[[Fruity Mushy]] || 30 || 15 || 0 || 30 || 12 || 18 || 82 || 60 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Lemonade"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5396.png</span>&nbsp;[[Lemonade]] || 40 || 25 || 0 || 40 || 16 || 24 || 104 || 80 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Hiral's Citrus Blend"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5395.png</span>&nbsp;[[Hiral's Citrus Blend]] || 50 || 35 || 0 || 50 || 20 || 30 || 126 || 100 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Sun Vale Tea"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5397.png</span>&nbsp;[[Sun Vale Tea]] || 10 || 0 || 0 || 10 || 4 || 6 || 37 || 20 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Pumpkin Smoothie"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5395.png</span>&nbsp;[[Pumpkin Smoothie]] || 30 || 15 || 0 || 30 || 12 || 18 || 82 || 60 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Leafwater"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5395.png</span>&nbsp;[[Leafwater]] || 25 || 10 || 0 || 25 || 10 || 15 || 70 || 50 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Beachside Blend"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5398.png</span>&nbsp;[[Beachside Blend]] || 55 || 40 || 0 || 55 || 22 || 33 || 137 || 110 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Chuma's Agave Secret"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5396.png</span>&nbsp;[[Chuma's Agave Secret]] || 60 || 45 || 0 || 60 || 24 || 36 || 149 || 120 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Desert Tea"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5397.png</span>&nbsp;[[Desert Tea]] || 51 || 36 || 0 || 51 || 20 || 30 || 128 || 102 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Hydration Punch"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5395.png</span>&nbsp;[[Hydration Punch]] || 57 || 42 || 0 || 57 || 22 || 34 || 142 || 114 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Selaxi's Scorpion Stinger"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5126.png</span>&nbsp;[[Selaxi's Scorpion Stinger]] || 45 || 30 || 0 || 45 || 18 || 27 || 115 || 90 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Selaxi's Cactus Mixer"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5397.png</span>&nbsp;[[Selaxi's Cactus Mixer]] || 45 || 30 || 0 || 45 || 18 || 27 || 115 || 90 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Yeti Stick"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Yeti Stick]] || 40 || 25 || 0 || 40 || 16 || 24 || 104 || 80 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Pumpkin Spice Tea"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6392.png</span>&nbsp;[[Pumpkin Spice Tea]] || 55 || 40 || 0 || 55 || 22 || 33 || 137 || 110 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Raw Egg Blend"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5397.png</span>&nbsp;[[Raw Egg Blend]] || 3 || 0 || 0 || 3 || 1 || 1 || 21 || 6 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Dried Clownfish"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5594.png</span>&nbsp;[[Dried Clownfish]] || 5 || 0 || 0 || 5 || 2 || 3 || 26 || 10 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Dried Grapefish"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5597.png</span>&nbsp;[[Dried Grapefish]] || 10 || 0 || 0 || 10 || 4 || 6 || 37 || 20 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Dried Perch"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5595.png</span>&nbsp;[[Dried Perch]] || 25 || 10 || 0 || 25 || 10 || 15 || 70 || 50 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Dried Cave Fish"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5596.png</span>&nbsp;[[Dried Cave Fish]] || 17 || 2 || 0 || 17 || 6 || 10 || 52 || 34 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cat Stew Cup"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5396.png</span>&nbsp;[[Cat Stew Cup]] || 16 || 1 || 0 || 16 || 6 || 9 || 50 || 32 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Nishika's Travel Snack"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5308.png</span>&nbsp;[[Nishika's Travel Snack]] || 40 || 25 || 0 || 40 || 16 || 24 || 104 || 80 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Apple Shaved Ice"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5665.png</span>&nbsp;[[Apple Shaved Ice]] || 8 || 0 || 0 || 8 || 3 || 4 || 32 || 16 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Strawberry Shaved Ice"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5665.png</span>&nbsp;[[Strawberry Shaved Ice]] || 16 || 1 || 0 || 16 || 6 || 9 || 50 || 32 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Grape Shaved Ice"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5664.png</span>&nbsp;[[Grape Shaved Ice]] || 24 || 9 || 0 || 24 || 9 || 14 || 68 || 48 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Orange Shaved Ice"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5662.png</span>&nbsp;[[Orange Shaved Ice]] || 32 || 17 || 0 || 32 || 12 || 19 || 86 || 64 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Guava Shaved Ice"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5661.png</span>&nbsp;[[Guava Shaved Ice]] || 40 || 25 || 0 || 40 || 16 || 24 || 104 || 80 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Banana Shaved Ice"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5660.png</span>&nbsp;[[Banana Shaved Ice]] || 48 || 33 || 0 || 48 || 19 || 28 || 122 || 96 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Lemon Shaved Ice"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5660.png</span>&nbsp;[[Lemon Shaved Ice]] || 56 || 41 || 0 || 56 || 22 || 33 || 140 || 112 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Mint Ice Cream"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5666.png</span>&nbsp;[[Mint Ice Cream]] || 35 || 20 || 0 || 35 || 14 || 21 || 93 || 70 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Strawberry Ice Cream"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5795.png</span>&nbsp;[[Strawberry Ice Cream]] || 30 || 15 || 0 || 30 || 12 || 18 || 82 || 60 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Orcish Snack Plate"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5708.png</span>&nbsp;[[Orcish Snack Plate]] || 52 || 37 || 0 || 52 || 20 || 31 || 131 || 104 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Strawberry Yogurt"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5767.png</span>&nbsp;[[Strawberry Yogurt]] || 27 || 12 || 0 || 27 || 10 || 16 || 75 || 54 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Strawberry Bowl"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5767.png</span>&nbsp;[[Strawberry Bowl]] || 5 || 0 || 0 || 5 || 2 || 3 || 26 || 10 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Rabbit Treat"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5682.png</span>&nbsp;[[Rabbit Treat]] || 3 || 0 || 0 || 3 || 1 || 1 || 21 || 6 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Spicy Porcini Bites"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5795.png</span>&nbsp;[[Spicy Porcini Bites]] || 55 || 40 || 0 || 55 || 22 || 33 || 137 || 110 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Fried Mycena Bites"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5817.png</span>&nbsp;[[Fried Mycena Bites]] || 4 || 0 || 0 || 4 || 1 || 2 || 23 || 8 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Candied Grapes"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5767.png</span>&nbsp;[[Candied Grapes]] || 13 || 0 || 0 || 13 || 5 || 7 || 44 || 26 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Candied Apple"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5836.png</span>&nbsp;[[Candied Apple]] || 3 || 0 || 0 || 3 || 1 || 1 || 21 || 6 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Grape Juice"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5313.png</span>&nbsp;[[Grape Juice]] || 13 || 0 || 0 || 13 || 5 || 7 || 44 || 26 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Gross Candy"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5835.png</span>&nbsp;[[Gross Candy]] || 1 || 0 || 0 || 1 || 0 || 0 || 15 || 1 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Fruit Candy"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5826.png</span>&nbsp;[[Fruit Candy]] || 7 || 0 || 0 || 7 || 2 || 4 || 30 || 14 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Watermelon Candy"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5827.png</span>&nbsp;[[Watermelon Candy]] || 14 || 0 || 0 || 14 || 5 || 8 || 46 || 28 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cinnamon Candy"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5828.png</span>&nbsp;[[Cinnamon Candy]] || 21 || 6 || 0 || 21 || 8 || 12 || 61 || 42 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Grape Lollipop"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5829.png</span>&nbsp;[[Grape Lollipop]] || 28 || 13 || 0 || 28 || 11 || 16 || 77 || 56 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Mint Lollipop"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5830.png</span>&nbsp;[[Mint Lollipop]] || 35 || 20 || 0 || 35 || 14 || 21 || 93 || 70 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Berry Lollipop"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5831.png</span>&nbsp;[[Berry Lollipop]] || 42 || 27 || 0 || 42 || 16 || 25 || 108 || 84 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Butterscotch-Cream Candy"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5832.png</span>&nbsp;[[Butterscotch-Cream Candy]] || 49 || 34 || 0 || 49 || 19 || 29 || 124 || 98 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Mint-Blueberry Candy"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5833.png</span>&nbsp;[[Mint-Blueberry Candy]] || 56 || 41 || 0 || 56 || 22 || 33 || 140 || 112 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Grape-Strawberry Candy"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5834.png</span>&nbsp;[[Grape-Strawberry Candy]] || 63 || 48 || 0 || 63 || 25 || 37 || 155 || 126 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Bland Gingerbread Human"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5853.png</span>&nbsp;[[Bland Gingerbread Human]] || 5 || 0 || 0 || 5 || 2 || 3 || 26 || 10 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Tasty Gingerbread Human"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5853.png</span>&nbsp;[[Tasty Gingerbread Human]] || 40 || 25 || 0 || 40 || 16 || 24 || 104 || 80 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Fried Boletus Bites"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5817.png</span>&nbsp;[[Fried Boletus Bites]] || 12 || 0 || 0 || 12 || 4 || 7 || 41 || 24 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Lungfish Kabob"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5866.png</span>&nbsp;[[Lungfish Kabob]] || 17 || 2 || 0 || 17 || 6 || 10 || 52 || 34 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Diet Lunch"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5820.png</span>&nbsp;[[Diet Lunch]] || 37 || 22 || 0 || 37 || 14 || 22 || 97 || 74 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cup o' Paralysis"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5816.png</span>&nbsp;[[Cup o' Paralysis]] || 39 || 24 || 0 || 39 || 15 || 23 || 102 || 78 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Barbecued Mystery Meat"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5933.png</span>&nbsp;[[Barbecued Mystery Meat]] || 34 || 19 || 0 || 34 || 13 || 20 || 90 || 68 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Casino Kabobs"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5932.png</span>&nbsp;[[Casino Kabobs]] || 30 || 15 || 0 || 30 || 12 || 18 || 82 || 60 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Deluxe Casino Kabobs"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5932.png</span>&nbsp;[[Deluxe Casino Kabobs]] || 40 || 25 || 0 || 40 || 16 || 24 || 104 || 80 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Recuperative Soup"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5816.png</span>&nbsp;[[Recuperative Soup]] || 40 || 25 || 0 || 40 || 16 || 24 || 104 || 80 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Casino Breakfast"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5822.png</span>&nbsp;[[Casino Breakfast]] || 36 || 21 || 0 || 36 || 14 || 21 || 95 || 72 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Tart Applesauce"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5934.png</span>&nbsp;[[Tart Applesauce]] || 63 || 48 || 0 || 63 || 25 || 37 || 155 || 126 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Basic Beetle Skewer"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5983.png</span>&nbsp;[[Basic Beetle Skewer]] || 20 || 5 || 0 || 20 || 8 || 12 || 59 || 40 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Deluxe Beetle Skewer"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5983.png</span>&nbsp;[[Deluxe Beetle Skewer]] || 50 || 35 || 0 || 50 || 20 || 30 || 126 || 100 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cinnamon Pumpkin Rolls"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5984.png</span>&nbsp;[[Cinnamon Pumpkin Rolls]] || 52 || 37 || 0 || 52 || 20 || 31 || 131 || 104 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Simple Pumpkin Muffin"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5985.png</span>&nbsp;[[Simple Pumpkin Muffin]] || 34 || 19 || 0 || 34 || 13 || 20 || 90 || 68 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Honey-Pumpkin Muffin"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5985.png</span>&nbsp;[[Honey-Pumpkin Muffin]] || 64 || 49 || 0 || 64 || 25 || 38 || 157 || 128 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Goblin Pasties"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6221.png</span>&nbsp;[[Goblin Pasties]] || 52 || 37 || 0 || 52 || 20 || 31 || 131 || 104 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Lemon Meringue Pie"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6242.png</span>&nbsp;[[Lemon Meringue Pie]] || 45 || 30 || 0 || 45 || 18 || 27 || 115 || 90 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Jellybeans"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6252.png</span>&nbsp;[[Jellybeans]] || 20 || 5 || 0 || 20 || 8 || 12 || 59 || 40 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Tranana"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5767.png</span>&nbsp;[[Tranana]] || 61 || 46 || 0 || 61 || 24 || 36 || 151 || 122 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Tremon"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5767.png</span>&nbsp;[[Tremon]] || 65 || 50 || 0 || 65 || 26 || 39 || 160 || 130 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Fairy Peach Juice"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5396.png</span>&nbsp;[[Fairy Peach Juice]] || 80 || 65 || 0 || 80 || 32 || 48 || 193 || 160 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Crelpin's Fried Dish"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5983.png</span>&nbsp;[[Crelpin's Fried Dish]] || 61 || 46 || 0 || 61 || 24 || 36 || 151 || 122 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Crelpin's Fruit Juice"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5396.png</span>&nbsp;[[Crelpin's Fruit Juice]] || 75 || 60 || 0 || 75 || 30 || 45 || 182 || 150 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Crelpin's Fruit Salad"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5767.png</span>&nbsp;[[Crelpin's Fruit Salad]] || 80 || 65 || 0 || 80 || 32 || 48 || 193 || 160 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Trearclaw"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5125.png</span>&nbsp;[[Trearclaw]] || 67 || 52 || 0 || 67 || 26 || 40 || 164 || 134 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Dinobites"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5130.png</span>&nbsp;[[Dinobites]] || 64 || 49 || 0 || 64 || 25 || 38 || 157 || 128 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Pixie Pocket"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5125.png</span>&nbsp;[[Pixie Pocket]] || 73 || 58 || 0 || 73 || 29 || 43 || 178 || 146 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Lemon Puffs"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5125.png</span>&nbsp;[[Lemon Puffs]] || 62 || 47 || 0 || 62 || 24 || 37 || 153 || 124 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Pear Shaved Ice"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5662.png</span>&nbsp;[[Pear Shaved Ice]] || 60 || 45 || 0 || 60 || 24 || 36 || 149 || 120 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Peach Shaved Ice"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5662.png</span>&nbsp;[[Peach Shaved Ice]] || 63 || 48 || 0 || 63 || 25 || 37 || 155 || 126 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Crelpin's Tart"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5125.png</span>&nbsp;[[Crelpin's Tart]] || 83 || 68 || 0 || 83 || 33 || 49 || 200 || 166 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Crelpin's Side Salad"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5820.png</span>&nbsp;[[Crelpin's Side Salad]] || 76 || 61 || 0 || 76 || 30 || 45 || 184 || 152 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Crelpin's Gorp"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5708.png</span>&nbsp;[[Crelpin's Gorp]] || 75 || 60 || 0 || 75 || 30 || 45 || 182 || 150 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Turkey Leg"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5224.png</span>&nbsp;[[Turkey Leg]] || 15 || 0 || 0 || 15 || 6 || 9 || 48 || 30 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cranberry-Almond Pie"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5120.png</span>&nbsp;[[Cranberry-Almond Pie]] || 60 || 45 || 0 || 60 || 24 || 36 || 149 || 120 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Autumn Salad"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5820.png</span>&nbsp;[[Autumn Salad]] || 65 || 50 || 0 || 65 || 26 || 39 || 160 || 130 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Simple Autumn Gorp"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5708.png</span>&nbsp;[[Simple Autumn Gorp]] || 50 || 35 || 0 || 50 || 20 || 30 || 126 || 100 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Turkey Gravy"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5934.png</span>&nbsp;[[Turkey Gravy]] || 15 || 0 || 0 || 15 || 6 || 9 || 48 || 30 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Simple Cranberry Tart"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5120.png</span>&nbsp;[[Simple Cranberry Tart]] || 23 || 8 || 0 || 23 || 9 || 13 || 66 || 46 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Dried Cranberries"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5708.png</span>&nbsp;[[Dried Cranberries]] || 9 || 0 || 0 || 9 || 3 || 5 || 35 || 18 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Pumpkin Donut"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5125.png</span>&nbsp;[[Pumpkin Donut]] || 75 || 30 || 0 || 75 || 30 || 45 || 182 || 150 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Basic Shark-Fin Soup"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6223.png</span>&nbsp;[[Basic Shark-Fin Soup]] || 30 || 15 || 0 || 30 || 12 || 18 || 82 || 60 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Rum-Glazed Shrimp"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5128.png</span>&nbsp;[[Rum-Glazed Shrimp]] || 30 || 15 || 0 || 30 || 12 || 18 || 82 || 60 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Butter-Fried Shrimp"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5128.png</span>&nbsp;[[Butter-Fried Shrimp]] || 32 || 17 || 0 || 32 || 12 || 19 || 86 || 64 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Grilled Shrimp Wrap"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5819.png</span>&nbsp;[[Grilled Shrimp Wrap]] || 25 || 10 || 0 || 25 || 10 || 15 || 70 || 50 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Amberjack Snack Attack"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5819.png</span>&nbsp;[[Amberjack Snack Attack]] || 72 || 57 || 0 || 72 || 28 || 43 || 175 || 144 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Fairy Cake"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5714.png</span>&nbsp;[[Fairy Cake]] || 20 || 0 || 0 || 20 || 8 || 12 || 59 || 40 || 1 || 30 minute
+|-
+| style="text-align:left;" data-sort-value="Tiramisu of Delights"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5714.png</span>&nbsp;[[Tiramisu of Delights]] || 80 || 65 || 0 || 80 || 32 || 48 || 193 || 160 || 2 || 120 minutes
+|-
+| style="text-align:left;" data-sort-value="Crone Coffee"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6386.png</span>&nbsp;[[Crone Coffee]] || 70 || 55 || 0 || 70 || 28 || 42 || 171 || 140 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Meat Candy"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5828.png</span>&nbsp;[[Meat Candy]] || 35 || 20 || 0 || 35 || 14 || 21 || 93 || 70 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Pumpkin Spice Coffee"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6392.png</span>&nbsp;[[Pumpkin Spice Coffee]] || 80 || 65 || 0 || 80 || 32 || 48 || 193 || 160 || 2 || 1 hour
+|}

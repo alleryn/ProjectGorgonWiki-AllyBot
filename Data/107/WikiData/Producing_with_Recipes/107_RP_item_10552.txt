@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Flower Arrangement]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 14 || Fisherman's Arrangement #2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5942.png</span>&nbsp;[[Flower Wrap]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5054.png</span>&nbsp;[[Basic Fish Scales]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5043.png</span>&nbsp;[[Red Aster]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5044.png</span>&nbsp;[[Violet]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5282.png</span>&nbsp;[[Dahlia]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5616.png</span>&nbsp;[[Fisherman's_Arrangement_2|Fisherman's Arrangement #2]] x1
+|}

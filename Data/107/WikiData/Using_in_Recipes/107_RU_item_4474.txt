@@ -1,0 +1,45 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Elf Phrenology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 28 || Elf Phrenology Research 3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5364.png</span>&nbsp;[[Astonishing Elf Skull]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5347.png</span>&nbsp;[[Surgical Craniometer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 1% &#010;">(!)</sup></span> || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae Phrenology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 28 || Fae Phrenology Research 3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5369.png</span>&nbsp;[[Astonishing Fae Skull]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5347.png</span>&nbsp;[[Surgical Craniometer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 1% &#010;">(!)</sup></span> || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Giant Phrenology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 28 || Giant Phrenology Research 3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5372.png</span>&nbsp;[[Astonishing Giant Skull]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5347.png</span>&nbsp;[[Surgical Craniometer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 1% &#010;">(!)</sup></span> || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Goblin Phrenology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 28 || Goblin Phrenology Research 3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5368.png</span>&nbsp;[[Astonishing Goblin Skull]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5347.png</span>&nbsp;[[Surgical Craniometer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 1% &#010;">(!)</sup></span> || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Human Phrenology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 28 || Human Phrenology Research 3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5293.png</span>&nbsp;[[Astonishing Human Skull]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5347.png</span>&nbsp;[[Surgical Craniometer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 1% &#010;">(!)</sup></span> || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Orc Phrenology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 28 || Orc Phrenology Research 3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5371.png</span>&nbsp;[[Astonishing Orc Skull]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5347.png</span>&nbsp;[[Surgical Craniometer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 1% &#010;">(!)</sup></span> || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Rakshasa Phrenology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 28 || Rakshasa Phrenology Research 3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5366.png</span>&nbsp;[[Astonishing Rakshasa Skull]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5347.png</span>&nbsp;[[Surgical Craniometer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 1% &#010;">(!)</sup></span> || 
+|}

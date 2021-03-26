@@ -1,0 +1,27 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 10 || Cold Resistance || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5081.png</span>&nbsp;[[Nightmare Flesh]] x1<br>[[:Category:Items/GlassChunk|Piece of Glass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5153.png</span>&nbsp;[[Cold Resistance Potion]] x1
+|-
+| 10 || Memory Inhibitor || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5149.png</span>&nbsp;[[Blusher Mushroom Suspension]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] x1<br>[[:Category:Items/GlassChunk|Piece of Glass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5155.png</span>&nbsp;[[Memory Inhibitor]] x2
+|-
+| 15 || Toxinflesh Ointment || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5468.png</span>&nbsp;[[Sugar]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5237.png</span>&nbsp;[[Beak]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5986.png</span>&nbsp;[[Toxic Sludge]] x1<br>[[:Category:Items/GlassChunk|Piece of Glass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5157.png</span>&nbsp;[[Toxinflesh Ointment]] x1
+|-
+| 15 || Coldbite Potion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Ice Core]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5092.png</span>&nbsp;[[Bottle of Fertilizer]] x1<br>[[:Category:Items/GlassChunk|Piece of Glass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5904.png</span>&nbsp;[[Coldbite Potion]] x1
+|-
+| 30 || Potent Acidic Cleanser (Organic Recipe) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5076.png</span>&nbsp;[[Antler]] x1<br>[[:Category:Items/GlassChunk|Piece of Glass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Potent Acidic Cleanser]] x1
+|-
+| 30 || Imatia's Sight Potion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Dirty Snow Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5191.png</span>&nbsp;[[Uncrossing Oil]] x1<br>[[:Category:Items/GlassChunk|Piece of Glass]] x1<br>[[:Category:Items/GlassChunk|Piece of Glass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5441.png</span>&nbsp;[[Imatia's Sight Potion]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 40 || Psychology Boost Potion 20% || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Dirty Snow Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5636.png</span>&nbsp;[[Pig Foot]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5791.png</span>&nbsp;[[Eyestalk]] x1<br>[[:Category:Items/GlassChunk|Piece of Glass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5437.png</span>&nbsp;[[Psychology Boost Potion 20%]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Turn Junk Into Crystal Ice || [[:Category:Items/VendorTrash|Miscellaneous Junk]] x1 || 
+|}

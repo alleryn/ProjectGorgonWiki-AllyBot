@@ -1,0 +1,69 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 40 || Shield Boost Potion 20% || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Dirty Snow Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5635.png</span>&nbsp;[[Boar Tusk]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5072.png</span>&nbsp;[[Mandrake Root]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5437.png</span>&nbsp;[[Shield Boost Potion 20%]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Brewing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Potato Vodka (Drinkable Cask) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Aged Potato Vodka]] x1<br>[[:Category:Items/BrewingFruitA3|Fruit: Red Apple, Grapes, or Orange]] x1<br>[[:Category:Items/BrewingMushroomA4|Mushroom Flakes: Parasol, Mycena, Boletus, or Field]] x1<br>[[:Category:Items/BrewingAnimalPartA5|Boar Tusk, Cat Eyeball, Snail Sinews, Rat Tail, or Basic Fish Scales]] x1<br>[[:Category:Items/BrewingGarnishA4|Oregano, Mandrake Root, Peppercorns or Grass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Potato Vodka]] x1
+|-
+| 10 || Applejack (Drinkable Cask) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Aged Applejack]] x1<br>[[:Category:Items/BrewingFruitA3|Fruit: Red Apple, Grapes, or Orange]] x1<br>[[:Category:Items/BrewingVegetableA4|Beet, Squash, Broccoli, or Carrot]] x1<br>[[:Category:Items/BrewingAnimalPartA5|Boar Tusk, Cat Eyeball, Snail Sinews, Rat Tail, or Basic Fish Scales]] x1<br>[[:Category:Items/BrewingGarnishA4|Oregano, Mandrake Root, Peppercorns or Grass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Applejack]] x1
+|-
+| 20 || Beet Vodka (Drinkable Cask) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Aged Beet Vodka]] x1<br>[[:Category:Items/BrewingFruitB3|Fruit: Guava, Banana, or Lemon]] x1<br>[[:Category:Items/BrewingMushroomA4|Mushroom Flakes: Parasol, Mycena, Boletus, or Field]] x1<br>[[:Category:Items/BrewingAnimalPartA5|Boar Tusk, Cat Eyeball, Snail Sinews, Rat Tail, or Basic Fish Scales]] x1<br>[[:Category:Items/BrewingGarnishA4|Oregano, Mandrake Root, Peppercorns or Grass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Beet Vodka]] x1
+|-
+| 30 || Pale Rum (Drinkable Cask) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Aged Pale Rum]] x1<br>[[:Category:Items/BrewingFruitB3|Fruit: Guava, Banana, or Lemon]] x1<br>[[:Category:Items/BrewingMushroomB4|Mushroom Flakes/Powders: Field, Blusher, Milk Cap, Blood]] x1<br>[[:Category:Items/BrewingAnimalPartA5|Boar Tusk, Cat Eyeball, Snail Sinews, Rat Tail, or Basic Fish Scales]] x1<br>[[:Category:Items/BrewingGarnishA4|Oregano, Mandrake Root, Peppercorns or Grass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Pale Rum]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 2 || Turn Corpse Trophies Into Crystal Ice || [[:Category:Items/CorpseTrophy|Corpse Trophies]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Beginner's Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x5<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Basic Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Advanced Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Expert Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x6<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Perceive Spawn Premonitions (3 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 3 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|-
+| 0 || Perceive Spawn Premonitions (5 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x2<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 5 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Shamanic Infusion]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Beginner's Boar Foot Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5636.png</span>&nbsp;[[Pig Foot]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5635.png</span>&nbsp;[[Boar Tusk]] x1<br>[[:Category:Items/Feet|Shoes]] x1 || Infuses boots or shoes with the following power: '''Max Armor +15'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 1.
+|-
+| 9 || Beginner's Boar Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5636.png</span>&nbsp;[[Pig Foot]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5635.png</span>&nbsp;[[Boar Tusk]] x1<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Power from Combat Refresh Abilities +3'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 9.
+|-
+| 17 || Novice's Boar Foot Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5636.png</span>&nbsp;[[Pig Foot]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5635.png</span>&nbsp;[[Boar Tusk]] x3<br>[[:Category:Items/Feet|Shoes]] x1 || Infuses boots or shoes with the following power: '''Max Armor +25'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 17.
+|-
+| 25 || Novice's Boar Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5636.png</span>&nbsp;[[Pig Foot]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5635.png</span>&nbsp;[[Boar Tusk]] x3<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Power from Combat Refresh Abilities +7'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 25.
+|-
+| 34 || Shaman's Boar Foot Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5636.png</span>&nbsp;[[Pig Foot]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5635.png</span>&nbsp;[[Boar Tusk]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5170.png</span>&nbsp;[[Trophy Pig Skin]] x1<br>[[:Category:Items/Feet|Shoes]] x1 || Infuses boots or shoes with the following power: '''Max Armor +45'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 34.
+|-
+| 45 || Shaman's Boar Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5636.png</span>&nbsp;[[Pig Foot]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5635.png</span>&nbsp;[[Boar Tusk]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5170.png</span>&nbsp;[[Trophy Pig Skin]] x1<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Power from Combat Refresh Abilities +11'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 45.
+|-
+| 53 || Deep Boar Foot Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5636.png</span>&nbsp;[[Pig Foot]] x6<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5635.png</span>&nbsp;[[Boar Tusk]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5170.png</span>&nbsp;[[Trophy Pig Skin]] x1<br>[[:Category:Items/Feet|Shoes]] x1 || Infuses boots or shoes with the following power: '''Max Armor +65'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 53.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Toolcrafting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 72 || Amazing Snail Coat || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5074.png</span>&nbsp;[[Perfect Giant Snail Shell]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5074.png</span>&nbsp;[[Giant Snail Shell]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5403.png</span>&nbsp;[[Snail Sinews]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5635.png</span>&nbsp;[[Boar Tusk]] x2<br>[[:Category:Items/Crystal|Primary Crystal]] x1<br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_12009.png</span>&nbsp;[[Amazing Snail Coat]] x1
+|-
+| 72 || Amazing Snail Coat (Max-Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5074.png</span>&nbsp;[[Perfect Giant Snail Shell]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5074.png</span>&nbsp;[[Giant Snail Shell]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5403.png</span>&nbsp;[[Snail Sinews]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5635.png</span>&nbsp;[[Boar Tusk]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5211.png</span>&nbsp;[[Maximized Obsidian]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5702.png</span>&nbsp;[[Glowy Yellow Crystal]] x1<br>[[:Category:Items/Crystal|Primary Crystal]] x1<br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_12009.png</span>&nbsp;[[Amazing Snail Coat]] x1
+|}

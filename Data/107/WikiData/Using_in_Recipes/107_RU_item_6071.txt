@@ -1,0 +1,33 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 13 || Leftover Turkey Sandwich || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5225.png</span>&nbsp;[[Bland Baked Turkey]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5126.png</span>&nbsp;[[Flatbread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6297.png</span>&nbsp;[[Cranberries]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5128.png</span>&nbsp;[[Leftover Turkey Sandwich]] x2
+|-
+| 20 || Lungfish Roll || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5865.png</span>&nbsp;[[Lungfish Fillet]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5103.png</span>&nbsp;[[Cabbage]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5004.png</span>&nbsp;[[Field Mushroom]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5126.png</span>&nbsp;[[Flatbread]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5867.png</span>&nbsp;[[Lungfish Roll]] x2
+|-
+| 20 || Cranberry-Turkey Sandwich || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5223.png</span>&nbsp;[[Raw Turkey]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6297.png</span>&nbsp;[[Cranberries]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5126.png</span>&nbsp;[[Flatbread]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5128.png</span>&nbsp;[[Cranberry-Turkey Sandwich]] x1
+|-
+| 32 || Crab Roll || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5126.png</span>&nbsp;[[Flatbread]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Crab Meat]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5622.png</span>&nbsp;[[Lemon]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5794.png</span>&nbsp;[[Butter]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5319.png</span>&nbsp;[[Crab Roll]] x2
+|-
+| 36 || Casino Breakfast || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5390.png</span>&nbsp;[[Banana]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5118.png</span>&nbsp;[[Grapes]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5126.png</span>&nbsp;[[Flatbread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5337.png</span>&nbsp;[[Sharp Cheddar Cheese]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5822.png</span>&nbsp;[[Casino Breakfast]] x2
+|-
+| 52 || Orcish Snack Plate || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5126.png</span>&nbsp;[[Flatbread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5338.png</span>&nbsp;[[Cottage Cheese]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6207.png</span>&nbsp;[[Great Pork Shoulder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5706.png</span>&nbsp;[[Honey]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5707.png</span>&nbsp;[[Almonds]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5708.png</span>&nbsp;[[Orcish Snack Plate]] x2
+|-
+| 57 || Disappointing Corn Surprise || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5726.png</span>&nbsp;[[Corn]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5794.png</span>&nbsp;[[Butter]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5126.png</span>&nbsp;[[Flatbread]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5933.png</span>&nbsp;[[Disappointing Corn Surprise]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 7 || Turn Food Into Crystal Ice || [[:Category:Items/Edible|Food or Drink]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Ice Conjuration]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Freeze Food Into Crystal Ice || [[:Category:Items/Edible|Food or Drink]] x1 || 
+|}

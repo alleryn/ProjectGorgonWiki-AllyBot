@@ -1,0 +1,53 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 4 || Fried Mycena Bites || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5002.png</span>&nbsp;[[Mycena Mushroom]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5041.png</span>&nbsp;[[Flour]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5817.png</span>&nbsp;[[Fried Mycena Bites]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Flower Arrangement]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 18 || Mycologist's Arrangement #2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5942.png</span>&nbsp;[[Flower Wrap]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5002.png</span>&nbsp;[[Mycena Mushroom]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5043.png</span>&nbsp;[[Red Aster]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5044.png</span>&nbsp;[[Violet]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5602.png</span>&nbsp;[[Mycologist's_Arrangement_2|Mycologist's Arrangement #2]] x1
+|-
+| 19 || Mycologist's Display #2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5565.png</span>&nbsp;[[Thin Mesh Grate]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5002.png</span>&nbsp;[[Mycena Mushroom]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5043.png</span>&nbsp;[[Red Aster]] x6<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5044.png</span>&nbsp;[[Violet]] x6<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5282.png</span>&nbsp;[[Dahlia]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5602.png</span>&nbsp;[[Mycologist's_Display_2|Mycologist's Display #2]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Human Anti-Drowsy Cantrip || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5015.png</span>&nbsp;[[Fire Dust]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5002.png</span>&nbsp;[[Mycena Mushroom]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Meditation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 16 || Meditation #16 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5002.png</span>&nbsp;[[Mycena Mushroom]] x1 || Receive the two combos from a Meditation Pillar, plus a third Combo: Hip Throw+Punch+Kick: final step deals 60 extra damage.
+|-
+| 17 || Meditation #17 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5002.png</span>&nbsp;[[Mycena Mushroom]] x1 || Receive '''+10% Cold Resistance''', plus the two combos from a Meditation Pillar, plus a third Combo: Hip Throw+Punch+Kick: final step deals 60 extra damage.
+|-
+| 18 || Meditation #18 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5002.png</span>&nbsp;[[Mycena Mushroom]] x1 || Receive the two combos from a Meditation Pillar, plus a third Combo: Barrage+Punch+Any Melee+Kick: final step stuns the enemy and deals 25 extra damage.
+|-
+| 19 || Meditation #19 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5002.png</span>&nbsp;[[Mycena Mushroom]] x1 || Receive '''+10 Max Health''', plus the two combos from a Meditation Pillar, plus a third Combo: Barrage+Punch+Any Melee+Kick: final step stuns the enemy and deals 25 extra damage.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mycology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Mycena Mushroom Flakes || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5002.png</span>&nbsp;[[Mycena Mushroom]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5016.png</span>&nbsp;[[Mycena Mushroom Flakes]] x1
+|-
+| 15 || Potent Spore Bombs || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5002.png</span>&nbsp;[[Mycena Mushroom]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5052.png</span>&nbsp;[[Clownfish]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5685.png</span>&nbsp;[[Potent Spore Bomb]] x2
+|-
+| 15 || Basic Mushroom Turret || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5002.png</span>&nbsp;[[Mycena Mushroom]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5003.png</span>&nbsp;[[Boletus Mushroom]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5004.png</span>&nbsp;[[Field Mushroom]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5786.png</span>&nbsp;[[Basic Mushroom Turret]] x2
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Teleportation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 4 || Mushroom-Circle Recall (Mycena) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5002.png</span>&nbsp;[[Mycena Mushroom]] x3 || 
+|-
+| 4 || Mushroom-Circle Un-Recall (Mycena) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5002.png</span>&nbsp;[[Mycena Mushroom]] x4 || 
+|}

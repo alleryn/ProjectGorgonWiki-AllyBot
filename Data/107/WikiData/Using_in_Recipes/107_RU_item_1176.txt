@@ -1,0 +1,43 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 25 || Strong Electricity Resistance || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5194.png</span>&nbsp;[[Brass Nail]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5034.png</span>&nbsp;[[Eel Fillet]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5350.png</span>&nbsp;[[Fulgurite]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5158.png</span>&nbsp;[[Strong Electricity Resistance Potion]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Candle Making]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 50 || Nice Desert Breeze Candle || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6365.png</span>&nbsp;[[Nice Wick]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6373.png</span>&nbsp;[[Nice Tallow]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5350.png</span>&nbsp;[[Fulgurite]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5466.png</span>&nbsp;[[Desert Rose]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6382.png</span>&nbsp;[[Nice Desert Breeze Candle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Turn Junk Into Crystal Ice || [[:Category:Items/VendorTrash|Miscellaneous Junk]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fletching]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 40 || Masterwork Arrowheads || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5278.png</span>&nbsp;[[Flinty Rock]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5350.png</span>&nbsp;[[Fulgurite]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Weak Acidic Cleanser]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 10% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5274.png</span>&nbsp;[[Masterwork Arrowheads]] x1
+|-
+| 50 || Amazing Arrowheads || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5278.png</span>&nbsp;[[Flinty Rock]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5350.png</span>&nbsp;[[Fulgurite]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Weak Acidic Cleanser]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 25% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6266.png</span>&nbsp;[[Amazing Arrowheads]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mushroom Farming]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 24 || Mushroom Substrate: Exotic (Type B) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5065.png</span>&nbsp;[[Ectoplasm]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5551.png</span>&nbsp;[[Lac]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5350.png</span>&nbsp;[[Fulgurite]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5308.png</span>&nbsp;[[Mushroom Substrate (Exotic)]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Tailoring]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 35 || Enhance Electricity Damage of Cloth Pants || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5329.png</span>&nbsp;[[Cheesecloth]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5350.png</span>&nbsp;[[Fulgurite]] x1<br>[[:Category:Items/ClothPants|Cloth Pants]] x1 || Adds '''+2% Direct Electricity Damage'''.<br>Consumes '''20 Enhancement Points'''.
+|-
+| 40 || Enhance Electricity Damage of Cloth Shirt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5329.png</span>&nbsp;[[Cheesecloth]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5350.png</span>&nbsp;[[Fulgurite]] x1<br>[[:Category:Items/ClothShirt|Cloth Shirt]] x1 || Adds '''+2% Direct Electricity Damage'''.<br>Consumes '''20 Enhancement Points'''.
+|}

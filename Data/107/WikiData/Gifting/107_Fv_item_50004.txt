@@ -1,0 +1,14 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Yavazek]] || [[Animal Town]] in Sun Vale || Loves ([[:Category:Items/Racial|Racial-Slot Items]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#4AF24A;"
+| [[Felmer]] || The Fel-Dasculan Ruins in the [[Fae Realm]] || Loves ([[:Category:Items/ElvishJewelry|Elvish Jewelry]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Urzab]] || Amulna in [[Ilmari]] || Likes ([[:Category:Items/Jewelry|Jewelry]])
+|- style="background:#F24A4A;"
+| [[Joeh]] || Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/Jewelry|Jewelry]])
+|}

@@ -1,0 +1,12 @@
+===Quest Fulfillment===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Bananas!]] || 10 (Collect) || One time only || [[Spot]] || Neutral || [[Animal Town]] in Sun Vale || 
+|-
+| [[The Warden Test]] || 10 (Collect) || One time only || Unknown || Unknown || Sun Vale || 
+|-
+| [[Halloween Event: Pumpkin Rolls]] || 3 (Collect) || 60 Days || Unknown || Unknown || Unknown || 
+|}

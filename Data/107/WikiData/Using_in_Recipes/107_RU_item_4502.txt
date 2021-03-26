@@ -1,0 +1,25 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Surveying]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Serbule Hills Orange Mineral Survey || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5306.png</span>&nbsp;[[Basic Parchment]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5091.png</span>&nbsp;[[Rubywall Crystal]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 20% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5305.png</span>&nbsp;[[Serbule Hills Orange Mineral Survey]] x1
+|-
+| 15 || Serbule Hills Basic Mining Survey || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5306.png</span>&nbsp;[[Basic Parchment]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5298.png</span>&nbsp;[[Basic Metal Slab]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 20% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5305.png</span>&nbsp;[[Serbule Hills Basic Mining Survey]] x1
+|-
+| 35 || Eltibule Blue Mineral Survey || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5306.png</span>&nbsp;[[Basic Parchment]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5091.png</span>&nbsp;[[Rubywall Crystal]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 20% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5305.png</span>&nbsp;[[Eltibule Blue Mineral Survey]] x1
+|-
+| 45 || Kur Mountains White Mineral Survey || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5306.png</span>&nbsp;[[Basic Parchment]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Ice Core]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 20% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5305.png</span>&nbsp;[[Kur Mountains White Mineral Survey]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Treasure Cartography]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 8 || Eltibule Treasure Map: Large Treasure || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5306.png</span>&nbsp;[[Basic Parchment]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1<br>[[:Category:Items/TreasureCluesEltibuleGood|Eltibule Treasure Rumor: Large Treasure]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5305.png</span>&nbsp;[[Eltibule Treasure Map: Large Treasure]] x1
+|-
+| 18 || Sun Vale Treasure Map: Large Treasure || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5306.png</span>&nbsp;[[Basic Parchment]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1<br>[[:Category:Items/TreasureCluesSunValeGood|Sun Vale Treasure Rumor: Large Treasure]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5305.png</span>&nbsp;[[Sun Vale Treasure Map: Large Treasure]] x1
+|-
+| 30 || Ilmari Treasure Map: Large Treasure || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5306.png</span>&nbsp;[[Basic Parchment]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1<br>[[:Category:Items/TreasureCluesIlmariGood|Ilmari Treasure Rumor: Large Treasure]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5305.png</span>&nbsp;[[Ilmari Treasure Map: Large Treasure]] x1
+|}

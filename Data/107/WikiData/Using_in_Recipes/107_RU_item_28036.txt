@@ -1,0 +1,9 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Ancillary-Armor Augmentation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 61 || Extract Helm Augment (Level 61-90) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5497.png</span>&nbsp;[[Large Helm Contraption]] x20<br>[[:Category:Items/Head|Head Armor]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5486.png</span>&nbsp;[[Helm Augment]] x1
+|}

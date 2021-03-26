@@ -1,0 +1,18 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#9EF24A;"
+| [[Jake the Buckler]] || The Druid Camp in [[Sun Vale]] || Likes ([[:Category:Items/ValuableMetalSlab|Valuable Metal Slabs]])
+|- style="background:#9EF24A;"
+| [[Jaime Fatholm]] || The Tapestry Inn in [[Serbule Hills]] || Likes ([[:Category:Items/ValuableMetalSlab|Valuable Metal Slabs]])
+|- style="background:#9EF24A;"
+| [[Kodan]] || [[Animal Town]] in Sun Vale || Likes ([[:Category:Items/ValuableMetalSlab|Valuable Metal Slabs]])
+|- style="background:#9EF24A;"
+| [[Tadion]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/ValuableMetalSlab|Valuable Metal Slabs]])
+|- style="background:#9EF24A;"
+| [[Solgribue]] || The Fel-Dasculan Ruins in the [[Fae Realm]] || Likes ([[:Category:Items/ValuableMetalSlab|Valuable Metal Slabs]])
+|- style="background:#9EF24A;"
+| [[Torgan]] || [[New Prestonbule Cave]] in Gazluk || Likes (Item Category MetalSlab8 Not Found)
+|}

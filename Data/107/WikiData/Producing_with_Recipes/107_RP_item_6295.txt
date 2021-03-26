@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 82 || Steak and Cheese Wraps || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6202.png</span>&nbsp;[[Amazing Steak]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6281.png</span>&nbsp;[[Escarole]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5726.png</span>&nbsp;[[Corn]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5337.png</span>&nbsp;[[Cantal Cheese]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5819.png</span>&nbsp;[[Steak and Cheese Wraps]] x2
+|}

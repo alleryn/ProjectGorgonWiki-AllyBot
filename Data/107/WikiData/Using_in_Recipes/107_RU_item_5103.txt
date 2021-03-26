@@ -1,0 +1,21 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fishing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 30 || Eel Fillet || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5051.png</span>&nbsp;[[Eel]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5034.png</span>&nbsp;[[Eel Fillet]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Meditation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 56 || Meditation #56 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5051.png</span>&nbsp;[[Eel]] x1 || Receive the two combos from a Meditation Pillar, plus a third Combo: Barrage+Punch+Kick: final step heals you for 75 health.
+|-
+| 57 || Meditation #57 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5051.png</span>&nbsp;[[Eel]] x1 || Receive '''+20% Electricity Resistance''', plus the two combos from a Meditation Pillar, plus a third Combo: Barrage+Punch+Kick: final step heals you for 75 health.
+|-
+| 58 || Meditation #58 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5051.png</span>&nbsp;[[Eel]] x1 || Receive the two combos from a Meditation Pillar, plus a third Combo: BruisingBlow+Kick+Hip Throw: final step stuns the enemy and deals 120 extra damage.
+|-
+| 59 || Meditation #59 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5051.png</span>&nbsp;[[Eel]] x1 || Receive '''+25 Max Health''', plus the two combos from a Meditation Pillar, plus a third Combo: BruisingBlow+Kick+Hip Throw: final step stuns the enemy and deals 120 extra damage.
+|}

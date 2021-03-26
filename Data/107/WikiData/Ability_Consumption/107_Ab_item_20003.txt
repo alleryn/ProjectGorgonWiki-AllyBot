@@ -1,0 +1,28 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3310.png</span> || [[Basic Shot]] || Beginner's Arrow (or better) || [[Archery]] || 1 || Always || 80%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3315.png</span> || [[Aimed Shot]] || Beginner's Arrow (or better) || [[Archery]] || 4 || Always || 60%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3318.png</span> || [[Multishot]] || Beginner's Arrow x5 || [[Archery]] || 8 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3321.png</span> || [[Blitz Shot]] || Beginner's Arrow (or better) || [[Archery]] || 10 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3310.png</span> || [[Basic Shot 2]] || Basic Arrow (or better) || [[Archery]] || 14 || Always || 70%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3315.png</span> || [[Aimed Shot 2]] || Basic Arrow (or better) || [[Archery]] || 18 || Always || 50%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3318.png</span> || [[Multishot 2]] || Basic Arrow x5 || [[Archery]] || 23 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3321.png</span> || [[Blitz Shot 2]] || Basic Arrow (or better) || [[Archery]] || 25 || Always || 80%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3310.png</span> || [[Basic Shot 3]] || Advanced Arrow (or better) || [[Archery]] || 30 || Always || 65%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3315.png</span> || [[Aimed Shot 3]] || Advanced Arrow (or better) || [[Archery]] || 35 || Always || 40%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3318.png</span> || [[Multishot 3]] || Advanced Arrow x5 || [[Archery]] || 40 || Always || Never
+|}

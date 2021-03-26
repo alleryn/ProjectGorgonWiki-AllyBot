@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 50 || Maple Carrots || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5134.png</span>&nbsp;[[Carrot]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5794.png</span>&nbsp;[[Sweet Butter]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5143.png</span>&nbsp;[[Maple Wood Chips]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6222.png</span>&nbsp;[[Maple Carrots]] x1
+|}

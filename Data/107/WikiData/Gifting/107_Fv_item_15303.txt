@@ -1,0 +1,21 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Echur]] || Serbule Keep in [[Serbule]] || Loves ([[:Category:Items/Drug|Drugs]])
+|- style="background:#9EF24A;"
+| [[Yalox]] || The [[Goblin Dungeon]] in Eltibule || Likes ([[:Category:Items/Drug|Drugs]])
+|- style="background:#9EF24A;"
+| [[Sem]] || The [[Snowblood Shadow Cave]] in Gazluk || Likes ([[:Category:Items/CraniumPowder|Cranium Powder]] : 700*)
+|- style="background:#9EF24A;"
+| [[Mu]] || [[Myconian Cave]] in Serbule || Likes ([[:Category:Items/CraniumPowder|Cranium Powder]] : 700*)
+|- style="background:#9EF24A;"
+| [[Midge the Apothecary]] || The Fel-Dasculan Ruins in the [[Fae Realm]] || Likes ([[:Category:Items/CraniumPowder|Cranium Powder]] : 700*)
+|- style="background:#F24A4A;"
+| [[Elahil]] || Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/Drug|Drugs]])
+|- style="background:#F24A4A;"
+| [[Lana Songtree]] || The Tapestry Inn in [[Serbule Hills]] || Hates ([[:Category:Items/Drug|Drugs]])
+|}
+<nowiki>*</nowiki>[[Enhanced Cranium Powder]] has an effective value different from its base value (300) when gifted as a member of this item category.

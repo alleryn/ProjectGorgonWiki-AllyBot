@@ -1,0 +1,13 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Teleportation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 7 || Mushroom-Circle Hop || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5782.png</span>&nbsp;[[Fly Amanita]] x1 || 
+|-
+| 16 || Mushroom-Circle Recall (Fly Amanita) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5782.png</span>&nbsp;[[Fly Amanita]] x3 || 
+|-
+| 16 || Mushroom-Circle Un-Recall (Fly Amanita) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5782.png</span>&nbsp;[[Fly Amanita]] x4 || 
+|}

@@ -1,0 +1,27 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Nissim]] || Amulna in [[Ilmari]] || Loves ([[:Category:Items/DragonScale|Dragon Scales]] : 300*)
+|- style="background:#4AF24A;"
+| [[Arlan]] || Central [[Ilmari]] || Loves ([[:Category:Items/DragonScale|Dragon Scales]] : 300*)
+|- style="background:#9EF24A;"
+| [[Kelim]] || Amulna in [[Ilmari]] || Likes ([[:Category:Items/CorpseTrophy|Corpse Trophies]])
+|- style="background:#9EF24A;"
+| [[Ragabir]] || [[Red Wing Casino]] || Likes ([[:Category:Items/AlchemyIngredient|Alchemy Ingredients]])
+|- style="background:#9EF24A;"
+| [[Legs]] || [[Animal Town]] in Sun Vale || Likes ([[:Category:Items/CorpseTrophy|Corpse Trophies]])
+|- style="background:#9EF24A;"
+| [[Velkort]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/CorpseTrophy|Corpse Trophies]])
+|- style="background:#9EF24A;"
+| [[Sanja]] || The Campfire in Northwestern [[Kur]] || Likes ([[:Category:Items/CorpseTrophy|Corpse Trophies]])
+|- style="background:#F24A4A;"
+| [[Suspicious Cow]] || Wandering Northeast of Eltibule Keep in [[Eltibule]] || Hates ([[:Category:Items/CorpseTrophy|Corpse Trophies]])
+|- style="background:#F24A4A;"
+| [[Helena Veilmoor]] || [[Hogan's Keep]] in Eltibule || Hates ([[:Category:Items/CorpseTrophy|Corpse Trophies]])
+|- style="background:#F24A4A;"
+| [[Jesina]] || Sie Antry's Farm in [[Eltibule]] || Hates ([[:Category:Items/CorpseTrophy|Corpse Trophies]])
+|}
+<nowiki>*</nowiki>[[Small Green Dragon Scale]] has an effective value different from its base value (150) when gifted as a member of this item category.

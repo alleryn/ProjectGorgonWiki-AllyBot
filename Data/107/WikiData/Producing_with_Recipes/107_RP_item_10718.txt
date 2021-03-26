@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Flower Arrangement]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 78 || Cleanliness Arrangement #8 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5942.png</span>&nbsp;[[Flower Wrap]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5943.png</span>&nbsp;[[Flower Banding]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5466.png</span>&nbsp;[[Desert Rose]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5721.png</span>&nbsp;[[Dandelion]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5721.png</span>&nbsp;[[Fae Mysotis]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5721.png</span>&nbsp;[[Tulip]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5601.png</span>&nbsp;[[Cleanliness_Arrangement_8|Cleanliness Arrangement #8]] x1
+|}

@@ -1,0 +1,13 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Armor Augmentation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 20 || Extract Leg Augment (Level 0-30) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5810.png</span>&nbsp;[[Small Leg Bauble]] x20<br>[[:Category:Items/Legs|Leg Armor]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5487.png</span>&nbsp;[[Leg Augment]] x1
+|-
+| 45 || Extract Leg Augment (Level 31-60) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5811.png</span>&nbsp;[[Medium Leg Bauble]] x20<br>[[:Category:Items/Legs|Leg Armor]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5487.png</span>&nbsp;[[Leg Augment]] x1
+|-
+| 65 || Extract Leg Augment (Level 61-90) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5496.png</span>&nbsp;[[Large Leg Bauble]] x20<br>[[:Category:Items/Legs|Leg Armor]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5487.png</span>&nbsp;[[Leg Augment]] x1
+|}

@@ -1,0 +1,49 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Blacksmithing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Dye Metal Armor (1 color) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5551.png</span>&nbsp;[[Lac]] x1<br>[[:Category:Items/MetalDyeableArmor|Metal Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|-
+| 25 || Dye Metal Armor (2 colors) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5551.png</span>&nbsp;[[Lac]] x2<br>[[:Category:Items/MetalDyeableArmor|Metal Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|-
+| 50 || Dye Metal Armor (3 colors) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5551.png</span>&nbsp;[[Lac]] x3<br>[[:Category:Items/MetalDyeableArmor|Metal Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Buckle Artistry]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 60 || Buckle of Slagging Blurs || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5939.png</span>&nbsp;[[Canvas]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5576.png</span>&nbsp;[[Amazing Metal Slab]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6061.png</span>&nbsp;[[Emerald Dye]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 10% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_20005.png</span>&nbsp;[[Buckle of Slagging Blurs]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Tanning]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Dye Leather Armor (1 color) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1<br>[[:Category:Items/LeatherDyeableArmor|Leather Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|-
+| 25 || Dye Leather Armor (2 colors) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5179.png</span>&nbsp;[[Decent Tannin Powder]] x1<br>[[:Category:Items/LeatherDyeableArmor|Leather Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|-
+| 50 || Dye Leather Armor (3 colors) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5180.png</span>&nbsp;[[Quality Tannin Powder]] x1<br>[[:Category:Items/LeatherDyeableArmor|Leather Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Textile Creation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Dye Cloth Armor (1 color) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5327.png</span>&nbsp;[[Butter Muslin]] x1<br>[[:Category:Items/ClothDyeableArmor|Cloth Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|-
+| 25 || Dye Cloth Armor (2 colors) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5329.png</span>&nbsp;[[Cheesecloth]] x1<br>[[:Category:Items/ClothDyeableArmor|Cloth Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|-
+| 50 || Dye Cloth Armor (3 colors) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5330.png</span>&nbsp;[[Fine Cheesecloth]] x1<br>[[:Category:Items/ClothDyeableArmor|Cloth Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Toolcrafting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Dye Organic Armor (1 color) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1<br>[[:Category:Items/OrganicDyeableArmor|Organic Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|-
+| 25 || Dye Organic Armor (2 colors) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5179.png</span>&nbsp;[[Decent Tannin Powder]] x1<br>[[:Category:Items/OrganicDyeableArmor|Organic Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|-
+| 50 || Dye Organic Armor (3 colors) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5180.png</span>&nbsp;[[Quality Tannin Powder]] x1<br>[[:Category:Items/OrganicDyeableArmor|Organic Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|}

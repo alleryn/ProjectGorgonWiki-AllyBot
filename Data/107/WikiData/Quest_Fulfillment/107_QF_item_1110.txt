@@ -1,0 +1,10 @@
+===Quest Fulfillment===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Brains For Drugs]] || 3 (Collect any [[:Category:Items/Brain|Brains]]) || One time only || [[Azalak]] || Comfortable || The Housing Complex in Northern [[Serbule]] || 
+|-
+| [[Halloween Event: Concoct a Gruesome Punch]] || 1 (Collect) || 60 Days || Unknown || Unknown || Unknown || 
+|}

@@ -1,0 +1,55 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 19 || Aiming Potion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Feathers]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5318.png</span>&nbsp;[[Mind Enhancement Gem]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5883.png</span>&nbsp;[[Aiming Potion]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 40 || Archery Boost Potion 20% || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Dirty Snow Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Feathers]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5193.png</span>&nbsp;[[Hatred Oil]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5437.png</span>&nbsp;[[Archery Boost Potion 20%]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 2 || Turn Corpse Trophies Into Crystal Ice || [[:Category:Items/CorpseTrophy|Corpse Trophies]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fletching]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 3 || Beginner's Arrow || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5268.png</span>&nbsp;[[Beginner's Arrowheads]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5228.png</span>&nbsp;[[Beginner's Arrow Shafts]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Feathers]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5238.png</span>&nbsp;[[Beginner's Arrow]] x1000
+|-
+| 4 || Beginner's Barbed Arrow || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5268.png</span>&nbsp;[[Beginner's Arrowheads]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5228.png</span>&nbsp;[[Beginner's Arrow Shafts]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Feathers]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5258.png</span>&nbsp;[[Beginner's Barbed Arrow]] x1000
+|-
+| 6 || Beginner's Long Arrow || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5268.png</span>&nbsp;[[Beginner's Arrowheads]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5228.png</span>&nbsp;[[Beginner's Arrow Shafts]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Feathers]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5243.png</span>&nbsp;[[Beginner's Long Arrow]] x1000
+|-
+| 7 || Beginner's Dense Arrow || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5268.png</span>&nbsp;[[Beginner's Arrowheads]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5228.png</span>&nbsp;[[Beginner's Arrow Shafts]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Feathers]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5076.png</span>&nbsp;[[Antler]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5248.png</span>&nbsp;[[Beginner's Dense Arrow]] x1000
+|-
+| 8 || Beginner's Reservoir Arrow || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5268.png</span>&nbsp;[[Beginner's Arrowheads]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5228.png</span>&nbsp;[[Beginner's Arrow Shafts]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Feathers]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5234.png</span>&nbsp;[[Beakers]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5253.png</span>&nbsp;[[Beginner's Reservoir Arrow]] x1000
+|-
+| 9 || Beginner's Snare Arrow || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5268.png</span>&nbsp;[[Beginner's Arrowheads]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5228.png</span>&nbsp;[[Beginner's Arrow Shafts]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Feathers]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5073.png</span>&nbsp;[[Spiderweb]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5263.png</span>&nbsp;[[Beginner's Snare Arrow]] x1000
+|-
+| 12 || Prepared Fletching || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Feathers]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5599.png</span>&nbsp;[[Basic Wood Glue]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Prepared Fletchings]] x1
+|-
+| 32 || Elegant Fletching || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Feathers]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5599.png</span>&nbsp;[[Advanced Wood Glue]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Weak Acidic Cleanser]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 10% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Elegant Fletchings]] x1
+|-
+| 50 || Precision Fletching || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Feathers]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5599.png</span>&nbsp;[[Expert Wood Glue]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Potent Acidic Cleanser]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 10% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Precision Fletchings]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Beginner's Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x5<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Basic Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Advanced Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Expert Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x6<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Perceive Spawn Premonitions (3 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 3 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|-
+| 0 || Perceive Spawn Premonitions (5 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x2<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 5 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|}

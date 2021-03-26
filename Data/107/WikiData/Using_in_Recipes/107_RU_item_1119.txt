@@ -1,0 +1,23 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 30 || Imatia's Sight Potion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Dirty Snow Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5191.png</span>&nbsp;[[Uncrossing Oil]] x1<br>[[:Category:Items/GlassChunk|Piece of Glass]] x1<br>[[:Category:Items/GlassChunk|Piece of Glass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5441.png</span>&nbsp;[[Imatia's Sight Potion]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 40 || Bard Boost Potion 20% || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Dirty Snow Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5191.png</span>&nbsp;[[Uncrossing Oil]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5237.png</span>&nbsp;[[Beak]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5437.png</span>&nbsp;[[Bard Boost Potion 20%]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mycology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 40 || Healing Potion Omega || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5191.png</span>&nbsp;[[Uncrossing Oil]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5146.png</span>&nbsp;[[Blood Mushroom Suspension]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5054.png</span>&nbsp;[[Basic Fish Scales]] x3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5957.png</span>&nbsp;[[Healing Potion Omega]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Necromancy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 40 || Simple Skull Ritual-Powder || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5191.png</span>&nbsp;[[Uncrossing Oil]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 10% &#010;">(!)</sup></span><br>[[:Category:Items/HumanoidSkull|Humanoid Skull]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5292.png</span>&nbsp;[[Simple Skull Ritual-Powder]] x1
+|}

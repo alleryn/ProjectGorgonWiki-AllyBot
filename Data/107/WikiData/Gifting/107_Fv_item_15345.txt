@@ -1,0 +1,23 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Echur]] || Serbule Keep in [[Serbule]] || Loves ([[:Category:Items/Drug|Drugs]] : 500*)
+|- style="background:#4AF24A;"
+| [[Jumper]] || [[Animal Town]] in Sun Vale || Loves ([[:Category:Items/Bounceweed|Bounceweed]] : 700*)
+|- style="background:#4AF24A;"
+| [[Lumpfuzz]] || Amulna in [[Ilmari]] || Loves ([[:Category:Items/Bounceweed|Bounceweed]] : 700*)
+|- style="background:#9EF24A;"
+| [[Sugar (NPC)]] || The [[Sacred Grotto]] in Kur || Likes ([[:Category:Items/Bounceweed|Bounceweed]] : 700*)
+|- style="background:#9EF24A;"
+| [[Yalox]] || The [[Goblin Dungeon]] in Eltibule || Likes ([[:Category:Items/Drug|Drugs]] : 500*)
+|- style="background:#9EF24A;"
+| [[Mittens]] || The Fox Outpost in [[Kur]] || Likes ([[:Category:Items/Bounceweed|Bounceweed]] : 700*)
+|- style="background:#F24A4A;"
+| [[Elahil]] || Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/Drug|Drugs]] : 500*)
+|- style="background:#F24A4A;"
+| [[Lana Songtree]] || The Tapestry Inn in [[Serbule Hills]] || Hates ([[:Category:Items/Drug|Drugs]] : 500*)
+|}
+<nowiki>*</nowiki>[[Calmweed]] has an effective value different from its base value (600) when gifted as a member of this item category.

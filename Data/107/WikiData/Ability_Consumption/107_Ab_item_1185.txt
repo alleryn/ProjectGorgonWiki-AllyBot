@@ -1,0 +1,18 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3748.png</span> || [[Spade Assault]] || Shovel || [[Gardening]] || 30 || 5% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3748.png</span> || [[Spade Assault 2]] || Shovel || [[Gardening]] || 40 || 5% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3748.png</span> || [[Spade Assault 3]] || Shovel || [[Gardening]] || 50 || 5% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3748.png</span> || [[Spade Assault 4]] || Shovel || [[Gardening]] || 60 || 5% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3748.png</span> || [[Spade Assault 5]] || Shovel || [[Gardening]] || 70 || 5% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3748.png</span> || [[Spade Assault 6]] || Shovel || [[Gardening]] || 80 || 5% || Never
+|}

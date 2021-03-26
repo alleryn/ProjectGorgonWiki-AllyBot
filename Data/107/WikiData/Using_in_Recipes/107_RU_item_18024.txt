@@ -1,0 +1,23 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 40 || Superjump Potion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5152.png</span>&nbsp;[[Thick Cranium Lotion]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5184.png</span>&nbsp;[[Magic Tooth]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5206.png</span>&nbsp;[[Sardonyx]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5088.png</span>&nbsp;[[Superjump Potion]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Dye Making]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 16 || Rosy Brown Dye || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5206.png</span>&nbsp;[[Sardonyx]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5378.png</span>&nbsp;[[Dye Pot]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5379.png</span>&nbsp;[[Gem Crusher]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6040.png</span>&nbsp;[[Rosy Brown Dye]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Geology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 20 || Maximized Sardonyx (via Winterprize) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5206.png</span>&nbsp;[[Sardonyx]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5863.png</span>&nbsp;[[Winterprize]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5278.png</span>&nbsp;[[Sharpening Stone]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5206.png</span>&nbsp;[[Maximized Sardonyx]] x1
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/Crystal|Crystals]]

@@ -1,0 +1,11 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Brewing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Reuse Liquor Barrel || [[:Category:Items/ReusableHardLiquorBarrel|Hard Liquor Barrel]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5326.png</span>&nbsp;[[Barrel]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance of being created: 95% &#010;">(!)</sup></span>
+|-
+| 70 || Bourbon (Drinkable Cask) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Aged Bourbon]] x1<br>[[:Category:Items/BrewingFruitC3|Fruit: Pear, Peach, or Green Apple]] x1<br>[[:Category:Items/BrewingMushroomC4|Mushroom Flakes/Powders: Coral, Groxmax, Porcini, Black Foot Morel]] x1<br>[[:Category:Items/BrewingAnimalPartC5|Cockatrice Beak, Worm Tooth, Ectoplasm, Powdered Mammal, or Barghest Flesh]] x1<br>[[:Category:Items/BrewingGarnishC4|Mint, Honey, Juniper Berries, or Almonds]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Bourbon]] x1
+|}

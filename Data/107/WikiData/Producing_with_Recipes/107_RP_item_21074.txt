@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Surveying]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 45 || Kur Mountains White Mineral Survey || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5306.png</span>&nbsp;[[Basic Parchment]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Ice Core]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 20% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5305.png</span>&nbsp;[[Kur Mountains White Mineral Survey]] x1
+|}

@@ -1,0 +1,14 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Leonard Allenson]] || Near Borghild in [[Serbule]] || Loves ([[:Category:Items/Brass|Brass Items]])
+|- style="background:#4AF24A;"
+| [[Kalaba]] || Eltibule Keep in [[Eltibule]] || Loves ([[:Category:Items/Brass|Brass Items]])
+|- style="background:#4AF24A;"
+| [[Willem Fangblade]] || [[Red Wing Casino]] || Loves ([[:Category:Items/Brass|Brass Items]])
+|- style="background:#9EF24A;"
+| [[Jaw]] || [[Myconian Cave]] in Serbule || Likes ([[:Category:Items/Brass|Brass Items]])
+|}

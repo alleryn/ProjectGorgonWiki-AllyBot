@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Flower Arrangement]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 80 || Cleanliness Display #8 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5942.png</span>&nbsp;[[Flower Wrap]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5566.png</span>&nbsp;[[Mesh Grate]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5467.png</span>&nbsp;[[Winterhue]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5466.png</span>&nbsp;[[Desert Rose]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5721.png</span>&nbsp;[[Dandelion]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5721.png</span>&nbsp;[[Fae Mysotis]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5721.png</span>&nbsp;[[Tulip]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5042.png</span>&nbsp;[[Wolfsbane]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5601.png</span>&nbsp;[[Cleanliness_Display_8|Cleanliness Display #8]] x1
+|}

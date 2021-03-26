@@ -1,0 +1,27 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 10 || Fried Lamb Chops || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6209.png</span>&nbsp;[[Mutton]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5794.png</span>&nbsp;[[Butter]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5816.png</span>&nbsp;[[Fried Lamb Chops]] x2
+|-
+| 14 || Cranberry-Barbecue Mutton || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6209.png</span>&nbsp;[[Mutton]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6297.png</span>&nbsp;[[Cranberries]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5142.png</span>&nbsp;[[Oak Wood Chips]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5818.png</span>&nbsp;[[Cranberry-Barbecue Mutton]] x1
+|-
+| 17 || Serbule-Style Lamb Chops || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6209.png</span>&nbsp;[[Mutton]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5819.png</span>&nbsp;[[Watercress]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5003.png</span>&nbsp;[[Boletus Mushroom]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5818.png</span>&nbsp;[[Serbule-Style Lamb Chops]] x1
+|-
+| 19 || Durstin's Mutton Stew || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6209.png</span>&nbsp;[[Mutton]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5022.png</span>&nbsp;[[Potato]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5024.png</span>&nbsp;[[Onion]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5103.png</span>&nbsp;[[Cabbage]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5816.png</span>&nbsp;[[Durstin's Mutton Stew]] x2
+|-
+| 20 || Bland Mutton Vindaloo || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6209.png</span>&nbsp;[[Mutton]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5022.png</span>&nbsp;[[Potato]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5024.png</span>&nbsp;[[Onion]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5678.png</span>&nbsp;[[Basic Vinegar]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5818.png</span>&nbsp;[[Bland Mutton Vindaloo]] x1
+|-
+| 24 || Durstin's Minty Lamb Chops || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6209.png</span>&nbsp;[[Mutton]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5669.png</span>&nbsp;[[Mint]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5778.png</span>&nbsp;[[Olive Oil]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5332.png</span>&nbsp;[[Peppercorns]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5816.png</span>&nbsp;[[Durstin's Minty Lamb Chops]] x2
+|-
+| 28 || Mutton and Eggs || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5573.png</span>&nbsp;[[Egg]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5024.png</span>&nbsp;[[Onion]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6209.png</span>&nbsp;[[Mutton]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5031.png</span>&nbsp;[[Mutton and Eggs]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mushroom Farming]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 7 || Mushroom Substrate: Meat || [[:Category:Items/Meat|Meat]] x1<br>[[:Category:Items/Meat|Meat]] x1<br>[[:Category:Items/Meat|Meat]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5535.png</span>&nbsp;[[Mushroom Substrate (Meat)]] x1
+|}

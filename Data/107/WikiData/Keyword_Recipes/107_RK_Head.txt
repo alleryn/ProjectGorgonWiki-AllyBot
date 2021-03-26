@@ -1,0 +1,54 @@
+==Using in Recipes==
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Ancillary-Armor Augmentation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Decompose Helm || [[:Category:Items/Head|Head Armor]] x1 || 
+|-
+| 8 || Extract Helm Augment (Level 0-30) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5806.png</span>&nbsp;[[Small Helm Contraption]] x20<br>[[:Category:Items/Head|Head Armor]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5486.png</span>&nbsp;[[Helm Augment]] x1
+|-
+| 30 || Undo Augment on Helm || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5806.png</span>&nbsp;[[Small Helm Contraption]] x25<br>[[:Category:Items/Head|Head Armor]] x1 || 
+|-
+| 31 || Extract Helm Augment (Level 31-60) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5807.png</span>&nbsp;[[Medium Helm Contraption]] x20<br>[[:Category:Items/Head|Head Armor]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5486.png</span>&nbsp;[[Helm Augment]] x1
+|-
+| 61 || Extract Helm Augment (Level 61-90) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5497.png</span>&nbsp;[[Large Helm Contraption]] x20<br>[[:Category:Items/Head|Head Armor]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5486.png</span>&nbsp;[[Helm Augment]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 4 || Apply Head Augment || [[:Category:Items/Head|Helm]] x1<br>[[:Category:Items/HelmAugment|Helm Augment]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Shamanic Infusion]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 7 || Beginner's Wolf Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5639.png</span>&nbsp;[[Wolf Teeth]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5638.png</span>&nbsp;[[Wolf Tail]] x1<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Max Armor +13'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 7.
+|-
+| 12 || Beginner's Panther Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x1<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Signature Debuff Power Cost -6'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 12.
+|-
+| 23 || Novice's Wolf Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5639.png</span>&nbsp;[[Wolf Teeth]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5638.png</span>&nbsp;[[Wolf Tail]] x3<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Max Armor +25'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 23.
+|-
+| 25 || Beginner's Scray Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5426.png</span>&nbsp;[[Scray Stinger]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5868.png</span>&nbsp;[[Scray Lung]] x1<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Max Metabolism +15, Max Hydration +10'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 25.
+|-
+| 28 || Novice's Panther Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x3<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Signature Debuff Power Cost -9'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 28.
+|-
+| 35 || Novice's Scray Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5426.png</span>&nbsp;[[Scray Stinger]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5868.png</span>&nbsp;[[Scray Lung]] x3<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Max Metabolism +30, Max Hydration +20'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 35.
+|-
+| 37 || Shaman's Wolf Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5639.png</span>&nbsp;[[Wolf Teeth]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5638.png</span>&nbsp;[[Wolf Tail]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5083.png</span>&nbsp;[[Trophy Wolf Skin]] x1<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Max Armor +45'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 37.
+|-
+| 44 || Shaman's Panther Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5084.png</span>&nbsp;[[Trophy Panther Skin]] x1<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Signature Debuff Power Cost -14'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 44.
+|-
+| 45 || Shaman's Scray Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5426.png</span>&nbsp;[[Scray Stinger]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5868.png</span>&nbsp;[[Scray Lung]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5869.png</span>&nbsp;[[Scray Lure]] x1<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Max Metabolism +45, Max Hydration +30'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 45.
+|-
+| 45 || Beginner's Viper Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5996.png</span>&nbsp;[[Snake Scales]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x1<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Ranged Accuracy Boost +8%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 45.
+|-
+| 50 || Novice's Viper Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5996.png</span>&nbsp;[[Snake Scales]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5995.png</span>&nbsp;[[Trophy Snake Skin]] x1<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Ranged Accuracy Boost +10%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 50.
+|-
+| 54 || Deep Wolf Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5639.png</span>&nbsp;[[Wolf Teeth]] x6<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5638.png</span>&nbsp;[[Wolf Tail]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5083.png</span>&nbsp;[[Trophy Wolf Skin]] x1<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Max Armor +60'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 54.
+|-
+| 55 || Shaman's Viper Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5996.png</span>&nbsp;[[Snake Scales]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5995.png</span>&nbsp;[[Trophy Snake Skin]] x1<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Ranged Accuracy Boost +14%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 55.
+|}
+[[Category:Items]]

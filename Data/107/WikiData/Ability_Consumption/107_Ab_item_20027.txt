@@ -1,0 +1,30 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3305.png</span> || [[Long Shot]] || Beginner's Long Arrow (or better) || [[Archery]] || 12 || Always || 60%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3630.png</span> || [[Mangling Shot]] || Beginner's Long Arrow (or better) || [[Archery]] || 20 || Always || 60%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3305.png</span> || [[Long Shot 2]] || Basic Long Arrow (or better) || [[Archery]] || 28 || Always || 50%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3630.png</span> || [[Mangling Shot 2]] || Basic Long Arrow (or better) || [[Archery]] || 30 || Always || 50%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3630.png</span> || [[Mangling Shot 3]] || Advanced Long Arrow (or better) || [[Archery]] || 40 || Always || 40%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3305.png</span> || [[Long Shot 3]] || Advanced Long Arrow (or better) || [[Archery]] || 45 || Always || 40%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3630.png</span> || [[Mangling Shot 4]] || Expert's Long Arrow (or better) || [[Archery]] || 50 || Always || 30%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3305.png</span> || [[Long Shot 4]] || Expert's Long Arrow (or better) || [[Archery]] || 54 || Always || 30%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3630.png</span> || [[Mangling Shot 5]] || Masterwork Long Arrow (or better) || [[Archery]] || 60 || Always || 20%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3630.png</span> || [[Mangling Shot 6]] || Amazing Long Arrow (or better) || [[Archery]] || 70 || Always || 10%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3305.png</span> || [[Long Shot 5]] || Masterwork Long Arrow (or better) || [[Archery]] || 72 || Always || 30%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3630.png</span> || [[Mangling Shot 7]] || Astonishing Long Arrow (or better) || [[Archery]] || 80 || Always || 10%
+|}

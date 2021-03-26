@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Toolcrafting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 26 || Good First Aid Bomb || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5363.png</span>&nbsp;[[Fine Cotton Yarn]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5147.png</span>&nbsp;[[Boletus Mushroom Suspension]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5169.png</span>&nbsp;[[Basic Skinning Knife]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 10% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5549.png</span>&nbsp;[[Good First Aid Bomb]] x8<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}

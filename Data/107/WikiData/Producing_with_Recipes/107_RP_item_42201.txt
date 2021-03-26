@@ -1,0 +1,11 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Tailoring]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Shoddy Cloth Shirt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5362.png</span>&nbsp;[[Coarse Cotton Yarn]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_12007.png</span>&nbsp;[[Shoddy Cloth Shirt]] x1
+|-
+| 3 || Shoddy Cloth Shirt (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5362.png</span>&nbsp;[[Coarse Cotton Yarn]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br>[[:Category:Items/Crystal|Primary Crystal]] x1<br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_12007.png</span>&nbsp;[[Shoddy Cloth Shirt]] x1
+|}

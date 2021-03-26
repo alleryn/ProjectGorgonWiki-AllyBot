@@ -1,0 +1,17 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[First Aid]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 40 || Amazing First Aid Kit (Combo Method) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5060.png</span>&nbsp;[[Good First Aid Kit]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5060.png</span>&nbsp;[[Expert's First Aid Kit]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5060.png</span>&nbsp;[[Amazing First Aid Kit]] x1
+|-
+| 50 || Astounding First Aid Kit (Combo Method) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5060.png</span>&nbsp;[[Expert's First Aid Kit]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5060.png</span>&nbsp;[[Master First Aid Kit]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5060.png</span>&nbsp;[[Astounding First Aid Kit]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Toolcrafting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 50 || Forensic Analysis Kit || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5169.png</span>&nbsp;[[Good Skinning Knife]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5060.png</span>&nbsp;[[Expert's First Aid Kit]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_4004.png</span>&nbsp;[[Forensic Analysis Kit]] x1
+|}

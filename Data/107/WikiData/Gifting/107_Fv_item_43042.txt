@@ -1,0 +1,16 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#9EF24A;"
+| [[Eleme]] || The Fairy Tree in [[Sun Vale]] || Likes ([[:Category:Items/WinterCourtArmor|Winter Court Armor]])
+|- style="background:#9EF24A;"
+| [[Baroness Marith Felgard]] || Western [[Serbule Hills]] || Likes ([[:Category:Items/Fashionable|Fashionable Items]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Kalaba]] || Eltibule Keep in [[Eltibule]] || Likes ([[:Category:Items/Hands|Items Worn on the Hands]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#F29E4A;"
+| [[Raul]] || [[Animal Town]] in Sun Vale || Dislikes ([[:Category:Items/LeatherArmor|Pieces of Leather Armor]])
+|- style="background:#F24A4A;"
+| [[Falkrin Overstrike]] || Amulna in [[Ilmari]] || Hates ([[:Category:Items/LeatherArmor|Pieces of Leather Armor]])
+|}

@@ -1,0 +1,21 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Candle Making]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 2 || Shoddy Wick || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5362.png</span>&nbsp;[[Coarse Cotton Yarn]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6371.png</span>&nbsp;[[Shoddy Tallow]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6363.png</span>&nbsp;[[Shoddy Wick]] x3
+|-
+| 3 || Tealight || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6363.png</span>&nbsp;[[Shoddy Wick]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6371.png</span>&nbsp;[[Shoddy Tallow]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6375.png</span>&nbsp;[[Tealight]] x1
+|-
+| 4 || Shoddy Brisk Candle || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6363.png</span>&nbsp;[[Shoddy Wick]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6371.png</span>&nbsp;[[Shoddy Tallow]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5016.png</span>&nbsp;[[Parasol Mushroom Flakes]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6376.png</span>&nbsp;[[Shoddy Brisk Candle]] x1
+|-
+| 6 || Shoddy Woodland Candle || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6363.png</span>&nbsp;[[Shoddy Wick]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6371.png</span>&nbsp;[[Shoddy Tallow]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6377.png</span>&nbsp;[[Shoddy Woodland Candle]] x1
+|-
+| 8 || Shoddy Floral Candle || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6363.png</span>&nbsp;[[Shoddy Wick]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6371.png</span>&nbsp;[[Shoddy Tallow]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5042.png</span>&nbsp;[[Bluebell]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6378.png</span>&nbsp;[[Shoddy Floral Candle]] x1
+|-
+| 14 || Rough Brisk Candle || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6363.png</span>&nbsp;[[Shoddy Wick]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6371.png</span>&nbsp;[[Shoddy Tallow]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5017.png</span>&nbsp;[[Boletus Mushroom Flakes]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6376.png</span>&nbsp;[[Rough Brisk Candle]] x1
+|-
+| 16 || Rough Woodland Candle || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6363.png</span>&nbsp;[[Shoddy Wick]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6371.png</span>&nbsp;[[Shoddy Tallow]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5142.png</span>&nbsp;[[Oak Wood Chips]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6377.png</span>&nbsp;[[Rough Woodland Candle]] x1
+|}

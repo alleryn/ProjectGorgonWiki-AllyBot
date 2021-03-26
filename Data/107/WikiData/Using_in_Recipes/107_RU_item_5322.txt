@@ -1,0 +1,19 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Brewing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 60 || Dry Gin (Un-Aged) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5326.png</span>&nbsp;[[Barrel]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5717.png</span>&nbsp;[[Barley]] x8<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5725.png</span>&nbsp;[[Juniper Berries]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5735.png</span>&nbsp;[[Hegemony Lager Yeast]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Un-Aged Dry Gin]] x1
+|-
+| 70 || Dwarven Stout (One Glass) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5717.png</span>&nbsp;[[Barley]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5718.png</span>&nbsp;[[Hops]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5736.png</span>&nbsp;[[Dwarven Stout Yeast]] x1<br>[[:Category:Items/BrewingVegetableB4|Green Pepper, Red Pepper, Molasses, or Corn]] x1<br>[[:Category:Items/BrewingFruitC3|Fruit: Pear, Peach, or Green Apple]] x1<br>[[:Category:Items/BrewingMushroomC4|Mushroom Flakes/Powders: Coral, Groxmax, Porcini, Black Foot Morel]] x1<br>[[:Category:Items/BrewingGarnishC3|Mint, Honey, or Juniper Berries]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5744.png</span>&nbsp;[[Dwarven Stout]] x1
+|-
+| 70 || Bourbon (Drinkable Cask) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Aged Bourbon]] x1<br>[[:Category:Items/BrewingFruitC3|Fruit: Pear, Peach, or Green Apple]] x1<br>[[:Category:Items/BrewingMushroomC4|Mushroom Flakes/Powders: Coral, Groxmax, Porcini, Black Foot Morel]] x1<br>[[:Category:Items/BrewingAnimalPartC5|Cockatrice Beak, Worm Tooth, Ectoplasm, Powdered Mammal, or Barghest Flesh]] x1<br>[[:Category:Items/BrewingGarnishC4|Mint, Honey, Juniper Berries, or Almonds]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Bourbon]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 55 || Amazing Cranberry Sauce || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6297.png</span>&nbsp;[[Cranberries]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5725.png</span>&nbsp;[[Juniper Berries]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5707.png</span>&nbsp;[[Almonds]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5468.png</span>&nbsp;[[Sugar]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5127.png</span>&nbsp;[[Amazing Cranberry Sauce]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}

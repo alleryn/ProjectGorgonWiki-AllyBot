@@ -1,0 +1,15 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Carpentry]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 10 || Firkin || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5321.png</span>&nbsp;[[Quarter Hoop]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5324.png</span>&nbsp;[[Firkin]] x1
+|-
+| 20 || Kilderkin || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5321.png</span>&nbsp;[[Quarter Hoop]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5322.png</span>&nbsp;[[Medium Hoop]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5325.png</span>&nbsp;[[Kilderkin]] x1
+|-
+| 30 || Barrel || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5321.png</span>&nbsp;[[Quarter Hoop]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5322.png</span>&nbsp;[[Medium Hoop]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5323.png</span>&nbsp;[[Bilge Hoop]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5326.png</span>&nbsp;[[Barrel]] x1
+|-
+| 40 || Hogshead || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5140.png</span>&nbsp;[[Maple Wood]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5321.png</span>&nbsp;[[Quarter Hoop]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5322.png</span>&nbsp;[[Medium Hoop]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5323.png</span>&nbsp;[[Bilge Hoop]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5326.png</span>&nbsp;[[Hogshead]] x1
+|}

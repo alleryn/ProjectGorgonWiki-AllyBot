@@ -1,0 +1,33 @@
+=== List of Items Usable Only in Hardcore Mode ===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+<div style="column-count:5;-moz-column-count:5;-webkit-column-count:5">
+*{{Item|Boots of the Winter Court}}
+*{{Item|Great Boots of the Winter Court}}
+*{{Item|Winter Court Murder-Boots}}
+*{{Item|Greaves of the Winter Court}}
+*{{Item|Great Greaves of the Winter Court}}
+*{{Item|Winter Court Murder-Greaves}}
+*{{Item|Coat of the Winter Court}}
+*{{Item|Great Coat of the Winter Court}}
+*{{Item|Winter Court Murder-Coat}}
+*{{Item|Gauntlets of the Winter Court}}
+*{{Item|Great Gauntlets of the Winter Court}}
+*{{Item|Winter Court Murder-Gauntlets}}
+*{{Item|Helm of the Winter Court}}
+*{{Item|Great Helm of the Winter Court}}
+*{{Item|Dark Alicorn}}
+*{{Item|Winter Court Murder-Helm}}
+*{{Item|Winter Shield}}
+*{{Item|Torgan's Shield}}
+*{{Item|Torgan's Stiletto}}
+*{{Item|Torgan's Spatha}}
+*{{Item|Torgan's Staff}}
+*{{Item|Torgan's Katar}}
+*{{Item|Torgan's Claw}}
+*{{Item|Shoddy Hardcore Belt}}
+*{{Item|Crude Hardcore Belt}}
+*{{Item|Nice Hardcore Belt}}
+*{{Item|Great Hardcore Belt}}
+*{{Item|Torgan's Hammer}}
+</div>

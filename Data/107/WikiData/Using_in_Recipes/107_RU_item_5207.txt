@@ -1,0 +1,21 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 56 || Spicy Cavefish || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5034.png</span>&nbsp;[[Cavefish Fillet]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5457.png</span>&nbsp;[[Red Pepper]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5622.png</span>&nbsp;[[Lemon]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5313.png</span>&nbsp;[[Spicy Cavefish]] x1
+|-
+| 57 || Cavefish Supper || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5034.png</span>&nbsp;[[Cavefish Fillet]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6224.png</span>&nbsp;[[Dill]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5622.png</span>&nbsp;[[Lemon]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5777.png</span>&nbsp;[[Vegetable Oil]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5038.png</span>&nbsp;[[Cavefish Supper]] x2
+|-
+| 60 || Cavefish Sticks || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5034.png</span>&nbsp;[[Cavefish Fillet]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5457.png</span>&nbsp;[[Red Pepper]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5134.png</span>&nbsp;[[Carrot]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5672.png</span>&nbsp;[[Seaweed]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5144.png</span>&nbsp;[[Cedar Wood Chips]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5308.png</span>&nbsp;[[Cavefish Sticks]] x2
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Sushi Preparation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 13 || Cavefish Nigiri || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5034.png</span>&nbsp;[[Cavefish Fillet]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5676.png</span>&nbsp;[[Rahu Rice]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5679.png</span>&nbsp;[[Fancy Vinegar]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5669.png</span>&nbsp;[[Mint]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5674.png</span>&nbsp;[[Cavefish Nigiri]] x2
+|-
+| 19 || Cavefish Sushi Roll || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5034.png</span>&nbsp;[[Cavefish Fillet]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5676.png</span>&nbsp;[[Rahu Rice]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5679.png</span>&nbsp;[[Fancy Vinegar]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5680.png</span>&nbsp;[[Expert's Vinegar]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5669.png</span>&nbsp;[[Mint]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5675.png</span>&nbsp;[[Cavefish Sushi Roll]] x2
+|}

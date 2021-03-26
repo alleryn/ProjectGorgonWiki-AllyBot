@@ -1,0 +1,33 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Jesina]] || Sie Antry's Farm in [[Eltibule]] || Loves ([[:Category:Items/ClothArmor|Cloth Armor]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#4AF24A;"
+| [[Firaki]] || Amulna in [[Ilmari]] || Loves ([[:Category:Items/Silver|Silver Items]] : 750*)
+|- style="background:#4AF24A;"
+| [[Gloria Stonecurl]] || The Outpost in Northwestern [[Kur]] || Loves ([[:Category:Items/HolySymbol|Holy Symbols]])
+|- style="background:#4AF24A;"
+| [[Silvia]] || The Druid Camp in [[Sun Vale]] || Loves ([[:Category:Items/Chest|Chest Armor]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#4AF24A;"
+| [[Sona]] || [[New Prestonbule Cave]] in Gazluk || Loves ([[:Category:Items/ClothArmor|Cloth Armor]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#4AF24A;"
+| [[The Sand Seer]] || Amulna in [[Ilmari]] || Loves ([[:Category:Items/ClothArmor|Cloth Armor]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Glajur]] || [[Kur Tower]] || Likes ([[:Category:Items/ClothArmor|Cloth Armor]])
+|- style="background:#9EF24A;"
+| [[Corey The Croaker]] || The [[Winter Nexus]] || Likes ([[:Category:Items/ClothArmor|Cloth Armor]])
+|- style="background:#9EF24A;"
+| [[Baroness Marith Felgard]] || Western [[Serbule Hills]] || Likes ([[:Category:Items/Fashionable|Fashionable Items]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Jaime Fatholm]] || The Tapestry Inn in [[Serbule Hills]] || Likes ([[:Category:Items/Silver|Silver Items]] : 750*)
+|- style="background:#9EF24A;"
+| [[Rohina]] || The Fairy Tree in [[Sun Vale]] || Likes ([[:Category:Items/ClothArmor|Cloth Armor]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Yagreet]] || The Fairy Tree in [[Sun Vale]] || Likes ([[:Category:Items/Silver|Silver Items]] : 750*)
+|- style="background:#F24A4A;"
+| [[Landri the Cold]] || The Outpost in Northwestern [[Kur]] || Hates ([[:Category:Items/ClothArmor|Cloth Armor]] and [[:Category:Items/Loot|Loot]])
+|}
+<nowiki>*</nowiki>[[Silver-Threaded Shirt]] has an effective value different from its base value (189) when gifted as a member of this item category.

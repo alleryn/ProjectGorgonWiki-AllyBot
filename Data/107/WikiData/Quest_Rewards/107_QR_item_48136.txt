@@ -1,0 +1,12 @@
+===Quest Rewards===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Acquired !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Werewolf Overflow]] || style="text-align:center;" | 1 || 1 Days || [[Jace Soral]] || Despised || The Campfire in Northwestern [[Kur]] || Warden-only
+|-
+| [[Yeti Hook Beasts]] || style="text-align:center;" | 1 || 1 Days || [[Red]] || Despised || The Fox Outpost in [[Kur]] || Warden-only
+|-
+| [[Razorslash Panther Invasion]] || style="text-align:center;" | 1 || 1 Days || [[Red]] || Despised || The Fox Outpost in [[Kur]] || Warden-only
+|}

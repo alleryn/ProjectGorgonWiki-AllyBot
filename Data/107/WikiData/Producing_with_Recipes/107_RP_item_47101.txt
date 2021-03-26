@@ -1,0 +1,11 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Carpentry]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Shoddy Melee Staff || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_18003.png</span>&nbsp;[[Shoddy Melee Staff]] x1
+|-
+| 3 || Shoddy Melee Staff (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1<br>[[:Category:Items/Crystal|Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_18003.png</span>&nbsp;[[Shoddy Melee Staff]] x1
+|}

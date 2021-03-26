@@ -1,0 +1,33 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Honey Ham || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6206.png</span>&nbsp;[[Pork Shoulder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5468.png</span>&nbsp;[[Sugar]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5067.png</span>&nbsp;[[Honey Ham]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 5 || Bacon || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6206.png</span>&nbsp;[[Pork Shoulder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5069.png</span>&nbsp;[[Bacon]] x2
+|-
+| 6 || Pork Chops with Watercress || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6206.png</span>&nbsp;[[Pork Shoulder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5819.png</span>&nbsp;[[Watercress]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5818.png</span>&nbsp;[[Pork Chops with Watercress]] x1
+|-
+| 12 || Pork Chops with Grape Jelly || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6206.png</span>&nbsp;[[Pork Shoulder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5118.png</span>&nbsp;[[Grapes]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5468.png</span>&nbsp;[[Sugar]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5818.png</span>&nbsp;[[Pork Chops with Grape Jelly]] x1
+|-
+| 14 || Succulent Pork Chops || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6206.png</span>&nbsp;[[Pork Shoulder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5331.png</span>&nbsp;[[Bottle of Brine]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5072.png</span>&nbsp;[[Mandrake Root]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5933.png</span>&nbsp;[[Succulent Pork Chops]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 15 || Sausage || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6206.png</span>&nbsp;[[Pork Shoulder]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6203.png</span>&nbsp;[[Venison]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5041.png</span>&nbsp;[[Flour]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5122.png</span>&nbsp;[[Sausage]] x1
+|-
+| 30 || Ur-Bacon || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6206.png</span>&nbsp;[[Pork Shoulder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5144.png</span>&nbsp;[[Cedar Wood Chips]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5055.png</span>&nbsp;[[Femur]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5069.png</span>&nbsp;[[Ur-Bacon]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fishing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 45 || Ice Fishing Gear (8h) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5094.png</span>&nbsp;[[Handsaw]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5312.png</span>&nbsp;[[String]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6206.png</span>&nbsp;[[Pork Shoulder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5081.png</span>&nbsp;[[Nightmare Flesh]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 50% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5311.png</span>&nbsp;[[Ice Fishing Gear (8 hour)]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mushroom Farming]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 7 || Mushroom Substrate: Meat || [[:Category:Items/Meat|Meat]] x1<br>[[:Category:Items/Meat|Meat]] x1<br>[[:Category:Items/Meat|Meat]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5535.png</span>&nbsp;[[Mushroom Substrate (Meat)]] x1
+|}

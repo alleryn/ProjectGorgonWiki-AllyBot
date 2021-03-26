@@ -1,0 +1,6 @@
+.idea/*
+Backups/*
+venv/*
+/**/.__pycache__/*
+Archive/*
+Logs/*

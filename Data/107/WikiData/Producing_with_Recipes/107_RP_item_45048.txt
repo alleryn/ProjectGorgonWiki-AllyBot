@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 17 || Thick Ice Shield || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5658.png</span>&nbsp;[[Crystal Ice]] x8 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_14008.png</span>&nbsp;[[Thick Ice Shield]] x1
+|}

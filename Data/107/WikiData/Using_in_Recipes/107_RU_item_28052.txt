@@ -1,0 +1,23 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 3 || Apply Shield Augment || [[:Category:Items/Shield|Shield]] x1<br>[[:Category:Items/OffHandAugment|Off-Hand Augment]] x1 || 
+|-
+| 3 || Apply Bow Augment || [[:Category:Items/Bow|Bow]] x1<br>[[:Category:Items/OffHandAugment|Off-Hand Augment]] x1 || 
+|-
+| 3 || Apply Claw Augment || [[:Category:Items/UnarmedClaw|Claw]] x1<br>[[:Category:Items/OffHandAugment|Off-Hand Augment]] x1 || 
+|-
+| 3 || Apply Flask Augment || [[:Category:Items/ChemistryFlask|Flask]] x1<br>[[:Category:Items/OffHandAugment|Off-Hand Augment]] x1 || 
+|-
+| 3 || Apply Orb Augment || [[:Category:Items/Orb|Orb]] x1<br>[[:Category:Items/OffHandAugment|Off-Hand Augment]] x1 || 
+|-
+| 5 || Apply Crossbow Augment || [[:Category:Items/Crossbow|Crossbow]] x1<br>[[:Category:Items/OffHandAugment|Off-Hand Augment]] x1 || 
+|-
+| 5 || Apply Dirk Augment || [[:Category:Items/Dirk|Dirk]] x1<br>[[:Category:Items/OffHandAugment|Off-Hand Augment]] x1 || 
+|-
+| 5 || Apply Horn Augment || [[:Category:Items/BardHorn|Horn]] x1<br>[[:Category:Items/OffHandAugment|Off-Hand Augment]] x1 || 
+|}

@@ -1,0 +1,11 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Bone Meal (from Any Bone) || [[:Category:Items/Bone|Any Bone]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5292.png</span>&nbsp;[[Bone Meal]] x1
+|-
+| 0 || Bone Meal (from Humanoid Skull) || [[:Category:Items/HumanoidSkull|Humanoid Skull]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5292.png</span>&nbsp;[[Bone Meal]] x2
+|}

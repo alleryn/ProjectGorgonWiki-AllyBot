@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fletching]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 58 || Amazing Reservoir Arrow || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6266.png</span>&nbsp;[[Amazing Arrowheads]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5233.png</span>&nbsp;[[Amazing Arrow Shafts]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Precision Fletchings]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5234.png</span>&nbsp;[[Beakers]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Ultimate Acidic Cleanser]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 5% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6263.png</span>&nbsp;[[Amazing Reservoir Arrow]] x1000
+|}

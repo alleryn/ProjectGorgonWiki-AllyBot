@@ -1,0 +1,12 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 2 || Apply Beaker Augment || [[:Category:Items/ChemistryBeaker|Beaker]] x1<br>[[:Category:Items/MainHandAugment|Weapon Augment]] x1 || 
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/Equipment|Pieces of Equipment]]
+*[[:Category:Items/MainHand|Items Wielded in the Main Hand]]

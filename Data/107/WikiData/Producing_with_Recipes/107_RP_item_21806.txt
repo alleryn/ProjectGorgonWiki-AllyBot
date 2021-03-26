@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Brewing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 50 || Tequila (Drinkable Cask) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Aged Tequila]] x1<br>[[:Category:Items/BrewingFruitB3|Fruit: Guava, Banana, or Lemon]] x1<br>[[:Category:Items/BrewingMushroomB4|Mushroom Flakes/Powders: Field, Blusher, Milk Cap, Blood]] x1<br>[[:Category:Items/BrewingAnimalPartB5|Wolf Teeth, Panther Tail, Deinonychus Claw, Rabbit's Foot, or Bear Gallbladder]] x1<br>[[:Category:Items/BrewingGarnishB4|Cinnamon, Muntok Peppercorns, Seaweed, or Myconian Jelly]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Tequila]] x1
+|}

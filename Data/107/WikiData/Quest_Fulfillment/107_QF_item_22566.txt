@@ -1,0 +1,12 @@
+===Quest Fulfillment===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Guild: Fox Outpost (25-person)]] || 25 (Amass with Guild any [[:Category:Items/Silver|Silver Items]]) || 5 Minutes || [[Red]] || Unknown || The Fox Outpost in [[Kur]] || 
+|-
+| [[Guild: Fox Outpost (50-person)]] || 100 (Amass with Guild any [[:Category:Items/Silver|Silver Items]]) || 5 Minutes || [[Red]] || Unknown || The Fox Outpost in [[Kur]] || 
+|}
+=====Work Order=====
+Turn in 10x [[Medium Silver Dragon Statue]] to [[Viedesi]] for 8615 councils. Requires [[Industry]] Level 15.

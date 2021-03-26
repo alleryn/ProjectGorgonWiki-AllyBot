@@ -1,0 +1,18 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2150.png</span> || [[Chew Cud]] || Grass || [[Cow]] || 7 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2150.png</span> || [[Chew Cud 2]] || Grass || [[Cow]] || 28 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2150.png</span> || [[Chew Cud 3]] || Grass || [[Cow]] || 39 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2150.png</span> || [[Chew Cud 4]] || Grass || [[Cow]] || 55 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2150.png</span> || [[Chew Cud 5]] || Grass || [[Cow]] || 67 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2150.png</span> || [[Chew Cud 6]] || Grass || [[Cow]] || 79 || Always || Never
+|}

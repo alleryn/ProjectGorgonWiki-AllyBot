@@ -1,0 +1,15 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 15 || Fried Lungfish || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5865.png</span>&nbsp;[[Lungfish Fillet]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5041.png</span>&nbsp;[[Flour]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5777.png</span>&nbsp;[[Vegetable Oil]] x2 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 15% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5038.png</span>&nbsp;[[Fried Lungfish]] x1
+|-
+| 17 || Lungfish Kabob || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5865.png</span>&nbsp;[[Lungfish Fillet]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5819.png</span>&nbsp;[[Watercress]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5003.png</span>&nbsp;[[Boletus Mushroom]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5866.png</span>&nbsp;[[Lungfish Kabob]] x1
+|-
+| 20 || Lungfish Roll || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5865.png</span>&nbsp;[[Lungfish Fillet]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5103.png</span>&nbsp;[[Cabbage]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5004.png</span>&nbsp;[[Field Mushroom]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5126.png</span>&nbsp;[[Flatbread]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5867.png</span>&nbsp;[[Lungfish Roll]] x2
+|-
+| 21 || Mokapok Stew || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5865.png</span>&nbsp;[[Lungfish Fillet]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Crab Meat]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5024.png</span>&nbsp;[[Onion]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5819.png</span>&nbsp;[[Watercress]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5821.png</span>&nbsp;[[Mokapok Stew]] x3
+|}

@@ -1,0 +1,28 @@
+===Gifting===
+<!-- v342 -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Firaki]] || Amulna in [[Ilmari]] || Loves ([[:Category:Items/Silver|Silver Items]])
+|- style="background:#9EF24A;"
+| [[Yetta]] || Eltibule Keep in [[Eltibule]] || Likes ([[:Category:Items/Amulet|Amulets]])
+|- style="background:#9EF24A;"
+| [[Yasinda]] || [[Hogan's Keep]] in Eltibule || Likes ([[:Category:Items/Necklace|Necklaces]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Jaime Fatholm]] || The Tapestry Inn in [[Serbule Hills]] || Likes ([[:Category:Items/Silver|Silver Items]])
+|- style="background:#9EF24A;"
+| [[Norbert]] || [[Animal Town]] in Sun Vale || Likes ([[:Category:Items/Necklace|Necklaces]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Sanja]] || The Campfire in Northwestern [[Kur]] || Likes ([[:Category:Items/Necklace|Necklaces]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Therese]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Amulet|Amulets]])
+|- style="background:#9EF24A;"
+| [[Solgribue]] || The Fel-Dasculan Ruins in the [[Fae Realm]] || Likes ([[:Category:Items/Necklace|Necklaces]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Urzab]] || Amulna in [[Ilmari]] || Likes ([[:Category:Items/Jewelry|Jewelry]])
+|- style="background:#9EF24A;"
+| [[Yagreet]] || The Fairy Tree in [[Sun Vale]] || Likes ([[:Category:Items/Silver|Silver Items]])
+|- style="background:#F24A4A;"
+| [[Joeh]] || Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/Jewelry|Jewelry]])
+|}

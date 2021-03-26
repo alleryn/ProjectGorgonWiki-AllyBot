@@ -1,0 +1,53 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#9EF24A;"
+| [[Gribburn]] || [[Hogan's Basement]] in Eltibule || Likes ([[:Category:Items/MeatDish|Meat Dishes]] : 390*)
+|- style="background:#9EF24A;"
+| [[Fainor]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 325*)
+|- style="background:#9EF24A;"
+| [[Otis]] || [[Red Wing Casino]] || Likes ([[:Category:Items/MeatDish|Meat Dishes]] : 390*)
+|- style="background:#9EF24A;"
+| [[Joeh]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/MeatDish|Meat Dishes]] : 390*)
+|- style="background:#9EF24A;"
+| [[Zealo]] || The [[Carpal Tunnels]] in Serbule || Likes ([[:Category:Items/MeatDish|Meat Dishes]] : 390*)
+|- style="background:#9EF24A;"
+| [[Ukorga]] || The Outpost in Northwestern [[Kur]] || Likes ([[:Category:Items/MeatDish|Meat Dishes]] : 390*)
+|- style="background:#9EF24A;"
+| [[Laura Neth]] || The Outpost in Northwestern [[Kur]] || Likes ([[:Category:Items/Edible|Edible Items]])
+|- style="background:#9EF24A;"
+| [[Elahil]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 325*)
+|- style="background:#9EF24A;"
+| [[Sir Arif]] || [[Serbule Crypt]] in Serbule || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 325*)<br>Likes ([[:Category:Items/Edible|Edible Items]])
+|- style="background:#9EF24A;"
+| [[Ivyn]] || Ivyn's Farm in [[Serbule]] || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 325*)
+|- style="background:#9EF24A;"
+| [[Hulon the Hoarder]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 325*)
+|- style="background:#F29E4A;"
+| [[Mushroom Jack]] || Serbule Keep in [[Serbule]] || Dislikes ([[:Category:Items/PreparedFood|Prepared Foods]] : 325*)
+|- style="background:#F29E4A;"
+| [[Rita]] || Serbule Keep in [[Serbule]] || Dislikes ([[:Category:Items/Food|Food Items]])
+|- style="background:#F24A4A;"
+| [[Alravesa the All-Hunter]] || Amulna in [[Ilmari]] || Hates ([[:Category:Items/Edible|Edible Items]])
+|- style="background:#F24A4A;"
+| [[Sugar (NPC)]] || The [[Sacred Grotto]] in Kur || Hates ([[:Category:Items/MeatDish|Meat Dishes]] : 390*)
+|- style="background:#F24A4A;"
+| [[Raina]] || The Fel-Dasculan Ruins in the [[Fae Realm]] || Hates ([[:Category:Items/MeatDish|Meat Dishes]] : 390*)
+|- style="background:#F24A4A;"
+| [[Velkort]] || Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/PreparedFood|Prepared Foods]] : 325*)
+|- style="background:#F24A4A;"
+| [[Jaime Fatholm]] || The Tapestry Inn in [[Serbule Hills]] || Hates ([[:Category:Items/PreparedFood|Prepared Foods]] : 325*)
+|- style="background:#F24A4A;"
+| [[Raul]] || [[Animal Town]] in Sun Vale || Hates ([[:Category:Items/MeatDish|Meat Dishes]] : 390*)
+|- style="background:#F24A4A;"
+| [[Therese]] || Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/MeatDish|Meat Dishes]] : 390*)
+|- style="background:#F24A4A;"
+| [[Backfat]] || The Fel-Dasculan Ruins in the [[Fae Realm]] || Hates ([[:Category:Items/PigMeat|Pig Meat]])
+|- style="background:#F24A4A;"
+| [[Flia]] || East of Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/Edible|Edible Items]])
+|- style="background:#F24A4A;"
+| [[Marna]] || Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/MeatDish|Meat Dishes]] : 390*)
+|}
+<nowiki>*</nowiki>[[Juicy Ham]] has an effective value different from its base value (130) when gifted as a member of this item category.

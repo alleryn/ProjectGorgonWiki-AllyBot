@@ -1,0 +1,11 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Carpentry]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 24 || Crude Priest Staff || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5140.png</span>&nbsp;[[Maple Wood]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5179.png</span>&nbsp;[[Decent Tannin Powder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5886.png</span>&nbsp;[[Advanced Caustic Ink]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5115.png</span>&nbsp;[[Ancient Stencil]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 25% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_18020.png</span>&nbsp;[[Crude Priest Staff]] x1
+|-
+| 24 || Crude Priest Staff (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5140.png</span>&nbsp;[[Maple Wood]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5179.png</span>&nbsp;[[Decent Tannin Powder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5886.png</span>&nbsp;[[Advanced Caustic Ink]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5115.png</span>&nbsp;[[Ancient Stencil]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 25% &#010;">(!)</sup></span><br>[[:Category:Items/Crystal|Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_18020.png</span>&nbsp;[[Crude Priest Staff]] x1
+|}

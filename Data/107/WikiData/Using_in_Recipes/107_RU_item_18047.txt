@@ -1,0 +1,11 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Dye Making]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 16 || Goblin Orange Dye || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5449.png</span>&nbsp;[[Morganite]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5378.png</span>&nbsp;[[Dye Pot]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5379.png</span>&nbsp;[[Gem Crusher]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6030.png</span>&nbsp;[[Goblin Orange Dye]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/Crystal|Crystals]]

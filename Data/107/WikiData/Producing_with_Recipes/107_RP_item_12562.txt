@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Textile Creation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 45 || Incredible Spider Silk || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5359.png</span>&nbsp;[[Perfect Cotton]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5362.png</span>&nbsp;[[Coarse Cotton Yarn]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5073.png</span>&nbsp;[[Spiderweb]] x6 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5557.png</span>&nbsp;[[Incredible Spider Silk]] x1
+|}

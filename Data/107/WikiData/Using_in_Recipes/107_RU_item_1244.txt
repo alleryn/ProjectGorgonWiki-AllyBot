@@ -1,0 +1,25 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Turn Junk Into Crystal Ice || [[:Category:Items/VendorTrash|Miscellaneous Junk]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Ice Magic]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 55 || Ice Magic Research Level 55 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Ice Core]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5355.png</span>&nbsp;[[Tundra Lichen]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5619.png</span>&nbsp;[[Frost Nib]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x1 || 
+|-
+| 60 || Ice Magic Research Level 60 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Ice Core]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5355.png</span>&nbsp;[[Tundra Lichen]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5619.png</span>&nbsp;[[Frost Nib]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x1 || 
+|-
+| 65 || Ice Magic Research Level 65 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5355.png</span>&nbsp;[[Tundra Lichen]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5619.png</span>&nbsp;[[Frost Nib]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5702.png</span>&nbsp;[[Glowy Yellow Crystal]] x2 || 
+|-
+| 70 || Ice Magic Research Level 70 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5355.png</span>&nbsp;[[Tundra Lichen]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5619.png</span>&nbsp;[[Frost Nib]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5702.png</span>&nbsp;[[Glowy Yellow Crystal]] x4 || 
+|-
+| 75 || Ice Magic Research Level 75 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6294.png</span>&nbsp;[[Fairy Iceheart]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5619.png</span>&nbsp;[[Frost Nib]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5702.png</span>&nbsp;[[Glowy Yellow Crystal]] x5 || 
+|-
+| 80 || Ice Magic Research Level 80 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6294.png</span>&nbsp;[[Fairy Iceheart]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5619.png</span>&nbsp;[[Frost Nib]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5702.png</span>&nbsp;[[Glowy Yellow Crystal]] x6 || 
+|}

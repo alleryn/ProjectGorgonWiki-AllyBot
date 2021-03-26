@@ -1,0 +1,22 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Sammie Grimspine]] || Western [[Serbule Hills]] || Loves ([[:Category:Items/CalligraphyBench|Calligraphy Benches]])
+|- style="background:#9EF24A;"
+| [[Gorvessa]] || [[Hogan's Basement]] in Eltibule || Likes ([[:Category:Items/Furniture|Furniture Items]])
+|- style="background:#9EF24A;"
+| [[Kohan]] || Rahu City in [[Rahu]] || Likes ([[:Category:Items/Carpentry|Carpentry Items]])
+|- style="background:#9EF24A;"
+| [[Syndra]] || A Barn in Central [[Kur]] || Likes ([[:Category:Items/Furniture|Furniture Items]])
+|- style="background:#9EF24A;"
+| [[Gretchen Salas]] || In or Around Eltibule Keep in [[Eltibule]] || Likes ([[:Category:Items/Sittable|Items Upon Which One Can Sit]])
+|- style="background:#9EF24A;"
+| [[Ufkar]] || Rahu City in [[Rahu]] || Likes ([[:Category:Items/Carpentry|Carpentry Items]])
+|- style="background:#9EF24A;"
+| [[Nelson Ballard]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Carpentry|Carpentry Items]])
+|- style="background:#9EF24A;"
+| [[Qatik]] || [[Red Wing Casino]] || Likes ([[:Category:Items/Sittable|Items Upon Which One Can Sit]])
+|}

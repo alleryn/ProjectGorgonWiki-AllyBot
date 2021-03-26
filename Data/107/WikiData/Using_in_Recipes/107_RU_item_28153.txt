@@ -1,0 +1,17 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Transmutation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 61 || Distill Simple Magical Item (61-90) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5814.png</span>&nbsp;[[Large Prism]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 10% &#010;">(!)</sup></span><br>[[:Category:Items/Equipment|Uncommon Magic Item (Lvl 61-90)]] x1 || 
+|-
+| 61 || Distill Rare Magical Item (61-90) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5814.png</span>&nbsp;[[Large Prism]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 20% &#010;">(!)</sup></span><br>[[:Category:Items/Equipment|Rare Magic Item (Lvl 61-90)]] x1 || 
+|-
+| 65 || Distill Exceptional Magical Item (61-90) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5814.png</span>&nbsp;[[Large Prism]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 25% &#010;">(!)</sup></span><br>[[:Category:Items/Equipment|Exceptional Magic Item (Lvl 61-90)]] x1 || 
+|-
+| 68 || Distill Epic or Legendary Magical Item (61-90) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5814.png</span>&nbsp;[[Large Prism]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 30% &#010;">(!)</sup></span><br>[[:Category:Items/Equipment|Epic or Legendary Magic Item (Lvl 61-90)]] x1 || 
+|-
+| 70 || Repair Transmutation Damage 5 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5814.png</span>&nbsp;[[Large Prism]] x8<br>[[:Category:Items/Equipment|Magic Item]] x1 || 
+|}

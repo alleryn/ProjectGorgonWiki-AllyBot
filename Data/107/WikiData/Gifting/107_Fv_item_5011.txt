@@ -1,0 +1,13 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#9EF24A;"
+| [[Blanche]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/DairyDish|Dairy Dishes]] : 45*)
+|- style="background:#9EF24A;"
+| [[Braigon]] || Eltibule Keep in [[Eltibule]] || Likes ([[:Category:Items/DairyDish|Dairy Dishes]] : 45*)
+|- style="background:#9EF24A;"
+| [[Mandibles]] || [[Red Wing Casino]] || Likes ([[:Category:Items/CookingIngredient|Cooking Ingredients]])
+|}
+<nowiki>*</nowiki>[[Butter]] has an effective value different from its base value (30) when gifted as a member of this item category.

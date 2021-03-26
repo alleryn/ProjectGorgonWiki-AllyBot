@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Blacksmithing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 43 || Nice Cow Shoes || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5299.png</span>&nbsp;[[Good Metal Slab]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5298.png</span>&nbsp;[[Basic Metal Slab]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5561.png</span>&nbsp;[[Dishing Hammer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 20% &#010;">(!)</sup></span><br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5571.png</span>&nbsp;[[Rivets]] x2<br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5303.png</span>&nbsp;[[Nice Cow Shoes]] x1
+|}

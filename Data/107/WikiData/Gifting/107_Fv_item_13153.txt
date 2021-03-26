@@ -1,0 +1,25 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[The Wombat]] || The Druid Camp in [[Sun Vale]] || Loves ([[:Category:Items/Wood|Wood]] : 500*)
+|- style="background:#4AF24A;"
+| [[Paul Vaughn]] || A room near the Tapestry Inn in [[Serbule Hills]] || Loves ([[:Category:Items/PerfectWood|Perfect Wood]] : 500*)
+|- style="background:#9EF24A;"
+| [[Kohan]] || Rahu City in [[Rahu]] || Likes ([[:Category:Items/Carpentry|Carpentry Items]])
+|- style="background:#9EF24A;"
+| [[Tavilak]] || [[Red Wing Casino]] || Likes ([[:Category:Items/PerfectWood|Perfect Wood]] : 500*)
+|- style="background:#9EF24A;"
+| [[Ufkar]] || Rahu City in [[Rahu]] || Likes ([[:Category:Items/Carpentry|Carpentry Items]])
+|- style="background:#9EF24A;"
+| [[Nelson Ballard]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Carpentry|Carpentry Items]])
+|- style="background:#9EF24A;"
+| [[Qatik]] || [[Red Wing Casino]] || Likes ([[:Category:Items/PerfectWood|Perfect Wood]] : 500*)
+|- style="background:#9EF24A;"
+| [[Syndra]] || A Barn in Central [[Kur]] || Likes ([[:Category:Items/Wood|Wood]] : 500*)
+|- style="background:#9EF24A;"
+| [[Lamashu]] || Northern [[Kur]] || Likes ([[:Category:Items/Wood|Wood]] : 500*)
+|}
+<nowiki>*</nowiki>[[Perfect Cedar Wood]] has an effective value different from its base value (200) when gifted as a member of this item category.

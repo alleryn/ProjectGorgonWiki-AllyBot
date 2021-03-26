@@ -1,0 +1,19 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Transmutation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Distill Simple Magical Item (0-30) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5814.png</span>&nbsp;[[Small Prism]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 10% &#010;">(!)</sup></span><br>[[:Category:Items/Equipment|Uncommon Magic Item (Lvl 0-30)]] x1 || 
+|-
+| 5 || Repair Transmutation Damage 1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5814.png</span>&nbsp;[[Small Prism]] x4<br>[[:Category:Items/Equipment|Magic Item]] x1 || 
+|-
+| 10 || Distill Rare Magical Item (0-30) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5814.png</span>&nbsp;[[Small Prism]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 20% &#010;">(!)</sup></span><br>[[:Category:Items/Equipment|Rare Magic Item (Lvl 0-30)]] x1 || 
+|-
+| 15 || Repair Transmutation Damage 2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5814.png</span>&nbsp;[[Small Prism]] x6<br>[[:Category:Items/Equipment|Magic Item]] x1 || 
+|-
+| 20 || Distill Exceptional or Better Magical Item (0-30) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5814.png</span>&nbsp;[[Small Prism]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 25% &#010;">(!)</sup></span><br>[[:Category:Items/Equipment|Exceptional or Better Magic Item (Lvl 0-30)]] x1 || 
+|-
+| 25 || Repair Transmutation Damage 3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5814.png</span>&nbsp;[[Small Prism]] x8<br>[[:Category:Items/Equipment|Magic Item]] x1 || 
+|}

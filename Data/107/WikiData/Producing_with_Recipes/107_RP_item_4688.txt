@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Blacksmithing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 72 || Superb Throwing Knife || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5578.png</span>&nbsp;[[Superb Metal Slab]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5562.png</span>&nbsp;[[Peening Hammer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 20% &#010;">(!)</sup></span><br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5278.png</span>&nbsp;[[Sharpening Stone]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5630.png</span>&nbsp;[[Superb Throwing Knife]] x10
+|}

@@ -1,0 +1,53 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Carpentry]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 10 || Shoddy Chair || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5096.png</span>&nbsp;[[Simple Nails]] x6<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5099.png</span>&nbsp;[[Shoddy Chair]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Leatherworking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Shoddy Leather Practice || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_13007.png</span>&nbsp;[[Single Shoddy Glove]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5174.png</span>&nbsp;[[Pot Holder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5174.png</span>&nbsp;[[Leather Handkerchief]] x1
+|-
+| 1 || Shoddy Leather Boots || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_10005.png</span>&nbsp;[[Shoddy Leather Boots]] x1
+|-
+| 1 || Shoddy Leather Leggings || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_11005.png</span>&nbsp;[[Shoddy Leather Leggings]] x1
+|-
+| 1 || Shoddy Leather Shirt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_12005.png</span>&nbsp;[[Shoddy Leather Shirt]] x1
+|-
+| 1 || Shoddy Leather Gloves || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_13005.png</span>&nbsp;[[Shoddy Leather Gloves]] x1
+|-
+| 1 || Shoddy Leather Helm || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_16005.png</span>&nbsp;[[Shoddy Leather Helmet]] x1
+|-
+| 3 || Shoddy Leather Boots (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x3<br>[[:Category:Items/Crystal|Primary Crystal]] x1<br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_10005.png</span>&nbsp;[[Shoddy Leather Boots]] x1
+|-
+| 3 || Shoddy Leather Leggings (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x3<br>[[:Category:Items/Crystal|Primary Crystal]] x1<br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_11005.png</span>&nbsp;[[Shoddy Leather Leggings]] x1
+|-
+| 3 || Shoddy Leather Shirt (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x3<br>[[:Category:Items/Crystal|Primary Crystal]] x1<br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_12005.png</span>&nbsp;[[Shoddy Leather Shirt]] x1
+|-
+| 3 || Shoddy Leather Gloves (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x3<br>[[:Category:Items/Crystal|Primary Crystal]] x1<br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_13005.png</span>&nbsp;[[Shoddy Leather Gloves]] x1
+|-
+| 3 || Shoddy Leather Helm (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x3<br>[[:Category:Items/Crystal|Primary Crystal]] x1<br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_16005.png</span>&nbsp;[[Shoddy Leather Helmet]] x1
+|-
+| 10 || Rough Leather Leggings || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Rough Leather Roll]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5175.png</span>&nbsp;[[Leather Strips]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_11005.png</span>&nbsp;[[Rough Leather Leggings]] x1
+|-
+| 10 || Rough Leather Shirt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Rough Leather Roll]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5175.png</span>&nbsp;[[Leather Strips]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_12005.png</span>&nbsp;[[Rough Leather Shirt]] x1
+|-
+| 10 || Rough Leather Gloves || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Rough Leather Roll]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_13005.png</span>&nbsp;[[Rough Leather Gloves]] x1
+|-
+| 13 || Rough Leather Leggings (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Rough Leather Roll]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5175.png</span>&nbsp;[[Leather Strips]] x2<br>[[:Category:Items/Crystal|Primary Crystal]] x1<br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_11005.png</span>&nbsp;[[Rough Leather Leggings]] x1
+|-
+| 13 || Rough Leather Shirt (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Rough Leather Roll]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5175.png</span>&nbsp;[[Leather Strips]] x1<br>[[:Category:Items/Crystal|Primary Crystal]] x1<br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_12005.png</span>&nbsp;[[Rough Leather Shirt]] x1
+|-
+| 13 || Rough Leather Gloves (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Rough Leather Roll]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x2<br>[[:Category:Items/Crystal|Primary Crystal]] x1<br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_13005.png</span>&nbsp;[[Rough Leather Gloves]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Tanning]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Leather Strips || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5175.png</span>&nbsp;[[Leather Strips]] x1
+|}

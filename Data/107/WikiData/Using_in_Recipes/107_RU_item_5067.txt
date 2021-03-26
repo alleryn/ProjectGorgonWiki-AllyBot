@@ -1,0 +1,27 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Butchering]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 50 || Butcher Great Steak || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6202.png</span>&nbsp;[[Amazing Steak]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5561.png</span>&nbsp;[[Meat Tenderizer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 5% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6201.png</span>&nbsp;[[Great Steak]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 74 || Top Swamp Steak || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6202.png</span>&nbsp;[[Amazing Steak]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6279.png</span>&nbsp;[[Basil]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5726.png</span>&nbsp;[[Corn]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5672.png</span>&nbsp;[[Swampweed]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5818.png</span>&nbsp;[[Top Swamp Steak]] x2
+|-
+| 77 || Tregetable Steak || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6288.png</span>&nbsp;[[Spriggan Nut]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6285.png</span>&nbsp;[[Peas]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6279.png</span>&nbsp;[[Basil]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6202.png</span>&nbsp;[[Amazing Steak]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5818.png</span>&nbsp;[[Tregetable Steak]] x2
+|-
+| 82 || Steak and Cheese Wraps || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6202.png</span>&nbsp;[[Amazing Steak]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6281.png</span>&nbsp;[[Escarole]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5726.png</span>&nbsp;[[Corn]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5337.png</span>&nbsp;[[Cantal Cheese]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5819.png</span>&nbsp;[[Steak and Cheese Wraps]] x2
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mushroom Farming]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 7 || Mushroom Substrate: Meat || [[:Category:Items/Meat|Meat]] x1<br>[[:Category:Items/Meat|Meat]] x1<br>[[:Category:Items/Meat|Meat]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5535.png</span>&nbsp;[[Mushroom Substrate (Meat)]] x1
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/CheapMeat|Cheap Meat]]

@@ -1,0 +1,21 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Phrenology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Human Phrenology Research || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5293.png</span>&nbsp;[[Human Skull]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5347.png</span>&nbsp;[[Craniometer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 1% &#010;">(!)</sup></span> || 
+|-
+| 1 || Elf Phrenology Research || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5364.png</span>&nbsp;[[Elf Skull]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5347.png</span>&nbsp;[[Craniometer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 1% &#010;">(!)</sup></span> || 
+|-
+| 1 || Rakshasa Phrenology Research || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5366.png</span>&nbsp;[[Rakshasa Skull]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5347.png</span>&nbsp;[[Craniometer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 1% &#010;">(!)</sup></span> || 
+|-
+| 1 || Fae Phrenology Research || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5369.png</span>&nbsp;[[Fae Skull]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5347.png</span>&nbsp;[[Craniometer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 1% &#010;">(!)</sup></span> || 
+|-
+| 1 || Goblin Phrenology Research || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5368.png</span>&nbsp;[[Goblin Skull]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5347.png</span>&nbsp;[[Craniometer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 1% &#010;">(!)</sup></span> || 
+|-
+| 1 || Orc Phrenology Research || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5371.png</span>&nbsp;[[Orc Skull]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5347.png</span>&nbsp;[[Craniometer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 1% &#010;">(!)</sup></span> || 
+|-
+| 1 || Giant Phrenology Research || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5372.png</span>&nbsp;[[Giant Skull]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5347.png</span>&nbsp;[[Craniometer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 1% &#010;">(!)</sup></span> || 
+|}

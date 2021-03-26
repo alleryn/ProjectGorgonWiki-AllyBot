@@ -1,0 +1,11 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Red]] || The Fox Outpost in [[Kur]] || Loves ([[:Category:Items/Egg|Eggs]] : 60*)
+|- style="background:#4AF24A;"
+| [[Julius Patton]] || Western [[Serbule Hills]] || Loves ([[:Category:Items/Egg|Eggs]] : 60*)
+|}
+<nowiki>*</nowiki>[[Weird Egg]] has an effective value different from its base value (20) when gifted as a member of this item category.

@@ -1,0 +1,21 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Calligraphy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 35 || Secret Calligraphy: Broken Open || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5885.png</span>&nbsp;[[Expert Holistic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_12106.png</span>&nbsp;[[Knight's Armor]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 0% &#010;">(!)</sup></span> || Gain insight: '''+7% Piercing Attack Damage'''. (Stacks with regular calligraphy effects)
+|-
+| 40 || Secret Calligraphy: Cold Sea || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5885.png</span>&nbsp;[[Expert Holistic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_11104.png</span>&nbsp;[[Pants of the Yearning Sea]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 0% &#010;">(!)</sup></span> || Gain insight: '''+5 Cold Attack Damage'''. (Stacks with regular calligraphy effects)
+|-
+| 45 || Secret Calligraphy: Clenched Fist || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5885.png</span>&nbsp;[[Expert Holistic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_12106.png</span>&nbsp;[[Knight's Armor]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 0% &#010;">(!)</sup></span><br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5182.png</span>&nbsp;[[Sulfur]] x1 || Gain insight: '''+7% Crushing Attack Damage'''. (Stacks with regular calligraphy effects)
+|-
+| 50 || Secret Calligraphy: Resilience || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5885.png</span>&nbsp;[[Expert Holistic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5184.png</span>&nbsp;[[Magic Tooth]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5185.png</span>&nbsp;[[Tuft of Fur]] x1 || Gain insight: '''-5% Crushing Vulnerability'''. (Stacks with regular calligraphy effects)
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 9 || Word of Power 5 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5081.png</span>&nbsp;[[Nightmare Flesh]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5155.png</span>&nbsp;[[Memory Inhibitor]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5885.png</span>&nbsp;[[Expert Holistic Ink]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}

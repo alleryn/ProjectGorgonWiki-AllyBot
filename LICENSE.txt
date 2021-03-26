@@ -1,0 +1,5 @@
+While in principle i believe in copyLeft, i lack the ambition to unearth the intricacies of intellectual property law to write or understand any license, at least for a project such as this, of which it is unlikely anyone would want to reproduce any part.
+
+Thus i release this, in so far as jurisdictions and whatnoteries allow, into the Public Domain.
+
+Considering this is probably not a legally binding text document, if for some reason someone finds a use for this and doesn't feel comfortable with the looseness of this waiver, i can try to figure out how to release under CC0, a permissive license, or a copyleft license.

@@ -1,0 +1,31 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Artistry]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Small Fireworks || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5091.png</span>&nbsp;[[Rubywall Crystal]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5183.png</span>&nbsp;[[Saltpeter]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5306.png</span>&nbsp;[[Good Parchment]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5401.png</span>&nbsp;[[Small Firework]] x20
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fire Magic]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 25 || Fire Magic Research Level 25 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5183.png</span>&nbsp;[[Saltpeter]] x1 || 
+|-
+| 30 || Fire Magic Research Level 30 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5183.png</span>&nbsp;[[Saltpeter]] x2 || 
+|-
+| 40 || Fire Magic Research Level 40 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5182.png</span>&nbsp;[[Sulfur]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5183.png</span>&nbsp;[[Saltpeter]] x2 || 
+|-
+| 45 || Fire Magic Research Level 45 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5015.png</span>&nbsp;[[Fire Dust]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5182.png</span>&nbsp;[[Sulfur]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5183.png</span>&nbsp;[[Saltpeter]] x2 || 
+|-
+| 50 || Fire Magic Research Level 50 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5015.png</span>&nbsp;[[Fire Dust]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5182.png</span>&nbsp;[[Sulfur]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5183.png</span>&nbsp;[[Saltpeter]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x1 || 
+|-
+| 55 || Fire Magic Research Level 55 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5182.png</span>&nbsp;[[Sulfur]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5183.png</span>&nbsp;[[Saltpeter]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5477.png</span>&nbsp;[[Explosive Runestone]] x1 || 
+|-
+| 60 || Fire Magic Research Level 60 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5182.png</span>&nbsp;[[Sulfur]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5183.png</span>&nbsp;[[Saltpeter]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5477.png</span>&nbsp;[[Explosive Runestone]] x2 || 
+|-
+| 65 || Fire Magic Research Level 65 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5183.png</span>&nbsp;[[Saltpeter]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5477.png</span>&nbsp;[[Explosive Runestone]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5620.png</span>&nbsp;[[Flame Nib]] x2 || 
+|-
+| 70 || Fire Magic Research Level 70 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5183.png</span>&nbsp;[[Saltpeter]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5477.png</span>&nbsp;[[Explosive Runestone]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5620.png</span>&nbsp;[[Flame Nib]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5512.png</span>&nbsp;[[Guano]] x1 || 
+|}

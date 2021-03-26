@@ -1,0 +1,25 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Butchering]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 36 || Butcher Stringy Dinosaur Meat || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5524.png</span>&nbsp;[[Dinosaur Meat]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5561.png</span>&nbsp;[[Meat Tenderizer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 5% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5525.png</span>&nbsp;[[Stringy Dinosaur Meat]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 64 || Dinobites || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5524.png</span>&nbsp;[[Dinosaur Meat]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6281.png</span>&nbsp;[[Escarole]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5676.png</span>&nbsp;[[Rahu Rice]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5778.png</span>&nbsp;[[Olive Oil]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5130.png</span>&nbsp;[[Dinobites]] x1
+|-
+| 69 || Rustic Meatsterpiece || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5223.png</span>&nbsp;[[Raw Great Chicken]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5524.png</span>&nbsp;[[Dinosaur Meat]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6285.png</span>&nbsp;[[Peas]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6279.png</span>&nbsp;[[Basil]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5794.png</span>&nbsp;[[Butter]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5128.png</span>&nbsp;[[Rustic Meatsterpiece]] x2
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mushroom Farming]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 7 || Mushroom Substrate: Meat || [[:Category:Items/Meat|Meat]] x1<br>[[:Category:Items/Meat|Meat]] x1<br>[[:Category:Items/Meat|Meat]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5535.png</span>&nbsp;[[Mushroom Substrate (Meat)]] x1
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/CheapMeat|Cheap Meat]]

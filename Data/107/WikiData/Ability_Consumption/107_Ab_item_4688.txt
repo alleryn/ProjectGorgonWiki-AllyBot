@@ -1,0 +1,66 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3595.png</span> || [[Slicing Ice]] || Simple Throwing Knife (or Crystal Ice x2) || [[Knife Fighting]] || 3 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3598.png</span> || [[Hamstring Throw]] || Simple Throwing Knife (or Crystal Ice x2) || [[Knife Fighting]] || 4 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3599.png</span> || [[Surprise Throw]] || Simple Throwing Knife (or Crystal Ice x2) || [[Knife Fighting]] || 8 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3595.png</span> || [[Slicing Ice 2]] || Basic Throwing Knife (or Crystal Ice x4) || [[Knife Fighting]] || 13 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3598.png</span> || [[Hamstring Throw 2]] || Basic Throwing Knife (or Crystal Ice x4) || [[Knife Fighting]] || 14 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3602.png</span> || [[Fan of Blades]] || Basic Throwing Knife (or Crystal Ice x12) || [[Knife Fighting]] || 15 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3599.png</span> || [[Surprise Throw 2]] || Basic Throwing Knife (or Crystal Ice x4) || [[Knife Fighting]] || 18 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3595.png</span> || [[Slicing Ice 3]] || Good Throwing Knife (or Crystal Ice x6) || [[Knife Fighting]] || 23 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3598.png</span> || [[Hamstring Throw 3]] || Good Throwing Knife (or Crystal Ice x6) || [[Knife Fighting]] || 24 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3599.png</span> || [[Surprise Throw 3]] || Good Throwing Knife (or Crystal Ice x6) || [[Knife Fighting]] || 28 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3602.png</span> || [[Fan of Blades 2]] || Expert's Throwing Knife (or Crystal Ice x24) || [[Knife Fighting]] || 30 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3595.png</span> || [[Slicing Ice 4]] || Expert's Throwing Knife (or Crystal Ice x8) || [[Knife Fighting]] || 33 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3598.png</span> || [[Hamstring Throw 4]] || Expert's Throwing Knife (or Crystal Ice x8) || [[Knife Fighting]] || 34 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3599.png</span> || [[Surprise Throw 4]] || Expert's Throwing Knife (or Crystal Ice x8) || [[Knife Fighting]] || 38 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3595.png</span> || [[Slicing Ice 5]] || Master's Throwing Knife (or Crystal Ice x10) || [[Knife Fighting]] || 43 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3598.png</span> || [[Hamstring Throw 5]] || Master's Throwing Knife (or Crystal Ice x10) || [[Knife Fighting]] || 44 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3602.png</span> || [[Fan of Blades 3]] || Master's Throwing Knife (or Crystal Ice x30) || [[Knife Fighting]] || 45 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3599.png</span> || [[Surprise Throw 5]] || Master's Throwing Knife (or Crystal Ice x10) || [[Knife Fighting]] || 48 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3595.png</span> || [[Slicing Ice 6]] || Amazing Throwing Knife (or Crystal Ice x12) || [[Knife Fighting]] || 53 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3598.png</span> || [[Hamstring Throw 6]] || Amazing Throwing Knife (or Crystal Ice x12) || [[Knife Fighting]] || 54 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3599.png</span> || [[Surprise Throw 6]] || Amazing Throwing Knife (or Crystal Ice x12) || [[Knife Fighting]] || 58 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3602.png</span> || [[Fan of Blades 4]] || Amazing Throwing Knife (or Crystal Ice x36) || [[Knife Fighting]] || 60 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3595.png</span> || [[Slicing Ice 7]] || Astounding Throwing Knife (or Crystal Ice x14) || [[Knife Fighting]] || 63 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3598.png</span> || [[Hamstring Throw 7]] || Astounding Throwing Knife (or Crystal Ice x14) || [[Knife Fighting]] || 64 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3599.png</span> || [[Surprise Throw 7]] || Astounding Throwing Knife (or Crystal Ice x14) || [[Knife Fighting]] || 68 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3602.png</span> || [[Fan of Blades 5]] || Superb Throwing Knife (or Crystal Ice x42) || [[Knife Fighting]] || 70 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3595.png</span> || [[Slicing Ice 8]] || Superb Throwing Knife (or Crystal Ice x16) || [[Knife Fighting]] || 73 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3598.png</span> || [[Hamstring Throw 8]] || Superb Throwing Knife (or Crystal Ice x16) || [[Knife Fighting]] || 74 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3599.png</span> || [[Surprise Throw 8]] || Superb Throwing Knife (or Crystal Ice x16) || [[Knife Fighting]] || 78 || Always || 85%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3602.png</span> || [[Fan of Blades 6]] || Superb Throwing Knife (or Crystal Ice x48) || [[Knife Fighting]] || 80 || Always || 85%
+|}

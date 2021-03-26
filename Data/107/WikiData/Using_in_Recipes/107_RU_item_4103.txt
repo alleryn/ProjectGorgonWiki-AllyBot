@@ -1,0 +1,51 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 25 || Expert Volatile Ink || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Expert Ink]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5015.png</span>&nbsp;[[Fire Dust]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5884.png</span>&nbsp;[[Expert Volatile Ink]] x5
+|-
+| 27 || Expert Holistic Ink || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Expert Ink]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5392.png</span>&nbsp;[[Powdered Mammal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5885.png</span>&nbsp;[[Expert Holistic Ink]] x3
+|-
+| 29 || Expert Caustic Ink || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Expert Ink]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5054.png</span>&nbsp;[[Basic Fish Scales]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5886.png</span>&nbsp;[[Expert Caustic Ink]] x5
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Calligraphy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 37 || Calligraphy: Attention || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Expert Ink]] x1 || Gain access to a combo that affects all enemies within 10 meters.
+|-
+| 38 || Calligraphy: Attention+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Expert Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that affects all enemies within 10 meters. Also gain a passive insight: '''all slashing attacks deal +8% damage'''.
+|-
+| 39 || Calligraphy: Misery || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Expert Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5055.png</span>&nbsp;[[Femur]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5180.png</span>&nbsp;[[Quality Tannin Powder]] x1 || Gain access to a combo that ignites the target, dealing 60 damage over 15 seconds.
+|-
+| 40 || Calligraphy: Misery+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Expert Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5055.png</span>&nbsp;[[Femur]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5180.png</span>&nbsp;[[Quality Tannin Powder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that ignites the target, dealing 60 damage over 15 seconds. Also gain a passive insight: '''all slashing attacks deal +8% damage'''.
+|-
+| 41 || Calligraphy: Blood Power || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Expert Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5005.png</span>&nbsp;[[Blusher Mushroom]] x1 || Gain access to a combo that regenerates your health by +4/sec for 15 seconds.
+|-
+| 42 || Calligraphy: Blood Power+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Expert Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5005.png</span>&nbsp;[[Blusher Mushroom]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that regenerates your health by +4/sec for 15 seconds. Also gain a passive insight: '''First Aid heals you +30'''.
+|-
+| 43 || Calligraphy: Youth || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Expert Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5049.png</span>&nbsp;[[Shark]] x1 || Gain access to a combo that regenerates your power by +3/sec for 10 seconds.
+|-
+| 44 || Calligraphy: Youth+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Expert Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5049.png</span>&nbsp;[[Shark]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that regenerates your power by +3/sec for 10 seconds. Also gain a passive insight: '''First Aid heals you +34'''.
+|-
+| 45 || Calligraphy: Lethargic || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Expert Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5022.png</span>&nbsp;[[Potato]] x1 || Gain access to a combo that affects all enemies within 5 meters and reduces their Rage by 30.
+|-
+| 46 || Calligraphy: Lethargic+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Expert Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5022.png</span>&nbsp;[[Potato]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that affects all enemies within 5 meters and reduces their Rage by 30. Also gain a passive insight: '''all attacks generate 7% less Rage in your targets'''.
+|-
+| 47 || Calligraphy: Stoic || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Expert Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5060.png</span>&nbsp;[[Good First Aid Kit]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5024.png</span>&nbsp;[[Onion]] x1 || Gain access to a combo that heals 10 health, 10 armor, and 10 power
+|-
+| 48 || Calligraphy: Stoic+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Expert Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5060.png</span>&nbsp;[[Good First Aid Kit]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5024.png</span>&nbsp;[[Onion]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that heals 10 health, 10 armor, and 10 power. Also gain a passive insight: '''First Aid heals you +40'''.
+|-
+| 49 || Calligraphy: Despondent || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Expert Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5006.png</span>&nbsp;[[Milk Cap Mushroom]] x1 || Gain access to a combo that reduces enemy's rage by 60 and diminishes the enemy's next attack by 20 damage.
+|-
+| 50 || Calligraphy: Despondent+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Expert Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5006.png</span>&nbsp;[[Milk Cap Mushroom]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that reduces enemy's rage by 60 and diminishes the enemy's next attack by 20 damage. Also gain a passive insight: '''all slashing attacks deal +9% damage'''.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Surveying]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 53 || Ilmari Master's Metal Motherlode Map || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5306.png</span>&nbsp;[[Amazing Parchment]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Expert Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5516.png</span>&nbsp;[[Magic Sand]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 75% &#010;">(!)</sup></span><br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5301.png</span>&nbsp;[[Masterwork Metal Slab]] x5 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5305.png</span>&nbsp;[[Ilmari Desert Master's Metal Motherlode Map]] x1
+|}

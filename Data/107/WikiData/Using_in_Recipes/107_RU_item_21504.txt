@@ -1,0 +1,13 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Brewing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 30 || Goblin Ale (One Glass) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5717.png</span>&nbsp;[[Barley]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5718.png</span>&nbsp;[[Hops]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5732.png</span>&nbsp;[[Goblin Ale Yeast]] x1<br>[[:Category:Items/BrewingFruitA3|Fruit: Red Apple, Grapes, or Orange]] x1<br>[[:Category:Items/BrewingFruitB3|Fruit: Guava, Banana, or Lemon]] x1<br>[[:Category:Items/BrewingMushroomA4|Mushroom Flakes: Parasol, Mycena, Boletus, or Field]] x1<br>[[:Category:Items/BrewingGarnishA3|Oregano, Mandrake Root, or Peppercorns]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5744.png</span>&nbsp;[[Goblin Ale]] x1
+|-
+| 30 || Pale Rum (Un-Aged) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5326.png</span>&nbsp;[[Barrel]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5724.png</span>&nbsp;[[Molasses]] x8<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5732.png</span>&nbsp;[[Goblin Ale Yeast]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Un-Aged Pale Rum]] x1
+|-
+| 33 || Goblin Ale Keg || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5324.png</span>&nbsp;[[Firkin]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5717.png</span>&nbsp;[[Barley]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5718.png</span>&nbsp;[[Hops]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5732.png</span>&nbsp;[[Goblin Ale Yeast]] x1<br>[[:Category:Items/BrewingFruitA3|Fruit: Red Apple, Grapes, or Orange]] x1<br>[[:Category:Items/BrewingFruitB3|Fruit: Guava, Banana, or Lemon]] x1<br>[[:Category:Items/BrewingMushroomA4|Mushroom Flakes: Parasol, Mycena, Boletus, or Field]] x1<br>[[:Category:Items/BrewingGarnishA3|Oregano, Mandrake Root, or Peppercorns]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5745.png</span>&nbsp;[[Goblin Ale Keg]] x1
+|}

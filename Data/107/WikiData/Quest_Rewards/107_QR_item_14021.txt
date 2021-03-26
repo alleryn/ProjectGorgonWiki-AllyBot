@@ -1,0 +1,64 @@
+===Quest Rewards===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Acquired !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Halloween Event: Eat a Pumpkin Pie]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Bat Out]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Kill Lord Serbule]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Kill Faces of Death]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Kill Mortimer]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Kill Mummies]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Kill Empusa]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Kill Anhinda]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Kill the Bonfire Puck]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Kill Flapskulls]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Kill Skeletons in the Fae Realm]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Kill With Your Necro Rat]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Ratkin Tambourines]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Preparing For The Big Party]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: The Unfortunate Cultists]] || style="text-align:center;" | 5 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Kill the Fourth Evil Heart]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Kill the Fifth Evil Heart]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Delivering The Beer]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Help Westley the Elf]] || style="text-align:center;" | 3 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Help Deville the Donkey]] || style="text-align:center;" | 4 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Help Rick the Mirror]] || style="text-align:center;" | 7 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Help Chaf the Gambler]] || style="text-align:center;" | 4 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Bats Eat Bears]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: I Sense a Disturbance]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Bun-Fu Training]] || style="text-align:center;" | 2 || 15 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Find the Lost Scapegoats]] || style="text-align:center;" | 4 || 15 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Help Miss Behaved]] || style="text-align:center;" | 1 || 15 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Help Miss Fits]] || style="text-align:center;" | 2 || 15 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Attack of the World Bosses]] || style="text-align:center;" | 2 || 30 Days || Unknown || Unknown || Unknown || 
+|}

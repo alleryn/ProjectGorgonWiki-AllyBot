@@ -1,0 +1,66 @@
+===Quest Rewards===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Acquired !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Sewer Chicken]] || style="text-align:center;" | 1 || One time only || [[Bogaku]] || Neutral || [[Rahu Sewers]] || 
+|-
+| [[Ratkin Snails]] || style="text-align:center;" | 1 || One time only || [[Bogaku]] || Neutral || [[Rahu Sewers]] || 
+|-
+| [[Underground Trees]] || style="text-align:center;" | 1 || One time only || [[Bogaku]] || Neutral || [[Rahu Sewers]] || 
+|-
+| [[Ratkin Gaming Habits]] || style="text-align:center;" | 1 || One time only || [[Bogaku]] || Neutral || [[Rahu Sewers]] || 
+|-
+| [[Ratkin Appetizers]] || style="text-align:center;" | 1 || One time only || [[Bogaku]] || Comfortable || [[Rahu Sewers]] || 
+|-
+| [[Necro-Rats!]] || style="text-align:center;" | 1 || One time only || [[Bogaku]] || Comfortable || [[Rahu Sewers]] || 
+|-
+| [[Rattus Root, The Book Of Knowledge]] || style="text-align:center;" | 1 || One time only || [[Bogaku]] || Comfortable || [[Rahu Sewers]] || 
+|-
+| [[Necromancy Target Practice]] || style="text-align:center;" | 1 || One time only || [[Bogaku]] || Comfortable || [[Rahu Sewers]] || 
+|-
+| [[Cheese Testing]] || style="text-align:center;" | 1 || One time only || [[Bogaku]] || Friends || [[Rahu Sewers]] || 
+|-
+| [[Punt Some Loungers]] || style="text-align:center;" | 1 || One time only || [[Bogaku]] || Friends || [[Rahu Sewers]] || 
+|-
+| [[Some Miner Tests]] || style="text-align:center;" | 1 || One time only || [[Bogaku]] || Friends || [[Rahu Sewers]] || 
+|-
+| [[More Miner Tests]] || style="text-align:center;" | 1 || One time only || [[Bogaku]] || Friends || [[Rahu Sewers]] || 
+|-
+| [[Lucky Teeth]] || style="text-align:center;" | 1 || One time only || [[Bogaku]] || Neutral || [[Rahu Sewers]] || 
+|-
+| [[If Trees Could Talk]] || style="text-align:center;" | 1 || One time only || [[Bogaku]] || CloseFriends || [[Rahu Sewers]] || 
+|-
+| [[Goblin Avenger: Ratkin Fishtenders]] || style="text-align:center;" | 1 || 66 Hours || Unknown || Neutral || Rahu Sewers || 
+|-
+| [[Goblin Avenger: Off-Duty Ratkin Miners]] || style="text-align:center;" | 1 || 66 Hours || Unknown || Neutral || Rahu Sewers || 
+|-
+| [[Goblin Avenger: Ratkin Miners]] || style="text-align:center;" | 1 || 66 Hours || Unknown || Neutral || Rahu Sewers || 
+|-
+| [[Goblin Avenger: Ratkin Necro-Shamans]] || style="text-align:center;" | 1 || 66 Hours || Unknown || Neutral || Rahu Sewers || 
+|-
+| [[Goblin Avenger: Undying Ratkin Miners]] || style="text-align:center;" | 1 || 66 Hours || Unknown || Neutral || Rahu Sewers || 
+|-
+| [[Goblin Avenger: Necro Rats]] || style="text-align:center;" | 1 || 66 Hours || Unknown || Neutral || Rahu Sewers || 
+|-
+| [[Goblin Avenger: Ratkin Soldiers]] || style="text-align:center;" | 1 || 66 Hours || Unknown || Neutral || Rahu Sewers || 
+|-
+| [[Goblin Avenger: Vipers]] || style="text-align:center;" | 1 || 66 Hours || Unknown || Neutral || Rahu Sewers || 
+|-
+| [[Goblin Avenger: Meat Snails]] || style="text-align:center;" | 1 || 66 Hours || Unknown || Neutral || Rahu Sewers || 
+|-
+| [[Goblin Avenger: Treants]] || style="text-align:center;" | 1 || 66 Hours || Unknown || Neutral || Rahu Sewers || 
+|-
+| [[Goblin Avenger: Undying Ratkin Blasters]] || style="text-align:center;" | 1 || 66 Hours || Unknown || Neutral || Rahu Sewers || 
+|-
+| [[Goblin Avenger: Off-Duty Ratkin Shamans]] || style="text-align:center;" | 1 || 66 Hours || Unknown || Neutral || Rahu Sewers || 
+|-
+| [[Goblin Avenger: Accursed Hippos]] || style="text-align:center;" | 1 || 66 Hours || Unknown || Neutral || Rahu Sewers || 
+|-
+| [[Goblin Avenger: Sewer Rats]] || style="text-align:center;" | 1 || 66 Hours || Unknown || Neutral || Rahu Sewers || 
+|-
+| [[Goblin Avenger: Ratkin!]] || style="text-align:center;" | 2 || 66 Hours || Unknown || Neutral || Rahu Sewers || 
+|-
+| [[Goblin Avenger: Ratkin!!!]] || style="text-align:center;" | 11 || 66 Hours || Unknown || Neutral || Rahu Sewers || 
+|}

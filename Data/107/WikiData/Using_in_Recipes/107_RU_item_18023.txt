@@ -1,0 +1,23 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Dye Making]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 16 || Gray Dye || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5205.png</span>&nbsp;[[Onyx]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5378.png</span>&nbsp;[[Dye Pot]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5379.png</span>&nbsp;[[Gem Crusher]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6003.png</span>&nbsp;[[Gray Dye]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Geology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 30 || Maximized Onyx (via Winterprize) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5205.png</span>&nbsp;[[Onyx]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5863.png</span>&nbsp;[[Winterprize]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5278.png</span>&nbsp;[[Sharpening Stone]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5205.png</span>&nbsp;[[Maximized Onyx]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Sigil Scripting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 25 || Armor Patching Inscription || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5205.png</span>&nbsp;[[Onyx]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 25% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5205.png</span>&nbsp;[[Armor Patching Onyx]] x1
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/Crystal|Crystals]]

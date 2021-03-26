@@ -1,0 +1,11 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Tailoring]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 45 || Enhance Nature Damage of Cloth Pants || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5941.png</span>&nbsp;[[Breadcloth]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5045.png</span>&nbsp;[[Enchanted Holly Seeds]] x1<br>[[:Category:Items/ClothPants|Cloth Pants]] x1 || Adds '''+2% Direct Nature Damage'''.<br>Consumes '''20 Enhancement Points'''.
+|-
+| 50 || Enhance Nature Damage of Cloth Shirt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5941.png</span>&nbsp;[[Breadcloth]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5045.png</span>&nbsp;[[Enchanted Mistletoe]] x1<br>[[:Category:Items/ClothShirt|Cloth Shirt]] x1 || Adds '''+2% Direct Nature Damage'''.<br>Consumes '''20 Enhancement Points'''.
+|}

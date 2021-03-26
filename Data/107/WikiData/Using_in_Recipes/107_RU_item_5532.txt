@@ -1,0 +1,27 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 60 || Memory Enhancer || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5155.png</span>&nbsp;[[Perfect Memory Inhibitor]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5429.png</span>&nbsp;[[Mercury]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5190.png</span>&nbsp;[[Hope Oil]] x1<br>[[:Category:Items/BlueCheese|Blue Cheese]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5432.png</span>&nbsp;[[Memory Enhancer]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x2
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 65 || Autumn Salad || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6281.png</span>&nbsp;[[Escarole]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6224.png</span>&nbsp;[[Dill]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6297.png</span>&nbsp;[[Cranberries]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5707.png</span>&nbsp;[[Almonds]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5342.png</span>&nbsp;[[Danablu Cheese]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 30% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5820.png</span>&nbsp;[[Autumn Salad]] x3
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 7 || Turn Food Into Crystal Ice || [[:Category:Items/Edible|Food or Drink]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Ice Conjuration]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Freeze Food Into Crystal Ice || [[:Category:Items/Edible|Food or Drink]] x1 || 
+|}

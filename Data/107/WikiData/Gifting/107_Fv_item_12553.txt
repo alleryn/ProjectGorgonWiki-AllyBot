@@ -1,0 +1,17 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#9EF24A;"
+| [[Gribburn]] || [[Hogan's Basement]] in Eltibule || Likes ([[:Category:Items/Cheesecloth|Cheesecloth]] : 150*)
+|- style="background:#9EF24A;"
+| [[Elaina]] || The Fairy Tree in [[Sun Vale]] || Likes ([[:Category:Items/Cloth|Cloth]])
+|- style="background:#9EF24A;"
+| [[George Madler]] || Eltibule Keep in [[Eltibule]] || Likes ([[:Category:Items/Cloth|Cloth]])
+|- style="background:#9EF24A;"
+| [[Way]] || [[Myconian Cave]] in Serbule || Likes ([[:Category:Items/Cloth|Cloth]])
+|- style="background:#9EF24A;"
+| [[Mandibles]] || [[Red Wing Casino]] || Likes ([[:Category:Items/CookingIngredient|Cooking Ingredients]])
+|}
+<nowiki>*</nowiki>[[Cheesecloth]] has an effective value different from its base value (84) when gifted as a member of this item category.

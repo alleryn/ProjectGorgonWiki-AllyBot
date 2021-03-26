@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mycology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 15 || Basic Mushroom Turret || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5002.png</span>&nbsp;[[Mycena Mushroom]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5003.png</span>&nbsp;[[Boletus Mushroom]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5004.png</span>&nbsp;[[Field Mushroom]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5786.png</span>&nbsp;[[Basic Mushroom Turret]] x2
+|}

@@ -1,0 +1,12 @@
+===Quest Fulfillment===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Guild: Reclaiming Lydia (10-person)]] || 20 (Amass with Guild any [[:Category:Items/Prism|Prisms]]) || 5 Minutes || [[Percy Evans]] || Unknown || Northeastern [[Eltibule]] || 
+|-
+| [[Guild: Reclaiming Lydia (25-person)]] || 50 (Amass with Guild any [[:Category:Items/Prism|Prisms]]) || 5 Minutes || [[Percy Evans]] || Unknown || Northeastern [[Eltibule]] || 
+|-
+| [[Guild: Reclaiming Lydia (50-person)]] || 100 (Amass with Guild any [[:Category:Items/Prism|Prisms]]) || 5 Minutes || [[Percy Evans]] || Unknown || Northeastern [[Eltibule]] || 
+|}

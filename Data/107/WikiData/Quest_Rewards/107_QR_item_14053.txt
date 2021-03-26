@@ -1,0 +1,68 @@
+===Quest Rewards===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Acquired !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[NEED POTION]] || style="text-align:center;" | 5 || One time only || [[Otis]] || Friends || [[Red Wing Casino]] || 
+|-
+| [[Lucky Rabbit Feet]] || style="text-align:center;" | 5 || One time only || [[Irkima]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[Paralytic Chicken Meat]] || style="text-align:center;" | 5 || One time only || [[Irkima]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[Letting Qatik Down Gently]] || style="text-align:center;" | 2 || One time only || [[Irkima]] || Comfortable || [[Red Wing Casino]] || 
+|-
+| [[Probing Tavilak's History]] || style="text-align:center;" | 2 || One time only || [[Irkima]] || Comfortable || [[Red Wing Casino]] || 
+|-
+| [[Quartz Jewelry]] || style="text-align:center;" | 3 || One time only || [[Eveline Rastin]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[Fae Felt_(Quest)]] || style="text-align:center;" | 3 || One time only || [[Eveline Rastin]] || Comfortable || [[Red Wing Casino]] || 
+|-
+| [[A Message For Willem]] || style="text-align:center;" | 3 || One time only || [[Eveline Rastin]] || Friends || [[Red Wing Casino]] || 
+|-
+| [[Sulfur Bath]] || style="text-align:center;" | 1 || One time only || [[Willem Fangblade]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[Cheese For Reasons]] || style="text-align:center;" | 3 || One time only || [[Willem Fangblade]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[Better Cheese Needed]] || style="text-align:center;" | 3 || One time only || [[Willem Fangblade]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[Still Better Cheese]] || style="text-align:center;" | 3 || One time only || [[Willem Fangblade]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[Kib Wants Fire Resistance]] || style="text-align:center;" | 5 || One time only || [[Kib the Unkillable]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[Goblin Ale_(Quest)]] || style="text-align:center;" | 3 || One time only || [[Kib the Unkillable]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[Metal for Repairs]] || style="text-align:center;" | 5 || One time only || [[Kib the Unkillable]] || Comfortable || [[Red Wing Casino]] || 
+|-
+| [[Better Lac Than Lac?]] || style="text-align:center;" | 5 || One time only || [[Kib the Unkillable]] || Friends || [[Red Wing Casino]] || 
+|-
+| [[Fiddler's New Comb]] || style="text-align:center;" | 2 || One time only || [[Arianna Fangblade]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[Fiddler's Favorite Snack]] || style="text-align:center;" | 2 || One time only || [[Arianna Fangblade]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[Fiddler's Hoof Scrubber]] || style="text-align:center;" | 2 || One time only || [[Arianna Fangblade]] || Comfortable || [[Red Wing Casino]] || 
+|-
+| [[Cottage Pie_(Quest)]] || style="text-align:center;" | 2 || One time only || [[Arianna Fangblade]] || Friends || [[Red Wing Casino]] || 
+|-
+| [[The Natural Food Experience]] || style="text-align:center;" | 5 || One time only || [[Tavilak]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[The Natural Food Experience, pt 2]] || style="text-align:center;" | 5 || One time only || [[Tavilak]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[The Natural Food Experience, pt 3]] || style="text-align:center;" | 10 || One time only || [[Tavilak]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[Keeping Meat Cold]] || style="text-align:center;" | 5 || One time only || [[Mandibles]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[Killing Goblins in Mandibles' Name]] || style="text-align:center;" | 5 || One time only || [[Mandibles]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[Bear Meat Swirlers]] || style="text-align:center;" | 5 || One time only || [[Mandibles]] || Comfortable || [[Red Wing Casino]] || 
+|-
+| [[Specialty Bread Order]] || style="text-align:center;" | 5 || One time only || [[Mandibles]] || Comfortable || [[Red Wing Casino]] || 
+|-
+| [[Casino Excursion: Dark Chapel]] || style="text-align:center;" | 5 || 1 Days || [[Qatik]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[Casino Excursion: Winter Nexus]] || style="text-align:center;" | 5 || 1 Days || [[Qatik]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[Casino Excursion: Ice Caves]] || style="text-align:center;" | 5 || 1 Days || [[Qatik]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[Casino Excursion: Wolf Caves]] || style="text-align:center;" | 5 || 1 Days || [[Qatik]] || Neutral || [[Red Wing Casino]] || 
+|}

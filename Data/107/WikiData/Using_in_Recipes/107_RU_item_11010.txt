@@ -1,0 +1,25 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mycology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 47 || Groxmax Powder || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5694.png</span>&nbsp;[[Groxmax Mushroom]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5018.png</span>&nbsp;[[Blusher Mushroom Flakes]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5014.png</span>&nbsp;[[Groxmax Powder]] x1
+|-
+| 55 || Disastrous Spore Bombs || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5694.png</span>&nbsp;[[Groxmax Mushroom]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5637.png</span>&nbsp;[[Deer Guts]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5686.png</span>&nbsp;[[Disastrous Spore Bomb]] x3
+|-
+| 55 || Horrific Mushroom Turret || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5006.png</span>&nbsp;[[Milk Cap Mushroom]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5007.png</span>&nbsp;[[Blood Mushroom]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5020.png</span>&nbsp;[[Coral Mushroom]] x0<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5694.png</span>&nbsp;[[Groxmax Mushroom]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5786.png</span>&nbsp;[[Horrific Mushroom Turret]] x2
+|-
+| 65 || Disastrous Mushroom Turret || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5007.png</span>&nbsp;[[Blood Mushroom]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5020.png</span>&nbsp;[[Coral Mushroom]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5694.png</span>&nbsp;[[Groxmax Mushroom]] x0<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5695.png</span>&nbsp;[[Porcini Mushroom]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5786.png</span>&nbsp;[[Disastrous Mushroom Turret]] x2
+|-
+| 75 || Nightmarish Mushroom Turret || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5020.png</span>&nbsp;[[Coral Mushroom]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5694.png</span>&nbsp;[[Groxmax Mushroom]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5695.png</span>&nbsp;[[Porcini Mushroom]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5696.png</span>&nbsp;[[Black Foot Morel]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5786.png</span>&nbsp;[[Nightmarish Mushroom Turret]] x2
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Teleportation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 12 || Mushroom-Circle Recall (Groxmax) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5694.png</span>&nbsp;[[Groxmax Mushroom]] x3 || 
+|-
+| 12 || Mushroom-Circle Un-Recall (Groxmax) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5694.png</span>&nbsp;[[Groxmax Mushroom]] x4 || 
+|}

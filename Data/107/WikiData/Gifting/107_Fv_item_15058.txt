@@ -1,0 +1,41 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Echur]] || Serbule Keep in [[Serbule]] || Loves ([[:Category:Items/Drug|Drugs]])
+|- style="background:#9EF24A;"
+| [[Roshun the Traitor]] || The Housing Complex in Northern [[Serbule]] || Likes ([[:Category:Items/GurHorta|Gur Horta]] : 300*)
+|- style="background:#9EF24A;"
+| [[Kohan]] || Rahu City in [[Rahu]] || Likes ([[:Category:Items/ExoticPotion|Exotic Potions]])
+|- style="background:#9EF24A;"
+| [[Yalox]] || The [[Goblin Dungeon]] in Eltibule || Likes ([[:Category:Items/Drug|Drugs]])
+|- style="background:#9EF24A;"
+| [[Voo]] || [[Myconian Cave]] in Serbule || Likes ([[:Category:Items/Alchemy|Alchemy Items]])
+|- style="background:#9EF24A;"
+| [[Velkort]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Potion|Potions]])
+|- style="background:#9EF24A;"
+| [[Ufkar]] || Rahu City in [[Rahu]] || Likes ([[:Category:Items/ExoticPotion|Exotic Potions]])
+|- style="background:#9EF24A;"
+| [[Melandria]] || [[Gazluk Keep]] in Gazluk || Likes ([[:Category:Items/GurHorta|Gur Horta]] : 300*)
+|- style="background:#9EF24A;"
+| [[Nightshade]] || The Outpost in Northwestern [[Kur]] || Likes ([[:Category:Items/GurHorta|Gur Horta]] : 300*)
+|- style="background:#9EF24A;"
+| [[Furlak]] || Rahu City in [[Rahu]] || Likes ([[:Category:Items/ExoticPotion|Exotic Potions]])
+|- style="background:#9EF24A;"
+| [[Daisy (NPC)]] || [[Animal Town]] in Sun Vale || Likes ([[:Category:Items/Potion|Potions]])
+|- style="background:#9EF24A;"
+| [[Flia]] || East of Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Potion|Potions]])
+|- style="background:#9EF24A;"
+| [[Kleave]] || Eltibule Keep in [[Eltibule]] || Likes ([[:Category:Items/Potion|Potions]])
+|- style="background:#F24A4A;"
+| [[Sir Coth]] || Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/Potion|Potions]])
+|- style="background:#F24A4A;"
+| [[Sie Antry]] || Sie Antry's Farm in [[Eltibule]] || Hates ([[:Category:Items/Potion|Potions]])
+|- style="background:#F24A4A;"
+| [[Elahil]] || Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/Drug|Drugs]])
+|- style="background:#F24A4A;"
+| [[Lana Songtree]] || The Tapestry Inn in [[Serbule Hills]] || Hates ([[:Category:Items/Drug|Drugs]])
+|}
+<nowiki>*</nowiki>[[Gur-Horta]] has an effective value different from its base value (100) when gifted as a member of this item category.

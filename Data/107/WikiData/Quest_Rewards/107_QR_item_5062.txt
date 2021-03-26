@@ -1,0 +1,14 @@
+===Quest Rewards===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Acquired !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Potato Beer?]] || style="text-align:center;" | 4 || One time only || [[Brianna Willer]] || Neutral || Western [[Serbule Hills]] || 
+|-
+| [[Mushrooms for Beer]] || style="text-align:center;" | 4 || One time only || [[Brianna Willer]] || Neutral || Western [[Serbule Hills]] || 
+|-
+| [[Collecting Keg Orders]] || style="text-align:center;" | 4 || One time only || [[Brianna Willer]] || Neutral || Western [[Serbule Hills]] || 
+|-
+| [[Rotten Beer Needs Rotten Fruit]] || style="text-align:center;" | 4 || One time only || [[Brianna Willer]] || Comfortable || Western [[Serbule Hills]] || 
+|}

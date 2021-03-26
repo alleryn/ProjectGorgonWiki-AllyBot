@@ -1,0 +1,12 @@
+===Quest Rewards===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Acquired !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Better Skulls Needed]] || style="text-align:center;" | 1 || One time only || [[Glajur]] || Friends || [[Kur Tower]] || 
+|-
+| [[Halloween Event: Bat Out]] || style="text-align:center;" | 1 || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Kill Maligno]] || style="text-align:center;" | 2 || 60 Days || Unknown || Unknown || Unknown || 
+|}

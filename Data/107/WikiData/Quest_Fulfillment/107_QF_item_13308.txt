@@ -1,0 +1,10 @@
+===Quest Fulfillment===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Meditation Stool for Gershok]] || 1 (Collect any [[:Category:Items/MeditationStool|Meditation Stools]]) || One time only || [[Gershok]] || Neutral || Central [[Serbule Hills]] || 
+|}
+=====Work Order=====
+Turn in 10x [[Great Meditation Stool]] to [[Ogamboe]] for 21158 councils. Requires [[Industry]] Level 56.

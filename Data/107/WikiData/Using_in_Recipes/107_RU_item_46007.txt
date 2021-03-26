@@ -1,0 +1,20 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Calligraphy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 17 || Calligraphy: Cunning || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Advanced Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5055.png</span>&nbsp;[[Femur]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_15007.png</span>&nbsp;[[Goblinblade]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 0% &#010;">(!)</sup></span> || Gain access to a combo that reduces enemy's Rage by 40.
+|-
+| 18 || Calligraphy: Cunning+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Advanced Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5055.png</span>&nbsp;[[Femur]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_15007.png</span>&nbsp;[[Goblinblade]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 0% &#010;">(!)</sup></span><br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that reduces enemy's Rage by 40. Also gain a passive insight: '''all attacks generate 6% less Rage in your targets'''.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 2 || Apply Sword Augment || [[:Category:Items/Sword|Sword]] x1<br>[[:Category:Items/MainHandAugment|Weapon Augment]] x1 || 
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/Equipment|Pieces of Equipment]]
+*[[:Category:Items/MainHand|Items Wielded in the Main Hand]]

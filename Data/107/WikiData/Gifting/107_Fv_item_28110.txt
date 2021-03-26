@@ -1,0 +1,11 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#9EF24A;"
+| [[Daisy (NPC)]] || [[Animal Town]] in Sun Vale || Likes ([[:Category:Items/MagicDust|Magic Dusts]])
+|- style="background:#9EF24A;"
+| [[Sona]] || [[New Prestonbule Cave]] in Gazluk || Likes ([[:Category:Items/Phlogiston|Phlogiston]] : 240*)
+|}
+<nowiki>*</nowiki>[[Awesome Phlogiston]] has an effective value different from its base value (120) when gifted as a member of this item category.

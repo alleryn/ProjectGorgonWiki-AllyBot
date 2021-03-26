@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Candle Making]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 35 || Lich Illusion Candle || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6364.png</span>&nbsp;[[Crude Wick]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6372.png</span>&nbsp;[[Crude Tallow]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6303.png</span>&nbsp;[[Creepy Starfish]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5065.png</span>&nbsp;[[Ectoplasm]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5897.png</span>&nbsp;[[Pure Pineal Juice]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6384.png</span>&nbsp;[[Lich Illusion Candle]] x1
+|}

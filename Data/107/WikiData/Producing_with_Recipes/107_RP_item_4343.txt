@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Blacksmithing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 30 || Good Armor Stake || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5298.png</span>&nbsp;[[Basic Metal Slab]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5299.png</span>&nbsp;[[Good Metal Slab]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5562.png</span>&nbsp;[[Peening Hammer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 50% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5568.png</span>&nbsp;[[Good Armor Stake]] x1
+|}

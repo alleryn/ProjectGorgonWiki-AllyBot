@@ -1,0 +1,9 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Toolcrafting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 70 || Carbon-form Scrutinizer Array || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5060.png</span>&nbsp;[[Amazing First Aid Kit]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6350.png</span>&nbsp;[[Articulated Cutting Arm]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6351.png</span>&nbsp;[[Accuracy Circuit]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_4004.png</span>&nbsp;[[Carbon-form Scrutinizer Array]] x1
+|}

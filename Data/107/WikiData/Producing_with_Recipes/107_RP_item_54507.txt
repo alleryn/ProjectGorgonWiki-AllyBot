@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Toolcrafting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 45 || Great Arachnid Harness || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5141.png</span>&nbsp;[[Cedar Wood]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5096.png</span>&nbsp;[[Strong Nails]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5174.png</span>&nbsp;[[Rawhide Sheet]] x1<br>[[:Category:Items/FlawlessSkin|Trophy Skin or Hide]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_20001.png</span>&nbsp;[[Great Arachnid Harness]] x1
+|}

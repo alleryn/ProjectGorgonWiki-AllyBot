@@ -1,0 +1,25 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 25 || Grilled Shrimp Wrap || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5103.png</span>&nbsp;[[Cabbage]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6305.png</span>&nbsp;[[Cleaned Shrimp]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5144.png</span>&nbsp;[[Cedar Wood Chips]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5819.png</span>&nbsp;[[Grilled Shrimp Wrap]] x1
+|-
+| 30 || Rum-Glazed Shrimp || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6305.png</span>&nbsp;[[Cleaned Shrimp]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5468.png</span>&nbsp;[[Sugar]] x1<br>[[:Category:Items/DrinkableRumBarrel|Drinkable Rum Barrel]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Consumes 2 Doses &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5128.png</span>&nbsp;[[Rum-Glazed Shrimp]] x2
+|-
+| 32 || Butter-Fried Shrimp || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6305.png</span>&nbsp;[[Cleaned Shrimp]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5794.png</span>&nbsp;[[Butter]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5024.png</span>&nbsp;[[Onion]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5128.png</span>&nbsp;[[Butter-Fried Shrimp]] x2
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 7 || Turn Food Into Crystal Ice || [[:Category:Items/Edible|Food or Drink]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Ice Conjuration]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Freeze Food Into Crystal Ice || [[:Category:Items/Edible|Food or Drink]] x1 || 
+|}

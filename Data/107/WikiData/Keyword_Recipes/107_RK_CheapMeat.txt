@@ -1,0 +1,34 @@
+==Using in Recipes==
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 13 || Rotten Meat || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5164.png</span>&nbsp;[[Rotten Strawberry]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5468.png</span>&nbsp;[[Sugar]] x1<br>[[:Category:Items/CheapMeat|Cheap Meat x10]] || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5067.png</span>&nbsp;[[Rotten Meat]] x10
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Butchering]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 15 || Collect Filthy Animal Fat || [[:Category:Items/CheapMeat|Cheap Meat (stack of 25)]] || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6367.png</span>&nbsp;[[Filthy Animal Fat]] x1
+|-
+| 30 || Collect Lumpy Animal Fat || [[:Category:Items/CheapMeat|Cheap Meat (stack of 60)]] || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6368.png</span>&nbsp;[[Lumpy Animal Fat]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 8 || Mystery Jerky || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5142.png</span>&nbsp;[[Oak Wood Chips]] x1<br>[[:Category:Items/CheapMeat|Cheap Meat]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Mystery Jerky]] x1
+|-
+| 20 || Peasant's Pie || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5022.png</span>&nbsp;[[Potato]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5024.png</span>&nbsp;[[Onion]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x1<br>[[:Category:Items/CheapMeat|Cheap Meat]] x1<br>[[:Category:Items/CheapMeat|Cheap Meat]] x1<br>[[:Category:Items/CheapMeat|Cheap Meat]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5768.png</span>&nbsp;[[Peasant's Pie]] x1
+|-
+| 30 || Eyeball Soup || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5186.png</span>&nbsp;[[Dinosaur Eye]] x1<br>[[:Category:Items/CheapMeat|Cheap Meat]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5977.png</span>&nbsp;[[Eyeball Soup]] x1
+|-
+| 40 || Yeti Stick || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6204.png</span>&nbsp;[[Great Venison]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5005.png</span>&nbsp;[[Blusher Mushroom]] x1<br>[[:Category:Items/CheapMeat|Cheap Meat]] x1<br>[[:Category:Items/CheapMeat|Cheap Meat]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Yeti Stick]] x1
+|-
+| 45 || Beets 'n Meats || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5101.png</span>&nbsp;[[Beet]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6204.png</span>&nbsp;[[Great Venison]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5041.png</span>&nbsp;[[Flour]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x2<br>[[:Category:Items/CheapMeat|Cheap Meat]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5133.png</span>&nbsp;[[Beets 'n Meats]] x1
+|-
+| 57 || Basic Pepperpot || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5455.png</span>&nbsp;[[Green Pepper]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5105.png</span>&nbsp;[[Squash]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5024.png</span>&nbsp;[[Onion]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br>[[:Category:Items/CheapMeat|Cheap Meat]] x1<br>[[:Category:Items/CheapMeat|Cheap Meat]] x1<br>[[:Category:Items/CheapMeat|Cheap Meat]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5395.png</span>&nbsp;[[Basic Pepperpot]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+[[Category:Items]]

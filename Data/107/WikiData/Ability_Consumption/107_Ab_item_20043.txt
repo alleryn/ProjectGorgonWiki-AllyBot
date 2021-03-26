@@ -1,0 +1,30 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3301.png</span> || [[Poison Arrow]] || Beginner's Reservoir Arrow (or better) || [[Archery]] || 5 || Always || 50%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3302.png</span> || [[Acid Arrow]] || Beginner's Reservoir Arrow (or better) || [[Archery]] || 5 || Always || 50%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3309.png</span> || [[Fire Arrow]] || Beginner's Reservoir Arrow (or better) || [[Archery]] || 5 || Always || 50%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3631.png</span> || [[Restorative Arrow]] || Beginner's Reservoir Arrow (or better) || [[Archery]] || 12 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3301.png</span> || [[Poison Arrow 2]] || Basic Reservoir Arrow (or better) || [[Archery]] || 15 || Always || 40%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3302.png</span> || [[Acid Arrow 2]] || Basic Reservoir Arrow (or better) || [[Archery]] || 15 || Always || 40%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3309.png</span> || [[Fire Arrow 2]] || Basic Reservoir Arrow (or better) || [[Archery]] || 15 || Always || 40%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3631.png</span> || [[Restorative Arrow 2]] || Basic Reservoir Arrow (or better) || [[Archery]] || 24 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3301.png</span> || [[Poison Arrow 3]] || Advanced Reservoir Arrow (or better) || [[Archery]] || 25 || Always || 35%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3302.png</span> || [[Acid Arrow 3]] || Advanced Reservoir Arrow (or better) || [[Archery]] || 25 || Always || 35%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3309.png</span> || [[Fire Arrow 3]] || Advanced Reservoir Arrow (or better) || [[Archery]] || 25 || Always || 35%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3631.png</span> || [[Restorative Arrow 3]] || Advanced Reservoir Arrow (or better) || [[Archery]] || 36 || Always || Never
+|}

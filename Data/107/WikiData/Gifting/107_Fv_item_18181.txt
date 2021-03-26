@@ -1,0 +1,25 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#9EF24A;"
+| [[Azalak]] || The Housing Complex in Northern [[Serbule]] || Likes ([[:Category:Items/Gem|Gems]] : 400*)
+|- style="background:#9EF24A;"
+| [[Larsan]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Gem|Gems]] : 400*)
+|- style="background:#9EF24A;"
+| [[Preta]] || The Fairy Tree in [[Sun Vale]] || Likes ([[:Category:Items/Crystal|Crystals]])
+|- style="background:#9EF24A;"
+| [[Echur]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Gem|Gems]] : 400*)
+|- style="background:#9EF24A;"
+| [[Spot]] || [[Animal Town]] in Sun Vale || Likes ([[:Category:Items/Crystal|Crystals]])
+|- style="background:#9EF24A;"
+| [[Blanche]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Crystal|Crystals]])
+|- style="background:#9EF24A;"
+| [[Urzab]] || Amulna in [[Ilmari]] || Likes ([[:Category:Items/Crystal|Crystals]])<br>Likes ([[:Category:Items/Gem|Gems]] : 400*)
+|- style="background:#9EF24A;"
+| [[Gurki]] || The Outpost in Northwestern [[Kur]] || Likes ([[:Category:Items/WhiteCrystal|White Crystals]])
+|- style="background:#F24A4A;"
+| [[Fainor]] || Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/Crystal|Crystals]])
+|}
+<nowiki>*</nowiki>[[Winterprize]] has an effective value different from its base value (200) when gifted as a member of this item category.

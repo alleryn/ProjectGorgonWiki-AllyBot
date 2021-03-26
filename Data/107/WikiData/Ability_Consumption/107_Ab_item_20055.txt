@@ -1,0 +1,18 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3320.png</span> || [[Snare Arrow]] || Beginner's Snare Arrow || [[Archery]] || 11 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3320.png</span> || [[Snare Arrow 2]] || Basic Snare Arrow || [[Archery]] || 21 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3320.png</span> || [[Snare Arrow 3]] || Advanced Snare Arrow || [[Archery]] || 32 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3320.png</span> || [[Snare Arrow 4]] || Expert's Snare Arrow || [[Archery]] || 41 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3320.png</span> || [[Snare Arrow 5]] || Masterwork Snare Arrow || [[Archery]] || 51 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3320.png</span> || [[Snare Arrow 6]] || Masterwork Snare Arrow || [[Archery]] || 61 || Always || Never
+|}

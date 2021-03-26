@@ -1,0 +1,12 @@
+===Quest Fulfillment===
+<!-- v342 -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Rita Wants Flowers]] || 6 (Collect any [[:Category:Items/Flower|Flowers]]) || 30 Days || [[Rita]] || Tolerated || Serbule Keep in [[Serbule]] || 
+|-
+| [[Event: Lumberjack Arrangements for Delia]] || 10 (Collect) || 20 Hours || Unknown || Unknown || Unknown || 
+|}
+=====Work Order=====
+Turn in 10x [[Lumberjack's_Arrangement_3|Lumberjack's Arrangement #3]] to [[Sheyna]] for 5101 councils. Requires [[Industry]] Level 35.

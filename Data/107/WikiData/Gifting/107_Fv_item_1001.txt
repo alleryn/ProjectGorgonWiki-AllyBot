@@ -1,0 +1,17 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Kelim]] || Amulna in [[Ilmari]] || Loves ([[:Category:Items/MoldDirt|Mold and Dirt]] : 50*)
+|- style="background:#4AF24A;"
+| [[Gretchen Salas]] || In or Around Eltibule Keep in [[Eltibule]] || Loves ([[:Category:Items/MoldDirt|Mold and Dirt]] : 50*)
+|- style="background:#4AF24A;"
+| [[Julius Patton]] || Western [[Serbule Hills]] || Loves ([[:Category:Items/MoldDirt|Mold and Dirt]] : 50*)
+|- style="background:#9EF24A;"
+| [[Daisy (NPC)]] || [[Animal Town]] in Sun Vale || Likes ([[:Category:Items/MagicDust|Magic Dusts]])
+|- style="background:#9EF24A;"
+| [[Ragabir]] || [[Red Wing Casino]] || Likes ([[:Category:Items/AlchemyIngredient|Alchemy Ingredients]])
+|}
+<nowiki>*</nowiki>[[Strange Dirt]] has an effective value different from its base value (1) when gifted as a member of this item category.

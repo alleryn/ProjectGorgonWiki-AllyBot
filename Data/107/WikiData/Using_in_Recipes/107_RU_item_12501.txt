@@ -1,0 +1,21 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Textile Creation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Carded Cotton || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5360.png</span>&nbsp;[[Cotton]] x5 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5361.png</span>&nbsp;[[Carded Cotton]] x1
+|-
+| 2 || Carded Cotton (from Cotton Gin) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5360.png</span>&nbsp;[[Cotton]] x5 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5361.png</span>&nbsp;[[Carded Cotton]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5359.png</span>&nbsp;[[Perfect Cotton]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance of being created: 35% &#010;">(!)</sup></span>
+|-
+| 5 || Canvas || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5362.png</span>&nbsp;[[Coarse Cotton Yarn]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5360.png</span>&nbsp;[[Cotton]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5939.png</span>&nbsp;[[Canvas]] x1
+|-
+| 7 || Butter Muslin || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5362.png</span>&nbsp;[[Coarse Cotton Yarn]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5360.png</span>&nbsp;[[Cotton]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5327.png</span>&nbsp;[[Butter Muslin]] x1
+|-
+| 12 || Cheesecloth || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5363.png</span>&nbsp;[[Fine Cotton Yarn]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5360.png</span>&nbsp;[[Cotton]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5329.png</span>&nbsp;[[Cheesecloth]] x1
+|-
+| 25 || Carded Cotton (Expert Level) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5360.png</span>&nbsp;[[Cotton]] x5 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5361.png</span>&nbsp;[[Carded Cotton]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5359.png</span>&nbsp;[[Perfect Cotton]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance of being created: 50% &#010;">(!)</sup></span>
+|-
+| 45 || Carded Cotton (Master Level) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5360.png</span>&nbsp;[[Cotton]] x4 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5361.png</span>&nbsp;[[Carded Cotton]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5359.png</span>&nbsp;[[Perfect Cotton]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance of being created: 50% &#010;">(!)</sup></span>
+|}

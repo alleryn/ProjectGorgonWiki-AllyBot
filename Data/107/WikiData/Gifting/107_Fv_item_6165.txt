@@ -1,0 +1,57 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Lawara]] || [[Anagoge Island]] || Loves ([[:Category:Items/BreadDish|Bread Dishes]] : 200*)
+|- style="background:#4AF24A;"
+| [[Paul Vaughn]] || A room near the Tapestry Inn in [[Serbule Hills]] || Loves ([[:Category:Items/Dessert|Desserts]] : 200*)
+|- style="background:#4AF24A;"
+| [[Marna]] || Serbule Keep in [[Serbule]] || Loves ([[:Category:Items/VegetarianDish|Vegetarian Dishes]] : 200*)
+|- style="background:#9EF24A;"
+| [[Eleme]] || The Fairy Tree in [[Sun Vale]] || Likes ([[:Category:Items/VegetarianDish|Vegetarian Dishes]] : 200*)
+|- style="background:#9EF24A;"
+| [[Silvia]] || The Druid Camp in [[Sun Vale]] || Likes ([[:Category:Items/FruitDish|Fruit Dishes]] : 200*)
+|- style="background:#9EF24A;"
+| [[Janet Lews]] || The Outpost in Northwestern [[Kur]] || Likes ([[:Category:Items/FruitDish|Fruit Dishes]] : 200*)
+|- style="background:#9EF24A;"
+| [[Fainor]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 150*)
+|- style="background:#9EF24A;"
+| [[Yalox]] || The [[Goblin Dungeon]] in Eltibule || Likes ([[:Category:Items/Dessert|Desserts]] : 200*)
+|- style="background:#9EF24A;"
+| [[Gretchen Salas]] || In or Around Eltibule Keep in [[Eltibule]] || Likes ([[:Category:Items/VegetableDish|Vegetable Dishes]] : 200*)
+|- style="background:#9EF24A;"
+| [[Jumper]] || [[Animal Town]] in Sun Vale || Likes ([[:Category:Items/Snack|Snacks]] : 200* and [[:Category:Items/VegetableDish|Vegetable Dishes]] : 200*)
+|- style="background:#9EF24A;"
+| [[Laura Neth]] || The Outpost in Northwestern [[Kur]] || Likes ([[:Category:Items/Edible|Edible Items]])<br>Likes ([[:Category:Items/Dessert|Desserts]] : 200*)
+|- style="background:#9EF24A;"
+| [[Raul]] || [[Animal Town]] in Sun Vale || Likes ([[:Category:Items/VegetarianDish|Vegetarian Dishes]] : 200*)
+|- style="background:#9EF24A;"
+| [[Thimble Pete]] || [[Hogan's Keep]] in Eltibule || Likes ([[:Category:Items/Dessert|Desserts]] : 200*)
+|- style="background:#9EF24A;"
+| [[Floxie]] || The Fel-Dasculan Ruins in the [[Fae Realm]] || Likes ([[:Category:Items/VegetarianDish|Vegetarian Dishes]] : 200*)
+|- style="background:#9EF24A;"
+| [[Elahil]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 150*)
+|- style="background:#9EF24A;"
+| [[Sir Arif]] || [[Serbule Crypt]] in Serbule || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 150*)<br>Likes ([[:Category:Items/Edible|Edible Items]])
+|- style="background:#9EF24A;"
+| [[Ivyn]] || Ivyn's Farm in [[Serbule]] || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 150*)
+|- style="background:#9EF24A;"
+| [[Hulon the Hoarder]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 150*)
+|- style="background:#F29E4A;"
+| [[Mushroom Jack]] || Serbule Keep in [[Serbule]] || Dislikes ([[:Category:Items/PreparedFood|Prepared Foods]] : 150*)
+|- style="background:#F29E4A;"
+| [[Rita]] || Serbule Keep in [[Serbule]] || Dislikes ([[:Category:Items/Food|Food Items]])
+|- style="background:#F24A4A;"
+| [[Alravesa the All-Hunter]] || Amulna in [[Ilmari]] || Hates ([[:Category:Items/Edible|Edible Items]])
+|- style="background:#F24A4A;"
+| [[Velkort]] || Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/PreparedFood|Prepared Foods]] : 150*)
+|- style="background:#F24A4A;"
+| [[Jaime Fatholm]] || The Tapestry Inn in [[Serbule Hills]] || Hates ([[:Category:Items/PreparedFood|Prepared Foods]] : 150*)
+|- style="background:#F24A4A;"
+| [[Sanja]] || The Campfire in Northwestern [[Kur]] || Hates ([[:Category:Items/VegetableDish|Vegetable Dishes]] : 200*)
+|- style="background:#F24A4A;"
+| [[Flia]] || East of Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/Edible|Edible Items]])
+|}
+<nowiki>*</nowiki>[[Laura Neth's Famous Tart]] has an effective value different from its base value (95) when gifted as a member of this item category.

@@ -1,0 +1,13 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#9EF24A;"
+| [[Syndra]] || A Barn in Central [[Kur]] || Likes ([[:Category:Items/LeatherRoll|Leather Rolls]] : 80*)
+|- style="background:#9EF24A;"
+| [[Qatik]] || [[Red Wing Casino]] || Likes ([[:Category:Items/LeatherRoll|Leather Rolls]] : 80*)
+|- style="background:#F24A4A;"
+| [[Raul]] || [[Animal Town]] in Sun Vale || Hates ([[:Category:Items/LeatherRoll|Leather Rolls]] : 80*)
+|}
+<nowiki>*</nowiki>[[Rough Leather Roll]] has an effective value different from its base value (20) when gifted as a member of this item category.

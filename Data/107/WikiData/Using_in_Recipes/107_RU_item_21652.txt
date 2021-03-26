@@ -1,0 +1,11 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Brewing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Reuse Beer Keg || [[:Category:Items/ReusableBeerKeg|Beer Keg]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5324.png</span>&nbsp;[[Firkin]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance of being created: 95% &#010;">(!)</sup></span>
+|-
+| 12 || Tap Alcohol Keg || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5852.png</span>&nbsp;[[Keg Tap]] x1<br>[[:Category:Items/AlcoholBarrel|Beer Keg or Hard Liquor Barrel]] x1 || 
+|}

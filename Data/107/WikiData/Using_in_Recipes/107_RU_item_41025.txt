@@ -1,0 +1,40 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Turn Junk Into Crystal Ice || [[:Category:Items/VendorTrash|Miscellaneous Junk]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Tailoring]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Add Pockets To Cloth Pants || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5363.png</span>&nbsp;[[Fine Cotton Yarn]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br>[[:Category:Items/ClothPants|Cloth Pants]] x1 || Adds '''+2 Pockets'''.<br>Consumes '''12 Enhancement Points'''.
+|-
+| 18 || Enhance Darkness Damage of Cloth Pants || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5328.png</span>&nbsp;[[Voile Muslin]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5055.png</span>&nbsp;[[Femur]] x1<br>[[:Category:Items/ClothPants|Cloth Pants]] x1 || Adds '''+2% Direct Darkness Damage'''.<br>Consumes '''20 Enhancement Points'''.
+|-
+| 25 || Enhance Fire Damage of Cloth Pants || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5328.png</span>&nbsp;[[Voile Muslin]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5015.png</span>&nbsp;[[Fire Dust]] x1<br>[[:Category:Items/ClothPants|Cloth Pants]] x1 || Adds '''+2% Direct Fire Damage'''.<br>Consumes '''20 Enhancement Points'''.
+|-
+| 28 || Enhance Cold Damage of Cloth Pants || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5329.png</span>&nbsp;[[Cheesecloth]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Ice Core]] x1<br>[[:Category:Items/ClothPants|Cloth Pants]] x1 || Adds '''+2% Direct Cold Damage'''.<br>Consumes '''20 Enhancement Points'''.
+|-
+| 35 || Enhance Electricity Damage of Cloth Pants || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5329.png</span>&nbsp;[[Cheesecloth]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5350.png</span>&nbsp;[[Fulgurite]] x1<br>[[:Category:Items/ClothPants|Cloth Pants]] x1 || Adds '''+2% Direct Electricity Damage'''.<br>Consumes '''20 Enhancement Points'''.
+|-
+| 38 || Enhance Psychic Damage of Cloth Pants || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5329.png</span>&nbsp;[[Cheesecloth]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5280.png</span>&nbsp;[[Pure Cranium Powder]] x1<br>[[:Category:Items/ClothPants|Cloth Pants]] x1 || Adds '''+2% Direct Psychic Damage'''.<br>Consumes '''20 Enhancement Points'''.
+|-
+| 45 || Enhance Nature Damage of Cloth Pants || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5941.png</span>&nbsp;[[Breadcloth]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5938.png</span>&nbsp;[[Cotton Thread]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5045.png</span>&nbsp;[[Enchanted Holly Seeds]] x1<br>[[:Category:Items/ClothPants|Cloth Pants]] x1 || Adds '''+2% Direct Nature Damage'''.<br>Consumes '''20 Enhancement Points'''.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Textile Creation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Dye Cloth Armor (1 color) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5327.png</span>&nbsp;[[Butter Muslin]] x1<br>[[:Category:Items/ClothDyeableArmor|Cloth Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|-
+| 25 || Dye Cloth Armor (2 colors) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5329.png</span>&nbsp;[[Cheesecloth]] x1<br>[[:Category:Items/ClothDyeableArmor|Cloth Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|-
+| 50 || Dye Cloth Armor (3 colors) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5330.png</span>&nbsp;[[Fine Cheesecloth]] x1<br>[[:Category:Items/ClothDyeableArmor|Cloth Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/Equipment|Pieces of Equipment]]
+*[[:Category:Items/Legs|Items Worn on the Legs]]

@@ -1,0 +1,18 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3697.png</span> || [[Carrot Power]] || Carrot || [[Rabbit]] || 10 || 10% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3697.png</span> || [[Carrot Power 2]] || Carrot || [[Rabbit]] || 28 || 10% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3697.png</span> || [[Carrot Power 3]] || Carrot || [[Rabbit]] || 39 || 10% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3697.png</span> || [[Carrot Power 4]] || Carrot || [[Rabbit]] || 55 || 10% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3697.png</span> || [[Carrot Power 5]] || Carrot || [[Rabbit]] || 67 || 10% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3697.png</span> || [[Carrot Power 6]] || Carrot || [[Rabbit]] || 79 || 10% || Never
+|}

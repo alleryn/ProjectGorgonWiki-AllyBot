@@ -1,0 +1,21 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fishing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Crab Meat || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5050.png</span>&nbsp;[[Crab]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Crab Meat]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Meditation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 12 || Meditation #12 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5050.png</span>&nbsp;[[Crab]] x1 || Receive the two combos from a Meditation Pillar, plus a third Combo: Punch+Kick+Any Melee+Hip Throw: final step deals 5 extra damage and affects all enemies within 5 meters.
+|-
+| 13 || Meditation #13 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5050.png</span>&nbsp;[[Crab]] x1 || Receive '''+5% Psychic Resistance''', plus the two combos from a Meditation Pillar, plus a third Combo: Punch+Kick+Any Melee+Hip Throw: final step deals 5 extra damage and affects all enemies within 5 meters.
+|-
+| 14 || Meditation #14 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5050.png</span>&nbsp;[[Crab]] x1 || Receive the two combos from a Meditation Pillar, plus a third Combo: Punch+Any Melee+Any Melee+Punch: final step deals 50 extra damage.
+|-
+| 15 || Meditation #15 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5050.png</span>&nbsp;[[Crab]] x1 || Receive '''+10 Max Power''', plus the two combos from a Meditation Pillar, plus a third Combo: Punch+Any Melee+Any Melee+Punch: final step deals 50 extra damage.
+|}

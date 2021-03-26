@@ -1,0 +1,15 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Armor Patching]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 60 || Acidic Wax: Basic Flesh-Melter || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Potent Acidic Cleanser]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5750.png</span>&nbsp;[[Dwarven N Core]] x1<br>[[:Category:Items/Shield|Shield]] x1 || Infuses a shield with the following power: '''(Wax) Melee Attackers suffer 164 indirect Acid damage while Shield skill Active'''.<br>The wax lasts until you have taken 2000 hits. While waxed, the shield has a requirement of Armor Patching level 60
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Turn Junk Into Crystal Ice || [[:Category:Items/VendorTrash|Miscellaneous Junk]] x1 || 
+|}

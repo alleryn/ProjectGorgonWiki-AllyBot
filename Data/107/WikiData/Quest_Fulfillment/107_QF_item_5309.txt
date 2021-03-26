@@ -1,0 +1,16 @@
+===Quest Fulfillment===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Collect Apples]] || 20 (Collect any [[:Category:Items/Apple|Apples]]) || One time only || Unknown || Unknown || Serbule || 
+|-
+| [[Guild: Resupply Animal Town (10-person)]] || 60 (Amass with Guild) || 5 Minutes || [[Spot]] || Unknown || [[Animal Town]] in Sun Vale || 
+|-
+| [[Guild: Resupply Animal Town (25-person)]] || 150 (Amass with Guild) || 5 Minutes || [[Spot]] || Unknown || [[Animal Town]] in Sun Vale || 
+|-
+| [[Guild: Resupply Animal Town (50-person)]] || 300 (Amass with Guild) || 5 Minutes || [[Spot]] || Unknown || [[Animal Town]] in Sun Vale || 
+|-
+| [[Event: Apples For The Tree]] || 6 (Collect) || 91 Days || [[Echur]] || Unknown || Serbule Keep in [[Serbule]] || 
+|}

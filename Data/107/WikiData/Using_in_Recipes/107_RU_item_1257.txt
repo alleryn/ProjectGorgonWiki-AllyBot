@@ -1,0 +1,69 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 40 || Cow Boost Potion 20% || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Dirty Snow Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5041.png</span>&nbsp;[[Flour]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5437.png</span>&nbsp;[[Cow Boost Potion 20%]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x2
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Armor Patching]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 35 || Safety Wax: Starch 'n Tails || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5101.png</span>&nbsp;[[Beet]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5638.png</span>&nbsp;[[Wolf Tail]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x1<br>[[:Category:Items/Shield|Shield]] x1 || Infuses a shield with the following power: '''(Wax) Max Armor +32 while Shield skill active'''.<br>The wax lasts until you have taken 1250 hits. While waxed, the shield has a requirement of Armor Patching level 35
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Brewing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 40 || Whisky (Drinkable Cask) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Aged Whisky]] x1<br>[[:Category:Items/BrewingFruitB3|Fruit: Guava, Banana, or Lemon]] x1<br>[[:Category:Items/BrewingMushroomB4|Mushroom Flakes/Powders: Field, Blusher, Milk Cap, Blood]] x1<br>[[:Category:Items/BrewingAnimalPartB5|Wolf Teeth, Panther Tail, Deinonychus Claw, Rabbit's Foot, or Bear Gallbladder]] x1<br>[[:Category:Items/BrewingGarnishA4|Oregano, Mandrake Root, Peppercorns or Grass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Whisky]] x1
+|-
+| 50 || Tequila (Drinkable Cask) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Aged Tequila]] x1<br>[[:Category:Items/BrewingFruitB3|Fruit: Guava, Banana, or Lemon]] x1<br>[[:Category:Items/BrewingMushroomB4|Mushroom Flakes/Powders: Field, Blusher, Milk Cap, Blood]] x1<br>[[:Category:Items/BrewingAnimalPartB5|Wolf Teeth, Panther Tail, Deinonychus Claw, Rabbit's Foot, or Bear Gallbladder]] x1<br>[[:Category:Items/BrewingGarnishB4|Cinnamon, Muntok Peppercorns, Seaweed, or Myconian Jelly]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Tequila]] x1
+|-
+| 60 || Dry Gin (Drinkable Cask) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Aged Dry Gin]] x1<br>[[:Category:Items/BrewingFruitC3|Fruit: Pear, Peach, or Green Apple]] x1<br>[[:Category:Items/BrewingMushroomC4|Mushroom Flakes/Powders: Coral, Groxmax, Porcini, Black Foot Morel]] x1<br>[[:Category:Items/BrewingAnimalPartB5|Wolf Teeth, Panther Tail, Deinonychus Claw, Rabbit's Foot, or Bear Gallbladder]] x1<br>[[:Category:Items/BrewingGarnishB4|Cinnamon, Muntok Peppercorns, Seaweed, or Myconian Jelly]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Dry Gin]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 2 || Turn Corpse Trophies Into Crystal Ice || [[:Category:Items/CorpseTrophy|Corpse Trophies]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Beginner's Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x5<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Basic Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Advanced Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Expert Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x6<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Perceive Spawn Premonitions (3 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 3 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|-
+| 0 || Perceive Spawn Premonitions (5 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x2<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 5 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Shamanic Infusion]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 6 || Beginner's Panther Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x1<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Max Health +10'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 6.
+|-
+| 12 || Beginner's Panther Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x1<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Signature Debuff Power Cost -6'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 12.
+|-
+| 22 || Novice's Panther Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x3<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Max Health +20'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 22.
+|-
+| 23 || Beginner's Healthy Neck Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5633.png</span>&nbsp;[[Rat Tail]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x1<br>[[:Category:Items/Necklace|Necklace]] x1 || Infuses a necklace with the following power: '''Psi Health Wave Healing +5'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 23.
+|-
+| 28 || Novice's Panther Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x3<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Signature Debuff Power Cost -9'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 28.
+|-
+| 40 || Novice's Healthy Neck Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5633.png</span>&nbsp;[[Rat Tail]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x3<br>[[:Category:Items/Necklace|Necklace]] x1 || Infuses a necklace with the following power: '''Psi Health Wave Healing +10'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 40.
+|-
+| 42 || Shaman's Panther Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5084.png</span>&nbsp;[[Trophy Panther Skin]] x1<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Max Health +30'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 42.
+|-
+| 44 || Shaman's Panther Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5084.png</span>&nbsp;[[Trophy Panther Skin]] x1<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Signature Debuff Power Cost -14'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 44.
+|-
+| 50 || Shaman's Healthy Neck Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5633.png</span>&nbsp;[[Rat Tail]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5079.png</span>&nbsp;[[Trophy Rhino Hide]] x1<br>[[:Category:Items/Necklace|Necklace]] x1 || Infuses a necklace with the following power: '''Psi Health Wave Healing +15'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 50.
+|}

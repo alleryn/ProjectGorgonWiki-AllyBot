@@ -1,0 +1,17 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Shamanic Infusion]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 47 || Shaman's Dodging Belt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5634.png</span>&nbsp;[[Rat Tooth]] x6<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5633.png</span>&nbsp;[[Rat Tail]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5083.png</span>&nbsp;[[Nice Animal Skin]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5171.png</span>&nbsp;[[Trophy Rat Skin]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_20001.png</span>&nbsp;[[Shaman's Dodging Belt]] x1
+|-
+| 50 || Shaman's Rat Belt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5634.png</span>&nbsp;[[Rat Tooth]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5633.png</span>&nbsp;[[Rat Tail]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5083.png</span>&nbsp;[[Nice Animal Skin]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5171.png</span>&nbsp;[[Trophy Rat Skin]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_20001.png</span>&nbsp;[[Shaman's Rat Belt]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Tanning]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 35 || Nice Leather Roll || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5083.png</span>&nbsp;[[Nice Animal Skin]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5180.png</span>&nbsp;[[Quality Tannin Powder]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5177.png</span>&nbsp;[[Nice Leather Roll]] x1
+|}

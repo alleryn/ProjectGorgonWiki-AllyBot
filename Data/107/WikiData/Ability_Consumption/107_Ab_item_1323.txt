@@ -1,0 +1,46 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Raise Skeletal Archer]] || Femur || [[Necromancy]] || 2 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2201.png</span> || [[Raise Skeletal Swordsman]] || Femur || [[Necromancy]] || 7 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2200.png</span> || [[Raise Skeletal Battle Mage]] || Femur x2 || [[Necromancy]] || 12 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Raise Skeletal Archer 2]] || Femur || [[Necromancy]] || 18 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2201.png</span> || [[Raise Skeletal Swordsman 2]] || Femur || [[Necromancy]] || 22 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2200.png</span> || [[Raise Skeletal Battle Mage 2]] || Femur x2 || [[Necromancy]] || 28 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Raise Skeletal Archer 3]] || Femur || [[Necromancy]] || 32 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2201.png</span> || [[Raise Skeletal Swordsman 3]] || Femur || [[Necromancy]] || 38 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2200.png</span> || [[Raise Skeletal Battle Mage 3]] || Femur x2 || [[Necromancy]] || 42 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Raise Skeletal Archer 4]] || Femur || [[Necromancy]] || 47 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2201.png</span> || [[Raise Skeletal Swordsman 4]] || Femur || [[Necromancy]] || 49 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2200.png</span> || [[Raise Skeletal Battle Mage 4]] || Femur x2 || [[Necromancy]] || 53 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Raise Skeletal Archer 5]] || Femur || [[Necromancy]] || 55 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2201.png</span> || [[Raise Skeletal Swordsman 5]] || Femur || [[Necromancy]] || 58 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2200.png</span> || [[Raise Skeletal Battle Mage 5]] || Femur x2 || [[Necromancy]] || 64 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Raise Skeletal Archer 6]] || Femur || [[Necromancy]] || 67 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2201.png</span> || [[Raise Skeletal Swordsman 6]] || Femur || [[Necromancy]] || 70 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2200.png</span> || [[Raise Skeletal Battle Mage 6]] || Femur x2 || [[Necromancy]] || 75 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Raise Skeletal Archer 7]] || Femur || [[Necromancy]] || 79 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2201.png</span> || [[Raise Skeletal Swordsman 7]] || Femur || [[Necromancy]] || 81 || Always || Never
+|}

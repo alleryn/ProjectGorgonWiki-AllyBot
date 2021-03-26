@@ -1,0 +1,26 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Flia]] || East of Serbule Keep in [[Serbule]] || Loves ([[:Category:Items/KhyrulekLore|Items About Which the Pulsing Crystal has Knowledge]])
+|- style="background:#9EF24A;"
+| [[Agrashab]] || Central [[Sun Vale]] || Likes ([[:Category:Items/AncientCoin|Ancient Coins]])
+|- style="background:#9EF24A;"
+| [[Yasinda]] || [[Hogan's Keep]] in Eltibule || Likes ([[:Category:Items/AncientCoin|Ancient Coins]])
+|- style="background:#9EF24A;"
+| [[Ukorga]] || The Outpost in Northwestern [[Kur]] || Likes ([[:Category:Items/AncientCoin|Ancient Coins]])
+|- style="background:#9EF24A;"
+| [[Velkort]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Antique|Antiques]])
+|- style="background:#9EF24A;"
+| [[Shirogin]] || Rahu City in [[Rahu]] || Likes ([[:Category:Items/Antique|Antiques]])
+|- style="background:#9EF24A;"
+| [[Tadion]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/AncientCoin|Ancient Coins]])
+|- style="background:#9EF24A;"
+| [[Ragabir]] || [[Red Wing Casino]] || Likes ([[:Category:Items/AlchemyIngredient|Alchemy Ingredients]])
+|- style="background:#9EF24A;"
+| [[Blanche]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Antique|Antiques]])
+|- style="background:#F24A4A;"
+| [[Yogzi]] || The Druid Camp in [[Sun Vale]] || Hates ([[:Category:Items/Antique|Antiques]])
+|}

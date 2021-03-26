@@ -1,0 +1,12 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3587.png</span> || [[Health Glyph]] || Amazing Holistic Ink || [[Sigil Scripting]] || 50 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3328.png</span> || [[Restorative Sigil 4]] || Amazing Holistic Ink || [[Sigil Scripting]] || 55 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3327.png</span> || [[Teleportation Sigil]] || Amazing Holistic Ink x2 || [[Sigil Scripting]] || 60 || Always || Never
+|}

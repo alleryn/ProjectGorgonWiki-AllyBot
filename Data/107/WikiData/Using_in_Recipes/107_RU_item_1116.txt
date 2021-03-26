@@ -1,0 +1,99 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 25 || Keep-Me-Alive Juice || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5017.png</span>&nbsp;[[Boletus Mushroom Flakes]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5292.png</span>&nbsp;[[Muntok Peppercorns]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5158.png</span>&nbsp;[[Keep-Me-Alive Juice]] x1
+|-
+| 25 || Gruesome Spooky Punch || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5407.png</span>&nbsp;[[Zombified Hand]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5167.png</span>&nbsp;[[Brain]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5468.png</span>&nbsp;[[Sugar]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5151.png</span>&nbsp;[[Gruesome Spooky Punch]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 40 || Animal Handling Boost Potion 20% || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Dirty Snow Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5895.png</span>&nbsp;[[Fuel Oil]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5437.png</span>&nbsp;[[Animal Handling Boost Potion 20%]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Brewing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Potato Vodka (Drinkable Cask) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Aged Potato Vodka]] x1<br>[[:Category:Items/BrewingFruitA3|Fruit: Red Apple, Grapes, or Orange]] x1<br>[[:Category:Items/BrewingMushroomA4|Mushroom Flakes: Parasol, Mycena, Boletus, or Field]] x1<br>[[:Category:Items/BrewingAnimalPartA5|Boar Tusk, Cat Eyeball, Snail Sinews, Rat Tail, or Basic Fish Scales]] x1<br>[[:Category:Items/BrewingGarnishA4|Oregano, Mandrake Root, Peppercorns or Grass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Potato Vodka]] x1
+|-
+| 10 || Applejack (Drinkable Cask) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Aged Applejack]] x1<br>[[:Category:Items/BrewingFruitA3|Fruit: Red Apple, Grapes, or Orange]] x1<br>[[:Category:Items/BrewingVegetableA4|Beet, Squash, Broccoli, or Carrot]] x1<br>[[:Category:Items/BrewingAnimalPartA5|Boar Tusk, Cat Eyeball, Snail Sinews, Rat Tail, or Basic Fish Scales]] x1<br>[[:Category:Items/BrewingGarnishA4|Oregano, Mandrake Root, Peppercorns or Grass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Applejack]] x1
+|-
+| 20 || Beet Vodka (Drinkable Cask) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Aged Beet Vodka]] x1<br>[[:Category:Items/BrewingFruitB3|Fruit: Guava, Banana, or Lemon]] x1<br>[[:Category:Items/BrewingMushroomA4|Mushroom Flakes: Parasol, Mycena, Boletus, or Field]] x1<br>[[:Category:Items/BrewingAnimalPartA5|Boar Tusk, Cat Eyeball, Snail Sinews, Rat Tail, or Basic Fish Scales]] x1<br>[[:Category:Items/BrewingGarnishA4|Oregano, Mandrake Root, Peppercorns or Grass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Beet Vodka]] x1
+|-
+| 30 || Pale Rum (Drinkable Cask) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Aged Pale Rum]] x1<br>[[:Category:Items/BrewingFruitB3|Fruit: Guava, Banana, or Lemon]] x1<br>[[:Category:Items/BrewingMushroomB4|Mushroom Flakes/Powders: Field, Blusher, Milk Cap, Blood]] x1<br>[[:Category:Items/BrewingAnimalPartA5|Boar Tusk, Cat Eyeball, Snail Sinews, Rat Tail, or Basic Fish Scales]] x1<br>[[:Category:Items/BrewingGarnishA4|Oregano, Mandrake Root, Peppercorns or Grass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Pale Rum]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 30 || Eyeball Soup || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5186.png</span>&nbsp;[[Dinosaur Eye]] x1<br>[[:Category:Items/CheapMeat|Cheap Meat]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5977.png</span>&nbsp;[[Eyeball Soup]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 2 || Turn Corpse Trophies Into Crystal Ice || [[:Category:Items/CorpseTrophy|Corpse Trophies]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fletching]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 41 || Masterwork Arrow Shafts (Organic Recipe) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5277.png</span>&nbsp;[[Cedar Dowels]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5116.png</span>&nbsp;[[Empty Fletching Box]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Potent Acidic Cleanser]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 10% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5116.png</span>&nbsp;[[Drying Box of Masterwork Arrow Shafts]] x1
+|-
+| 51 || Amazing Arrow Shafts (Organic Recipe) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6268.png</span>&nbsp;[[Spruce Dowels]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5116.png</span>&nbsp;[[Empty Fletching Box]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Potent Acidic Cleanser]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 10% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5116.png</span>&nbsp;[[Drying Box of Amazing Arrow Shafts]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Beginner's Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x5<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Basic Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Advanced Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Expert Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x6<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Perceive Spawn Premonitions (3 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 3 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|-
+| 0 || Perceive Spawn Premonitions (5 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x2<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 5 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|-
+| 3 || Word of Power 2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5042.png</span>&nbsp;[[Bluebell]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5468.png</span>&nbsp;[[Sugar]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mushroom Farming]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 11 || Mushroom Substrate: Organs || [[:Category:Items/BodyOrgan|Body Organ]] x1<br>[[:Category:Items/BodyOrgan|Body Organ]] x1<br>[[:Category:Items/BodyOrgan|Body Organ]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5168.png</span>&nbsp;[[Mushroom Substrate (Organs)]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Shamanic Infusion]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 4 || Beginner's Tiger Hands Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5640.png</span>&nbsp;[[Tiger Tail]] x1<br>[[:Category:Items/Hands|Gloves]] x1 || Infuses gloves or gauntlets with the following power: '''Max Armor +13'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 4.
+|-
+| 6 || Beginner's Panther Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x1<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Max Health +10'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 6.
+|-
+| 11 || Beginner's Tiger Pants Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5640.png</span>&nbsp;[[Tiger Tail]] x1<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Power Regen (In-Combat) +1'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 11.
+|-
+| 12 || Beginner's Panther Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x1<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Signature Debuff Power Cost -6'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 12.
+|-
+| 20 || Novice's Tiger Hands Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5640.png</span>&nbsp;[[Tiger Tail]] x3<br>[[:Category:Items/Hands|Gloves]] x1 || Infuses gloves or gauntlets with the following power: '''Max Armor +25'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 20.
+|-
+| 22 || Novice's Panther Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x3<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Max Health +20'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 22.
+|-
+| 27 || Novice's Tiger Pants Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5640.png</span>&nbsp;[[Tiger Tail]] x3<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Power Regen (In-Combat) +3'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 27.
+|-
+| 28 || Novice's Panther Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x3<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Signature Debuff Power Cost -9'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 28.
+|-
+| 40 || Shaman's Tiger Hands Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5640.png</span>&nbsp;[[Tiger Tail]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5080.png</span>&nbsp;[[Trophy Tiger Skin]] x1<br>[[:Category:Items/Hands|Gloves]] x1 || Infuses gloves or gauntlets with the following power: '''Max Armor +45'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 40.
+|-
+| 42 || Shaman's Panther Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5084.png</span>&nbsp;[[Trophy Panther Skin]] x1<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Max Health +30'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 42.
+|-
+| 43 || Shaman's Tiger Pants Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5640.png</span>&nbsp;[[Tiger Tail]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5080.png</span>&nbsp;[[Trophy Tiger Skin]] x1<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Power Regen (In-Combat) +5'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 43.
+|-
+| 44 || Shaman's Panther Headgear Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5084.png</span>&nbsp;[[Trophy Panther Skin]] x1<br>[[:Category:Items/Head|Headgear]] x1 || Infuses a helmet or headgear with the following power: '''Signature Debuff Power Cost -14'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 44.
+|-
+| 60 || Deep Tiger Hands Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x6<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5640.png</span>&nbsp;[[Tiger Tail]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5080.png</span>&nbsp;[[Trophy Tiger Skin]] x1<br>[[:Category:Items/Hands|Gloves]] x1 || Infuses gloves or gauntlets with the following power: '''Max Armor +60'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 60.
+|}

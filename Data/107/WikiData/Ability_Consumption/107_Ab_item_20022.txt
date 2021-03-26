@@ -1,0 +1,14 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3305.png</span> || [[Long Shot]] || Beginner's Long Arrow (or better) || [[Archery]] || 12 || Always || 60%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3630.png</span> || [[Mangling Shot]] || Beginner's Long Arrow (or better) || [[Archery]] || 20 || Always || 60%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3305.png</span> || [[Long Shot 2]] || Basic Long Arrow (or better) || [[Archery]] || 28 || Always || 50%
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3630.png</span> || [[Mangling Shot 2]] || Basic Long Arrow (or better) || [[Archery]] || 30 || Always || 50%
+|}

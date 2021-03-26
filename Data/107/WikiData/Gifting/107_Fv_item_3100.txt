@@ -1,0 +1,18 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Selaxi]] || Amulna in [[Ilmari]] || Loves ([[:Category:Items/CookingRecipe|Cooking Recipes]])
+|- style="background:#9EF24A;"
+| [[Mandibles]] || [[Red Wing Casino]] || Likes ([[:Category:Items/CookingRecipe|Cooking Recipes]])
+|- style="background:#9EF24A;"
+| [[Preta]] || The Fairy Tree in [[Sun Vale]] || Likes ([[:Category:Items/Scroll|Scrolls]])
+|- style="background:#9EF24A;"
+| [[Jesina]] || Sie Antry's Farm in [[Eltibule]] || Likes ([[:Category:Items/CookingRecipe|Cooking Recipes]])
+|- style="background:#9EF24A;"
+| [[Ivyn]] || Ivyn's Farm in [[Serbule]] || Likes ([[:Category:Items/CookingRecipe|Cooking Recipes]])
+|- style="background:#9EF24A;"
+| [[Hulon the Hoarder]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/CookingRecipe|Cooking Recipes]])
+|}

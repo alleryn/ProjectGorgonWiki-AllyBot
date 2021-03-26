@@ -1,0 +1,16 @@
+===Quest Rewards===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Acquired !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Dissolution of Cave Snails]] || style="text-align:center;" | 5 || One time only || [[Sem]] || Neutral || The [[Snowblood Shadow Cave]] in Gazluk || 
+|-
+| [[Inconsiderate Slime Organisms]] || style="text-align:center;" | 1 || One time only || [[Sem]] || Neutral || The [[Snowblood Shadow Cave]] in Gazluk || 
+|-
+| [[The Worst Slug]] || style="text-align:center;" | 5 || One time only || [[Sem]] || Neutral || The [[Snowblood Shadow Cave]] in Gazluk || 
+|-
+| [[Too Many Tenders]] || style="text-align:center;" | 5 || One time only || [[Jaw]] || Neutral || [[Myconian Cave]] in Serbule || 
+|-
+| [[Greta Must Die]] || style="text-align:center;" | 5 || One time only || [[Jaw]] || Neutral || [[Myconian Cave]] in Serbule || 
+|}

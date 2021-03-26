@@ -1,0 +1,13 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Jewelry Augmentation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 8 || Extract Ring Augment (Level 0-30) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5798.png</span>&nbsp;[[Small Ring Ornament]] x20<br>[[:Category:Items/Ring|Ring]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5490.png</span>&nbsp;[[Ring Augment]] x1
+|-
+| 31 || Extract Ring Augment (Level 31-60) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5799.png</span>&nbsp;[[Medium Ring Ornament]] x20<br>[[:Category:Items/Ring|Ring]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5490.png</span>&nbsp;[[Ring Augment]] x1
+|-
+| 61 || Extract Ring Augment (Level 61-90) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5499.png</span>&nbsp;[[Large Ring Ornament]] x20<br>[[:Category:Items/Ring|Ring]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5490.png</span>&nbsp;[[Ring Augment]] x1
+|}

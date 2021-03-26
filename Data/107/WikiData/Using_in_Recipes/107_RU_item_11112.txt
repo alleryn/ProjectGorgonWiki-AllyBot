@@ -1,0 +1,35 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 55 || Porcini Mushroom Suspension || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5017.png</span>&nbsp;[[Porcini Mushroom Flakes]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5146.png</span>&nbsp;[[Porcini Mushroom Suspension]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Brewing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 60 || Dry Gin (Drinkable Cask) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Aged Dry Gin]] x1<br>[[:Category:Items/BrewingFruitC3|Fruit: Pear, Peach, or Green Apple]] x1<br>[[:Category:Items/BrewingMushroomC4|Mushroom Flakes/Powders: Coral, Groxmax, Porcini, Black Foot Morel]] x1<br>[[:Category:Items/BrewingAnimalPartB5|Wolf Teeth, Panther Tail, Deinonychus Claw, Rabbit's Foot, or Bear Gallbladder]] x1<br>[[:Category:Items/BrewingGarnishB4|Cinnamon, Muntok Peppercorns, Seaweed, or Myconian Jelly]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Dry Gin]] x1
+|-
+| 70 || Dwarven Stout (One Glass) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5717.png</span>&nbsp;[[Barley]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5718.png</span>&nbsp;[[Hops]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5736.png</span>&nbsp;[[Dwarven Stout Yeast]] x1<br>[[:Category:Items/BrewingVegetableB4|Green Pepper, Red Pepper, Molasses, or Corn]] x1<br>[[:Category:Items/BrewingFruitC3|Fruit: Pear, Peach, or Green Apple]] x1<br>[[:Category:Items/BrewingMushroomC4|Mushroom Flakes/Powders: Coral, Groxmax, Porcini, Black Foot Morel]] x1<br>[[:Category:Items/BrewingGarnishC3|Mint, Honey, or Juniper Berries]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5744.png</span>&nbsp;[[Dwarven Stout]] x1
+|-
+| 70 || Bourbon (Drinkable Cask) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Aged Bourbon]] x1<br>[[:Category:Items/BrewingFruitC3|Fruit: Pear, Peach, or Green Apple]] x1<br>[[:Category:Items/BrewingMushroomC4|Mushroom Flakes/Powders: Coral, Groxmax, Porcini, Black Foot Morel]] x1<br>[[:Category:Items/BrewingAnimalPartC5|Cockatrice Beak, Worm Tooth, Ectoplasm, Powdered Mammal, or Barghest Flesh]] x1<br>[[:Category:Items/BrewingGarnishC4|Mint, Honey, Juniper Berries, or Almonds]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5722.png</span>&nbsp;[[Bourbon]] x1
+|-
+| 73 || Dwarven Stout Keg || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5324.png</span>&nbsp;[[Firkin]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5717.png</span>&nbsp;[[Barley]] x20<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5718.png</span>&nbsp;[[Hops]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5736.png</span>&nbsp;[[Dwarven Stout Yeast]] x1<br>[[:Category:Items/BrewingVegetableB4|Green Pepper, Red Pepper, Molasses, or Corn]] x1<br>[[:Category:Items/BrewingFruitC3|Fruit: Pear, Peach, or Green Apple]] x1<br>[[:Category:Items/BrewingMushroomC4|Mushroom Flakes/Powders: Coral, Groxmax, Porcini, Black Foot Morel]] x1<br>[[:Category:Items/BrewingGarnishB3|Cinnamon, Muntok Peppercorns, or Seaweed]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5745.png</span>&nbsp;[[Dwarven Stout Keg]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Candle Making]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 64 || Great Brisk Candle || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6365.png</span>&nbsp;[[Nice Wick]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6374.png</span>&nbsp;[[Great Tallow]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5017.png</span>&nbsp;[[Porcini Mushroom Flakes]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6376.png</span>&nbsp;[[Great Brisk Candle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 55 || Swamp Salad || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5672.png</span>&nbsp;[[Swampweed]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5672.png</span>&nbsp;[[Seaweed]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5017.png</span>&nbsp;[[Porcini Mushroom Flakes]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5679.png</span>&nbsp;[[Fancy Vinegar]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5820.png</span>&nbsp;[[Swamp Salad]] x3
+|-
+| 55 || Gobbledygook || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5457.png</span>&nbsp;[[Red Pepper]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5017.png</span>&nbsp;[[Porcini Mushroom Flakes]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5726.png</span>&nbsp;[[Corn]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5672.png</span>&nbsp;[[Seaweed]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6223.png</span>&nbsp;[[Gobbledygook]] x2
+|}

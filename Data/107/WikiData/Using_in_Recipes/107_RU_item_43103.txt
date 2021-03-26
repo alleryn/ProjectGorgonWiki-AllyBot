@@ -1,0 +1,12 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Blacksmithing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Reinforce Metal Gloves || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5297.png</span>&nbsp;[[Simple Metal Slab]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5298.png</span>&nbsp;[[Basic Metal Slab]] x1<br>[[:Category:Items/MetalGloves|Metal Gloves]] x1 || Adds '''+3 Armor'''.<br>Consumes '''20 Enhancement Points'''.
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/Equipment|Pieces of Equipment]]
+*[[:Category:Items/Hands|Items Worn on the Hands]]

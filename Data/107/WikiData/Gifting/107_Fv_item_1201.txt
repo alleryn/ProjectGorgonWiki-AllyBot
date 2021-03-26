@@ -1,0 +1,45 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Fluffikins]] || The Animal Outpost in [[Gazluk]] || Loves ([[:Category:Items/Figurine|Figurines]])
+|- style="background:#4AF24A;"
+| [[Leonard Allenson]] || Near Borghild in [[Serbule]] || Loves ([[:Category:Items/Brass|Brass Items]] : 500*)
+|- style="background:#4AF24A;"
+| [[Kalaba]] || Eltibule Keep in [[Eltibule]] || Loves ([[:Category:Items/Brass|Brass Items]] : 500*)
+|- style="background:#4AF24A;"
+| [[Durstin Tallow]] || The Tapestry Inn in [[Serbule Hills]] || Loves ([[:Category:Items/Figurine|Figurines]])
+|- style="background:#4AF24A;"
+| [[Larsan]] || Serbule Keep in [[Serbule]] || Loves ([[:Category:Items/Figurine|Figurines]])
+|- style="background:#4AF24A;"
+| [[Willem Fangblade]] || [[Red Wing Casino]] || Loves ([[:Category:Items/Brass|Brass Items]] : 500*)
+|- style="background:#4AF24A;"
+| [[Kodan]] || [[Animal Town]] in Sun Vale || Loves ([[:Category:Items/Figurine|Figurines]])
+|- style="background:#9EF24A;"
+| [[Alravesa the All-Hunter]] || Amulna in [[Ilmari]] || Likes ([[:Category:Items/Statue|Statues]])
+|- style="background:#9EF24A;"
+| [[Corey The Croaker]] || The [[Winter Nexus]] || Likes ([[:Category:Items/VendorTrash|Vendor Trash]])
+|- style="background:#9EF24A;"
+| [[Velkort]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Antique|Antiques]])
+|- style="background:#9EF24A;"
+| [[Way]] || [[Myconian Cave]] in Serbule || Likes ([[:Category:Items/VendorTrash|Vendor Trash]])
+|- style="background:#9EF24A;"
+| [[Pickles]] || The [[Sacred Grotto]] in Kur || Likes ([[:Category:Items/Figurine|Figurines]])
+|- style="background:#9EF24A;"
+| [[Shirogin]] || Rahu City in [[Rahu]] || Likes ([[:Category:Items/Antique|Antiques]])
+|- style="background:#9EF24A;"
+| [[Jaw]] || [[Myconian Cave]] in Serbule || Likes ([[:Category:Items/Brass|Brass Items]] : 500*)
+|- style="background:#9EF24A;"
+| [[Mushroom Jack]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/VendorTrash|Vendor Trash]])
+|- style="background:#9EF24A;"
+| [[Blanche]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Antique|Antiques]])
+|- style="background:#F24A4A;"
+| [[Suspicious Cow]] || Wandering Northeast of Eltibule Keep in [[Eltibule]] || Hates ([[:Category:Items/VendorTrash|Vendor Trash]])
+|- style="background:#F24A4A;"
+| [[Helena Veilmoor]] || [[Hogan's Keep]] in Eltibule || Hates ([[:Category:Items/VendorTrash|Vendor Trash]])
+|- style="background:#F24A4A;"
+| [[Yogzi]] || The Druid Camp in [[Sun Vale]] || Hates ([[:Category:Items/Antique|Antiques]])
+|}
+<nowiki>*</nowiki>[[Brass Figurine of a Hag]] has an effective value different from its base value (200) when gifted as a member of this item category.

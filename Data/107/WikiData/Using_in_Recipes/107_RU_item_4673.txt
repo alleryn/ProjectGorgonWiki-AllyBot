@@ -1,0 +1,31 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Carpentry]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 60 || Quality Storage Crate || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5141.png</span>&nbsp;[[Cedar Wood]] x6<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5096.png</span>&nbsp;[[Strong Nails]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5174.png</span>&nbsp;[[Rawhide Sheet]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5599.png</span>&nbsp;[[Expert Wood Glue]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5116.png</span>&nbsp;[[Quality Storage Crate]] x1
+|-
+| 70 || Great Storage Crate || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5698.png</span>&nbsp;[[Spruce Wood]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5096.png</span>&nbsp;[[Strong Nails]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5174.png</span>&nbsp;[[Rawhide Sheet]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5599.png</span>&nbsp;[[Expert Wood Glue]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5116.png</span>&nbsp;[[Great Storage Crate]] x1
+|-
+| 80 || Amazing Storage Crate || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5698.png</span>&nbsp;[[Spruce Wood]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5096.png</span>&nbsp;[[Strong Nails]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5174.png</span>&nbsp;[[Rawhide Sheet]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5599.png</span>&nbsp;[[Expert Wood Glue]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5116.png</span>&nbsp;[[Amazing Storage Crate]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fletching]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 50 || Precision Fletching || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Feathers]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5599.png</span>&nbsp;[[Expert Wood Glue]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Potent Acidic Cleanser]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 10% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Precision Fletchings]] x1
+|-
+| 59 || Amazing Snare Arrow || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6266.png</span>&nbsp;[[Amazing Arrowheads]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5233.png</span>&nbsp;[[Amazing Arrow Shafts]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Precision Fletchings]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5073.png</span>&nbsp;[[Spiderweb]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5599.png</span>&nbsp;[[Expert Wood Glue]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6264.png</span>&nbsp;[[Amazing Snare Arrow]] x1000
+|-
+| 69 || Astonishing Snare Arrow || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6267.png</span>&nbsp;[[Astonishing Arrowheads]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6269.png</span>&nbsp;[[Astonishing Arrow Shafts]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5226.png</span>&nbsp;[[Precision Fletchings]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5073.png</span>&nbsp;[[Spiderweb]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5599.png</span>&nbsp;[[Expert Wood Glue]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6264.png</span>&nbsp;[[Astonishing Snare Arrow]] x1000
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Gadgeteering]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 20 || Standard Item Raffler || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5141.png</span>&nbsp;[[Cedar Wood]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5599.png</span>&nbsp;[[Expert Wood Glue]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5587.png</span>&nbsp;[[Copper Ore]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5513.png</span>&nbsp;[[Standard Item Raffler]] x1
+|-
+| 50 || Ultra Item Raffler || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5326.png</span>&nbsp;[[Barrel]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5599.png</span>&nbsp;[[Expert Wood Glue]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Ultimate Acidic Cleanser]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5513.png</span>&nbsp;[[Ultra Item Raffler]] x1
+|}

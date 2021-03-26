@@ -1,0 +1,53 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Ratuk the Thinker]] || The Ice Floes in Western [[Kur]] || Loves ([[:Category:Items/Citrus|Citrus Foods and Drinks]])
+|- style="background:#4AF24A;"
+| [[Tyler Green]] || The Tapestry Inn in [[Serbule Hills]] || Loves ([[:Category:Items/Citrus|Citrus Foods and Drinks]])
+|- style="background:#9EF24A;"
+| [[Silvia]] || The Druid Camp in [[Sun Vale]] || Likes ([[:Category:Items/FruitDish|Fruit Dishes]] : 300*)
+|- style="background:#9EF24A;"
+| [[Janet Lews]] || The Outpost in Northwestern [[Kur]] || Likes ([[:Category:Items/FruitDish|Fruit Dishes]] : 300*)
+|- style="background:#9EF24A;"
+| [[Fainor]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 225*)
+|- style="background:#9EF24A;"
+| [[Firaki]] || Amulna in [[Ilmari]] || Likes ([[:Category:Items/FishDish|Fish Dishes]] : 300*)
+|- style="background:#9EF24A;"
+| [[Gershok]] || Central [[Serbule Hills]] || Likes ([[:Category:Items/FishDish|Fish Dishes]] : 300*)
+|- style="background:#9EF24A;"
+| [[Kelim]] || Amulna in [[Ilmari]] || Likes ([[:Category:Items/FishDish|Fish Dishes]] : 300*)
+|- style="background:#9EF24A;"
+| [[Laura Neth]] || The Outpost in Northwestern [[Kur]] || Likes ([[:Category:Items/Edible|Edible Items]])
+|- style="background:#9EF24A;"
+| [[Rappanel]] || The Tapestry Inn in [[Serbule Hills]] || Likes ([[:Category:Items/FishDish|Fish Dishes]] : 300*)
+|- style="background:#9EF24A;"
+| [[Elahil]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 225*)
+|- style="background:#9EF24A;"
+| [[Ivyn]] || Ivyn's Farm in [[Serbule]] || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 225*)
+|- style="background:#9EF24A;"
+| [[Hulon the Hoarder]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 225*)
+|- style="background:#F2F24A;"
+| [[Sir Arif]] || [[Serbule Crypt]] in Serbule || Hates ([[:Category:Items/FishDish|Fish Dishes]] : 300*)<br>Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 225*)<br>Likes ([[:Category:Items/Edible|Edible Items]])
+|- style="background:#F29E4A;"
+| [[Mushroom Jack]] || Serbule Keep in [[Serbule]] || Dislikes ([[:Category:Items/PreparedFood|Prepared Foods]] : 225*)
+|- style="background:#F29E4A;"
+| [[Rita]] || Serbule Keep in [[Serbule]] || Dislikes ([[:Category:Items/Food|Food Items]])
+|- style="background:#F24A4A;"
+| [[Alravesa the All-Hunter]] || Amulna in [[Ilmari]] || Hates ([[:Category:Items/Edible|Edible Items]])
+|- style="background:#F24A4A;"
+| [[Kalaba]] || Eltibule Keep in [[Eltibule]] || Hates ([[:Category:Items/Citrus|Citrus Foods and Drinks]])
+|- style="background:#F24A4A;"
+| [[Ukorga]] || The Outpost in Northwestern [[Kur]] || Hates ([[:Category:Items/Citrus|Citrus Foods and Drinks]])
+|- style="background:#F24A4A;"
+| [[Velkort]] || Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/PreparedFood|Prepared Foods]] : 225*)
+|- style="background:#F24A4A;"
+| [[Jaime Fatholm]] || The Tapestry Inn in [[Serbule Hills]] || Hates ([[:Category:Items/PreparedFood|Prepared Foods]] : 225*)
+|- style="background:#F24A4A;"
+| [[Therese]] || Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/FishDish|Fish Dishes]] : 300*)
+|- style="background:#F24A4A;"
+| [[Flia]] || East of Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/Edible|Edible Items]])
+|}
+<nowiki>*</nowiki>[[Orange Perch]] has an effective value different from its base value (138) when gifted as a member of this item category.

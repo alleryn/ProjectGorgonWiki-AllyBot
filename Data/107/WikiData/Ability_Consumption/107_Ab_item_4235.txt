@@ -1,0 +1,16 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2254.png</span> || [[First Aid Bomb]] || Simple First Aid Bomb || [[First Aid]] || 1 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2254.png</span> || [[First Aid Bomb 2]] || Basic First Aid Bomb || [[First Aid]] || 10 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2254.png</span> || [[First Aid Bomb 3]] || Good First Aid Bomb || [[First Aid]] || 20 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2254.png</span> || [[First Aid Bomb 4]] || Expert's First Aid Bomb || [[First Aid]] || 30 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2254.png</span> || [[First Aid Bomb 5]] || Master First Aid Bomb || [[First Aid]] || 40 || Always || Never
+|}

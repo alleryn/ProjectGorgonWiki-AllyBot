@@ -1,0 +1,9 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Weapon Augmentation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 45 || Extract Off-Hand Augment (Level 31-60) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5803.png</span>&nbsp;[[Medium Off-Hand Bead]] x20<br>[[:Category:Items/OffHand|Off-Hand Item]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5488.png</span>&nbsp;[[Off-Hand Augment]] x1
+|}

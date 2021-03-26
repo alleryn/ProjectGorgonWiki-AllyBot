@@ -1,0 +1,37 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Hogan]] || [[Hogan's Keep]] in Eltibule || Loves ([[:Category:Items/Fruit|Fruits]] : 160*)
+|- style="background:#4AF24A;"
+| [[Hiral]] || The Fairy Tree in [[Sun Vale]] || Loves ([[:Category:Items/Fruit|Fruits]] : 160*)
+|- style="background:#9EF24A;"
+| [[Red]] || The Fox Outpost in [[Kur]] || Likes ([[:Category:Items/Fruit|Fruits]] : 160*)
+|- style="background:#9EF24A;"
+| [[Barnaby]] || The [[Sacred Grotto]] in Kur || Likes ([[:Category:Items/Fruit|Fruits]] : 160*)
+|- style="background:#9EF24A;"
+| [[Aralorn]] || The Animal Outpost in [[Gazluk]] || Likes ([[:Category:Items/Fruit|Fruits]] : 160*)
+|- style="background:#9EF24A;"
+| [[Tangle]] || The [[Sacred Grotto]] in Kur || Likes ([[:Category:Items/Fruit|Fruits]] : 160*)
+|- style="background:#9EF24A;"
+| [[Laura Neth]] || The Outpost in Northwestern [[Kur]] || Likes ([[:Category:Items/Edible|Edible Items]])
+|- style="background:#9EF24A;"
+| [[Rubi]] || The [[Sacred Grotto]] in Kur || Likes ([[:Category:Items/Fruit|Fruits]] : 160*)
+|- style="background:#9EF24A;"
+| [[Cassie]] || The [[Sacred Grotto]] in Kur || Likes ([[:Category:Items/Fruit|Fruits]] : 160*)
+|- style="background:#9EF24A;"
+| [[Ragabir]] || [[Red Wing Casino]] || Likes ([[:Category:Items/AlchemyIngredient|Alchemy Ingredients]])
+|- style="background:#9EF24A;"
+| [[Mandibles]] || [[Red Wing Casino]] || Likes ([[:Category:Items/CookingIngredient|Cooking Ingredients]])
+|- style="background:#9EF24A;"
+| [[Sir Arif]] || [[Serbule Crypt]] in Serbule || Likes ([[:Category:Items/Edible|Edible Items]])
+|- style="background:#F29E4A;"
+| [[Rita]] || Serbule Keep in [[Serbule]] || Dislikes ([[:Category:Items/Food|Food Items]])
+|- style="background:#F24A4A;"
+| [[Alravesa the All-Hunter]] || Amulna in [[Ilmari]] || Hates ([[:Category:Items/Edible|Edible Items]])
+|- style="background:#F24A4A;"
+| [[Flia]] || East of Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/Edible|Edible Items]])
+|}
+<nowiki>*</nowiki>[[Banana]] has an effective value different from its base value (40) when gifted as a member of this item category.

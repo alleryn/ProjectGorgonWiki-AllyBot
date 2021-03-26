@@ -1,0 +1,20 @@
+===Quest Rewards===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Acquired !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Proof of Rahu's Involvement]] || style="text-align:center;" | 6 || One time only || [[Rick Snapley]] || Despised || [[New Prestonbule Cave]] in Gazluk || 
+|-
+| [[Lumber for Campsite Repairs]] || style="text-align:center;" | 1 || One time only || [[Fluffikins]] || Neutral || The Animal Outpost in [[Gazluk]] || 
+|-
+| [[Ice Slick Explosion]] || style="text-align:center;" | 2 || 1 Days || [[Trekker]] || Despised || The Animal Outpost in [[Gazluk]] || Warden-only
+|-
+| [[Barghests Loose]] || style="text-align:center;" | 2 || 1 Days || [[Trekker]] || Despised || The Animal Outpost in [[Gazluk]] || Warden-only
+|-
+| [[Tornadoes and Spiders!]] || style="text-align:center;" | 2 || 1 Days || [[Lumpfuzz]] || Despised || Amulna in [[Ilmari]] || Warden-only
+|-
+| [[Sand Dogs of Doom]] || style="text-align:center;" | 2 || 1 Days || [[Lumpfuzz]] || Despised || Amulna in [[Ilmari]] || Warden-only
+|-
+| [[March of the Elementals]] || style="text-align:center;" | 2 || 1 Days || [[Lumpfuzz]] || Despised || Amulna in [[Ilmari]] || Warden-only
+|}

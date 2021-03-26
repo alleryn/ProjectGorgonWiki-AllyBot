@@ -1,0 +1,33 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Dye Making]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 16 || Dark Olive Green Dye || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5208.png</span>&nbsp;[[Malachite]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5378.png</span>&nbsp;[[Dye Pot]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5379.png</span>&nbsp;[[Gem Crusher]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6050.png</span>&nbsp;[[Dark Olive Green Dye]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Sigil Scripting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 25 || Cow Inscription || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5208.png</span>&nbsp;[[Malachite]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 25% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5208.png</span>&nbsp;[[Cow Malachite]] x1
+|-
+| 25 || Deer Inscription || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5208.png</span>&nbsp;[[Malachite]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 25% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5208.png</span>&nbsp;[[Deer Malachite]] x1
+|-
+| 25 || Pig Inscription || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5208.png</span>&nbsp;[[Malachite]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 25% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5208.png</span>&nbsp;[[Pig Malachite]] x1
+|-
+| 25 || Spider Inscription || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5208.png</span>&nbsp;[[Malachite]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 25% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5208.png</span>&nbsp;[[Spider Malachite]] x1
+|-
+| 25 || Bat Inscription || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5208.png</span>&nbsp;[[Malachite]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 25% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5208.png</span>&nbsp;[[Bat Malachite]] x1
+|-
+| 25 || Rabbit Inscription || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5208.png</span>&nbsp;[[Malachite]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 25% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5208.png</span>&nbsp;[[Rabbit Malachite]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Teleportation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 22 || Recall Heart's Home || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5015.png</span>&nbsp;[[Fire Dust]] x1<br>[[:Category:Items/GreenCrystal|Green Crystal]] x1 || 
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/Crystal|Crystals]]

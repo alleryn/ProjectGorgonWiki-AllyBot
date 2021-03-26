@@ -1,0 +1,37 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Calligraphy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 25 || Calligraphy: Destruction || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Advanced Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5048.png</span>&nbsp;[[Perch]] x1 || Gain access to a combo that deals 35 extra damage.
+|-
+| 26 || Calligraphy: Destruction+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Advanced Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5048.png</span>&nbsp;[[Perch]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that deals 35 extra damage. Also gain a passive insight: '''all slashing attacks deal +6% damage'''.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fishing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 20 || Perch Fillet || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5048.png</span>&nbsp;[[Perch]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5037.png</span>&nbsp;[[Perch Fillet]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5054.png</span>&nbsp;[[Basic Fish Scales]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance of being created: 20% &#010;">(!)</sup></span>
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Meditation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 44 || Meditation #44 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5048.png</span>&nbsp;[[Perch]] x1 || Receive the two combos from a Meditation Pillar, plus a third Combo: Punch+Barrage+Punch+Cobra Strike: final step deals 50 extra damage and heals you for 60 health.
+|-
+| 45 || Meditation #45 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5048.png</span>&nbsp;[[Perch]] x1 || Receive '''+10% Critical Damage''', plus the two combos from a Meditation Pillar, plus a third Combo: Punch+Barrage+Punch+Cobra Strike: final step deals 50 extra damage and heals you for 60 health.
+|-
+| 46 || Meditation #46 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5048.png</span>&nbsp;[[Perch]] x1 || Receive the two combos from a Meditation Pillar, plus a third Combo: Kick+Barrage+Any Melee+Kick: final step deals 150 extra damage.
+|-
+| 47 || Meditation #47 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5048.png</span>&nbsp;[[Perch]] x1 || Receive '''+20% Cold Resistance''', plus the two combos from a Meditation Pillar, plus a third Combo: Kick+Barrage+Any Melee+Kick: final step deals 150 extra damage.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mycology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Lycanspore Bomb || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5004.png</span>&nbsp;[[Field Mushroom]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5048.png</span>&nbsp;[[Perch]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5042.png</span>&nbsp;[[Wolfsbane]] x3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5686.png</span>&nbsp;[[Lycanspore Bomb]] x3
+|-
+| 25 || Deadly Spore Bombs || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5003.png</span>&nbsp;[[Boletus Mushroom]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5048.png</span>&nbsp;[[Perch]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5686.png</span>&nbsp;[[Deadly Spore Bomb]] x3
+|}

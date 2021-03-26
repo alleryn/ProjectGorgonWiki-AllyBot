@@ -1,0 +1,18 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Free-Summon Skeletal Archer]] || Humanoid Skull || [[Necromancy]] || 1 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Free-Summon Skeletal Archer 2]] || Impressive Humanoid Skull || [[Necromancy]] || 25 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Free-Summon Skeletal Archer 3]] || Impressive Humanoid Skull || [[Necromancy]] || 42 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Free-Summon Skeletal Archer 4]] || Impressive Humanoid Skull || [[Necromancy]] || 52 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Free-Summon Skeletal Archer 5]] || Impressive Humanoid Skull || [[Necromancy]] || 63 || Always || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_2199.png</span> || [[Free-Summon Skeletal Archer 6]] || Impressive Humanoid Skull || [[Necromancy]] || 73 || Always || Never
+|}

@@ -1,0 +1,55 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 55 || Infinite Potion of Healing || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6249.png</span>&nbsp;[[Magic Ooze Syrup]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5186.png</span>&nbsp;[[Pemphredo Eye]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5634.png</span>&nbsp;[[Rat Tooth]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5791.png</span>&nbsp;[[Eyestalk]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5552.png</span>&nbsp;[[Ultra Lac]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6250.png</span>&nbsp;[[Infinite Potion of Healing]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 2 || Turn Corpse Trophies Into Crystal Ice || [[:Category:Items/CorpseTrophy|Corpse Trophies]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Beginner's Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x5<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Basic Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Advanced Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Expert Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x6<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Perceive Spawn Premonitions (3 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 3 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|-
+| 0 || Perceive Spawn Premonitions (5 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x2<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 5 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Shamanic Infusion]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 14 || Beginner's Dodging Belt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5634.png</span>&nbsp;[[Rat Tooth]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5633.png</span>&nbsp;[[Rat Tail]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5078.png</span>&nbsp;[[Rough Animal Skin]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_20001.png</span>&nbsp;[[Beginner's Dodging Belt]] x1
+|-
+| 15 || Beginner's Chest Carapace Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5634.png</span>&nbsp;[[Rat Tooth]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5425.png</span>&nbsp;[[Spider Carapace]] x1<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Crushing Damage Reduction +3, Trauma Damage Reduction +3'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 15.
+|-
+| 15 || Beginner's Rat Belt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5634.png</span>&nbsp;[[Rat Tooth]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5633.png</span>&nbsp;[[Rat Tail]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5078.png</span>&nbsp;[[Rough Animal Skin]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_20001.png</span>&nbsp;[[Beginner's Rat Belt]] x1
+|-
+| 30 || Novice's Chest Carapace Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5634.png</span>&nbsp;[[Rat Tooth]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5425.png</span>&nbsp;[[Spider Carapace]] x2<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Crushing Damage Reduction +7, Trauma Damage Reduction +7'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 30.
+|-
+| 30 || Novice's Rat Belt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5634.png</span>&nbsp;[[Rat Tooth]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5633.png</span>&nbsp;[[Rat Tail]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5172.png</span>&nbsp;[[Decent Animal Skin]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_20001.png</span>&nbsp;[[Novice's Rat Belt]] x1
+|-
+| 32 || Novice's Dodging Belt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5634.png</span>&nbsp;[[Rat Tooth]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5633.png</span>&nbsp;[[Rat Tail]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5172.png</span>&nbsp;[[Decent Animal Skin]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_20001.png</span>&nbsp;[[Novice's Dodging Belt]] x1
+|-
+| 45 || Shaman's Chest Carapace Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5634.png</span>&nbsp;[[Rat Tooth]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5425.png</span>&nbsp;[[Spider Carapace]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5078.png</span>&nbsp;[[Trophy Deer Skin]] x1<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Crushing Damage Reduction +12, Trauma Damage Reduction +12'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 45.
+|-
+| 47 || Shaman's Dodging Belt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5634.png</span>&nbsp;[[Rat Tooth]] x6<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5633.png</span>&nbsp;[[Rat Tail]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5083.png</span>&nbsp;[[Nice Animal Skin]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5171.png</span>&nbsp;[[Trophy Rat Skin]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_20001.png</span>&nbsp;[[Shaman's Dodging Belt]] x1
+|-
+| 50 || Shaman's Rat Belt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5634.png</span>&nbsp;[[Rat Tooth]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5633.png</span>&nbsp;[[Rat Tail]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5083.png</span>&nbsp;[[Nice Animal Skin]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5171.png</span>&nbsp;[[Trophy Rat Skin]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_20001.png</span>&nbsp;[[Shaman's Rat Belt]] x1
+|-
+| 57 || Deep Chest Carapace Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5634.png</span>&nbsp;[[Rat Tooth]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5425.png</span>&nbsp;[[Spider Carapace]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5078.png</span>&nbsp;[[Trophy Deer Skin]] x1<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Crushing Damage Reduction +16, Trauma Damage Reduction +16'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 57.
+|}

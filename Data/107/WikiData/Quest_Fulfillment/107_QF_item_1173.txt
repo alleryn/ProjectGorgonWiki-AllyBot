@@ -1,0 +1,14 @@
+===Quest Fulfillment===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Find Bones]] || 4 (Collect any [[:Category:Items/Bone|Bones]]) || One time only || [[Lawara]] || Neutral || [[Anagoge Island]] || 
+|-
+| [[Guild: Resupply Animal Town (50-person)]] || 50 (Amass with Guild) || 5 Minutes || [[Spot]] || Unknown || [[Animal Town]] in Sun Vale || 
+|-
+| [[Event: Bones For Rollin']] || 12 (Collect any [[:Category:Items/Bone|Bones]]) || 91 Days || [[Irkima]] || Unknown || [[Red Wing Casino]] || 
+|}
+=====Work Order=====
+Turn in 10x [[Rib Bone]] to [[Irkima]] for 346 councils. Requires [[Industry]] Level 25.

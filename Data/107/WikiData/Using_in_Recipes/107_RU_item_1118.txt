@@ -1,0 +1,9 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Armor Patching]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 50 || Acidic Wax: Fungal Goop || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5182.png</span>&nbsp;[[Sulfur]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5343.png</span>&nbsp;[[Heartshroom]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5189.png</span>&nbsp;[[Crossing Oil]] x1<br>[[:Category:Items/Shield|Shield]] x1 || Infuses a shield with the following power: '''(Wax) Melee Attackers suffer 126 indirect Acid damage while Shield skill Active'''.<br>The wax lasts until you have taken 2000 hits. While waxed, the shield has a requirement of Armor Patching level 50
+|}

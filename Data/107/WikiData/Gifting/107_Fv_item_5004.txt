@@ -1,0 +1,49 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Marna]] || Serbule Keep in [[Serbule]] || Loves ([[:Category:Items/VegetarianDish|Vegetarian Dishes]] : 36*)
+|- style="background:#9EF24A;"
+| [[Eleme]] || The Fairy Tree in [[Sun Vale]] || Likes ([[:Category:Items/VegetarianDish|Vegetarian Dishes]] : 36*)
+|- style="background:#9EF24A;"
+| [[Fainor]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 30*)
+|- style="background:#9EF24A;"
+| [[Gretchen Salas]] || In or Around Eltibule Keep in [[Eltibule]] || Likes ([[:Category:Items/VegetableDish|Vegetable Dishes]] : 36*)
+|- style="background:#9EF24A;"
+| [[Jumper]] || [[Animal Town]] in Sun Vale || Likes ([[:Category:Items/Snack|Snacks]] : 36* and [[:Category:Items/VegetableDish|Vegetable Dishes]] : 36*)
+|- style="background:#9EF24A;"
+| [[Raul]] || [[Animal Town]] in Sun Vale || Likes ([[:Category:Items/VegetarianDish|Vegetarian Dishes]] : 36*)
+|- style="background:#9EF24A;"
+| [[Bellema Deftwhisper]] || [[New Prestonbule Cave]] in Gazluk || Likes ([[:Category:Items/Drink|Drinks]] : 36*)
+|- style="background:#9EF24A;"
+| [[Laura Neth]] || The Outpost in Northwestern [[Kur]] || Likes ([[:Category:Items/Edible|Edible Items]])
+|- style="background:#9EF24A;"
+| [[Nelson Ballard]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Drink|Drinks]] : 36*)
+|- style="background:#9EF24A;"
+| [[Floxie]] || The Fel-Dasculan Ruins in the [[Fae Realm]] || Likes ([[:Category:Items/VegetarianDish|Vegetarian Dishes]] : 36*)
+|- style="background:#9EF24A;"
+| [[Elahil]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 30*)
+|- style="background:#9EF24A;"
+| [[Sir Arif]] || [[Serbule Crypt]] in Serbule || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 30*)<br>Likes ([[:Category:Items/Edible|Edible Items]])
+|- style="background:#9EF24A;"
+| [[Ivyn]] || Ivyn's Farm in [[Serbule]] || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 30*)
+|- style="background:#9EF24A;"
+| [[Hulon the Hoarder]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/PreparedFood|Prepared Foods]] : 30*)
+|- style="background:#F29E4A;"
+| [[Mushroom Jack]] || Serbule Keep in [[Serbule]] || Dislikes ([[:Category:Items/PreparedFood|Prepared Foods]] : 30*)
+|- style="background:#F29E4A;"
+| [[Rita]] || Serbule Keep in [[Serbule]] || Dislikes ([[:Category:Items/Food|Food Items]])
+|- style="background:#F24A4A;"
+| [[Alravesa the All-Hunter]] || Amulna in [[Ilmari]] || Hates ([[:Category:Items/Edible|Edible Items]])
+|- style="background:#F24A4A;"
+| [[Velkort]] || Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/PreparedFood|Prepared Foods]] : 30*)
+|- style="background:#F24A4A;"
+| [[Jaime Fatholm]] || The Tapestry Inn in [[Serbule Hills]] || Hates ([[:Category:Items/PreparedFood|Prepared Foods]] : 30*)
+|- style="background:#F24A4A;"
+| [[Sanja]] || The Campfire in Northwestern [[Kur]] || Hates ([[:Category:Items/VegetableDish|Vegetable Dishes]] : 36*)
+|- style="background:#F24A4A;"
+| [[Flia]] || East of Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/Edible|Edible Items]])
+|}
+<nowiki>*</nowiki>[[Bottle of Sugar Water]] has an effective value different from its base value (12) when gifted as a member of this item category.

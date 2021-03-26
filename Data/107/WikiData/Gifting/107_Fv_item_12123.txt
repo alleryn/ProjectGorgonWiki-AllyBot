@@ -1,0 +1,34 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Jesina]] || Sie Antry's Farm in [[Eltibule]] || Loves ([[:Category:Items/Painting|Paintings]])
+|- style="background:#9EF24A;"
+| [[Eveline Rastin]] || [[Red Wing Casino]] || Likes ([[:Category:Items/Artwork|Works of Art]])
+|- style="background:#9EF24A;"
+| [[Corey The Croaker]] || The [[Winter Nexus]] || Likes ([[:Category:Items/VendorTrash|Vendor Trash]])
+|- style="background:#9EF24A;"
+| [[Raina]] || The Fel-Dasculan Ruins in the [[Fae Realm]] || Likes ([[:Category:Items/Artwork|Works of Art]])
+|- style="background:#9EF24A;"
+| [[Sir Coth]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Artwork|Works of Art]])
+|- style="background:#9EF24A;"
+| [[Lawara]] || [[Anagoge Island]] || Likes ([[:Category:Items/Artwork|Works of Art]])
+|- style="background:#9EF24A;"
+| [[Laura Neth]] || The Outpost in Northwestern [[Kur]] || Likes ([[:Category:Items/Painting|Paintings]])
+|- style="background:#9EF24A;"
+| [[Way]] || [[Myconian Cave]] in Serbule || Likes ([[:Category:Items/VendorTrash|Vendor Trash]])
+|- style="background:#9EF24A;"
+| [[Firaki]] || Amulna in [[Ilmari]] || Likes ([[:Category:Items/Painting|Paintings]])
+|- style="background:#9EF24A;"
+| [[Rugen]] || The Hostile Area of Rahu City in [[Rahu]] || Likes ([[:Category:Items/Painting|Paintings]])
+|- style="background:#9EF24A;"
+| [[Mushroom Jack]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/VendorTrash|Vendor Trash]])
+|- style="background:#F24A4A;"
+| [[Suspicious Cow]] || Wandering Northeast of Eltibule Keep in [[Eltibule]] || Hates ([[:Category:Items/VendorTrash|Vendor Trash]])
+|- style="background:#F24A4A;"
+| [[Helena Veilmoor]] || [[Hogan's Keep]] in Eltibule || Hates ([[:Category:Items/VendorTrash|Vendor Trash]])
+|- style="background:#F24A4A;"
+| [[Kleave]] || Eltibule Keep in [[Eltibule]] || Hates ([[:Category:Items/Artwork|Works of Art]])
+|}

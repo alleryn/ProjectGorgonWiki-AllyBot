@@ -1,0 +1,52 @@
+==Using in Recipes==
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Jewelry Augmentation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Decompose Ring || [[:Category:Items/Ring|Ring]] x1 || 
+|-
+| 8 || Extract Ring Augment (Level 0-30) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5798.png</span>&nbsp;[[Small Ring Ornament]] x20<br>[[:Category:Items/Ring|Ring]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5490.png</span>&nbsp;[[Ring Augment]] x1
+|-
+| 30 || Undo Augment on Ring || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5798.png</span>&nbsp;[[Small Ring Ornament]] x25<br>[[:Category:Items/Ring|Ring]] x1 || 
+|-
+| 31 || Extract Ring Augment (Level 31-60) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5799.png</span>&nbsp;[[Medium Ring Ornament]] x20<br>[[:Category:Items/Ring|Ring]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5490.png</span>&nbsp;[[Ring Augment]] x1
+|-
+| 61 || Extract Ring Augment (Level 61-90) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5499.png</span>&nbsp;[[Large Ring Ornament]] x20<br>[[:Category:Items/Ring|Ring]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5490.png</span>&nbsp;[[Ring Augment]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Apply Ring Augment || [[:Category:Items/Ring|Ring]] x1<br>[[:Category:Items/RingAugment|Ring Augment]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Shamanic Infusion]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 6 || Beginner's Panther Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x1<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Max Health +10'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 6.
+|-
+| 9 || Beginner's Boar Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5636.png</span>&nbsp;[[Pig Foot]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5635.png</span>&nbsp;[[Boar Tusk]] x1<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Power from Combat Refresh Abilities +3'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 9.
+|-
+| 21 || Beginner's Mind Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5990.png</span>&nbsp;[[Brain Bug Lobe]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5343.png</span>&nbsp;[[Heartshroom]] x1<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Mentalism Base Damage +4%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 21.
+|-
+| 22 || Novice's Panther Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x3<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Max Health +20'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 22.
+|-
+| 25 || Novice's Boar Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5636.png</span>&nbsp;[[Pig Foot]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5635.png</span>&nbsp;[[Boar Tusk]] x3<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Power from Combat Refresh Abilities +7'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 25.
+|-
+| 38 || Novice's Mind Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5990.png</span>&nbsp;[[Brain Bug Lobe]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5343.png</span>&nbsp;[[Heartshroom]] x3<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Mentalism Base Damage +7%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 38.
+|-
+| 42 || Shaman's Panther Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5641.png</span>&nbsp;[[Panther Tail]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5084.png</span>&nbsp;[[Trophy Panther Skin]] x1<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Max Health +30'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 42.
+|-
+| 45 || Shaman's Boar Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5636.png</span>&nbsp;[[Pig Foot]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5635.png</span>&nbsp;[[Boar Tusk]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5170.png</span>&nbsp;[[Trophy Pig Skin]] x1<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Power from Combat Refresh Abilities +11'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 45.
+|-
+| 49 || Shaman's Mind Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5990.png</span>&nbsp;[[Brain Bug Lobe]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5343.png</span>&nbsp;[[Heartshroom]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5172.png</span>&nbsp;[[Trophy Sheep Skin]] x1<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Mentalism Base Damage +10%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 49.
+|-
+| 49 || Novice's Fiery Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6217.png</span>&nbsp;[[Treant Wood]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5996.png</span>&nbsp;[[Snake Scales]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5079.png</span>&nbsp;[[Trophy Hippo Hide]] x1<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Fire Magic Base Damage +7%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 49.
+|-
+| 56 || Shaman's Fiery Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6217.png</span>&nbsp;[[Treant Wood]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5996.png</span>&nbsp;[[Snake Scales]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5079.png</span>&nbsp;[[Trophy Hippo Hide]] x1<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Fire Magic Base Damage +10%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 56.
+|-
+| 64 || Deep Fiery Ring Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6217.png</span>&nbsp;[[Treant Wood]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5996.png</span>&nbsp;[[Snake Scales]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5079.png</span>&nbsp;[[Trophy Hippo Hide]] x1<br>[[:Category:Items/Ring|Ring]] x1 || Infuses a ring with the following power: '''Fire Magic Base Damage +14%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 64.
+|}
+[[Category:Items]]

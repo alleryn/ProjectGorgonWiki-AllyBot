@@ -1,0 +1,25 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 2 || Apply Sword Augment || [[:Category:Items/Sword|Sword]] x1<br>[[:Category:Items/MainHandAugment|Weapon Augment]] x1 || 
+|-
+| 2 || Apply Hammer Augment || [[:Category:Items/Hammer|Hammer]] x1<br>[[:Category:Items/MainHandAugment|Weapon Augment]] x1 || 
+|-
+| 2 || Apply Staff Augment || [[:Category:Items/Staff|Staff]] x1<br>[[:Category:Items/MainHandAugment|Weapon Augment]] x1 || 
+|-
+| 2 || Apply Fire Staff Augment || [[:Category:Items/FireStaff|Fire Staff]] x1<br>[[:Category:Items/MainHandAugment|Weapon Augment]] x1 || 
+|-
+| 2 || Apply Katar Augment || [[:Category:Items/UnarmedMainHandWeapon|Unarmed Main-Hand Weapon]] x1<br>[[:Category:Items/MainHandAugment|Weapon Augment]] x1 || 
+|-
+| 2 || Apply Beaker Augment || [[:Category:Items/ChemistryBeaker|Beaker]] x1<br>[[:Category:Items/MainHandAugment|Weapon Augment]] x1 || 
+|-
+| 2 || Apply Dagger Augment || [[:Category:Items/Dagger|Dagger]] x1<br>[[:Category:Items/MainHandAugment|Weapon Augment]] x1 || 
+|-
+| 5 || Apply Lute Augment || [[:Category:Items/BardLute|Lute]] x1<br>[[:Category:Items/MainHandAugment|Main-Hand Augment]] x1 || 
+|-
+| 5 || Apply Wand Augment || [[:Category:Items/Wand|Wand]] x1<br>[[:Category:Items/MainHandAugment|Weapon Augment]] x1 || 
+|}

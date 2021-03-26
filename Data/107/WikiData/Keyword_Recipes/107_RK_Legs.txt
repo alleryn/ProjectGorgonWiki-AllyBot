@@ -1,0 +1,60 @@
+==Using in Recipes==
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Armor Augmentation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 13 || Decompose Leg Armor || [[:Category:Items/Legs|Leg Armor]] x1 || 
+|-
+| 20 || Extract Leg Augment (Level 0-30) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5810.png</span>&nbsp;[[Small Leg Bauble]] x20<br>[[:Category:Items/Legs|Leg Armor]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5487.png</span>&nbsp;[[Leg Augment]] x1
+|-
+| 40 || Undo Augment on Leg Armor || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5810.png</span>&nbsp;[[Small Leg Bauble]] x25<br>[[:Category:Items/Legs|Leg Armor]] x1 || 
+|-
+| 45 || Extract Leg Augment (Level 31-60) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5811.png</span>&nbsp;[[Medium Leg Bauble]] x20<br>[[:Category:Items/Legs|Leg Armor]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5487.png</span>&nbsp;[[Leg Augment]] x1
+|-
+| 65 || Extract Leg Augment (Level 61-90) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5496.png</span>&nbsp;[[Large Leg Bauble]] x20<br>[[:Category:Items/Legs|Leg Armor]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5487.png</span>&nbsp;[[Leg Augment]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 4 || Apply Legs Augment || [[:Category:Items/Legs|Leg Armor]] x1<br>[[:Category:Items/LegAugment|Leg-Armor Augment]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Shamanic Infusion]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Beginner's Deinonychus Leg Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5294.png</span>&nbsp;[[Small Dinosaur Scale]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5644.png</span>&nbsp;[[Deinonychus Claw]] x1<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Max Armor +18'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 5.
+|-
+| 11 || Beginner's Tiger Pants Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5640.png</span>&nbsp;[[Tiger Tail]] x1<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Power Regen (In-Combat) +1'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 11.
+|-
+| 19 || Beginner's Wing-Leg Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5399.png</span>&nbsp;[[Fairy Wing]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x3<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Fast-Flying Speed Boost +0.5, Flying Cost (Per Second In Combat) -0.5'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 19.
+|-
+| 21 || Novice's Deinonychus Leg Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5294.png</span>&nbsp;[[Small Dinosaur Scale]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5644.png</span>&nbsp;[[Deinonychus Claw]] x3<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Max Armor +35'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 21.
+|-
+| 27 || Novice's Tiger Pants Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5640.png</span>&nbsp;[[Tiger Tail]] x3<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Power Regen (In-Combat) +3'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 27.
+|-
+| 27 || Beginner's Scray Leg Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5426.png</span>&nbsp;[[Scray Stinger]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5868.png</span>&nbsp;[[Scray Lung]] x1<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Sprint-Swimming Speed Boost +1, Breath Recovered In Partial Water +6'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 27.
+|-
+| 34 || Novice's Wing-Leg Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5399.png</span>&nbsp;[[Fairy Wing]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x5<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Fast-Flying Speed Boost +1, Flying Cost (Per Second In Combat) -0.5'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 34.
+|-
+| 37 || Novice's Scray Leg Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5426.png</span>&nbsp;[[Scray Stinger]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5868.png</span>&nbsp;[[Scray Lung]] x3<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Sprint-Swimming Speed Boost +2, Breath Recovered In Partial Water +7'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 37.
+|-
+| 41 || Shaman's Deinonychus Leg Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5294.png</span>&nbsp;[[Small Dinosaur Scale]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5644.png</span>&nbsp;[[Deinonychus Claw]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5421.png</span>&nbsp;[[Trophy Deinonychus Skin]] x1<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Max Armor +65'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 41.
+|-
+| 43 || Shaman's Tiger Pants Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5187.png</span>&nbsp;[[Cat Eyeball]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5640.png</span>&nbsp;[[Tiger Tail]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5080.png</span>&nbsp;[[Trophy Tiger Skin]] x1<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Power Regen (In-Combat) +5'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 43.
+|-
+| 47 || Shaman's Scray Leg Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5426.png</span>&nbsp;[[Scray Stinger]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5868.png</span>&nbsp;[[Scray Lung]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5869.png</span>&nbsp;[[Scray Lure]] x1<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Sprint-Swimming Speed Boost +3, Breath Recovered In Partial Water +8'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 47.
+|-
+| 47 || Shaman's Wing-Leg Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5399.png</span>&nbsp;[[Fairy Wing]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x6<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Ivory Mandibles]] x1<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Fast-Flying Speed Boost +1.5, Flying Cost (Per Second In Combat) -0.5'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 47.
+|-
+| 52 || Novice's Treant Leg Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5720.png</span>&nbsp;[[Treant Acorn]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6217.png</span>&nbsp;[[Treant Wood]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6219.png</span>&nbsp;[[Treant Leaves]] x1<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Unarmed Base Damage +8%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 52.
+|-
+| 58 || Shaman's Treant Leg Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5720.png</span>&nbsp;[[Treant Acorn]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6217.png</span>&nbsp;[[Treant Wood]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6219.png</span>&nbsp;[[Treant Leaves]] x1<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Unarmed Base Damage +11%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 58.
+|-
+| 61 || Deep Deinonychus Leg Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5294.png</span>&nbsp;[[Small Dinosaur Scale]] x6<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5644.png</span>&nbsp;[[Deinonychus Claw]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5421.png</span>&nbsp;[[Trophy Deinonychus Skin]] x1<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Max Armor +85'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 61.
+|-
+| 65 || Deep Treant Leg Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5720.png</span>&nbsp;[[Treant Acorn]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6217.png</span>&nbsp;[[Treant Wood]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6219.png</span>&nbsp;[[Treant Leaves]] x1<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Unarmed Base Damage +14%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 65.
+|}
+[[Category:Items]]

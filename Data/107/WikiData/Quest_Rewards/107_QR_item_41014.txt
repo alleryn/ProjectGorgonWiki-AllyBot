@@ -1,0 +1,8 @@
+===Quest Rewards===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Acquired !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Ivyn's Demon Bean]] || style="text-align:center;" | 1 || One time only || [[Ivyn]] || Friends || Ivyn's Farm in [[Serbule]] || 
+|}

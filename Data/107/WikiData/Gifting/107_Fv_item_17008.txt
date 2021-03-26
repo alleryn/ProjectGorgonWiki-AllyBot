@@ -1,0 +1,17 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#9EF24A;"
+| [[Sirine]] || Rahu City in [[Rahu]] || Likes ([[:Category:Items/Skin|Skins]] : 650*)
+|- style="background:#9EF24A;"
+| [[Marna]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Skin|Skins]] : 650*)
+|- style="background:#9EF24A;"
+| [[Kleave]] || Eltibule Keep in [[Eltibule]] || Likes ([[:Category:Items/Skin|Skins]] : 650*)
+|- style="background:#F24A4A;"
+| [[Raul]] || [[Animal Town]] in Sun Vale || Hates ([[:Category:Items/Skin|Skins]] : 650*)
+|- style="background:#F24A4A;"
+| [[Blanche]] || Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/Skin|Skins]] : 650*)
+|}
+<nowiki>*</nowiki>[[Amazing Animal Skin]] has an effective value different from its base value (150) when gifted as a member of this item category.

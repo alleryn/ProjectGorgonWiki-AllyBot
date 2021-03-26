@@ -1,0 +1,15 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Gasu'um]] || [[New Prestonbule Cave]] in Gazluk || Loves ([[:Category:Items/Pyrite|Pyrites]] : 90*)
+|- style="background:#4AF24A;"
+| [[Poe]] || [[Myconian Cave]] in Serbule || Loves ([[:Category:Items/Ore|Ores]])
+|- style="background:#9EF24A;"
+| [[Zhao]] || Rahu City in [[Rahu]] || Likes ([[:Category:Items/Pyrite|Pyrites]] : 90*)
+|- style="background:#9EF24A;"
+| [[Ragabir]] || [[Red Wing Casino]] || Likes ([[:Category:Items/AlchemyIngredient|Alchemy Ingredients]])
+|}
+<nowiki>*</nowiki>[[Pyrite]] has an effective value different from its base value (30) when gifted as a member of this item category.

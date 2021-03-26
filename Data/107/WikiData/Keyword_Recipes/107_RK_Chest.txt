@@ -1,0 +1,58 @@
+==Using in Recipes==
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Armor Augmentation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Decompose Chest Armor || [[:Category:Items/Chest|Chest Armor]] x1 || 
+|-
+| 8 || Extract Chest Augment (Level 0-30) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5812.png</span>&nbsp;[[Small Chest Bauble]] x20<br>[[:Category:Items/Chest|Chest Armor]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5483.png</span>&nbsp;[[Chest Augment]] x1
+|-
+| 30 || Undo Augment on Chest Armor || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5812.png</span>&nbsp;[[Small Chest Bauble]] x25<br>[[:Category:Items/Chest|Chest Armor]] x1 || 
+|-
+| 31 || Extract Chest Augment (Level 31-60) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5813.png</span>&nbsp;[[Medium Chest Bauble]] x20<br>[[:Category:Items/Chest|Chest Armor]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5483.png</span>&nbsp;[[Chest Augment]] x1
+|-
+| 61 || Extract Chest Augment (Level 61-90) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5495.png</span>&nbsp;[[Large Chest Bauble]] x20<br>[[:Category:Items/Chest|Chest Armor]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5483.png</span>&nbsp;[[Chest Augment]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 4 || Apply Chest Augment || [[:Category:Items/Chest|Chest Armor]] x1<br>[[:Category:Items/ChestAugment|Chest-Armor Augment]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Shamanic Infusion]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 3 || Beginner's Wolf Chest Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5639.png</span>&nbsp;[[Wolf Teeth]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5638.png</span>&nbsp;[[Wolf Tail]] x1<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Power Regen (In-Combat) +1'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 3.
+|-
+| 8 || Beginner's Bear Chest Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5642.png</span>&nbsp;[[Bear Claw]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5643.png</span>&nbsp;[[Bear Gallbladder]] x1<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Max Armor +18'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 8.
+|-
+| 15 || Beginner's Chest Carapace Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5634.png</span>&nbsp;[[Rat Tooth]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5425.png</span>&nbsp;[[Spider Carapace]] x1<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Crushing Damage Reduction +3, Trauma Damage Reduction +3'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 15.
+|-
+| 19 || Novice's Wolf Chest Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5639.png</span>&nbsp;[[Wolf Teeth]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5638.png</span>&nbsp;[[Wolf Tail]] x3<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Power Regen (In-Combat) +3'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 19.
+|-
+| 24 || Novice's Bear Chest Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5642.png</span>&nbsp;[[Bear Claw]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5643.png</span>&nbsp;[[Bear Gallbladder]] x3<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Max Armor +35'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 24.
+|-
+| 30 || Novice's Chest Carapace Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5634.png</span>&nbsp;[[Rat Tooth]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5425.png</span>&nbsp;[[Spider Carapace]] x2<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Crushing Damage Reduction +7, Trauma Damage Reduction +7'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 30.
+|-
+| 36 || Shaman's Wolf Chest Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5639.png</span>&nbsp;[[Wolf Teeth]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5638.png</span>&nbsp;[[Wolf Tail]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5083.png</span>&nbsp;[[Trophy Wolf Skin]] x1<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Power Regen (In-Combat) +5'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 36.
+|-
+| 39 || Shaman's Bear Chest Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5642.png</span>&nbsp;[[Bear Claw]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5643.png</span>&nbsp;[[Bear Gallbladder]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5173.png</span>&nbsp;[[Trophy Bear Skin]] x1<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Max Armor +65'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 39.
+|-
+| 45 || Shaman's Chest Carapace Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5634.png</span>&nbsp;[[Rat Tooth]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5425.png</span>&nbsp;[[Spider Carapace]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5078.png</span>&nbsp;[[Trophy Deer Skin]] x1<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Crushing Damage Reduction +12, Trauma Damage Reduction +12'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 45.
+|-
+| 46 || Beginner's Viper Core Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5996.png</span>&nbsp;[[Snake Scales]] x1<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Burst Accuracy Boost +8%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 46.
+|-
+| 51 || Novice's Viper Core Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5996.png</span>&nbsp;[[Snake Scales]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5995.png</span>&nbsp;[[Trophy Snake Skin]] x1<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Burst Accuracy Boost +10%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 51.
+|-
+| 56 || Shaman's Viper Core Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5996.png</span>&nbsp;[[Snake Scales]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5995.png</span>&nbsp;[[Trophy Snake Skin]] x1<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Burst Accuracy Boost +14%'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 56.
+|-
+| 57 || Deep Chest Carapace Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5634.png</span>&nbsp;[[Rat Tooth]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5425.png</span>&nbsp;[[Spider Carapace]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5078.png</span>&nbsp;[[Trophy Deer Skin]] x1<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Crushing Damage Reduction +16, Trauma Damage Reduction +16'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 57.
+|-
+| 58 || Deep Wolf Chest Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5639.png</span>&nbsp;[[Wolf Teeth]] x6<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5638.png</span>&nbsp;[[Wolf Tail]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5083.png</span>&nbsp;[[Trophy Wolf Skin]] x1<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Power Regen (In-Combat) +9'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 58.
+|-
+| 59 || Deep Bear Chest Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5642.png</span>&nbsp;[[Bear Claw]] x6<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5643.png</span>&nbsp;[[Bear Gallbladder]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5173.png</span>&nbsp;[[Trophy Bear Skin]] x1<br>[[:Category:Items/Chest|Shirt]] x1 || Infuses a chestplate or shirt with the following power: '''Max Armor +85'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 59.
+|}
+[[Category:Items]]

@@ -1,0 +1,14 @@
+===Quest Fulfillment===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Fake Cinnamon]] || 8 (Collect) || One time only || [[Mox Warcut]] || Neutral || [[New Prestonbule Cave]] in Gazluk || 
+|-
+| [[Halloween Event: Pumpkin Smoothie]] || 1 (Have) || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Pumpkin Rolls]] || 3 (Collect) || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Event: Candy Cane Prep]] || 6 (Collect) || 91 Days || [[Nightshade]] || Unknown || The Outpost in Northwestern [[Kur]] || 
+|}

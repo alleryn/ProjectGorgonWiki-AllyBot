@@ -1,0 +1,8 @@
+===Quest Fulfillment===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [['Leeka and the Blade Trials' Chapter 3_(Quest)]] || 1 (Collect) || One time only || [[Durstin Tallow]] || Neutral || The Tapestry Inn in [[Serbule Hills]] || 
+|}

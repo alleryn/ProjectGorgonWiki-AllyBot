@@ -1,0 +1,37 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Selaxi]] || Amulna in [[Ilmari]] || Loves ([[:Category:Items/Meat|Meat]] : 87.5*)
+|- style="background:#4AF24A;"
+| [[Joeh]] || Serbule Keep in [[Serbule]] || Loves ([[:Category:Items/Meat|Meat]] : 87.5*)
+|- style="background:#4AF24A;"
+| [[Tangle]] || The [[Sacred Grotto]] in Kur || Loves ([[:Category:Items/Meat|Meat]] : 87.5*)
+|- style="background:#4AF24A;"
+| [[Rubi]] || The [[Sacred Grotto]] in Kur || Loves ([[:Category:Items/Meat|Meat]] : 87.5*)
+|- style="background:#4AF24A;"
+| [[Cassie]] || The [[Sacred Grotto]] in Kur || Loves ([[:Category:Items/Meat|Meat]] : 87.5*)
+|- style="background:#4AF24A;"
+| [[Lumpfuzz]] || Amulna in [[Ilmari]] || Loves ([[:Category:Items/Meat|Meat]] : 87.5*)
+|- style="background:#9EF24A;"
+| [[Sammie Grimspine]] || Western [[Serbule Hills]] || Likes ([[:Category:Items/Meat|Meat]] : 87.5*)
+|- style="background:#9EF24A;"
+| [[Fainor]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Meat|Meat]] : 87.5*)
+|- style="background:#9EF24A;"
+| [[Spot]] || [[Animal Town]] in Sun Vale || Likes ([[:Category:Items/Meat|Meat]] : 87.5*)
+|- style="background:#9EF24A;"
+| [[Mandibles]] || [[Red Wing Casino]] || Likes ([[:Category:Items/CookingIngredient|Cooking Ingredients]])
+|- style="background:#F24A4A;"
+| [[Sugar (NPC)]] || The [[Sacred Grotto]] in Kur || Hates ([[:Category:Items/Meat|Meat]] : 87.5*)
+|- style="background:#F24A4A;"
+| [[Raina]] || The Fel-Dasculan Ruins in the [[Fae Realm]] || Hates ([[:Category:Items/Meat|Meat]] : 87.5*)
+|- style="background:#F24A4A;"
+| [[Raul]] || [[Animal Town]] in Sun Vale || Hates ([[:Category:Items/Meat|Meat]] : 87.5*)
+|- style="background:#F24A4A;"
+| [[Therese]] || Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/Meat|Meat]] : 87.5*)
+|- style="background:#F24A4A;"
+| [[Backfat]] || The Fel-Dasculan Ruins in the [[Fae Realm]] || Hates ([[:Category:Items/PigMeat|Pig Meat]])
+|}
+<nowiki>*</nowiki>[[Great Pork Shoulder]] has an effective value different from its base value (35) when gifted as a member of this item category.

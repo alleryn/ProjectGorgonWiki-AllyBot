@@ -1,0 +1,17 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Zhao]] || Rahu City in [[Rahu]] || Loves ([[:Category:Items/Seed|Seeds]] : 10*)
+|- style="background:#9EF24A;"
+| [[Ivyn]] || Ivyn's Farm in [[Serbule]] || Likes ([[:Category:Items/Seed|Seeds]] : 10*)
+|- style="background:#9EF24A;"
+| [[Hulon the Hoarder]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Seed|Seeds]] : 10*)
+|- style="background:#9EF24A;"
+| [[Therese]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Seed|Seeds]] : 10*)
+|- style="background:#F24A4A;"
+| [[Roshun the Traitor]] || The Housing Complex in Northern [[Serbule]] || Hates ([[:Category:Items/Nature|Nature-Related Items]])
+|}
+<nowiki>*</nowiki>[[Bluebell Seeds]] has an effective value different from its base value (5) when gifted as a member of this item category.

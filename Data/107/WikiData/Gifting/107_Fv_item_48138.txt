@@ -1,0 +1,24 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#9EF24A;"
+| [[Yetta]] || Eltibule Keep in [[Eltibule]] || Likes ([[:Category:Items/Amulet|Amulets]])
+|- style="background:#9EF24A;"
+| [[Yasinda]] || [[Hogan's Keep]] in Eltibule || Likes ([[:Category:Items/Necklace|Necklaces]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Gurki]] || The Outpost in Northwestern [[Kur]] || Likes ([[:Category:Items/RacialJewelry|Jewelry Associated with a Specific Race]])
+|- style="background:#9EF24A;"
+| [[Norbert]] || [[Animal Town]] in Sun Vale || Likes ([[:Category:Items/Necklace|Necklaces]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Sanja]] || The Campfire in Northwestern [[Kur]] || Likes ([[:Category:Items/Necklace|Necklaces]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Therese]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Amulet|Amulets]])
+|- style="background:#9EF24A;"
+| [[Solgribue]] || The Fel-Dasculan Ruins in the [[Fae Realm]] || Likes ([[:Category:Items/Necklace|Necklaces]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Urzab]] || Amulna in [[Ilmari]] || Likes ([[:Category:Items/Jewelry|Jewelry]])
+|- style="background:#F24A4A;"
+| [[Joeh]] || Serbule Keep in [[Serbule]] || Hates ([[:Category:Items/Jewelry|Jewelry]])
+|}

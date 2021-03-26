@@ -1,0 +1,16 @@
+===Quest Fulfillment===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Milk!]] || 2 (Collect) || One time only || [[Braigon]] || Neutral || Eltibule Keep in [[Eltibule]] || 
+|-
+| [[Un-cow-ification]] || 5 (Collect any [[:Category:Items/Milk|Milk]]) || One time only || Unknown || Unknown || Serbule || 
+|-
+| [[Halloween Event: Concoct a Gruesome Punch]] || 1 (Collect) || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: Pumpkin Smoothie]] || 1 (Have) || 60 Days || Unknown || Unknown || Unknown || 
+|-
+| [[Halloween Event: The Elven Medicine]] || 1 (Collect) || 60 Days || Unknown || Unknown || Unknown || 
+|}

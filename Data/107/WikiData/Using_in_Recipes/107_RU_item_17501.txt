@@ -1,0 +1,55 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Calligraphy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 21 || Calligraphy: Animality || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Advanced Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1 || Gain access to a combo that regenerates your health by +3/sec for 15 seconds.
+|-
+| 22 || Calligraphy: Animality+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Advanced Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that regenerates your health by +3/sec for 15 seconds. Also gain a passive insight: '''First Aid heals you +11'''.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Carpentry]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Shoddy Melee Staff || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_18003.png</span>&nbsp;[[Shoddy Melee Staff]] x1
+|-
+| 1 || Shoddy Combat Staff || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5886.png</span>&nbsp;[[Basic Caustic Ink]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_18018.png</span>&nbsp;[[Shoddy Combat Staff]] x1
+|-
+| 1 || Shoddy Club || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_21001.png</span>&nbsp;[[Shoddy Club]] x1
+|-
+| 3 || Shoddy Melee Staff (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1<br>[[:Category:Items/Crystal|Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_18003.png</span>&nbsp;[[Shoddy Melee Staff]] x1
+|-
+| 3 || Shoddy Combat Staff (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5886.png</span>&nbsp;[[Basic Caustic Ink]] x1<br>[[:Category:Items/Crystal|Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_18018.png</span>&nbsp;[[Shoddy Combat Staff]] x1
+|-
+| 3 || Shoddy Club (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1<br>[[:Category:Items/Crystal|Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_21001.png</span>&nbsp;[[Shoddy Club]] x1
+|-
+| 4 || Shoddy Priest Staff || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5886.png</span>&nbsp;[[Basic Caustic Ink]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5115.png</span>&nbsp;[[Ancient Stencil]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 10% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_18020.png</span>&nbsp;[[Shoddy Priest Staff]] x1
+|-
+| 4 || Shoddy Priest Staff (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5886.png</span>&nbsp;[[Basic Caustic Ink]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5115.png</span>&nbsp;[[Ancient Stencil]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 10% &#010;">(!)</sup></span><br>[[:Category:Items/Crystal|Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_18020.png</span>&nbsp;[[Shoddy Priest Staff]] x1
+|-
+| 10 || Rough Melee Staff || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_18003.png</span>&nbsp;[[Rough Melee Staff]] x1
+|-
+| 10 || Rough Combat Staff || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5886.png</span>&nbsp;[[Basic Caustic Ink]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_18018.png</span>&nbsp;[[Rough Combat Staff]] x1
+|-
+| 10 || Rough Club || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_21001.png</span>&nbsp;[[Rough Club]] x1
+|-
+| 14 || Rough Priest Staff || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5886.png</span>&nbsp;[[Basic Caustic Ink]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5115.png</span>&nbsp;[[Ancient Stencil]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 20% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_18020.png</span>&nbsp;[[Rough Priest Staff]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Tanning]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Shoddy Leather Roll || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5171.png</span>&nbsp;[[Shoddy Animal Skin]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Shoddy Leather Roll]] x1
+|-
+| 5 || Dye Leather Armor (1 color) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1<br>[[:Category:Items/LeatherDyeableArmor|Leather Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|-
+| 8 || Rough Leather Roll || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5078.png</span>&nbsp;[[Rough Animal Skin]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5077.png</span>&nbsp;[[Rough Leather Roll]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Toolcrafting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Dye Organic Armor (1 color) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5178.png</span>&nbsp;[[Rough Tannin Powder]] x1<br>[[:Category:Items/OrganicDyeableArmor|Organic Dyeable Armor]] x1<br>[[:Category:Items/Dye|Dye]] x1 || 
+|}

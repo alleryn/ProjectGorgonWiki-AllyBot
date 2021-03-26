@@ -1,0 +1,10 @@
+====Ability Consumption====
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Icon !! Name !! Consumes !! Skill !! Level !! Consume Chance !! Stick Chance
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3325.png</span> || [[Explosion Sigil]] || Basic Volatile Ink || [[Sigil Scripting]] || 0 || 50% || Never
+|-
+| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_3324.png</span> || [[Electricity Sigil]] || Basic Volatile Ink || [[Sigil Scripting]] || 5 || Always || Never
+|}
