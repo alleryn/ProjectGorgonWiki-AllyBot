@@ -33,7 +33,7 @@ You will want to copy from the archived jsons folder (e.g. if updating from 341 
 Then you will need to add any new npcs' location using addedNpcsForNpclocationsJson.txt and finding out (from players or on your own in-game) where the npcs are located. If you aren't sure, you can just add 'Unknown' as the location.
 
 1g. removedNpcs.txt : Similar to (1e) you might want to clean up npclocations.json with any removed npcs. Sometimes these might include live event npcs like moxie (crafting caravan) who come and go, and it's probably easiest just to leave them in.
-1h. addedRecipesForRecipeTemplate.txt : Similar to (1d), you should use this for wiki.projectgorgon.com/wiki/Template:Recipe
+1h. addedRecipesForRecipeTemplate.txt : Similar to (1d), you should use this for wiki.projectgorgon.com/wiki/Template:Recipe and wiki.projectgorgon.com/wiki/Template:RecipeToItem
 1i. removedRecipes.txt : Similar to (1e).
 
 2. Run FormatJsons.py. This formats the jsons and saves them into \Data (in the subfolder corresponding to the current bot version)
