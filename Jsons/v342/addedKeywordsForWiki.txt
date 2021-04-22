@@ -1,6 +1,0 @@
-|EAmuletOfTheRuggedTraveler = Enhanced Amulets of the Rugged Traveler
-|EWindstepShoes = Enhanced Windstep Shoes
-|FaeDPImmunity = Items Granting Fae Death Penalty Immunity
-|GolfSprint = Items Granting Golf-Related Sprint Bonuses
-|PennocsPendant = Pennoc's Pendants
-|TrueSkinningKnife = True Skinning Knives

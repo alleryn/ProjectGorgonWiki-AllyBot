@@ -36,6 +36,7 @@ JsonNames = [
 	"recipes",
 	"skills",
 	"sources_abilities",
+	"sources_items",
 	"sources_recipes",
 	"storagevaults",
 	"tsysclientinfo",

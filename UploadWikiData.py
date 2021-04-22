@@ -89,7 +89,6 @@ def main(*args):
 			SaveTextFile(dirPython, botVersion + '_' + filename, source)
 
 	os.chdir(os.path.dirname(os.path.abspath(__file__)))
-
 	gameVersion = urllib.request.urlopen('http://client.projectgorgon.com/fileversion.txt').read().decode('UTF-8')
 	botVersion = LoadTextFile('.', 'BotVersion.txt')
 	dirBase = './Data/' + botVersion
@@ -133,6 +132,8 @@ def main(*args):
 			completedPageSectionPairs = file.read().split('\n')
 	else:
 		completedPageSectionPairs = []
+		with open(completedSectionsFullPath, 'w', newline='') as dataOut:
+			dataOut.write('')
 
 	# UPLOAD SECTION
 	dirLoad = dirBase + '/VersionizedUploadData'
