@@ -1402,6 +1402,98 @@ def getItemCategoryLink(keyword):
 		plural = "Tealights"
 	elif keyword == "TelkasTeeth":
 		plural = "Telka's Teeth Potions"
+	elif keyword == "Textbook":
+		plural = "Textbooks"
+	elif keyword == "TextbookForCombatSkill":
+		plural = "Combat Skill Textbooks"
+	elif keyword == "TextbookForNoncombatSkill":
+		plural = "Noncombat Skill Textbooks"
+	elif keyword == "TextbookMaxLevel":
+		plural = "(Keyword used with '=' for maximum level of book)"
+	elif keyword == "TextbookMinLevel":
+		plural = "(Keyword used with '=' for minimum level of book)"
+	elif keyword == "TextbookSkill_AnimalHandling":
+		plural = "Animal Handling Textbooks"
+	elif keyword == "TextbookSkill_Archery":
+		plural = "Archery Textbooks"
+	elif keyword == "TextbookSkill_ArmorPatching":
+		plural = "Armor Patching Textbooks"
+	elif keyword == "TextbookSkill_Bard":
+		plural = "Bard Textbooks"
+	elif keyword == "TextbookSkill_BattleChemistry":
+		plural = "Battle Chemistry Textbooks"
+	elif keyword == "TextbookSkill_Blacksmithing":
+		plural = "Blacksmithing Textbooks"
+	elif keyword == "TextbookSkill_Carpentry":
+		plural = "Carpentry Textbooks"
+	elif keyword == "TextbookSkill_Cooking":
+		plural = "Cooking Textbooks"
+	elif keyword == "TextbookSkill_Cow":
+		plural = "Cow Textbooks"
+	elif keyword == "TextbookSkill_Crossbow":
+		plural = "Crossbow Textbooks"
+	elif keyword == "TextbookSkill_Deer":
+		plural = "Deer Textbooks"
+	elif keyword == "TextbookSkill_Druid":
+		plural = "Druid Textbooks"
+	elif keyword == "TextbookSkill_FireMagic":
+		plural = "Fire Magic Textbooks"
+	elif keyword == "TextbookSkill_FirstAid":
+		plural = "First Aid Textbooks"
+	elif keyword == "TextbookSkill_Fletching":
+		plural = "Fletching Textbooks"
+	elif keyword == "TextbookSkill_Gardening":
+		plural = "Gardening Textbooks"
+	elif keyword == "TextbookSkill_GiantBat":
+		plural = "Giant Bat Textbooks"
+	elif keyword == "TextbookSkill_Hammer":
+		plural = "Hammer Textbooks"
+	elif keyword == "TextbookSkill_IceMagic":
+		plural = "Ice Magic Textbooks"
+	elif keyword == "TextbookSkill_Knife":
+		plural = "Knife Fighting Textbooks"
+	elif keyword == "TextbookSkill_Leatherworking":
+		plural = "Leatherworking Textbooks"
+	elif keyword == "TextbookSkill_Mentalism":
+		plural = "Mentalism Textbooks"
+	elif keyword == "TextbookSkill_MushroomFarming":
+		plural = "Mushroom Farming Textbooks"
+	elif keyword == "TextbookSkill_NatureAppreciation":
+		plural = "Nature Appreciation Textbooks"
+	elif keyword == "TextbookSkill_Necromancy":
+		plural = "Necromancy Textbooks"
+	elif keyword == "TextbookSkill_Pig":
+		plural = "Pig Textbooks"
+	elif keyword == "TextbookSkill_Priest":
+		plural = "Priest Textbooks"
+	elif keyword == "TextbookSkill_Psychology":
+		plural = "Psychology Textbooks"
+	elif keyword == "TextbookSkill_Rabbit":
+		plural = "Rabbit Textbooks"
+	elif keyword == "TextbookSkill_Shield":
+		plural = "Shield Textbooks"
+	elif keyword == "TextbookSkill_SigilScripting":
+		plural = "Sigil Scripting Textbooks"
+	elif keyword == "TextbookSkill_Spider":
+		plural = "Spider Textbooks"
+	elif keyword == "TextbookSkill_SpiritFox":
+		plural = "Spirit Fox Textbooks"
+	elif keyword == "TextbookSkill_Staff":
+		plural = "Staff Textbooks"
+	elif keyword == "TextbookSkill_SurvivalInstincts":
+		plural = "Survival Instincts Textbooks"
+	elif keyword == "TextbookSkill_Sword":
+		plural = "Sword Textbooks"
+	elif keyword == "TextbookSkill_Tailoring":
+		plural = "Tailoring Textbooks"
+	elif keyword == "TextbookSkill_Toolcrafting":
+		plural = "Toolcrafting Textbooks"
+	elif keyword == "TextbookSkill_Unarmed":
+		plural = "Unarmed Textbooks"
+	elif keyword == "TextbookSkill_Warden":
+		plural = "Warden Textbooks"
+	elif keyword == "TextbookSkill_Werewolf":
+		plural = "Lycanthropy Textbooks"
 	elif keyword == "Textiles":
 		plural = "Textiles"
 	elif keyword == "Thread":

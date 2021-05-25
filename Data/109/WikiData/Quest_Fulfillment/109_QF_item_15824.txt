@@ -1,5 +1,0 @@
-===Quest Fulfillment===
-<!-- __GAMEVERSION__ -->
-<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
-=====Work Order=====
-Turn in 10x [[Spider Boost Potion 20%]] to [[Irkima]] for 2769 councils. Requires [[Industry]] Level 27.

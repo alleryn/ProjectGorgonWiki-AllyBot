@@ -1,0 +1,14 @@
+===Quest Fulfillment===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Blanche Wants A Spoon]] || 1 (Collect any [[:Category:Items/Spoon|Spoons]]) || One time only || [[Blanche]] || Neutral || Serbule Keep in [[Serbule]] || 
+|-
+| [[Find Spoons]] || 2 (Collect any [[:Category:Items/Spoon|Spoons]]) || One time only || [[Lawara]] || Neutral || [[Anagoge Island]] || 
+|-
+| [[Guild: Afraid of The Circus (50-person)]] || 50 (Amass with Guild any [[:Category:Items/Spoon|Spoons]]) || 5 Minutes || [[Nelson Ballard]] || Unknown || Serbule Keep in [[Serbule]] || 
+|}
+=====Work Order=====
+Turn in any 10x [[:Category:Items/Spoon|Spoons]] to [[Fitz the Boatman]] for 0 councils. Requires [[Industry]] Level 0.

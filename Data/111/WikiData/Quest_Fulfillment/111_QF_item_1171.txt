@@ -1,0 +1,18 @@
+===Quest Fulfillment===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Gather More Mushrooms]] || 10 (Collect any [[:Category:Items/Mushroom|Mushrooms]]) || One time only || [[Mushroom Jack]] || Tolerated || Serbule Keep in [[Serbule]] || 
+|-
+| [[The Mythical Heartshroom]] || 2 (Collect) || One time only || [[Charles Thompson]] || Friends || Charles Thompson's Tent in [[Serbule]] || 
+|-
+| [[Un-cow-ification]] || 50 (Collect any [[:Category:Items/Mushroom|Mushrooms]]) || One time only || Unknown || Unknown || Serbule || 
+|-
+| [[Heartshrooms]] || 5 (Collect) || One time only || [[Mu]] || Neutral || [[Myconian Cave]] in Serbule || 
+|-
+| [[Find Mushrooms]] || 10 (Collect any [[:Category:Items/Mushroom|Mushrooms]]) || One time only || Unknown || Unknown || Serbule || 
+|}
+=====Work Order=====
+Turn in 10x [[Heartshroom]] to [[Fitz the Boatman]] for 0 councils. Requires [[Industry]] Level 15.

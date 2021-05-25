@@ -1,0 +1,12 @@
+===Quest Fulfillment===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Lac for Amutasa]] || 20 (Collect) || One time only || [[Amutasa]] || Neutral || Rahu City in [[Rahu]] || 
+|-
+| [[Disguising Fox Outpost, pt 2]] || 6 (Collect) || One time only || [[Mittens]] || Neutral || The Fox Outpost in [[Kur]] || 
+|}
+=====Work Order=====
+Turn in 10x [[Lac]] to [[Gremix]] for 0 councils. Requires [[Industry]] Level 43.

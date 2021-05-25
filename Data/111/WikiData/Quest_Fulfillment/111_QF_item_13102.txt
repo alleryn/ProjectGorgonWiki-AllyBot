@@ -1,0 +1,12 @@
+===Quest Fulfillment===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[So... Cold...]] || 10 (Collect any [[:Category:Items/Wood|Wood]]) || One time only || [[Syndra]] || Neutral || A Barn in Central [[Kur]] || 
+|-
+| [[Event: Wood For The Tree]] || 6 (Collect) || 91 Days || [[Kleave]] || Unknown || Eltibule Keep in [[Eltibule]] || 
+|}
+=====Work Order=====
+Turn in 10x [[Maple Wood]] to [[Thimble Pete]] for 0 councils. Requires [[Industry]] Level 0.
