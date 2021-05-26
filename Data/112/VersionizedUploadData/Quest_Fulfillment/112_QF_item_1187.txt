@@ -1,0 +1,14 @@
+===Quest Fulfillment===
+<!-- v346 -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Ghost Puke]] || 6 (Collect) || One time only || [[Rick Snapley]] || Comfortable || [[New Prestonbule Cave]] in Gazluk || 
+|-
+| [[The Secret Ingredient]] || 3 (Collect) || One time only || [[Poe]] || Neutral || [[Myconian Cave]] in Serbule || 
+|-
+| [[Halloween Event: Kill Ghosts at Night]] || 1 (Loot) || 60 Days || Unknown || Unknown || Unknown || 
+|}
+=====Work Order=====
+Turn in 10x [[Ectoplasm]] to [[Fitz the Boatman]] for 655 councils. Requires [[Industry]] Level 20.

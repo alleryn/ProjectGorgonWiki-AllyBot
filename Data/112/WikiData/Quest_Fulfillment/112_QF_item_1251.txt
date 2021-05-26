@@ -1,0 +1,10 @@
+===Quest Fulfillment===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Boar Tusks For Bardic Lore]] || 2 (Collect) || One time only || [[Rappanel]] || Neutral || The Tapestry Inn in [[Serbule Hills]] || 
+|}
+=====Work Order=====
+Turn in 10x [[Boar Tusk]] to [[Irkima]] for 303 councils. Requires [[Industry]] Level 25.

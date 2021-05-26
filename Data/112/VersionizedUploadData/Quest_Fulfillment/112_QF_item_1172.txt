@@ -1,0 +1,10 @@
+===Quest Fulfillment===
+<!-- v346 -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Fake Honey For a Fake Bee]] || 5 (Collect) || One time only || [[Elaina]] || Neutral || The Fairy Tree in [[Sun Vale]] || 
+|}
+=====Work Order=====
+Turn in 10x [[Myconian Jelly]] to [[Fitz the Boatman]] for 2267 councils. Requires [[Industry]] Level 20.

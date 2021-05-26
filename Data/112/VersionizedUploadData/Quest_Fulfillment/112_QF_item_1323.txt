@@ -1,0 +1,12 @@
+===Quest Fulfillment===
+<!-- v346 -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Find Bones]] || 4 (Collect any [[:Category:Items/Bone|Bones]]) || One time only || [[Lawara]] || Neutral || [[Anagoge Island]] || 
+|-
+| [[Event: Bones For Rollin']] || 12 (Collect any [[:Category:Items/Bone|Bones]]) || 91 Days || [[Irkima]] || Unknown || [[Red Wing Casino]] || 
+|}
+=====Work Order=====
+Turn in 10x [[Femur Pile]] to [[Sheyna]] for 1373 councils. Requires [[Industry]] Level 50.

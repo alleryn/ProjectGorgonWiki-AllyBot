@@ -1,0 +1,14 @@
+===Quest Fulfillment===
+<!-- v346 -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Ice Cores for Landri the Cold]] || 10 (Collect) || 7 Days || [[Landri the Cold]] || Neutral || The Outpost in Northwestern [[Kur]] || 
+|-
+| [[Keeping Meat Cold]] || 5 (Collect) || One time only || [[Mandibles]] || Neutral || [[Red Wing Casino]] || 
+|-
+| [[Event: Ice Gem Tree-Topper]] || 2 (Collect) || 91 Days || [[Nightshade]] || Unknown || The Outpost in Northwestern [[Kur]] || 
+|}
+=====Work Order=====
+Turn in 10x [[Ice Core]] to [[Fitz the Boatman]] for 1276 councils. Requires [[Industry]] Level 35.

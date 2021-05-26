@@ -1,0 +1,10 @@
+===Quest Fulfillment===
+<!-- v346 -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Citrus For Tyler]] || 5 (Collect any [[:Category:Items/Citrus|Citrus Foods and Drinks]]) || One time only || [[Tyler Green]] || Neutral || The Tapestry Inn in [[Serbule Hills]] || 
+|}
+=====Work Order=====
+Turn in 10x [[Fruity Mushy]] to [[Laura Neth]] for 5320 councils. Requires [[Industry]] Level 20.

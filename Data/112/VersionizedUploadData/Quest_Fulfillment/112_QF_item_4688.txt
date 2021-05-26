@@ -1,0 +1,5 @@
+===Quest Fulfillment===
+<!-- v346 -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+=====Work Order=====
+Turn in 100x [[Superb Throwing Knife]] to [[Ogamboe]] for 8281 councils. Requires [[Industry]] Level 50.

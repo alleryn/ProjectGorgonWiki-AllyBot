@@ -1,0 +1,10 @@
+===Quest Fulfillment===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Rita Wants Flowers]] || 6 (Collect any [[:Category:Items/Flower|Flowers]]) || 30 Days || [[Rita]] || Tolerated || Serbule Keep in [[Serbule]] || 
+|}
+=====Work Order=====
+Turn in 10x [[Pansy]] to [[Thimble Pete]] for 1594 councils. Requires [[Industry]] Level 16.

@@ -67,11 +67,13 @@ def GenerateWikiItemQuestData(target, targetDict, QuestDict, NpcDict):
 							else:
 								number = 0
 								print('Work Order ' + QuestDict[quest]["Name"] + ' has objective with no number.')
-							if "Rewards_Currency" in QuestDict[quest] and "Gold" in QuestDict[quest]['Rewards_Currency']:
-								councils = QuestDict[quest]['Rewards_Currency']['Gold']
+							councils = 0
+							if "Rewards" in QuestDict[quest]:
+								for reward in QuestDict[quest]['Rewards']:
+									if "Amount" in reward and "Currency" in reward and reward['Currency'] == "Gold":
+										councils = reward['Amount']
 							else:
-								councils = 0
-								print('Work Order ' + QuestDict[quest]["Name"] + ' has no /Rewards_Currency/Gold field')
+								print('Work Order ' + QuestDict[quest]["Name"] + ' has ill defined gold rewards field')
 							level = 0
 							if "Requirements" in QuestDict[quest]:
 								for requirement in QuestDict[quest]['Requirements']:
@@ -126,11 +128,13 @@ def GenerateWikiItemQuestData(target, targetDict, QuestDict, NpcDict):
 							else:
 								number = 0
 								print('Work Order ' + QuestDict[quest]["Name"] + ' has objective with no number.')
-							if "Rewards_Currency" in QuestDict[quest] and "Gold" in QuestDict[quest]['Rewards_Currency']:
-								councils = QuestDict[quest]['Rewards_Currency']['Gold']
+							councils = 0
+							if "Rewards" in QuestDict[quest]:
+								for reward in QuestDict[quest]['Rewards']:
+									if "Amount" in reward and "Currency" in reward and reward['Currency'] == "Gold":
+										councils = reward['Amount']
 							else:
-								councils = 0
-								print('Work Order ' + QuestDict[quest]["Name"] + ' has no /Rewards_Currency/Gold field')
+								print('Work Order ' + QuestDict[quest]["Name"] + ' has ill defined gold rewards field')
 							level = 0
 							if "Requirements" in QuestDict[quest]:
 								for requirement in QuestDict[quest]['Requirements']:

@@ -1,0 +1,12 @@
+===Quest Fulfillment===
+<!-- v346 -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Event: Fiery Tree-Topper]] || 6 (Collect) || 91 Days || [[Kleave]] || Unknown || Eltibule Keep in [[Eltibule]] || 
+|-
+| [[Event: Help Miss Fire]] || 10 (Collect) || 15 Days || Unknown || Unknown || Unknown || 
+|}
+=====Work Order=====
+Turn in 10x [[Fire Dust]] to [[Fitz the Boatman]] for 2133 councils. Requires [[Industry]] Level 0.
