@@ -122,8 +122,9 @@ def GenerateWikiFood(ItemDict, RecipeDict):
 								metabolismCost = str(behavior["MetabolismCost"])
 					instantsSource += health + ' || ' + power + ' || ' + metabolismCost + '\n'
 
-	mealsSource += '|}\n'
-	snacksSource += '|}\n'
-	instantsSource += '|}\n'
-	ediblesSource += '|}\n'
+	categoryString = '<noinclude>[[Category:Skill Subpage]]</noinclude>\n'
+	mealsSource += '|}\n' + categoryString
+	snacksSource += '|}\n' + categoryString
+	instantsSource += '|}\n' + categoryString
+	ediblesSource += '|}\n' + categoryString
 	return ediblesSource, mealsSource, snacksSource, instantsSource

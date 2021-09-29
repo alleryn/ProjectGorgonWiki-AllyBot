@@ -1,9 +1,0 @@
-===Producing with Recipes===
-<!-- __GAMEVERSION__ -->
-<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
-{| {{STDT|mw-collapsible mw-collapsed}}
-|+ style="text-align:left; width: 250px;" | [[Carpentry]]
-! Lvl !! Name !! Ingredients !! Results
-|-
-| 43 || Nice Wooden Cow Shoes || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5140.png</span>&nbsp;[[Maple Wood]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5096.png</span>&nbsp;[[Simple Nails]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5559.png</span>&nbsp;[[Tack Hammer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 50% &#010;">(!)</sup></span><br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5303.png</span>&nbsp;[[Nice Wooden Cow Shoes]] x1
-|}

@@ -1,0 +1,37 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Carpentry]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Oak Wood Chips (From Perfect) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5472.png</span>&nbsp;[[Perfect Oak Wood]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5142.png</span>&nbsp;[[Oak Wood Chips]] x6
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Toolcrafting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 60 || Amazing Arachnid Harness (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5472.png</span>&nbsp;[[Perfect Oak Wood]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5174.png</span>&nbsp;[[Rawhide Sheet]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5080.png</span>&nbsp;[[Trophy Tiger Skin]] x1<br>[[:Category:Items/FlawlessSkin|Trophy Skin or Hide]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_20001.png</span>&nbsp;[[Amazing Arachnid Harness]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Whittling]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Very Simple Whittling Practice || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6423.png</span>&nbsp;[[Simple Whittling Knife]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 5% &#010;">(!)</sup></span><br>[[:Category:Items/Wood|Wood]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6417.png</span>&nbsp;[[Wooden Figurine of a Pig]] x1
+|-
+| 11 || Simple Whittling Practice || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6423.png</span>&nbsp;[[Simple Whittling Knife]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 5% &#010;">(!)</sup></span><br>[[:Category:Items/Wood|Wood]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6420.png</span>&nbsp;[[Wooden Figurine of a Bunny]] x1
+|-
+| 21 || Very Basic Whittling Practice || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6423.png</span>&nbsp;[[Basic Whittling Knife]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 5% &#010;">(!)</sup></span><br>[[:Category:Items/Wood|Wood]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6418.png</span>&nbsp;[[Wooden Figurine of a Buck]] x1
+|-
+| 32 || Basic Whittling Practice || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6423.png</span>&nbsp;[[Basic Whittling Knife]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 5% &#010;">(!)</sup></span><br>[[:Category:Items/Wood|Wood]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6421.png</span>&nbsp;[[Wooden Figurine of a Horned Owl]] x1
+|-
+| 41 || Decent Whittling Practice || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6423.png</span>&nbsp;[[Good Whittling Knife]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 5% &#010;">(!)</sup></span><br>[[:Category:Items/Wood|Wood]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6424.png</span>&nbsp;[[Wooden Figurine of a Rhino]] x1
+|-
+| 51 || Good Whittling Practice || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6423.png</span>&nbsp;[[Good Whittling Knife]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 5% &#010;">(!)</sup></span><br>[[:Category:Items/Wood|Wood]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6425.png</span>&nbsp;[[Wooden Figurine of a Camel]] x1
+|-
+| 61 || Semi-Expert's Whittling Practice || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6423.png</span>&nbsp;[[Expert's Whittling Knife]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 5% &#010;">(!)</sup></span><br>[[:Category:Items/Wood|Wood]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6419.png</span>&nbsp;[[Wooden Figurine of a Grizzly Bear]] x1
+|-
+| 71 || Expert's Whittling Practice || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6423.png</span>&nbsp;[[Expert's Whittling Knife]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 5% &#010;">(!)</sup></span><br>[[:Category:Items/Wood|Wood]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6422.png</span>&nbsp;[[Wooden Figurine of an Ermine]] x1
+|-
+| 81 || Semi-Master's Whittling Practice || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6423.png</span>&nbsp;[[Master Whittling Knife]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 5% &#010;">(!)</sup></span><br>[[:Category:Items/Wood|Wood]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6426.png</span>&nbsp;[[Wooden Figurine of a Mega-Crab]] x1
+|}

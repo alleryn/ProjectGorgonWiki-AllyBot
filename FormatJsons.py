@@ -212,10 +212,10 @@ for recipe in RecipeJson:
 					if ItemJson[item]["InternalName"] == resultInternal:
 						resultCode = int(item[5:])
 						break
-			elif resultEffect.startswith('TSysCraftedEquipment') or resultEffect.startswith('GiveTSysItem'):
+			elif resultEffect.startswith('TSysCraftedEquipment') or resultEffect.startswith('GiveTSysItem') or resultEffect.startswith('Whittling'):
 				expectResults = False
 				if "ProtoResultItems" not in RecipeJson[recipe]:
-					print(RecipeJson[recipe]["Name"] + ' has TSysCraftedEquipment or GiveTSysItem but no ProtoResultItems.')
+					print(RecipeJson[recipe]["Name"] + ' has TSysCraftedEquipment or GiveTSysItem or Whittling but no ProtoResultItems.')
 				else:
 					recipeTypes.add('ProtoResultItems')
 			elif resultEffect.startswith('ConsumeItemUses'):

@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Armorsmithing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 7 || Rough Chainmail Gloves || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5298.png</span>&nbsp;[[Basic Metal Slab]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5561.png</span>&nbsp;[[Dishing Hammer]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 20% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_13034.png</span>&nbsp;[[Rough Chainmail Gloves]] x1
+|}

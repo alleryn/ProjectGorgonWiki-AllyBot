@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 13 || Rotten Meat || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5164.png</span>&nbsp;[[Rotten Strawberry]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5468.png</span>&nbsp;[[Sugar]] x1<br>[[:Category:Items/CheapMeat|Cheap Meat]] || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5067.png</span>&nbsp;[[Rotten Meat]] x10
+|}

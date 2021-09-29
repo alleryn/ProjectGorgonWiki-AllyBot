@@ -1,0 +1,106 @@
+===Quest Rewards===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Acquired !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[An amazing new stool]] || style="text-align:center;" | 13 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[A great new stool]] || style="text-align:center;" | 11 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[An amazing new calligraphy bench]] || style="text-align:center;" | 13 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[A great new calligraphy bench]] || style="text-align:center;" | 11 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[An amazing new chair]] || style="text-align:center;" | 17 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[A great guest chair]] || style="text-align:center;" | 17 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[A great new storage solution]] || style="text-align:center;" | 14 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Artisanal hogsheads]] || style="text-align:center;" | 8 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[An amazing new cleaning stick]] || style="text-align:center;" | 9 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Shroom Feast Time]] || style="text-align:center;" | 5 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Fresh Orcish Onion Soup]] || style="text-align:center;" | 7 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Porcini Bites]] || style="text-align:center;" | 7 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Ruktagh_(Quest)]] || style="text-align:center;" | 5 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Cavefish Supper_(Quest)]] || style="text-align:center;" | 5 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Chicken Casserole_(Quest)]] || style="text-align:center;" | 7 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[A Delicious Stuffed Bell Pepper]] || style="text-align:center;" | 5 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Swamp Salad_(Quest)]] || style="text-align:center;" | 5 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Grilled Amberjack_(Quest)]] || style="text-align:center;" | 8 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Deluxe Beetle Skewer_(Quest)]] || style="text-align:center;" | 8 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Vexfish Lettuce Wraps_(Quest)]] || style="text-align:center;" | 9 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Maple Carrots_(Quest)]] || style="text-align:center;" | 6 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[A Crate of Oranges]] || style="text-align:center;" | 6 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Fresh Basil]] || style="text-align:center;" | 4 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Cantaloupe for Breakfast]] || style="text-align:center;" | 5 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Pungent Rennet_(Quest)]] || style="text-align:center;" | 5 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Spruce Wood Chips_(Quest)]] || style="text-align:center;" | 3 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Wool!]] || style="text-align:center;" | 3 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Cinnabar for Jewelry]] || style="text-align:center;" | 5 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Agates for Jewelry]] || style="text-align:center;" | 4 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Peaches, fresh ripe peaches]] || style="text-align:center;" | 6 || 1 Hours || Unknown || Unknown || Povus || 
+|-
+| [[Bones For Inspection]] || style="text-align:center;" | 7 || One time only || [[Brugo the Wise]] || Unknown || TBD || 
+|-
+| [[More Bones For Inspection]] || style="text-align:center;" | 7 || 1 Hours || [[Brugo the Wise]] || Unknown || TBD || 
+|-
+| [[Time For a Smoke Break]] || style="text-align:center;" | 6 || One time only || [[Brugo the Wise]] || Unknown || TBD || 
+|-
+| [[A Kick In The Whiskers]] || style="text-align:center;" | 6 || One time only || [[Dachak the Digger]] || Unknown || Old Town in [[Povus]] || 
+|-
+| [[Fresh-Picked Death]] || style="text-align:center;" | 6 || One time only || [[Dachak the Digger]] || Unknown || Old Town in [[Povus]] || 
+|-
+| [[Only the Freshest Grizlark]] || style="text-align:center;" | 5 || One time only || [[Ferand Deftwhisper]] || Unknown || Old Town in [[Povus]] || 
+|-
+| [[More Grizlark!]] || style="text-align:center;" | 5 || 1 Days || [[Ferand Deftwhisper]] || Unknown || Old Town in [[Povus]] || 
+|-
+| [[Repurposing Old Fishing Nets]] || style="text-align:center;" | 3 || One time only || [[Leah Bowman]] || Unknown || Old Town in [[Povus]] || 
+|-
+| [[Fresh Tallow For The Bees]] || style="text-align:center;" | 5 || One time only || [[Leah Bowman]] || Unknown || Old Town in [[Povus]] || 
+|-
+| [[Brukal Must Die]] || style="text-align:center;" | 5 || One time only || [[Leah Bowman]] || Friends || Old Town in [[Povus]] || 
+|-
+| [[Tending To the Root-Tenders]] || style="text-align:center;" | 3 || One time only || [[Mope]] || Tolerated || TBD || 
+|-
+| [[Tending To the Root-Tenders]] || style="text-align:center;" | 3 || 1 Days || [[Mope]] || Tolerated || TBD || 
+|-
+| [[Exotic Varieties of Fungus]] || style="text-align:center;" | 3 || One time only || [[Mope]] || Unknown || TBD || 
+|-
+| [[Counter-Exterminate the Orcs]] || style="text-align:center;" | 3 || 10 Days || [[Mope]] || Friends || TBD || 
+|-
+| [[Recover Lost Fly Amanita]] || style="text-align:center;" | 3 || 10 Days || [[Mope]] || Friends || TBD || 
+|-
+| [[Stephie's Gorget]] || style="text-align:center;" | 6 || One time only || [[Tremmond Blackhammer]] || Neutral || Old Town in [[Povus]] || 
+|-
+| [[Parts For An Auto-Clamp]] || style="text-align:center;" | 10 || One time only || [[Tremmond Blackhammer]] || Neutral || Old Town in [[Povus]] || 
+|-
+| [[Auto-Clamp Safety Blanket]] || style="text-align:center;" | 10 || One time only || [[Tremmond Blackhammer]] || Neutral || Old Town in [[Povus]] || 
+|-
+| [[Secrets of Orcish Armor (part 1)]] || style="text-align:center;" | 1 || One time only || [[Tremmond Blackhammer]] || Friends || Old Town in [[Povus]] || 
+|-
+| [[Secrets of Orcish Armor (part 2)]] || style="text-align:center;" | 1 || One time only || [[Tremmond Blackhammer]] || Friends || Old Town in [[Povus]] || 
+|}

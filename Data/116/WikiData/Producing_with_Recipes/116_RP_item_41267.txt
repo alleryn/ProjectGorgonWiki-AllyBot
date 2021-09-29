@@ -1,0 +1,11 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Tailoring]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 61 || Great Nimble Pants (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5363.png</span>&nbsp;[[Fine Cotton Yarn]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5362.png</span>&nbsp;[[Coarse Cotton Yarn]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5328.png</span>&nbsp;[[Voile Muslin]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5940.png</span>&nbsp;[[Fae Felt]] x1<br>[[:Category:Items/Crystal|Primary Crystal]] x1<br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_11030.png</span>&nbsp;[[Great Nimble Pants]] x1
+|-
+| 62 || Great Nimble Pants (Max-Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5363.png</span>&nbsp;[[Fine Cotton Yarn]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5362.png</span>&nbsp;[[Coarse Cotton Yarn]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5328.png</span>&nbsp;[[Voile Muslin]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5940.png</span>&nbsp;[[Fae Felt]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5206.png</span>&nbsp;[[Maximized Sardonyx]] x1<br>[[:Category:Items/Crystal|Primary Crystal]] x1<br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_11030.png</span>&nbsp;[[Great Nimble Pants]] x1
+|}

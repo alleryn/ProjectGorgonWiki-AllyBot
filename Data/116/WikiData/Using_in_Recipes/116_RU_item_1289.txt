@@ -1,0 +1,17 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Turn Junk Into Crystal Ice || [[:Category:Items/VendorTrash|Miscellaneous Junk]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Gadgeteering]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 35 || Robust Kennel || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6341.png</span>&nbsp;[[Thin Metal Lattice]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6341.png</span>&nbsp;[[Sturdy Metal Lattice]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5760.png</span>&nbsp;[[Spool of Wire]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5753.png</span>&nbsp;[[Magnifying Glass]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5328.png</span>&nbsp;[[Voile Muslin]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Ice Core]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6340.png</span>&nbsp;[[Robust Kennel]] x1
+|-
+| 50 || Cryogenic Pet Crate || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6341.png</span>&nbsp;[[Sturdy Metal Lattice]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5763.png</span>&nbsp;[[Silver Spring]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5760.png</span>&nbsp;[[Spool of Wire]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Ice Core]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6294.png</span>&nbsp;[[Fairy Iceheart]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6340.png</span>&nbsp;[[Cryogenic Pet Crate]] x1
+|}

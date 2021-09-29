@@ -1,0 +1,10 @@
+===Quest Fulfillment===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible mw-collapsed}}
+! Quest !! Number Required !! Quest Cooldown<br>(if repeatable) !! NPC !! Minimum Favor !! Location !! Notes
+|-
+| [[Maple Carrots_(Quest)]] || 1 (Collect) || 1 Hours || Unknown || Unknown || Povus || 
+|}
+=====Work Order=====
+Turn in 10x [[Maple Carrots]] to [[Laura Neth]] for 6852 councils. Requires [[Industry]] Level 40.

@@ -1,0 +1,28 @@
+===Gifting===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+! NPC !! Location !! Preferences
+|- style="background:#4AF24A;"
+| [[Gloria Stonecurl]] || The Outpost in Northwestern [[Kur]] || Loves ([[:Category:Items/HolySymbol|Holy Symbols]])
+|- style="background:#4AF24A;"
+| [[Janet Lews]] || The Outpost in Northwestern [[Kur]] || Loves ([[:Category:Items/Sword|Swords]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#4AF24A;"
+| [[Joeh]] || Serbule Keep in [[Serbule]] || Loves ([[:Category:Items/Sword|Swords]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Eleme]] || The Fairy Tree in [[Sun Vale]] || Likes ([[:Category:Items/Sword|Swords]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Gerrux]] || Old Town in [[Povus]] || Likes ([[:Category:Items/Sword|Swords]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Velkort]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Antique|Antiques]])
+|- style="background:#9EF24A;"
+| [[Shirogin]] || Rahu City in [[Rahu]] || Likes ([[:Category:Items/Antique|Antiques]])
+|- style="background:#9EF24A;"
+| [[Malvol]] || [[Hogan's Basement]] in Eltibule || Likes ([[:Category:Items/Sword|Swords]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Kib the Unkillable]] || [[Red Wing Casino]] || Likes ([[:Category:Items/Sword|Swords]] and [[:Category:Items/Loot|Loot]])
+|- style="background:#9EF24A;"
+| [[Blanche]] || Serbule Keep in [[Serbule]] || Likes ([[:Category:Items/Antique|Antiques]])
+|- style="background:#F24A4A;"
+| [[Yogzi]] || The Druid Camp in [[Sun Vale]] || Hates ([[:Category:Items/Antique|Antiques]])
+|}

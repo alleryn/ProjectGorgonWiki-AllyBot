@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 60 || Ratkin Surf 'n Turf || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5036.png</span>&nbsp;[[Catfish Fillet]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6412.png</span>&nbsp;[[Snail]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6312.png</span>&nbsp;[[Raw Oyster]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5041.png</span>&nbsp;[[Flour]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5128.png</span>&nbsp;[[Ratkin Surf 'n Turf]] x2
+|}

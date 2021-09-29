@@ -1,0 +1,73 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Pick-Me-Up Juice || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5016.png</span>&nbsp;[[Parasol Mushroom Flakes]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5468.png</span>&nbsp;[[Sugar]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5154.png</span>&nbsp;[[Pick-Me-Up Juice]] x1
+|-
+| 0 || Rotten Strawberry || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5066.png</span>&nbsp;[[Large Strawberry]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5022.png</span>&nbsp;[[Potato]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5164.png</span>&nbsp;[[Rotten Strawberry]] x1
+|-
+| 10 || Perfect Memory Inhibitor || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5155.png</span>&nbsp;[[Memory Inhibitor]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5220.png</span>&nbsp;[[Peridot]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5155.png</span>&nbsp;[[Perfect Memory Inhibitor]] x2
+|-
+| 12 || Bounceweed || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5057.png</span>&nbsp;[[Grass]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5054.png</span>&nbsp;[[Basic Fish Scales]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5544.png</span>&nbsp;[[Bounceweed]] x1
+|-
+| 15 || Psychic Resistance Potion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5469.png</span>&nbsp;[[Pickled Brain]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5137.png</span>&nbsp;[[Red Apple]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5155.png</span>&nbsp;[[Psychic Resistance Potion]] x1
+|-
+| 20 || Modest Poisoned Knife || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5468.png</span>&nbsp;[[Sugar]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5893.png</span>&nbsp;[[Modest Poisoned Knife]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Calligraphy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 20 || Secret Calligraphy: Fist || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5885.png</span>&nbsp;[[Advanced Holistic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1 || Gain insight: '''+5% Crushing Attack Damage'''. (Stacks with regular calligraphy effects)
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Candle Making]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 6 || Shoddy Woodland Candle || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6363.png</span>&nbsp;[[Shoddy Wick]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6371.png</span>&nbsp;[[Shoddy Tallow]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6377.png</span>&nbsp;[[Shoddy Woodland Candle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Dye Making]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 51 || Saddle Brown Dye || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5765.png</span>&nbsp;[[Coffee Beans]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5176.png</span>&nbsp;[[Crude Leather Roll]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5378.png</span>&nbsp;[[Dye Pot]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5379.png</span>&nbsp;[[Gem Crusher]] x1<br>[[:Category:Items/Clay|Clay Item]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6046.png</span>&nbsp;[[Saddle Brown Dye]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Gardening]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Basic Fertilizer (from Dirt) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5092.png</span>&nbsp;[[Bottle of Fertilizer]] x3
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Elven Infertility Cantrip || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 0 || Human Hair-Cleaning Cantrip || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5042.png</span>&nbsp;[[Bluebell]] x1 || 
+|-
+| 4 || Word of Power 2 Scroll || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5065.png</span>&nbsp;[[Ectoplasm]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5042.png</span>&nbsp;[[Bluebell]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_4003.png</span>&nbsp;[[Word of Power Scroll (level 2)]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mushroom Farming]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Mushroom Substrate: Dirt || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5057.png</span>&nbsp;[[Grass]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Mushroom Substrate (Dirt)]] x1
+|-
+| 30 || High-Yield Mushroom Box (48 hours) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5787.png</span>&nbsp;[[Maple Mushroom Box Frame]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5146.png</span>&nbsp;[[Blood Mushroom Suspension]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5311.png</span>&nbsp;[[High-Yield Mushroom Box (48 hours)]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mycology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Lycanspore Bomb || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5004.png</span>&nbsp;[[Field Mushroom]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5048.png</span>&nbsp;[[Perch]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5042.png</span>&nbsp;[[Wolfsbane]] x3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5686.png</span>&nbsp;[[Lycanspore Bomb]] x3
+|-
+| 2 || Basic Spore Bombs || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5001.png</span>&nbsp;[[Parasol Mushroom]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5684.png</span>&nbsp;[[Basic Spore Bomb]] x2
+|-
+| 15 || Potent Spore Bombs || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5002.png</span>&nbsp;[[Mycena Mushroom]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5052.png</span>&nbsp;[[Clownfish]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5685.png</span>&nbsp;[[Potent Spore Bomb]] x2
+|-
+| 25 || Deadly Spore Bombs || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5003.png</span>&nbsp;[[Boletus Mushroom]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5048.png</span>&nbsp;[[Perch]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5686.png</span>&nbsp;[[Deadly Spore Bomb]] x3
+|}

@@ -1,0 +1,19 @@
+===Using in Recipes===
+<!-- v350 -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 72 || Hexameat Wraps || <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6414.png</span>&nbsp;[[Hexameat]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5037.png</span>&nbsp;[[Yellow Perch Fillet]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5457.png</span>&nbsp;[[Red Pepper]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5672.png</span>&nbsp;[[Swampweed]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5819.png</span>&nbsp;[[Hexameat Wraps]] x2
+|-
+| 75 || Yellow Perch Ranalon-Style || <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5037.png</span>&nbsp;[[Yellow Perch Fillet]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6412.png</span>&nbsp;[[Snail]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6415.png</span>&nbsp;[[Frog Legs]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5039.png</span>&nbsp;[[Yellow Perch Ranalon-Style]] x2
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Sushi Preparation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 25 || Yellow Perch Nigiri || <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5037.png</span>&nbsp;[[Yellow Perch Fillet]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5676.png</span>&nbsp;[[Rahu Rice]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5680.png</span>&nbsp;[[Secret Vinegar]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6224.png</span>&nbsp;[[Dill]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5674.png</span>&nbsp;[[Yellow Perch Nigiri]] x2
+|-
+| 32 || Yellow Perch Sushi Roll || <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5037.png</span>&nbsp;[[Yellow Perch Fillet]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5676.png</span>&nbsp;[[Rahu Rice]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5680.png</span>&nbsp;[[Secret Vinegar]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6224.png</span>&nbsp;[[Dill]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Yellow Perch Sushi Roll]] x2
+|}

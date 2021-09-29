@@ -1,5 +1,0 @@
-===Quest Fulfillment===
-<!-- v346 -->
-<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
-=====Work Order=====
-Turn in 10x [[Basilisk Tail Tip]] to [[Irkima]] for 3587 councils. Requires [[Industry]] Level 40.

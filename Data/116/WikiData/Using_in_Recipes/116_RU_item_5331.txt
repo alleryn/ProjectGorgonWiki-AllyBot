@@ -1,0 +1,33 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 30 || Swamp Balm || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6445.png</span>&nbsp;[[Swamp Gourd]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6406.png</span>&nbsp;[[Tentakiller Gland]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6409.png</span>&nbsp;[[Kuvou Poison Sack]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5894.png</span>&nbsp;[[Swamp Balm]] x5
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 68 || Beast in the Tub || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6414.png</span>&nbsp;[[Hexameat]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5036.png</span>&nbsp;[[Catfish Fillet]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6445.png</span>&nbsp;[[Swamp Gourd]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6223.png</span>&nbsp;[[Beast in the Tub]] x2
+|-
+| 70 || Baked Swamp Gourd || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6445.png</span>&nbsp;[[Swamp Gourd]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5041.png</span>&nbsp;[[Flour]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6279.png</span>&nbsp;[[Basil]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6227.png</span>&nbsp;[[Rattus Root]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5127.png</span>&nbsp;[[Baked Swamp Gourd]] x2
+|-
+| 70 || Swamp Gourd Fries || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6445.png</span>&nbsp;[[Swamp Gourd]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6227.png</span>&nbsp;[[Rattus Root]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5779.png</span>&nbsp;[[Dwarfnut Oil]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5861.png</span>&nbsp;[[Swamp Gourd Fries]] x2
+|-
+| 80 || Povus Coffee || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5765.png</span>&nbsp;[[Coffee Beans]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6445.png</span>&nbsp;[[Swamp Gourd]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6431.png</span>&nbsp;[[Povus Gur-Horta Leaves]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6412.png</span>&nbsp;[[Snail]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6386.png</span>&nbsp;[[Povus Coffee]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x2
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 7 || Turn Food Into Crystal Ice || [[:Category:Items/Edible|Food or Drink]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Ice Conjuration]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Freeze Food Into Crystal Ice || [[:Category:Items/Edible|Food or Drink]] x1 || 
+|}

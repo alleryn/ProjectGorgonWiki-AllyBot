@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Carpentry]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 15 || Oak Lattice || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5093.png</span>&nbsp;[[Oak Wood]] x4<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5312.png</span>&nbsp;[[String]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6342.png</span>&nbsp;[[Oak Lattice]] x1
+|}

@@ -1,0 +1,57 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 40 || Staff Boost Potion 20% || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Dirty Snow Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5186.png</span>&nbsp;[[Dinosaur Eye]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5987.png</span>&nbsp;[[Toxic Ice Sludge]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5437.png</span>&nbsp;[[Staff Boost Potion 20%]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 58 || Toxin Resistance Potion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5987.png</span>&nbsp;[[Toxic Ice Sludge]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5988.png</span>&nbsp;[[Myconian Jelly]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5390.png</span>&nbsp;[[Banana]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5155.png</span>&nbsp;[[Toxin Resistance Potion]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Armor Patching]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 85 || Idiot-Proof Safety Wax #3 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5016.png</span>&nbsp;[[Parasol Mushroom Flakes]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5642.png</span>&nbsp;[[Bear Claw]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5987.png</span>&nbsp;[[Toxic Ice Sludge]] x1<br>[[:Category:Items/Shield|Shield]] x1 || Infuses a shield with the following power: '''(Wax) Max Armor +36'''.<br>The wax lasts until you have taken 1750 hits. This variety of Safety Wax does not have any additional wield requirements after it's applied.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Candle Making]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 35 || Crude Arctic Dawn Candle || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6364.png</span>&nbsp;[[Crude Wick]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6372.png</span>&nbsp;[[Crude Tallow]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5987.png</span>&nbsp;[[Toxic Ice Sludge]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6383.png</span>&nbsp;[[Crude Arctic Dawn Candle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 2 || Turn Corpse Trophies Into Crystal Ice || [[:Category:Items/CorpseTrophy|Corpse Trophies]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Jewelry Crafting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 69 || Great Winter Fae Ring (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5577.png</span>&nbsp;[[Astounding Metal Slab]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5987.png</span>&nbsp;[[Toxic Ice Sludge]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Potent Acidic Cleanser]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5568.png</span>&nbsp;[[Good Armor Stake]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 50% &#010;">(!)</sup></span><br>[[:Category:Items/Crystal|Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_17002.png</span>&nbsp;[[Great Winter Fae Ring]] x1
+|-
+| 71 || Great Winter Fae Ring (Max-Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5577.png</span>&nbsp;[[Astounding Metal Slab]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5987.png</span>&nbsp;[[Toxic Ice Sludge]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Potent Acidic Cleanser]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5568.png</span>&nbsp;[[Good Armor Stake]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 50% &#010;">(!)</sup></span><br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5702.png</span>&nbsp;[[Glowy Yellow Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_17002.png</span>&nbsp;[[Great Winter Fae Ring]] x1
+|-
+| 79 || Amazing Winter Fae Ring (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5578.png</span>&nbsp;[[Superb Metal Slab]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5987.png</span>&nbsp;[[Toxic Ice Sludge]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Ultimate Acidic Cleanser]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5569.png</span>&nbsp;[[Expert-Quality Armor Stake]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 35% &#010;">(!)</sup></span><br>[[:Category:Items/Crystal|Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_17002.png</span>&nbsp;[[Amazing Winter Fae Ring]] x1
+|-
+| 81 || Amazing Winter Fae Ring (Max-Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5578.png</span>&nbsp;[[Superb Metal Slab]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5987.png</span>&nbsp;[[Toxic Ice Sludge]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Ultimate Acidic Cleanser]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5569.png</span>&nbsp;[[Expert-Quality Armor Stake]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 35% &#010;">(!)</sup></span><br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5219.png</span>&nbsp;[[Vervadium]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5702.png</span>&nbsp;[[Glowy Yellow Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_17002.png</span>&nbsp;[[Amazing Winter Fae Ring]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Beginner's Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x5<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Basic Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Advanced Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Expert Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x6<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Perceive Spawn Premonitions (3 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 3 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|-
+| 0 || Perceive Spawn Premonitions (5 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x2<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 5 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|}

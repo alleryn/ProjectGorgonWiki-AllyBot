@@ -1,0 +1,27 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Dye Making]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 16 || Dark Khaki Dye || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5378.png</span>&nbsp;[[Dye Pot]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5379.png</span>&nbsp;[[Gem Crusher]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6036.png</span>&nbsp;[[Dark Khaki Dye]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 51 || Chartreuse Dye || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5202.png</span>&nbsp;[[Tsavorite]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5721.png</span>&nbsp;[[Dandelion]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5378.png</span>&nbsp;[[Dye Pot]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5379.png</span>&nbsp;[[Gem Crusher]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6053.png</span>&nbsp;[[Chartreuse Dye]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Perceive Spawn Premonitions (3 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 3 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|-
+| 0 || Perceive Spawn Premonitions (5 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x2<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 5 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Sigil Scripting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 25 || Fairy Magic Inscription || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Basic Ink]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 25% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Fairy Magic Topaz]] x1
+|}
+Also can be used in any recipes which call for:
+*[[:Category:Items/Crystal|Crystals]]

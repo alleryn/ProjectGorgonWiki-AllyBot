@@ -1,0 +1,891 @@
+=== Edibles ===
+<!-- v350 -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible <includeonly>mw-collapsed</includeonly>}} style="text-align: center"
+! Item !! Food Type !! Food Level !! Recipe Type !! Recipe Level !! Gourmand Requirement
+|-
+| style="text-align:left;" data-sort-value="Bottle of Sugar Water"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5010.png</span>&nbsp;[[Bottle of Sugar Water]] || Instant-Snack || 0 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Large Strawberry"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5066.png</span>&nbsp;[[Large Strawberry]] || Instant-Snack || 5 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Goblin Wheatbread"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5111.png</span>&nbsp;[[Goblin Wheatbread]] || Meal || 20 ||  ||  || 5
+|-
+| style="text-align:left;" data-sort-value="Mogyar Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5339.png</span>&nbsp;[[Mogyar Cheese]] || Meal || 31 ||  ||  || 16
+|-
+| style="text-align:left;" data-sort-value="Bottle of Milk"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] || Snack || 0 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Mild Cheddar Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5337.png</span>&nbsp;[[Mild Cheddar Cheese]] || Snack || 14 || [[Cheesemaking]] || 14 || 0
+|-
+| style="text-align:left;" data-sort-value="Cactus Juice"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5010.png</span>&nbsp;[[Cactus Juice]] || Instant-Snack || 8 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Honey"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5706.png</span>&nbsp;[[Honey]] || Instant-Snack || 5 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Almonds"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5707.png</span>&nbsp;[[Almonds]] || Meal || 7 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Rattus Root"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6227.png</span>&nbsp;[[Rattus Root]] || Instant-Snack || 10 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Bottle of Goat Milk"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5160.png</span>&nbsp;[[Bottle of Goat Milk]] || Snack || 2 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Fairy Honey"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5706.png</span>&nbsp;[[Fairy Honey]] || Instant-Snack || 50 ||  ||  || 35
+|-
+| style="text-align:left;" data-sort-value="Raw Oyster"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6312.png</span>&nbsp;[[Raw Oyster]] || Instant-Snack || 20 ||  ||  || 40
+|-
+| style="text-align:left;" data-sort-value="Cleaned Shrimp"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6305.png</span>&nbsp;[[Cleaned Shrimp]] || Instant-Snack || 15 || [[Fishing]] || 25 || 0
+|-
+| style="text-align:left;" data-sort-value="Red Apple"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5137.png</span>&nbsp;[[Red Apple]] || Meal || 1 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Grapes"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5118.png</span>&nbsp;[[Grapes]] || Meal || 2 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Orange"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5138.png</span>&nbsp;[[Orange]] || Meal || 3 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Guava"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5139.png</span>&nbsp;[[Guava]] || Meal || 4 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Banana"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5390.png</span>&nbsp;[[Banana]] || Meal || 5 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Lemon"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5622.png</span>&nbsp;[[Lemon]] || Meal || 6 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Pear"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5710.png</span>&nbsp;[[Pear]] || Meal || 7 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Peach"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5711.png</span>&nbsp;[[Peach]] || Meal || 8 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Green Apple"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5728.png</span>&nbsp;[[Green Apple]] || Meal || 9 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Sprigganberries"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6278.png</span>&nbsp;[[Sprigganberries]] || Snack || 20 ||  ||  || 5
+|-
+| style="text-align:left;" data-sort-value="Cantaloupe"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6283.png</span>&nbsp;[[Cantaloupe]] || Snack || 25 ||  ||  || 10
+|-
+| style="text-align:left;" data-sort-value="Swamp Gourd"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6445.png</span>&nbsp;[[Swamp Gourd]] || Snack || 15 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Parasol Mushroom Smoothie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5145.png</span>&nbsp;[[Parasol Mushroom Smoothie]] || Snack || 0 || [[Mycology]] || 0 || 0
+|-
+| style="text-align:left;" data-sort-value="Mycena Mushroom Smoothie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5146.png</span>&nbsp;[[Mycena Mushroom Smoothie]] || Snack || 5 || [[Mycology]] || 5 || 0
+|-
+| style="text-align:left;" data-sort-value="Boletus Mushroom Smoothie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5147.png</span>&nbsp;[[Boletus Mushroom Smoothie]] || Snack || 10 || [[Mycology]] || 10 || 0
+|-
+| style="text-align:left;" data-sort-value="Field Mushroom Smoothie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5148.png</span>&nbsp;[[Field Mushroom Smoothie]] || Snack || 15 || [[Mycology]] || 15 || 0
+|-
+| style="text-align:left;" data-sort-value="Blusher Mushroom Smoothie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5149.png</span>&nbsp;[[Blusher Mushroom Smoothie]] || Snack || 20 || [[Mycology]] || 20 || 5
+|-
+| style="text-align:left;" data-sort-value="Milk Cap Mushroom Smoothie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5150.png</span>&nbsp;[[Milk Cap Mushroom Smoothie]] || Snack || 25 || [[Mycology]] || 25 || 10
+|-
+| style="text-align:left;" data-sort-value="Blood Mushroom Smoothie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5388.png</span>&nbsp;[[Blood Mushroom Smoothie]] || Snack || 30 || [[Mycology]] || 30 || 15
+|-
+| style="text-align:left;" data-sort-value="Coral Mushroom Smoothie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5389.png</span>&nbsp;[[Coral Mushroom Smoothie]] || Snack || 40 || [[Mycology]] || 40 || 25
+|-
+| style="text-align:left;" data-sort-value="Cave Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5338.png</span>&nbsp;[[Cave Cheese]] || Meal || 3 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Cottage Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5338.png</span>&nbsp;[[Cottage Cheese]] || Snack || 4 || [[Cheesemaking]] || 4 || 0
+|-
+| style="text-align:left;" data-sort-value="Cream Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5338.png</span>&nbsp;[[Cream Cheese]] || Snack || 5 || [[Cheesemaking]] || 5 || 0
+|-
+| style="text-align:left;" data-sort-value="Prim Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5334.png</span>&nbsp;[[Prim Cheese]] || Snack || 6 || [[Cheesemaking]] || 6 || 0
+|-
+| style="text-align:left;" data-sort-value="Laressa's Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5338.png</span>&nbsp;[[Laressa's Cheese]] || Snack || 9 || [[Cheesemaking]] || 9 || 0
+|-
+| style="text-align:left;" data-sort-value="Urda Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5334.png</span>&nbsp;[[Urda Cheese]] || Snack || 10 || [[Cheesemaking]] || 10 || 0
+|-
+| style="text-align:left;" data-sort-value="Neufchatel Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5338.png</span>&nbsp;[[Neufchatel Cheese]] || Snack || 12 || [[Cheesemaking]] || 12 || 0
+|-
+| style="text-align:left;" data-sort-value="Ricotta Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5334.png</span>&nbsp;[[Ricotta Cheese]] || Snack || 16 || [[Cheesemaking]] || 16 || 1
+|-
+| style="text-align:left;" data-sort-value="Munster Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5337.png</span>&nbsp;[[Munster Cheese]] || Snack || 17 || [[Cheesemaking]] || 17 || 2
+|-
+| style="text-align:left;" data-sort-value="Cheshire Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5337.png</span>&nbsp;[[Cheshire Cheese]] || Snack || 18 || [[Cheesemaking]] || 18 || 3
+|-
+| style="text-align:left;" data-sort-value="Gloucester Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5337.png</span>&nbsp;[[Gloucester Cheese]] || Snack || 19 || [[Cheesemaking]] || 19 || 4
+|-
+| style="text-align:left;" data-sort-value="Brunost Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5334.png</span>&nbsp;[[Brunost Cheese]] || Snack || 20 || [[Cheesemaking]] || 20 || 5
+|-
+| style="text-align:left;" data-sort-value="Fairwing Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5337.png</span>&nbsp;[[Fairwing Cheese]] || Snack || 21 || [[Cheesemaking]] || 21 || 6
+|-
+| style="text-align:left;" data-sort-value="Cantal Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5337.png</span>&nbsp;[[Cantal Cheese]] || Snack || 22 || [[Cheesemaking]] || 22 || 7
+|-
+| style="text-align:left;" data-sort-value="Slave's Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5338.png</span>&nbsp;[[Slave's Cheese]] || Snack || 23 || [[Cheesemaking]] || 23 || 8
+|-
+| style="text-align:left;" data-sort-value="Sharp Cheddar Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5337.png</span>&nbsp;[[Sharp Cheddar Cheese]] || Snack || 24 || [[Cheesemaking]] || 24 || 9
+|-
+| style="text-align:left;" data-sort-value="Brocciu Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5334.png</span>&nbsp;[[Brocciu Cheese]] || Snack || 26 || [[Cheesemaking]] || 26 || 11
+|-
+| style="text-align:left;" data-sort-value="Brie Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5339.png</span>&nbsp;[[Brie Cheese]] || Meal || 28 ||  ||  || 13
+|-
+| style="text-align:left;" data-sort-value="Raclette Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5337.png</span>&nbsp;[[Raclette Cheese]] || Snack || 30 || [[Cheesemaking]] || 30 || 15
+|-
+| style="text-align:left;" data-sort-value="Havarti Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5337.png</span>&nbsp;[[Havarti Cheese]] || Snack || 32 || [[Cheesemaking]] || 32 || 17
+|-
+| style="text-align:left;" data-sort-value="Monterey Jack Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5337.png</span>&nbsp;[[Monterey Jack Cheese]] || Snack || 33 || [[Cheesemaking]] || 33 || 18
+|-
+| style="text-align:left;" data-sort-value="Camembert Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5339.png</span>&nbsp;[[Camembert Cheese]] || Meal || 34 ||  ||  || 19
+|-
+| style="text-align:left;" data-sort-value="Parmesan Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5337.png</span>&nbsp;[[Parmesan Cheese]] || Snack || 36 || [[Cheesemaking]] || 36 || 21
+|-
+| style="text-align:left;" data-sort-value="Mozzarella Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5333.png</span>&nbsp;[[Mozzarella Cheese]] || Snack || 38 || [[Cheesemaking]] || 38 || 23
+|-
+| style="text-align:left;" data-sort-value="Emmentaler Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5339.png</span>&nbsp;[[Emmentaler Cheese]] || Meal || 40 ||  ||  || 25
+|-
+| style="text-align:left;" data-sort-value="Pepper Jack Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5337.png</span>&nbsp;[[Pepper Jack Cheese]] || Snack || 42 || [[Cheesemaking]] || 42 || 27
+|-
+| style="text-align:left;" data-sort-value="Limburger Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5339.png</span>&nbsp;[[Limburger Cheese]] || Meal || 44 ||  ||  || 29
+|-
+| style="text-align:left;" data-sort-value="Haerel Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5337.png</span>&nbsp;[[Haerel Cheese]] || Snack || 46 || [[Cheesemaking]] || 46 || 31
+|-
+| style="text-align:left;" data-sort-value="Danablu Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5342.png</span>&nbsp;[[Danablu Cheese]] || Meal || 48 ||  ||  || 33
+|-
+| style="text-align:left;" data-sort-value="Appenzeller Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5339.png</span>&nbsp;[[Appenzeller Cheese]] || Meal || 50 ||  ||  || 35
+|-
+| style="text-align:left;" data-sort-value="Gul Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5333.png</span>&nbsp;[[Gul Cheese]] || Snack || 51 || [[Cheesemaking]] || 51 || 36
+|-
+| style="text-align:left;" data-sort-value="Edam Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5337.png</span>&nbsp;[[Edam Cheese]] || Snack || 52 || [[Cheesemaking]] || 52 || 37
+|-
+| style="text-align:left;" data-sort-value="Roquefort Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5342.png</span>&nbsp;[[Roquefort Cheese]] || Meal || 54 ||  ||  || 39
+|-
+| style="text-align:left;" data-sort-value="Ricotta Forte"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5334.png</span>&nbsp;[[Ricotta Forte]] || Snack || 56 || [[Cheesemaking]] || 56 || 41
+|-
+| style="text-align:left;" data-sort-value="Gorgonzola Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5342.png</span>&nbsp;[[Gorgonzola Cheese]] || Meal || 57 ||  ||  || 42
+|-
+| style="text-align:left;" data-sort-value="Sirine Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5341.png</span>&nbsp;[[Sirine Cheese]] || Snack || 58 || [[Cheesemaking]] || 58 || 43
+|-
+| style="text-align:left;" data-sort-value="Grasgot Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5342.png</span>&nbsp;[[Grasgot Cheese]] || Meal || 60 ||  ||  || 45
+|-
+| style="text-align:left;" data-sort-value="Provolone Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5333.png</span>&nbsp;[[Provolone Cheese]] || Snack || 62 || [[Cheesemaking]] || 62 || 47
+|-
+| style="text-align:left;" data-sort-value="Esgarion Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5342.png</span>&nbsp;[[Esgarion Cheese]] || Meal || 63 ||  ||  || 48
+|-
+| style="text-align:left;" data-sort-value="Telemea Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5341.png</span>&nbsp;[[Telemea Cheese]] || Snack || 64 || [[Cheesemaking]] || 64 || 49
+|-
+| style="text-align:left;" data-sort-value="Cambozola Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5342.png</span>&nbsp;[[Cambozola Cheese]] || Meal || 66 ||  ||  || 51
+|-
+| style="text-align:left;" data-sort-value="Scamorza Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5333.png</span>&nbsp;[[Scamorza Cheese]] || Snack || 68 || [[Cheesemaking]] || 68 || 53
+|-
+| style="text-align:left;" data-sort-value="Mur Del Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5342.png</span>&nbsp;[[Mur Del Cheese]] || Meal || 69 ||  ||  || 54
+|-
+| style="text-align:left;" data-sort-value="Halloumi Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5341.png</span>&nbsp;[[Halloumi Cheese]] || Snack || 70 || [[Cheesemaking]] || 70 || 55
+|-
+| style="text-align:left;" data-sort-value="Feta Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5341.png</span>&nbsp;[[Feta Cheese]] || Snack || 72 || [[Cheesemaking]] || 72 || 57
+|-
+| style="text-align:left;" data-sort-value="Gouda Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5337.png</span>&nbsp;[[Gouda Cheese]] || Snack || 74 || [[Cheesemaking]] || 74 || 59
+|-
+| style="text-align:left;" data-sort-value="Stilton Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5342.png</span>&nbsp;[[Stilton Cheese]] || Meal || 76 ||  ||  || 61
+|-
+| style="text-align:left;" data-sort-value="Blue-Whisker Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5342.png</span>&nbsp;[[Blue-Whisker Cheese]] || Meal || 78 ||  ||  || 63
+|-
+| style="text-align:left;" data-sort-value="Ratkin Survival Cheese"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5341.png</span>&nbsp;[[Ratkin Survival Cheese]] || Snack || 20 ||  ||  || 5
+|-
+| style="text-align:left;" data-sort-value="Onion Rings"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5029.png</span>&nbsp;[[Onion Rings]] || Meal || 5 || [[Cooking]] || 5 || 0
+|-
+| style="text-align:left;" data-sort-value="Potato Wedges"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5028.png</span>&nbsp;[[Potato Wedges]] || Meal || 1 || [[Cooking]] || 0 || 0
+|-
+| style="text-align:left;" data-sort-value="Hash Browns"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5031.png</span>&nbsp;[[Hash Browns]] || Meal || 5 || [[Cooking]] || 5 || 0
+|-
+| style="text-align:left;" data-sort-value="Baked Potato"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5022.png</span>&nbsp;[[Baked Potato]] || Meal || 1 || [[Cooking]] || 0 || 0
+|-
+| style="text-align:left;" data-sort-value="Onion Blossom"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5123.png</span>&nbsp;[[Onion Blossom]] || Meal || 5 || [[Cooking]] || 5 || 0
+|-
+| style="text-align:left;" data-sort-value="Boiled Cabbage"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5103.png</span>&nbsp;[[Boiled Cabbage]] || Meal || 10 || [[Cooking]] || 10 || 0
+|-
+| style="text-align:left;" data-sort-value="Baked Beets"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5129.png</span>&nbsp;[[Baked Beets]] || Meal || 20 || [[Cooking]] || 20 || 5
+|-
+| style="text-align:left;" data-sort-value="Squash Soup"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5974.png</span>&nbsp;[[Squash Soup]] || Meal || 30 || [[Cooking]] || 30 || 15
+|-
+| style="text-align:left;" data-sort-value="Broccoli Florets"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5135.png</span>&nbsp;[[Broccoli Florets]] || Meal || 40 || [[Cooking]] || 40 || 25
+|-
+| style="text-align:left;" data-sort-value="Maple Carrots"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6222.png</span>&nbsp;[[Maple Carrots]] || Meal || 50 || [[Cooking]] || 50 || 35
+|-
+| style="text-align:left;" data-sort-value="Stuffed Squash"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5105.png</span>&nbsp;[[Stuffed Squash]] || Meal || 30 || [[Cooking]] || 30 || 15
+|-
+| style="text-align:left;" data-sort-value="Guava Beet Muffin"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5985.png</span>&nbsp;[[Guava Beet Muffin]] || Meal || 35 || [[Cooking]] || 35 || 20
+|-
+| style="text-align:left;" data-sort-value="Beef and Broccoli"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5129.png</span>&nbsp;[[Beef and Broccoli]] || Meal || 45 || [[Cooking]] || 45 || 30
+|-
+| style="text-align:left;" data-sort-value="Boring Fruit Cocktail"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5767.png</span>&nbsp;[[Boring Fruit Cocktail]] || Meal || 10 || [[Cooking]] || 10 || 0
+|-
+| style="text-align:left;" data-sort-value="Fruit Cocktail"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5767.png</span>&nbsp;[[Fruit Cocktail]] || Meal || 20 || [[Cooking]] || 20 || 5
+|-
+| style="text-align:left;" data-sort-value="Weird Fruit Cocktail"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5767.png</span>&nbsp;[[Weird Fruit Cocktail]] || Meal || 25 || [[Cooking]] || 25 || 10
+|-
+| style="text-align:left;" data-sort-value="Banana Bread"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5111.png</span>&nbsp;[[Banana Bread]] || Meal || 45 || [[Cooking]] || 45 || 30
+|-
+| style="text-align:left;" data-sort-value="Candied Lemon"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5823.png</span>&nbsp;[[Candied Lemon]] || Meal || 50 || [[Cooking]] || 50 || 35
+|-
+| style="text-align:left;" data-sort-value="Bacon"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5069.png</span>&nbsp;[[Bacon]] || Instant-Snack || 0 || [[Cooking]] || 5 || 0
+|-
+| style="text-align:left;" data-sort-value="Venison Jerky"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5033.png</span>&nbsp;[[Venison Jerky]] || Instant-Snack || 10 || [[Cooking]] || 10 || 0
+|-
+| style="text-align:left;" data-sort-value="Honey Ham"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5067.png</span>&nbsp;[[Honey Ham]] || Meal || 1 || [[Cooking]] || 0 || 0
+|-
+| style="text-align:left;" data-sort-value="Venison Roast"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5121.png</span>&nbsp;[[Venison Roast]] || Meal || 15 || [[Cooking]] || 15 || 0
+|-
+| style="text-align:left;" data-sort-value="Sausage"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5122.png</span>&nbsp;[[Sausage]] || Meal || 15 || [[Cooking]] || 15 || 0
+|-
+| style="text-align:left;" data-sort-value="BBQ Ribs"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5933.png</span>&nbsp;[[BBQ Ribs]] || Meal || 40 || [[Cooking]] || 40 || 25
+|-
+| style="text-align:left;" data-sort-value="Fried Spider Leg"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5082.png</span>&nbsp;[[Fried Spider Leg]] || Meal || 35 || [[Cooking]] || 35 || 20
+|-
+| style="text-align:left;" data-sort-value="Mantis-Stuffed Mushroom"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5075.png</span>&nbsp;[[Mantis-Stuffed Mushroom]] || Meal || 35 || [[Cooking]] || 35 || 20
+|-
+| style="text-align:left;" data-sort-value="Fried Clownfish"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5038.png</span>&nbsp;[[Fried Clownfish]] || Meal || 1 || [[Cooking]] || 0 || 0
+|-
+| style="text-align:left;" data-sort-value="Breaded Perch with Onions"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5039.png</span>&nbsp;[[Breaded Perch with Onions]] || Meal || 20 || [[Cooking]] || 20 || 5
+|-
+| style="text-align:left;" data-sort-value="Super Fishy Surprise"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Super Fishy Surprise]] || Meal || 35 || [[Cooking]] || 35 || 20
+|-
+| style="text-align:left;" data-sort-value="Bonus Fishy Surprise"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Bonus Fishy Surprise]] || Meal || 35 || [[Cooking]] || 35 || 20
+|-
+| style="text-align:left;" data-sort-value="Boiled Crab"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5991.png</span>&nbsp;[[Boiled Crab]] || Meal || 1 || [[Cooking]] || 0 || 0
+|-
+| style="text-align:left;" data-sort-value="Grapefish Steak"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Grapefish Steak]] || Meal || 10 || [[Cooking]] || 10 || 0
+|-
+| style="text-align:left;" data-sort-value="Eel Stir-Fry"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Eel Stir-Fry]] || Meal || 30 || [[Cooking]] || 30 || 15
+|-
+| style="text-align:left;" data-sort-value="Maple-Smoked Shark"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Maple-Smoked Shark]] || Meal || 40 || [[Cooking]] || 40 || 25
+|-
+| style="text-align:left;" data-sort-value="Orange Perch"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Orange Perch]] || Meal || 25 || [[Cooking]] || 25 || 10
+|-
+| style="text-align:left;" data-sort-value="Shark and Crab Kebabs"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5933.png</span>&nbsp;[[Shark and Crab Kebabs]] || Meal || 50 || [[Cooking]] || 50 || 35
+|-
+| style="text-align:left;" data-sort-value="Cheesy Baked Potato"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5022.png</span>&nbsp;[[Cheesy Baked Potato]] || Meal || 15 || [[Cooking]] || 15 || 0
+|-
+| style="text-align:left;" data-sort-value="Buttered Baked Potato"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5022.png</span>&nbsp;[[Buttered Baked Potato]] || Meal || 10 || [[Cooking]] || 10 || 0
+|-
+| style="text-align:left;" data-sort-value="Glazed Beets"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5129.png</span>&nbsp;[[Glazed Beets]] || Meal || 25 || [[Cooking]] || 25 || 10
+|-
+| style="text-align:left;" data-sort-value="Cabbage Soup"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5114.png</span>&nbsp;[[Cabbage Soup]] || Meal || 15 || [[Cooking]] || 15 || 0
+|-
+| style="text-align:left;" data-sort-value="Ur-Bacon"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5069.png</span>&nbsp;[[Ur-Bacon]] || Instant-Snack || 30 || [[Cooking]] || 30 || 15
+|-
+| style="text-align:left;" data-sort-value="Hard-Boiled Egg"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5575.png</span>&nbsp;[[Hard-Boiled Egg]] || Meal || 1 || [[Cooking]] || 1 || 0
+|-
+| style="text-align:left;" data-sort-value="Plain Porridge"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5016.png</span>&nbsp;[[Plain Porridge]] || Meal || 1 || [[Cooking]] || 0 || 0
+|-
+| style="text-align:left;" data-sort-value="Bland Baked Chicken"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Bland Baked Chicken]] || Meal || 5 || [[Cooking]] || 5 || 0
+|-
+| style="text-align:left;" data-sort-value="Chicken Drumstick"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5224.png</span>&nbsp;[[Chicken Drumstick]] || Instant-Snack || 15 || [[Cooking]] || 15 || 0
+|-
+| style="text-align:left;" data-sort-value="Grilled Chicken"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Grilled Chicken]] || Meal || 25 || [[Cooking]] || 25 || 10
+|-
+| style="text-align:left;" data-sort-value="Chicken and Broccoli"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5133.png</span>&nbsp;[[Chicken and Broccoli]] || Meal || 30 || [[Cooking]] || 30 || 15
+|-
+| style="text-align:left;" data-sort-value="Lemon-Glazed Chicken"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Lemon-Glazed Chicken]] || Meal || 40 || [[Cooking]] || 40 || 25
+|-
+| style="text-align:left;" data-sort-value="Chicken Casserole"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5130.png</span>&nbsp;[[Chicken Casserole]] || Meal || 50 || [[Cooking]] || 50 || 35
+|-
+| style="text-align:left;" data-sort-value="Beginner's Buttermilk"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5160.png</span>&nbsp;[[Beginner's Buttermilk]] || Snack || 5 || [[Cooking]] || 5 || 0
+|-
+| style="text-align:left;" data-sort-value="Hardtack"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5681.png</span>&nbsp;[[Hardtack]] || Meal || 1 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Venison Psi-Mantis Style"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5128.png</span>&nbsp;[[Venison Psi-Mantis Style]] || Meal || 5 || [[Cooking]] || 5 || 0
+|-
+| style="text-align:left;" data-sort-value="Chicken Psi-Mantis Style"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6223.png</span>&nbsp;[[Chicken Psi-Mantis Style]] || Meal || 20 || [[Cooking]] || 10 || 5
+|-
+| style="text-align:left;" data-sort-value="Venison Hash"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5031.png</span>&nbsp;[[Venison Hash]] || Meal || 25 || [[Cooking]] || 25 || 10
+|-
+| style="text-align:left;" data-sort-value="Apple Juice"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5396.png</span>&nbsp;[[Apple Juice]] || Snack || 10 || [[Cooking]] || 10 || 0
+|-
+| style="text-align:left;" data-sort-value="Perfectly Baked Potato"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5022.png</span>&nbsp;[[Perfectly Baked Potato]] || Meal || 2 || [[Cooking]] || 1 || 0
+|-
+| style="text-align:left;" data-sort-value="Fairy Puffs"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5127.png</span>&nbsp;[[Fairy Puffs]] || Meal || 10 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Wolfsbane Muffin"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5985.png</span>&nbsp;[[Wolfsbane Muffin]] || Meal || 0 || [[Cooking]] || 35 || 0
+|-
+| style="text-align:left;" data-sort-value="Fried Banana"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5767.png</span>&nbsp;[[Fried Banana]] || Snack || 30 || [[Cooking]] || 30 || 15
+|-
+| style="text-align:left;" data-sort-value="Beets 'n Meats"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5133.png</span>&nbsp;[[Beets 'n Meats]] || Meal || 45 || [[Cooking]] || 45 || 30
+|-
+| style="text-align:left;" data-sort-value="Cheesy Veggie Delight"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5130.png</span>&nbsp;[[Cheesy Veggie Delight]] || Meal || 45 || [[Cooking]] || 45 || 30
+|-
+| style="text-align:left;" data-sort-value="Laura's Cheese Biscuits"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5126.png</span>&nbsp;[[Laura's Cheese Biscuits]] || Snack || 45 || [[Cooking]] || 45 || 30
+|-
+| style="text-align:left;" data-sort-value="Laura's Crab Biscuits"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5126.png</span>&nbsp;[[Laura's Crab Biscuits]] || Meal || 15 || [[Cooking]] || 15 || 0
+|-
+| style="text-align:left;" data-sort-value="Laura's Cheesy Beets"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5131.png</span>&nbsp;[[Laura's Cheesy Beets]] || Meal || 30 || [[Cooking]] || 30 || 15
+|-
+| style="text-align:left;" data-sort-value="Black Soup"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5313.png</span>&nbsp;[[Black Soup]] || Meal || 25 || [[Cooking]] || 25 || 10
+|-
+| style="text-align:left;" data-sort-value="Bitter-Mint Tea"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5397.png</span>&nbsp;[[Bitter-Mint Tea]] || Snack || 25 || [[Cooking]] || 25 || 10
+|-
+| style="text-align:left;" data-sort-value="Fried Crab"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5029.png</span>&nbsp;[[Fried Crab]] || Snack || 15 || [[Cooking]] || 15 || 0
+|-
+| style="text-align:left;" data-sort-value="Flatbread"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5126.png</span>&nbsp;[[Flatbread]] || Snack || 5 || [[Cooking]] || 5 || 0
+|-
+| style="text-align:left;" data-sort-value="Crab Roll"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5319.png</span>&nbsp;[[Crab Roll]] || Meal || 32 || [[Cooking]] || 32 || 17
+|-
+| style="text-align:left;" data-sort-value="Goblin Stew"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5934.png</span>&nbsp;[[Goblin Stew]] || Snack || 20 ||  ||  || 5
+|-
+| style="text-align:left;" data-sort-value="Guava Bowl"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5114.png</span>&nbsp;[[Guava Bowl]] || Snack || 35 || [[Cooking]] || 35 || 20
+|-
+| style="text-align:left;" data-sort-value="Loaded Baked Potato"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5022.png</span>&nbsp;[[Loaded Baked Potato]] || Meal || 30 || [[Cooking]] || 25 || 15
+|-
+| style="text-align:left;" data-sort-value="Shepherd's Pie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Shepherd's Pie]] || Meal || 45 || [[Cooking]] || 45 || 30
+|-
+| style="text-align:left;" data-sort-value="Cottage Pie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Cottage Pie]] || Meal || 35 || [[Cooking]] || 35 || 20
+|-
+| style="text-align:left;" data-sort-value="Peasant's Pie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Peasant's Pie]] || Meal || 20 || [[Cooking]] || 20 || 5
+|-
+| style="text-align:left;" data-sort-value="Mystery Jerky"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5033.png</span>&nbsp;[[Mystery Jerky]] || Snack || 10 || [[Cooking]] || 8 || 0
+|-
+| style="text-align:left;" data-sort-value="Snacking Bread"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5111.png</span>&nbsp;[[Snacking Bread]] || Snack || 15 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Juicy Ham"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5067.png</span>&nbsp;[[Juicy Ham]] || Meal || 25 ||  ||  || 10
+|-
+| style="text-align:left;" data-sort-value="Myconutmeg"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5892.png</span>&nbsp;[[Myconutmeg]] || Snack || 8 || [[Mycology]] || 20 || 0
+|-
+| style="text-align:left;" data-sort-value="Orange Juice"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5395.png</span>&nbsp;[[Orange Juice]] || Snack || 20 || [[Cooking]] || 20 || 5
+|-
+| style="text-align:left;" data-sort-value="Fruity Mushy"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5398.png</span>&nbsp;[[Fruity Mushy]] || Snack || 30 || [[Cooking]] || 30 || 15
+|-
+| style="text-align:left;" data-sort-value="Lemonade"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5396.png</span>&nbsp;[[Lemonade]] || Snack || 40 || [[Cooking]] || 40 || 25
+|-
+| style="text-align:left;" data-sort-value="Hiral's Citrus Blend"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5395.png</span>&nbsp;[[Hiral's Citrus Blend]] || Snack || 50 || [[Cooking]] || 50 || 35
+|-
+| style="text-align:left;" data-sort-value="Sun Vale Tea"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5397.png</span>&nbsp;[[Sun Vale Tea]] || Snack || 10 || [[Cooking]] || 10 || 0
+|-
+| style="text-align:left;" data-sort-value="Pumpkin Smoothie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5395.png</span>&nbsp;[[Pumpkin Smoothie]] || Snack || 30 || [[Cooking]] || 30 || 15
+|-
+| style="text-align:left;" data-sort-value="Pumpkin Soup"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5976.png</span>&nbsp;[[Pumpkin Soup]] || Meal || 35 || [[Cooking]] || 35 || 20
+|-
+| style="text-align:left;" data-sort-value="Basic Pumpkin Pie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Basic Pumpkin Pie]] || Meal || 50 || [[Cooking]] || 50 || 35
+|-
+| style="text-align:left;" data-sort-value="Gretchen's Millet Bar"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5126.png</span>&nbsp;[[Gretchen's Millet Bar]] || Meal || 25 ||  ||  || 10
+|-
+| style="text-align:left;" data-sort-value="Gretchen's Potato Rolls"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5126.png</span>&nbsp;[[Gretchen's Potato Rolls]] || Meal || 30 ||  ||  || 15
+|-
+| style="text-align:left;" data-sort-value="Leafwater"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5395.png</span>&nbsp;[[Leafwater]] || Snack || 25 ||  ||  || 10
+|-
+| style="text-align:left;" data-sort-value="Lembas Brick"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5133.png</span>&nbsp;[[Lembas Brick]] || Meal || 22 ||  ||  || 7
+|-
+| style="text-align:left;" data-sort-value="Stuffed Bell Pepper"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5131.png</span>&nbsp;[[Stuffed Bell Pepper]] || Meal || 53 || [[Cooking]] || 53 || 38
+|-
+| style="text-align:left;" data-sort-value="Vegetable Masterpiece"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5131.png</span>&nbsp;[[Vegetable Masterpiece]] || Meal || 56 || [[Cooking]] || 56 || 41
+|-
+| style="text-align:left;" data-sort-value="Mountain Mutton"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5133.png</span>&nbsp;[[Mountain Mutton]] || Meal || 51 || [[Cooking]] || 51 || 36
+|-
+| style="text-align:left;" data-sort-value="Shark Chew"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5039.png</span>&nbsp;[[Shark Chew]] || Instant-Snack || 52 || [[Cooking]] || 52 || 37
+|-
+| style="text-align:left;" data-sort-value="Shroom Feast"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5455.png</span>&nbsp;[[Shroom Feast]] || Meal || 55 || [[Cooking]] || 55 || 40
+|-
+| style="text-align:left;" data-sort-value="Aromatic Chicken"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Aromatic Chicken]] || Meal || 54 || [[Cooking]] || 54 || 39
+|-
+| style="text-align:left;" data-sort-value="Spicy Chicken"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Spicy Chicken]] || Meal || 58 || [[Cooking]] || 58 || 43
+|-
+| style="text-align:left;" data-sort-value="Basic Pepperpot"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5395.png</span>&nbsp;[[Basic Pepperpot]] || Meal || 57 || [[Cooking]] || 57 || 42
+|-
+| style="text-align:left;" data-sort-value="Spicy Cavefish"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5313.png</span>&nbsp;[[Spicy Cavefish]] || Meal || 56 || [[Cooking]] || 56 || 41
+|-
+| style="text-align:left;" data-sort-value="Cavefish Sticks"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5308.png</span>&nbsp;[[Cavefish Sticks]] || Instant-Snack || 60 || [[Cooking]] || 60 || 45
+|-
+| style="text-align:left;" data-sort-value="Beachside Blend"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5398.png</span>&nbsp;[[Beachside Blend]] || Snack || 55 || [[Cooking]] || 55 || 40
+|-
+| style="text-align:left;" data-sort-value="Chuma's Agave Secret"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5396.png</span>&nbsp;[[Chuma's Agave Secret]] || Snack || 60 || [[Cooking]] || 60 || 45
+|-
+| style="text-align:left;" data-sort-value="Desert Tea"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5397.png</span>&nbsp;[[Desert Tea]] || Snack || 51 || [[Cooking]] || 51 || 36
+|-
+| style="text-align:left;" data-sort-value="Hydration Punch"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5395.png</span>&nbsp;[[Hydration Punch]] || Snack || 57 || [[Cooking]] || 57 || 42
+|-
+| style="text-align:left;" data-sort-value="Pepper Venison"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5033.png</span>&nbsp;[[Pepper Venison]] || Instant-Snack || 59 || [[Cooking]] || 59 || 44
+|-
+| style="text-align:left;" data-sort-value="Selaxi's Scorpion Stinger"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5126.png</span>&nbsp;[[Selaxi's Scorpion Stinger]] || Snack || 45 ||  ||  || 30
+|-
+| style="text-align:left;" data-sort-value="Selaxi's Cactus Mixer"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5397.png</span>&nbsp;[[Selaxi's Cactus Mixer]] || Snack || 45 ||  ||  || 30
+|-
+| style="text-align:left;" data-sort-value="Yeti Stick"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5033.png</span>&nbsp;[[Yeti Stick]] || Snack || 40 || [[Cooking]] || 40 || 25
+|-
+| style="text-align:left;" data-sort-value="Furpot"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5395.png</span>&nbsp;[[Furpot]] || Meal || 50 || [[Cooking]] || 50 || 35
+|-
+| style="text-align:left;" data-sort-value="Pumpkin Spice Tea"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6392.png</span>&nbsp;[[Pumpkin Spice Tea]] || Snack || 55 || [[Cooking]] || 55 || 40
+|-
+| style="text-align:left;" data-sort-value="Fancy Pumpkin Pie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Fancy Pumpkin Pie]] || Meal || 60 || [[Cooking]] || 60 || 45
+|-
+| style="text-align:left;" data-sort-value="Soft-Boiled Egg"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5575.png</span>&nbsp;[[Soft-Boiled Egg]] || Meal || 7 || [[Cooking]] || 7 || 0
+|-
+| style="text-align:left;" data-sort-value="Poached Egg"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5575.png</span>&nbsp;[[Poached Egg]] || Meal || 15 || [[Cooking]] || 15 || 0
+|-
+| style="text-align:left;" data-sort-value="Raw Egg Blend"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5397.png</span>&nbsp;[[Raw Egg Blend]] || Snack || 3 || [[Cooking]] || 3 || 0
+|-
+| style="text-align:left;" data-sort-value="Bacon Basket"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5130.png</span>&nbsp;[[Bacon Basket]] || Meal || 13 || [[Cooking]] || 13 || 0
+|-
+| style="text-align:left;" data-sort-value="Scrambled Egg"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5575.png</span>&nbsp;[[Scrambled Egg]] || Meal || 14 || [[Cooking]] || 14 || 0
+|-
+| style="text-align:left;" data-sort-value="Dried Clownfish"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5594.png</span>&nbsp;[[Dried Clownfish]] || Snack || 5 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Dried Grapefish"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5597.png</span>&nbsp;[[Dried Grapefish]] || Snack || 10 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Dried Perch"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5595.png</span>&nbsp;[[Dried Perch]] || Snack || 25 ||  ||  || 10
+|-
+| style="text-align:left;" data-sort-value="Dried Cave Fish"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5596.png</span>&nbsp;[[Dried Cave Fish]] || Snack || 17 ||  ||  || 2
+|-
+| style="text-align:left;" data-sort-value="Cat Stew Cup"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5396.png</span>&nbsp;[[Cat Stew Cup]] || Snack || 16 || [[Cooking]] || 16 || 1
+|-
+| style="text-align:left;" data-sort-value="Orange Cat"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Orange Cat]] || Meal || 25 || [[Cooking]] || 25 || 10
+|-
+| style="text-align:left;" data-sort-value="Spicy Lemon Cat"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5313.png</span>&nbsp;[[Spicy Lemon Cat]] || Meal || 51 || [[Cooking]] || 53 || 36
+|-
+| style="text-align:left;" data-sort-value="Nishika's Travel Snack"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5308.png</span>&nbsp;[[Nishika's Travel Snack]] || Snack || 40 || [[Cooking]] || 40 || 25
+|-
+| style="text-align:left;" data-sort-value="Kraken Calamari"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5029.png</span>&nbsp;[[Kraken Calamari]] || Meal || 42 || [[Cooking]] || 42 || 27
+|-
+| style="text-align:left;" data-sort-value="Pickled Fish"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5821.png</span>&nbsp;[[Pickled Fish]] || Meal || 3 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Alpha Beets"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5127.png</span>&nbsp;[[Alpha Beets]] || Meal || 25 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="House Cat"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5128.png</span>&nbsp;[[House Cat]] || Instant-Snack || 20 ||  ||  || 5
+|-
+| style="text-align:left;" data-sort-value="Apple Shaved Ice"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5665.png</span>&nbsp;[[Apple Shaved Ice]] || Snack || 8 || [[Ice Conjuration]] || 1 || 0
+|-
+| style="text-align:left;" data-sort-value="Strawberry Shaved Ice"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5665.png</span>&nbsp;[[Strawberry Shaved Ice]] || Snack || 16 || [[Ice Conjuration]] || 3 || 1
+|-
+| style="text-align:left;" data-sort-value="Grape Shaved Ice"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5664.png</span>&nbsp;[[Grape Shaved Ice]] || Snack || 24 || [[Ice Conjuration]] || 5 || 9
+|-
+| style="text-align:left;" data-sort-value="Orange Shaved Ice"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5662.png</span>&nbsp;[[Orange Shaved Ice]] || Snack || 32 || [[Ice Conjuration]] || 8 || 17
+|-
+| style="text-align:left;" data-sort-value="Guava Shaved Ice"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5661.png</span>&nbsp;[[Guava Shaved Ice]] || Snack || 40 || [[Ice Conjuration]] || 10 || 25
+|-
+| style="text-align:left;" data-sort-value="Banana Shaved Ice"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5660.png</span>&nbsp;[[Banana Shaved Ice]] || Snack || 48 || [[Ice Conjuration]] || 13 || 33
+|-
+| style="text-align:left;" data-sort-value="Lemon Shaved Ice"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5660.png</span>&nbsp;[[Lemon Shaved Ice]] || Snack || 56 || [[Ice Conjuration]] || 15 || 41
+|-
+| style="text-align:left;" data-sort-value="Mint Ice Cream"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5666.png</span>&nbsp;[[Mint Ice Cream]] || Snack || 35 || [[Ice Conjuration]] || 7 || 20
+|-
+| style="text-align:left;" data-sort-value="Basic Ham Omelet"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5128.png</span>&nbsp;[[Basic Ham Omelet]] || Meal || 40 || [[Cooking]] || 40 || 25
+|-
+| style="text-align:left;" data-sort-value="Bacon-Lover's Omelet"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5128.png</span>&nbsp;[[Bacon-Lover's Omelet]] || Meal || 55 || [[Cooking]] || 55 || 40
+|-
+| style="text-align:left;" data-sort-value="Strawberry Ice Cream"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5795.png</span>&nbsp;[[Strawberry Ice Cream]] || Snack || 30 || [[Ice Conjuration]] || 6 || 15
+|-
+| style="text-align:left;" data-sort-value="Rahu Rice"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5676.png</span>&nbsp;[[Rahu Rice]] || Meal || 1 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Clownfish Nigiri"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5674.png</span>&nbsp;[[Clownfish Nigiri]] || Instant-Snack || 4 || [[Sushi Preparation]] || 1 || 0
+|-
+| style="text-align:left;" data-sort-value="Crab Nigiri"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5674.png</span>&nbsp;[[Crab Nigiri]] || Instant-Snack || 8 || [[Sushi Preparation]] || 3 || 0
+|-
+| style="text-align:left;" data-sort-value="Grapefish Nigiri"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5674.png</span>&nbsp;[[Grapefish Nigiri]] || Instant-Snack || 12 || [[Sushi Preparation]] || 5 || 0
+|-
+| style="text-align:left;" data-sort-value="Perch Nigiri"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5674.png</span>&nbsp;[[Perch Nigiri]] || Instant-Snack || 16 || [[Sushi Preparation]] || 8 || 1
+|-
+| style="text-align:left;" data-sort-value="Eel Nigiri"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5674.png</span>&nbsp;[[Eel Nigiri]] || Instant-Snack || 20 || [[Sushi Preparation]] || 10 || 5
+|-
+| style="text-align:left;" data-sort-value="Cavefish Nigiri"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5674.png</span>&nbsp;[[Cavefish Nigiri]] || Instant-Snack || 28 || [[Sushi Preparation]] || 13 || 13
+|-
+| style="text-align:left;" data-sort-value="Shark Nigiri"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5674.png</span>&nbsp;[[Shark Nigiri]] || Instant-Snack || 32 || [[Sushi Preparation]] || 15 || 17
+|-
+| style="text-align:left;" data-sort-value="Clownfish Sushi Roll"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Clownfish Sushi Roll]] || Meal || 10 || [[Sushi Preparation]] || 4 || 0
+|-
+| style="text-align:left;" data-sort-value="Crab Sushi Roll"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Crab Sushi Roll]] || Meal || 15 || [[Sushi Preparation]] || 7 || 0
+|-
+| style="text-align:left;" data-sort-value="Grapefish Sushi Roll"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Grapefish Sushi Roll]] || Meal || 20 || [[Sushi Preparation]] || 11 || 5
+|-
+| style="text-align:left;" data-sort-value="Perch Sushi Roll"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Perch Sushi Roll]] || Meal || 25 || [[Sushi Preparation]] || 14 || 10
+|-
+| style="text-align:left;" data-sort-value="Eel Sushi Roll"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Eel Sushi Roll]] || Meal || 30 || [[Sushi Preparation]] || 16 || 15
+|-
+| style="text-align:left;" data-sort-value="Cavefish Sushi Roll"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Cavefish Sushi Roll]] || Meal || 40 || [[Sushi Preparation]] || 19 || 25
+|-
+| style="text-align:left;" data-sort-value="Shark Sushi Roll"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Shark Sushi Roll]] || Meal || 45 || [[Sushi Preparation]] || 22 || 30
+|-
+| style="text-align:left;" data-sort-value="Hard Roll"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5682.png</span>&nbsp;[[Hard Roll]] || Meal || 8 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Mint Candy Cane"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5688.png</span>&nbsp;[[Mint Candy Cane]] || Instant-Snack || 3 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Tart Candy Cane"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5689.png</span>&nbsp;[[Tart Candy Cane]] || Instant-Snack || 10 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Laura Neth's Famous Tart"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5690.png</span>&nbsp;[[Laura Neth's Famous Tart]] || Instant-Snack || 35 || [[Cooking]] || 25 || 20
+|-
+| style="text-align:left;" data-sort-value="Magical Candy Cane"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5691.png</span>&nbsp;[[Magical Candy Cane]] || Instant-Snack || 60 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Celebratory Cake"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5692.png</span>&nbsp;[[Celebratory Cake]] || Meal || 60 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Green Vexfish Nigiri"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5674.png</span>&nbsp;[[Green Vexfish Nigiri]] || Instant-Snack || 36 || [[Sushi Preparation]] || 17 || 21
+|-
+| style="text-align:left;" data-sort-value="Green Vexfish Sushi Roll"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Green Vexfish Sushi Roll]] || Meal || 50 || [[Sushi Preparation]] || 25 || 35
+|-
+| style="text-align:left;" data-sort-value="Tagenite Stack"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5705.png</span>&nbsp;[[Tagenite Stack]] || Meal || 45 || [[Cooking]] || 45 || 30
+|-
+| style="text-align:left;" data-sort-value="Orcish Onion Soup"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5313.png</span>&nbsp;[[Orcish Onion Soup]] || Meal || 50 || [[Cooking]] || 50 || 35
+|-
+| style="text-align:left;" data-sort-value="Orcish Eel"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5821.png</span>&nbsp;[[Orcish Eel]] || Meal || 55 || [[Cooking]] || 55 || 40
+|-
+| style="text-align:left;" data-sort-value="Orcish Snack Plate"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5708.png</span>&nbsp;[[Orcish Snack Plate]] || Snack || 52 || [[Cooking]] || 52 || 37
+|-
+| style="text-align:left;" data-sort-value="Welcome Cake"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5714.png</span>&nbsp;[[Welcome Cake]] || Meal || 20 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Grapefish and Eggs"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5133.png</span>&nbsp;[[Grapefish and Eggs]] || Meal || 16 || [[Cooking]] || 16 || 1
+|-
+| style="text-align:left;" data-sort-value="Strawberry Yogurt"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5767.png</span>&nbsp;[[Strawberry Yogurt]] || Snack || 27 ||  ||  || 12
+|-
+| style="text-align:left;" data-sort-value="Barley Bread"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5111.png</span>&nbsp;[[Barley Bread]] || Meal || 35 || [[Cooking]] || 35 || 20
+|-
+| style="text-align:left;" data-sort-value="Vegan Nut Barley Bread"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5111.png</span>&nbsp;[[Vegan Nut Barley Bread]] || Meal || 40 || [[Cooking]] || 40 || 25
+|-
+| style="text-align:left;" data-sort-value="Secret Rice"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5764.png</span>&nbsp;[[Secret Rice]] || Meal || 11 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Mushroom Barley Soup"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5975.png</span>&nbsp;[[Mushroom Barley Soup]] || Meal || 35 || [[Cooking]] || 35 || 20
+|-
+| style="text-align:left;" data-sort-value="Slightly Sub-Par Fruit Cocktail"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5767.png</span>&nbsp;[[Slightly Sub-Par Fruit Cocktail]] || Meal || 15 || [[Cooking]] || 15 || 0
+|-
+| style="text-align:left;" data-sort-value="Strawberry Bowl"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5767.png</span>&nbsp;[[Strawberry Bowl]] || Snack || 5 || [[Cooking]] || 5 || 0
+|-
+| style="text-align:left;" data-sort-value="Great Bacon"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5069.png</span>&nbsp;[[Great Bacon]] || Instant-Snack || 35 || [[Cooking]] || 35 || 20
+|-
+| style="text-align:left;" data-sort-value="Summer Apple Pie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Summer Apple Pie]] || Meal || 35 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Rabbit Treat"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5682.png</span>&nbsp;[[Rabbit Treat]] || Snack || 3 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Spicy Porcini Bites"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5795.png</span>&nbsp;[[Spicy Porcini Bites]] || Snack || 55 || [[Cooking]] || 55 || 40
+|-
+| style="text-align:left;" data-sort-value="Watery Mushroom Soup"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5816.png</span>&nbsp;[[Watery Mushroom Soup]] || Meal || 1 || [[Cooking]] || 0 || 0
+|-
+| style="text-align:left;" data-sort-value="Cream of Mushroom Soup"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5816.png</span>&nbsp;[[Cream of Mushroom Soup]] || Meal || 10 || [[Cooking]] || 10 || 0
+|-
+| style="text-align:left;" data-sort-value="Fried Mycena Bites"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5817.png</span>&nbsp;[[Fried Mycena Bites]] || Snack || 4 || [[Cooking]] || 4 || 0
+|-
+| style="text-align:left;" data-sort-value="Pork Chops with Watercress"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Pork Chops with Watercress]] || Meal || 6 || [[Cooking]] || 6 || 0
+|-
+| style="text-align:left;" data-sort-value="Watercress Salad"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5820.png</span>&nbsp;[[Watercress Salad]] || Meal || 11 || [[Cooking]] || 11 || 0
+|-
+| style="text-align:left;" data-sort-value="Chicken and Watercress Soup"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5816.png</span>&nbsp;[[Chicken and Watercress Soup]] || Meal || 9 || [[Cooking]] || 9 || 0
+|-
+| style="text-align:left;" data-sort-value="Clownfish Chowder"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5821.png</span>&nbsp;[[Clownfish Chowder]] || Meal || 7 || [[Cooking]] || 7 || 0
+|-
+| style="text-align:left;" data-sort-value="Fish and Mushroom Scramble"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5817.png</span>&nbsp;[[Fish and Mushroom Scramble]] || Meal || 8 || [[Cooking]] || 8 || 0
+|-
+| style="text-align:left;" data-sort-value="Pork Chops with Grape Jelly"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Pork Chops with Grape Jelly]] || Meal || 12 || [[Cooking]] || 12 || 0
+|-
+| style="text-align:left;" data-sort-value="Candied Grapes"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5767.png</span>&nbsp;[[Candied Grapes]] || Snack || 13 || [[Cooking]] || 13 || 0
+|-
+| style="text-align:left;" data-sort-value="Candied Apple"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5836.png</span>&nbsp;[[Candied Apple]] || Snack || 3 || [[Cooking]] || 3 || 0
+|-
+| style="text-align:left;" data-sort-value="Serbule-Style Lamb Chops"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Serbule-Style Lamb Chops]] || Meal || 17 || [[Cooking]] || 17 || 2
+|-
+| style="text-align:left;" data-sort-value="Bland Mutton Vindaloo"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Bland Mutton Vindaloo]] || Meal || 20 || [[Cooking]] || 20 || 5
+|-
+| style="text-align:left;" data-sort-value="Durstin's Mutton Stew"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5816.png</span>&nbsp;[[Durstin's Mutton Stew]] || Meal || 19 || [[Cooking]] || 19 || 4
+|-
+| style="text-align:left;" data-sort-value="Durstin's Minty Lamb Chops"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5816.png</span>&nbsp;[[Durstin's Minty Lamb Chops]] || Meal || 24 || [[Cooking]] || 24 || 9
+|-
+| style="text-align:left;" data-sort-value="Fried Lamb Chops"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5816.png</span>&nbsp;[[Fried Lamb Chops]] || Meal || 10 || [[Cooking]] || 10 || 0
+|-
+| style="text-align:left;" data-sort-value="Onion Omelet"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5575.png</span>&nbsp;[[Onion Omelet]] || Meal || 15 || [[Cooking]] || 15 || 0
+|-
+| style="text-align:left;" data-sort-value="Grape Juice"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5313.png</span>&nbsp;[[Grape Juice]] || Snack || 13 || [[Cooking]] || 13 || 0
+|-
+| style="text-align:left;" data-sort-value="Mutton and Eggs"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5031.png</span>&nbsp;[[Mutton and Eggs]] || Meal || 28 || [[Cooking]] || 28 || 13
+|-
+| style="text-align:left;" data-sort-value="Gross Candy"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5835.png</span>&nbsp;[[Gross Candy]] || Snack || 1 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Fruit Candy"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5826.png</span>&nbsp;[[Fruit Candy]] || Snack || 7 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Watermelon Candy"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5827.png</span>&nbsp;[[Watermelon Candy]] || Snack || 14 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Cinnamon Candy"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5828.png</span>&nbsp;[[Cinnamon Candy]] || Snack || 21 ||  ||  || 6
+|-
+| style="text-align:left;" data-sort-value="Grape Lollipop"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5829.png</span>&nbsp;[[Grape Lollipop]] || Snack || 28 ||  ||  || 13
+|-
+| style="text-align:left;" data-sort-value="Mint Lollipop"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5830.png</span>&nbsp;[[Mint Lollipop]] || Snack || 35 ||  ||  || 20
+|-
+| style="text-align:left;" data-sort-value="Berry Lollipop"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5831.png</span>&nbsp;[[Berry Lollipop]] || Snack || 42 ||  ||  || 27
+|-
+| style="text-align:left;" data-sort-value="Butterscotch-Cream Candy"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5832.png</span>&nbsp;[[Butterscotch-Cream Candy]] || Snack || 49 ||  ||  || 34
+|-
+| style="text-align:left;" data-sort-value="Mint-Blueberry Candy"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5833.png</span>&nbsp;[[Mint-Blueberry Candy]] || Snack || 56 ||  ||  || 41
+|-
+| style="text-align:left;" data-sort-value="Grape-Strawberry Candy"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5834.png</span>&nbsp;[[Grape-Strawberry Candy]] || Snack || 63 ||  ||  || 48
+|-
+| style="text-align:left;" data-sort-value="Bland Gingerbread Human"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5853.png</span>&nbsp;[[Bland Gingerbread Human]] || Snack || 5 || [[Cooking]] || 5 || 0
+|-
+| style="text-align:left;" data-sort-value="Tasty Gingerbread Human"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5853.png</span>&nbsp;[[Tasty Gingerbread Human]] || Snack || 40 || [[Cooking]] || 40 || 25
+|-
+| style="text-align:left;" data-sort-value="Sweet-and-Minty Candy Cane"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5856.png</span>&nbsp;[[Sweet-and-Minty Candy Cane]] || Instant-Snack || 25 ||  ||  || 10
+|-
+| style="text-align:left;" data-sort-value="Lemon Candy Cane"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5857.png</span>&nbsp;[[Lemon Candy Cane]] || Instant-Snack || 35 ||  ||  || 20
+|-
+| style="text-align:left;" data-sort-value="Spearmint Candy Cane"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5858.png</span>&nbsp;[[Spearmint Candy Cane]] || Instant-Snack || 45 ||  ||  || 30
+|-
+| style="text-align:left;" data-sort-value="Grape Candy Cane"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5859.png</span>&nbsp;[[Grape Candy Cane]] || Instant-Snack || 55 ||  ||  || 40
+|-
+| style="text-align:left;" data-sort-value="Jerky Lembas Brick"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5133.png</span>&nbsp;[[Jerky Lembas Brick]] || Meal || 20 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Fried Potato Sticks"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5861.png</span>&nbsp;[[Fried Potato Sticks]] || Instant-Snack || 10 || [[Cooking]] || 10 || 0
+|-
+| style="text-align:left;" data-sort-value="Fried Boletus Bites"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5817.png</span>&nbsp;[[Fried Boletus Bites]] || Snack || 12 || [[Cooking]] || 12 || 0
+|-
+| style="text-align:left;" data-sort-value="Ranalon Salad"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5820.png</span>&nbsp;[[Ranalon Salad]] || Meal || 24 || [[Cooking]] || 25 || 9
+|-
+| style="text-align:left;" data-sort-value="Lungfish Kabob"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5866.png</span>&nbsp;[[Lungfish Kabob]] || Snack || 17 || [[Cooking]] || 17 || 2
+|-
+| style="text-align:left;" data-sort-value="Lungfish Roll"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5867.png</span>&nbsp;[[Lungfish Roll]] || Meal || 20 || [[Cooking]] || 20 || 5
+|-
+| style="text-align:left;" data-sort-value="Fried Lungfish"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5038.png</span>&nbsp;[[Fried Lungfish]] || Meal || 15 || [[Cooking]] || 15 || 0
+|-
+| style="text-align:left;" data-sort-value="Mokapok Stew"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5821.png</span>&nbsp;[[Mokapok Stew]] || Meal || 21 || [[Cooking]] || 21 || 6
+|-
+| style="text-align:left;" data-sort-value="Succulent Pork Chops"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5933.png</span>&nbsp;[[Succulent Pork Chops]] || Meal || 14 || [[Cooking]] || 14 || 0
+|-
+| style="text-align:left;" data-sort-value="Sweet and Numb Chicken"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Sweet and Numb Chicken]] || Meal || 40 || [[Cooking]] || 40 || 25
+|-
+| style="text-align:left;" data-sort-value="Diet Lunch"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5820.png</span>&nbsp;[[Diet Lunch]] || Snack || 37 || [[Cooking]] || 37 || 22
+|-
+| style="text-align:left;" data-sort-value="Barbecue Rabbit Chops"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5933.png</span>&nbsp;[[Barbecue Rabbit Chops]] || Meal || 36 || [[Cooking]] || 36 || 21
+|-
+| style="text-align:left;" data-sort-value="Cup o' Paralysis"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5816.png</span>&nbsp;[[Cup o' Paralysis]] || Snack || 39 || [[Cooking]] || 39 || 24
+|-
+| style="text-align:left;" data-sort-value="All-Flavor Chicken"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[All-Flavor Chicken]] || Meal || 43 || [[Cooking]] || 43 || 28
+|-
+| style="text-align:left;" data-sort-value="Creamy Squash Casserole"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Creamy Squash Casserole]] || Meal || 41 || [[Cooking]] || 41 || 26
+|-
+| style="text-align:left;" data-sort-value="Broccoli Squash Bake"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Broccoli Squash Bake]] || Meal || 42 || [[Cooking]] || 42 || 27
+|-
+| style="text-align:left;" data-sort-value="Winter Salad"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5820.png</span>&nbsp;[[Winter Salad]] || Meal || 40 || [[Cooking]] || 40 || 25
+|-
+| style="text-align:left;" data-sort-value="Banana-Almond Pancakes"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5705.png</span>&nbsp;[[Banana-Almond Pancakes]] || Meal || 45 || [[Cooking]] || 45 || 30
+|-
+| style="text-align:left;" data-sort-value="Chicken-Rabbit Rice"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Chicken-Rabbit Rice]] || Meal || 35 || [[Cooking]] || 35 || 20
+|-
+| style="text-align:left;" data-sort-value="Barbecue Chicken"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5933.png</span>&nbsp;[[Barbecue Chicken]] || Meal || 44 || [[Cooking]] || 44 || 29
+|-
+| style="text-align:left;" data-sort-value="Barbecued Mystery Meat"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5933.png</span>&nbsp;[[Barbecued Mystery Meat]] || Snack || 34 || [[Cooking]] || 34 || 19
+|-
+| style="text-align:left;" data-sort-value="Casino Kabobs"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5932.png</span>&nbsp;[[Casino Kabobs]] || Snack || 30 || [[Cooking]] || 30 || 15
+|-
+| style="text-align:left;" data-sort-value="Deluxe Casino Kabobs"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5932.png</span>&nbsp;[[Deluxe Casino Kabobs]] || Snack || 40 || [[Cooking]] || 40 || 25
+|-
+| style="text-align:left;" data-sort-value="Recuperative Soup"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5816.png</span>&nbsp;[[Recuperative Soup]] || Snack || 40 || [[Cooking]] || 31 || 25
+|-
+| style="text-align:left;" data-sort-value="Mandibles' Perfect Lunch"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5934.png</span>&nbsp;[[Mandibles' Perfect Lunch]] || Meal || 41 || [[Cooking]] || 41 || 26
+|-
+| style="text-align:left;" data-sort-value="Casino Breakfast"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5822.png</span>&nbsp;[[Casino Breakfast]] || Snack || 36 || [[Cooking]] || 36 || 21
+|-
+| style="text-align:left;" data-sort-value="Casino Stir-Fry"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Casino Stir-Fry]] || Meal || 46 || [[Cooking]] || 46 || 31
+|-
+| style="text-align:left;" data-sort-value="Disappointing Corn Surprise"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5933.png</span>&nbsp;[[Disappointing Corn Surprise]] || Meal || 57 || [[Cooking]] || 57 || 42
+|-
+| style="text-align:left;" data-sort-value="Tart Applesauce"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5934.png</span>&nbsp;[[Tart Applesauce]] || Snack || 63 || [[Cooking]] || 63 || 48
+|-
+| style="text-align:left;" data-sort-value="Eyeball Soup"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5977.png</span>&nbsp;[[Eyeball Soup]] || Meal || 30 || [[Cooking]] || 30 || 15
+|-
+| style="text-align:left;" data-sort-value="Candied Heart"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5978.png</span>&nbsp;[[Candied Heart]] || Meal || 32 || [[Cooking]] || 32 || 17
+|-
+| style="text-align:left;" data-sort-value="Bone Soup"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5979.png</span>&nbsp;[[Bone Soup]] || Meal || 50 || [[Cooking]] || 50 || 35
+|-
+| style="text-align:left;" data-sort-value="Baked Pig Snout"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5980.png</span>&nbsp;[[Baked Pig Snout]] || Meal || 30 || [[Cooking]] || 40 || 15
+|-
+| style="text-align:left;" data-sort-value="Maggot Soup"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5981.png</span>&nbsp;[[Maggot Soup]] || Meal || 42 || [[Cooking]] || 42 || 27
+|-
+| style="text-align:left;" data-sort-value="Basic Beetle Skewer"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5983.png</span>&nbsp;[[Basic Beetle Skewer]] || Snack || 20 || [[Cooking]] || 20 || 5
+|-
+| style="text-align:left;" data-sort-value="Deluxe Beetle Skewer"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5983.png</span>&nbsp;[[Deluxe Beetle Skewer]] || Snack || 50 || [[Cooking]] || 50 || 35
+|-
+| style="text-align:left;" data-sort-value="Cinnamon Pumpkin Rolls"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5984.png</span>&nbsp;[[Cinnamon Pumpkin Rolls]] || Snack || 52 || [[Cooking]] || 52 || 37
+|-
+| style="text-align:left;" data-sort-value="Simple Pumpkin Muffin"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5985.png</span>&nbsp;[[Simple Pumpkin Muffin]] || Snack || 34 || [[Cooking]] || 34 || 19
+|-
+| style="text-align:left;" data-sort-value="Honey-Pumpkin Muffin"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5985.png</span>&nbsp;[[Honey-Pumpkin Muffin]] || Snack || 64 || [[Cooking]] || 64 || 49
+|-
+| style="text-align:left;" data-sort-value="Mantis-Style Pumpkin Pie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Mantis-Style Pumpkin Pie]] || Meal || 35 ||  ||  || 20
+|-
+| style="text-align:left;" data-sort-value="Mandibles' Dandy Dinner"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5994.png</span>&nbsp;[[Mandibles' Dandy Dinner]] || Meal || 40 ||  ||  || 25
+|-
+| style="text-align:left;" data-sort-value="Swamp Salad"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5820.png</span>&nbsp;[[Swamp Salad]] || Meal || 55 || [[Cooking]] || 55 || 40
+|-
+| style="text-align:left;" data-sort-value="Snakemeat Wraps"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5819.png</span>&nbsp;[[Snakemeat Wraps]] || Meal || 51 || [[Cooking]] || 51 || 36
+|-
+| style="text-align:left;" data-sort-value="Goblin Pasties"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6221.png</span>&nbsp;[[Goblin Pasties]] || Snack || 52 || [[Cooking]] || 53 || 37
+|-
+| style="text-align:left;" data-sort-value="Gobbledygook"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6223.png</span>&nbsp;[[Gobbledygook]] || Meal || 56 || [[Cooking]] || 55 || 41
+|-
+| style="text-align:left;" data-sort-value="Ruktagh"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6222.png</span>&nbsp;[[Ruktagh]] || Meal || 54 || [[Cooking]] || 55 || 39
+|-
+| style="text-align:left;" data-sort-value="Lemon Meringue Pie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6242.png</span>&nbsp;[[Lemon Meringue Pie]] || Snack || 45 ||  ||  || 30
+|-
+| style="text-align:left;" data-sort-value="Jellybeans"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6252.png</span>&nbsp;[[Jellybeans]] || Snack || 20 ||  ||  || 5
+|-
+| style="text-align:left;" data-sort-value="Tranana"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5767.png</span>&nbsp;[[Tranana]] || Snack || 61 || [[Cooking]] || 61 || 46
+|-
+| style="text-align:left;" data-sort-value="Tremon"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5767.png</span>&nbsp;[[Tremon]] || Snack || 65 || [[Cooking]] || 65 || 50
+|-
+| style="text-align:left;" data-sort-value="Crelpin's Corn Dish"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6222.png</span>&nbsp;[[Crelpin's Corn Dish]] || Meal || 75 || [[Cooking]] || 75 || 60
+|-
+| style="text-align:left;" data-sort-value="Vexfish Lettuce Wraps"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5819.png</span>&nbsp;[[Vexfish Lettuce Wraps]] || Meal || 70 || [[Cooking]] || 70 || 55
+|-
+| style="text-align:left;" data-sort-value="Crelpin's Fish Dish"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Crelpin's Fish Dish]] || Meal || 72 || [[Cooking]] || 72 || 57
+|-
+| style="text-align:left;" data-sort-value="Fairy Peach Juice"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5396.png</span>&nbsp;[[Fairy Peach Juice]] || Snack || 80 || [[Cooking]] || 80 || 65
+|-
+| style="text-align:left;" data-sort-value="Toasted Spriggan Nuts"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5130.png</span>&nbsp;[[Toasted Spriggan Nuts]] || Meal || 68 || [[Cooking]] || 68 || 53
+|-
+| style="text-align:left;" data-sort-value="Crelpin's Fried Dish"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5983.png</span>&nbsp;[[Crelpin's Fried Dish]] || Snack || 61 || [[Cooking]] || 61 || 46
+|-
+| style="text-align:left;" data-sort-value="Crelpin's Fruit Juice"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5396.png</span>&nbsp;[[Crelpin's Fruit Juice]] || Snack || 75 || [[Cooking]] || 75 || 60
+|-
+| style="text-align:left;" data-sort-value="Crelpin's Fruit Salad"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5767.png</span>&nbsp;[[Crelpin's Fruit Salad]] || Snack || 80 || [[Cooking]] || 80 || 65
+|-
+| style="text-align:left;" data-sort-value="Top Swamp Steak"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Top Swamp Steak]] || Meal || 74 || [[Cooking]] || 74 || 59
+|-
+| style="text-align:left;" data-sort-value="Onion Chicken"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5130.png</span>&nbsp;[[Onion Chicken]] || Meal || 63 || [[Cooking]] || 63 || 48
+|-
+| style="text-align:left;" data-sort-value="Steak and Cheese Wraps"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5819.png</span>&nbsp;[[Steak and Cheese Wraps]] || Meal || 81 || [[Cooking]] || 82 || 66
+|-
+| style="text-align:left;" data-sort-value="Trearclaw"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5125.png</span>&nbsp;[[Trearclaw]] || Snack || 67 || [[Cooking]] || 67 || 52
+|-
+| style="text-align:left;" data-sort-value="Treas"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5131.png</span>&nbsp;[[Treas]] || Meal || 78 || [[Cooking]] || 78 || 63
+|-
+| style="text-align:left;" data-sort-value="Dinobites"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5130.png</span>&nbsp;[[Dinobites]] || Snack || 64 || [[Cooking]] || 64 || 49
+|-
+| style="text-align:left;" data-sort-value="Rustic Meatsterpiece"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5128.png</span>&nbsp;[[Rustic Meatsterpiece]] || Meal || 69 || [[Cooking]] || 69 || 54
+|-
+| style="text-align:left;" data-sort-value="Pixie Pocket"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5125.png</span>&nbsp;[[Pixie Pocket]] || Snack || 73 || [[Cooking]] || 73 || 58
+|-
+| style="text-align:left;" data-sort-value="Lemon Puffs"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5125.png</span>&nbsp;[[Lemon Puffs]] || Snack || 62 || [[Cooking]] || 62 || 47
+|-
+| style="text-align:left;" data-sort-value="Tregetable Steak"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Tregetable Steak]] || Meal || 77 || [[Cooking]] || 77 || 62
+|-
+| style="text-align:left;" data-sort-value="Cavefish Supper"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5038.png</span>&nbsp;[[Cavefish Supper]] || Meal || 57 || [[Cooking]] || 57 || 42
+|-
+| style="text-align:left;" data-sort-value="Pear Shaved Ice"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5662.png</span>&nbsp;[[Pear Shaved Ice]] || Snack || 60 || [[Ice Conjuration]] || 19 || 45
+|-
+| style="text-align:left;" data-sort-value="Peach Shaved Ice"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5662.png</span>&nbsp;[[Peach Shaved Ice]] || Snack || 63 || [[Ice Conjuration]] || 21 || 48
+|-
+| style="text-align:left;" data-sort-value="Crelpin's Tart"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5125.png</span>&nbsp;[[Crelpin's Tart]] || Snack || 83 || [[Cooking]] || 83 || 68
+|-
+| style="text-align:left;" data-sort-value="Crelpin's Side Salad"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5820.png</span>&nbsp;[[Crelpin's Side Salad]] || Snack || 76 || [[Cooking]] || 76 || 61
+|-
+| style="text-align:left;" data-sort-value="Trish"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5127.png</span>&nbsp;[[Trish]] || Meal || 63 || [[Cooking]] || 63 || 48
+|-
+| style="text-align:left;" data-sort-value="Groovalu"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Groovalu]] || Meal || 75 || [[Cooking]] || 75 || 60
+|-
+| style="text-align:left;" data-sort-value="Crelpin's Gorp"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5708.png</span>&nbsp;[[Crelpin's Gorp]] || Snack || 75 || [[Cooking]] || 75 || 60
+|-
+| style="text-align:left;" data-sort-value="Crelpin's Sushi"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Crelpin's Sushi]] || Meal || 60 || [[Sushi Preparation]] || 27 || 45
+|-
+| style="text-align:left;" data-sort-value="Sweet-Roasted Pumpkin"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5127.png</span>&nbsp;[[Sweet-Roasted Pumpkin]] || Meal || 60 || [[Cooking]] || 60 || 45
+|-
+| style="text-align:left;" data-sort-value="Pumpkin Salad"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5820.png</span>&nbsp;[[Pumpkin Salad]] || Meal || 70 || [[Cooking]] || 70 || 55
+|-
+| style="text-align:left;" data-sort-value="Pumpkin-Spice Cookies"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6296.png</span>&nbsp;[[Pumpkin-Spice Cookies]] || Meal || 75 ||  ||  || 30
+|-
+| style="text-align:left;" data-sort-value="Warden Food"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5133.png</span>&nbsp;[[Warden Food]] || Meal || 40 ||  ||  || 25
+|-
+| style="text-align:left;" data-sort-value="Basic Cranberry Sauce"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5127.png</span>&nbsp;[[Basic Cranberry Sauce]] || Meal || 15 || [[Cooking]] || 15 || 0
+|-
+| style="text-align:left;" data-sort-value="Tasty Cranberry Sauce"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5127.png</span>&nbsp;[[Tasty Cranberry Sauce]] || Meal || 26 || [[Cooking]] || 26 || 11
+|-
+| style="text-align:left;" data-sort-value="Amazing Cranberry Sauce"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5127.png</span>&nbsp;[[Amazing Cranberry Sauce]] || Meal || 55 || [[Cooking]] || 55 || 40
+|-
+| style="text-align:left;" data-sort-value="Turkey Leg"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5224.png</span>&nbsp;[[Turkey Leg]] || Snack || 15 || [[Cooking]] || 15 || 0
+|-
+| style="text-align:left;" data-sort-value="Bland Baked Turkey"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Bland Baked Turkey]] || Meal || 8 || [[Cooking]] || 8 || 0
+|-
+| style="text-align:left;" data-sort-value="Well-Baked Turkey"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Well-Baked Turkey]] || Meal || 15 || [[Cooking]] || 15 || 0
+|-
+| style="text-align:left;" data-sort-value="Perfectly Baked Turkey"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Perfectly Baked Turkey]] || Meal || 44 || [[Cooking]] || 44 || 29
+|-
+| style="text-align:left;" data-sort-value="Turkey Peasant-Bake"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Turkey Peasant-Bake]] || Meal || 18 || [[Cooking]] || 18 || 3
+|-
+| style="text-align:left;" data-sort-value="Turkey Pot Pie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Turkey Pot Pie]] || Meal || 45 || [[Cooking]] || 45 || 30
+|-
+| style="text-align:left;" data-sort-value="Fancy Turkey Pie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Fancy Turkey Pie]] || Meal || 63 || [[Cooking]] || 63 || 48
+|-
+| style="text-align:left;" data-sort-value="Turkey Stir-Fry"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5130.png</span>&nbsp;[[Turkey Stir-Fry]] || Meal || 77 || [[Cooking]] || 77 || 62
+|-
+| style="text-align:left;" data-sort-value="Cranberry-Almond Pie"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5120.png</span>&nbsp;[[Cranberry-Almond Pie]] || Snack || 60 || [[Cooking]] || 60 || 45
+|-
+| style="text-align:left;" data-sort-value="Autumn Salad"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5820.png</span>&nbsp;[[Autumn Salad]] || Snack || 65 || [[Cooking]] || 65 || 50
+|-
+| style="text-align:left;" data-sort-value="Simple Autumn Gorp"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5708.png</span>&nbsp;[[Simple Autumn Gorp]] || Snack || 50 || [[Cooking]] || 50 || 35
+|-
+| style="text-align:left;" data-sort-value="Turkey Gravy"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5934.png</span>&nbsp;[[Turkey Gravy]] || Snack || 15 || [[Cooking]] || 15 || 0
+|-
+| style="text-align:left;" data-sort-value="Cranberry-Turkey Sandwich"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5128.png</span>&nbsp;[[Cranberry-Turkey Sandwich]] || Meal || 20 || [[Cooking]] || 20 || 5
+|-
+| style="text-align:left;" data-sort-value="Simple Cranberry Tart"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5120.png</span>&nbsp;[[Simple Cranberry Tart]] || Snack || 23 || [[Cooking]] || 23 || 8
+|-
+| style="text-align:left;" data-sort-value="Leftover Turkey Sandwich"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5128.png</span>&nbsp;[[Leftover Turkey Sandwich]] || Meal || 13 || [[Cooking]] || 13 || 0
+|-
+| style="text-align:left;" data-sort-value="Dried Cranberries"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5708.png</span>&nbsp;[[Dried Cranberries]] || Snack || 9 || [[Cooking]] || 9 || 0
+|-
+| style="text-align:left;" data-sort-value="Cranberry-Barbecue Steak"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Cranberry-Barbecue Steak]] || Meal || 30 || [[Cooking]] || 30 || 15
+|-
+| style="text-align:left;" data-sort-value="Cranberry-Barbecue Mutton"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Cranberry-Barbecue Mutton]] || Meal || 14 || [[Cooking]] || 14 || 0
+|-
+| style="text-align:left;" data-sort-value="Pumpkin Donut"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5125.png</span>&nbsp;[[Pumpkin Donut]] || Snack || 75 ||  ||  || 30
+|-
+| style="text-align:left;" data-sort-value="Flounder Nigiri"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5674.png</span>&nbsp;[[Flounder Nigiri]] || Instant-Snack || 24 || [[Sushi Preparation]] || 12 || 9
+|-
+| style="text-align:left;" data-sort-value="Flounder Sushi Roll"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Flounder Sushi Roll]] || Meal || 35 || [[Sushi Preparation]] || 18 || 20
+|-
+| style="text-align:left;" data-sort-value="Amberjack Nigiri"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5674.png</span>&nbsp;[[Amberjack Nigiri]] || Instant-Snack || 40 || [[Sushi Preparation]] || 20 || 25
+|-
+| style="text-align:left;" data-sort-value="Amberjack Sushi Roll"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Amberjack Sushi Roll]] || Meal || 55 || [[Sushi Preparation]] || 30 || 40
+|-
+| style="text-align:left;" data-sort-value="Basic Shark-Fin Soup"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6223.png</span>&nbsp;[[Basic Shark-Fin Soup]] || Snack || 30 || [[Cooking]] || 30 || 15
+|-
+| style="text-align:left;" data-sort-value="Rum-Glazed Shrimp"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5128.png</span>&nbsp;[[Rum-Glazed Shrimp]] || Snack || 30 || [[Cooking]] || 30 || 15
+|-
+| style="text-align:left;" data-sort-value="Butter-Fried Shrimp"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5128.png</span>&nbsp;[[Butter-Fried Shrimp]] || Snack || 32 || [[Cooking]] || 32 || 17
+|-
+| style="text-align:left;" data-sort-value="Grilled Shrimp Wrap"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5819.png</span>&nbsp;[[Grilled Shrimp Wrap]] || Snack || 25 || [[Cooking]] || 25 || 10
+|-
+| style="text-align:left;" data-sort-value="Baked Flounder"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Baked Flounder]] || Meal || 25 || [[Cooking]] || 25 || 10
+|-
+| style="text-align:left;" data-sort-value="Cheesy Flounder"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Cheesy Flounder]] || Meal || 33 || [[Cooking]] || 33 || 18
+|-
+| style="text-align:left;" data-sort-value="Lemon-Baked Flounder"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Lemon-Baked Flounder]] || Meal || 44 || [[Cooking]] || 44 || 29
+|-
+| style="text-align:left;" data-sort-value="Lemon Pepper Flounder"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Lemon Pepper Flounder]] || Meal || 45 || [[Cooking]] || 45 || 30
+|-
+| style="text-align:left;" data-sort-value="Grilled Amberjack"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Grilled Amberjack]] || Meal || 70 || [[Cooking]] || 70 || 55
+|-
+| style="text-align:left;" data-sort-value="Amberjack Snack Attack"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5819.png</span>&nbsp;[[Amberjack Snack Attack]] || Snack || 72 || [[Cooking]] || 72 || 57
+|-
+| style="text-align:left;" data-sort-value="Apology Cake"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5714.png</span>&nbsp;[[Apology Cake]] || Meal || 20 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Fairy Cake"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5714.png</span>&nbsp;[[Fairy Cake]] || Snack || 20 || [[Fae (Race Skill)]] || 11 || 0
+|-
+| style="text-align:left;" data-sort-value="Fairy Stew"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5816.png</span>&nbsp;[[Fairy Stew]] || Meal || 20 || [[Fae (Race Skill)]] || 4 || 0
+|-
+| style="text-align:left;" data-sort-value="Tiramisu of Delights"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5714.png</span>&nbsp;[[Tiramisu of Delights]] || Snack || 80 ||  ||  || 65
+|-
+| style="text-align:left;" data-sort-value="Apprentice Surprise"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5977.png</span>&nbsp;[[Apprentice Surprise]] || Meal || 40 ||  ||  || 15
+|-
+| style="text-align:left;" data-sort-value="Crone Coffee"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6386.png</span>&nbsp;[[Crone Coffee]] || Snack || 70 || [[Cooking]] || 70 || 55
+|-
+| style="text-align:left;" data-sort-value="Meat Candy"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5828.png</span>&nbsp;[[Meat Candy]] || Snack || 35 || [[Cooking]] || 35 || 20
+|-
+| style="text-align:left;" data-sort-value="Pumpkin Spice Coffee"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6392.png</span>&nbsp;[[Pumpkin Spice Coffee]] || Snack || 80 || [[Cooking]] || 80 || 65
+|-
+| style="text-align:left;" data-sort-value="3-Year Steamed Cake"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5692.png</span>&nbsp;[[3-Year Steamed Cake]] || Meal || 80 ||  ||  || 0
+|-
+| style="text-align:left;" data-sort-value="Catfish Nigiri"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5674.png</span>&nbsp;[[Catfish Nigiri]] || Instant-Snack || 40 || [[Sushi Preparation]] || 20 || 25
+|-
+| style="text-align:left;" data-sort-value="Catfish Sushi Roll"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Catfish Sushi Roll]] || Meal || 53 || [[Sushi Preparation]] || 28 || 38
+|-
+| style="text-align:left;" data-sort-value="Yellow Perch Nigiri"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5674.png</span>&nbsp;[[Yellow Perch Nigiri]] || Instant-Snack || 45 || [[Sushi Preparation]] || 25 || 30
+|-
+| style="text-align:left;" data-sort-value="Yellow Perch Sushi Roll"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Yellow Perch Sushi Roll]] || Meal || 55 || [[Sushi Preparation]] || 32 || 40
+|-
+| style="text-align:left;" data-sort-value="Moku's Special Sushi"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Moku's Special Sushi]] || Meal || 50 ||  ||  || 35
+|-
+| style="text-align:left;" data-sort-value="Fried Frog's Legs"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5038.png</span>&nbsp;[[Fried Frog's Legs]] || Snack || 35 || [[Cooking]] || 35 || 20
+|-
+| style="text-align:left;" data-sort-value="Baked Swamp Gourd"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5127.png</span>&nbsp;[[Baked Swamp Gourd]] || Meal || 70 || [[Cooking]] || 70 || 55
+|-
+| style="text-align:left;" data-sort-value="Ratkin Surf 'n Turf"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5128.png</span>&nbsp;[[Ratkin Surf 'n Turf]] || Meal || 60 || [[Cooking]] || 60 || 45
+|-
+| style="text-align:left;" data-sort-value="Yellowwhisker"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5395.png</span>&nbsp;[[Yellowwhisker]] || Snack || 75 || [[Cooking]] || 75 || 60
+|-
+| style="text-align:left;" data-sort-value="Hexameat Soup"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6223.png</span>&nbsp;[[Hexameat Soup]] || Meal || 80 || [[Cooking]] || 80 || 65
+|-
+| style="text-align:left;" data-sort-value="Swamp Gourd Fries"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5861.png</span>&nbsp;[[Swamp Gourd Fries]] || Snack || 70 || [[Cooking]] || 70 || 55
+|-
+| style="text-align:left;" data-sort-value="Yellow Perch Ranalon-Style"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5039.png</span>&nbsp;[[Yellow Perch Ranalon-Style]] || Meal || 75 || [[Cooking]] || 75 || 60
+|-
+| style="text-align:left;" data-sort-value="Beast in the Tub"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6223.png</span>&nbsp;[[Beast in the Tub]] || Meal || 68 || [[Cooking]] || 68 || 53
+|-
+| style="text-align:left;" data-sort-value="Povus Coffee"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6386.png</span>&nbsp;[[Povus Coffee]] || Snack || 80 || [[Cooking]] || 80 || 65
+|-
+| style="text-align:left;" data-sort-value="Hexameat Wraps"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5819.png</span>&nbsp;[[Hexameat Wraps]] || Snack || 72 || [[Cooking]] || 72 || 57
+|-
+| style="text-align:left;" data-sort-value="Maggoty Ham"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5067.png</span>&nbsp;[[Maggoty Ham]] || Meal || 25 ||  ||  || 10
+|-
+| style="text-align:left;" data-sort-value="Rotten Meat"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5067.png</span>&nbsp;[[Rotten Meat]] || Meal || 25 || [[Alchemy]] || 13 || 10
+|-
+| style="text-align:left;" data-sort-value="Spoiled Rations"|<span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5067.png</span>&nbsp;[[Spoiled Rations]] || Meal || 25 ||  ||  || 10
+|}
+<noinclude>[[Category:Skill Subpage]]</noinclude>

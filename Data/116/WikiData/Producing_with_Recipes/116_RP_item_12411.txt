@@ -1,0 +1,9 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Artistry]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Small Fireworks || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5056.png</span>&nbsp;[[Rubywall Crystal]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5183.png</span>&nbsp;[[Saltpeter]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5306.png</span>&nbsp;[[Good Parchment]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5401.png</span>&nbsp;[[Small Firework]] x20
+|}

@@ -1,0 +1,107 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Poison Resistance || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5468.png</span>&nbsp;[[Sugar]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5022.png</span>&nbsp;[[Potato]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5155.png</span>&nbsp;[[Poison Resistance Potion]] x1
+|-
+| 5 || Spider Speed Potion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5825.png</span>&nbsp;[[Spider Egg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5154.png</span>&nbsp;[[Spider Speed Potion]] x1
+|-
+| 10 || Weak Poisoned Knife || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5164.png</span>&nbsp;[[Rotten Strawberry]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5893.png</span>&nbsp;[[Weak Poisoned Knife]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 20 || Modest Poisoned Knife || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5468.png</span>&nbsp;[[Sugar]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5893.png</span>&nbsp;[[Modest Poisoned Knife]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 20 || Acid Boost Potion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5469.png</span>&nbsp;[[Pickled Brain]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5332.png</span>&nbsp;[[Peppercorns]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5154.png</span>&nbsp;[[Acid Boost Potion]] x1
+|-
+| 25 || Strong Antivenom || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6215.png</span>&nbsp;[[Viper Fangs]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5894.png</span>&nbsp;[[Strong Antivenom]] x1
+|-
+| 25 || Weak Acidic Cleanser (Organic Recipe) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5164.png</span>&nbsp;[[Rotten Strawberry]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Weak Acidic Cleanser]] x2
+|-
+| 30 || Dangerous Poisoned Knife || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5041.png</span>&nbsp;[[Flour]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5076.png</span>&nbsp;[[Antler]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5893.png</span>&nbsp;[[Dangerous Poisoned Knife]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 40 || Potent Poisoned Knife || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5164.png</span>&nbsp;[[Rotten Strawberry]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5422.png</span>&nbsp;[[Ancient Bronze Coin]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5893.png</span>&nbsp;[[Potent Poisoned Knife]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 40 || Ice Magic Boost Potion 20% || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Dirty Snow Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Ice Core]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5437.png</span>&nbsp;[[Ice Magic Boost Potion 20%]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 40 || Spider Boost Potion 20% || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Dirty Snow Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5756.png</span>&nbsp;[[Wasp in Amber]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5437.png</span>&nbsp;[[Spider Boost Potion 20%]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 41 || Potent Wolfsbaned Knife || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5042.png</span>&nbsp;[[Wolfsbane]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5893.png</span>&nbsp;[[Potent Wolfsbaned Knife]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 45 || Blood Seeker Ointment || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5015.png</span>&nbsp;[[Fire Dust]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5184.png</span>&nbsp;[[Magic Tooth]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5535.png</span>&nbsp;[[Dog Meat]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5157.png</span>&nbsp;[[Blood Seeker Ointment]] x1
+|-
+| 50 || Deadly Poisoned Knife || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5057.png</span>&nbsp;[[Grass]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5022.png</span>&nbsp;[[Potato]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5081.png</span>&nbsp;[[Nightmare Flesh]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5893.png</span>&nbsp;[[Deadly Poisoned Knife]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|-
+| 50 || Heinous Wolfsbaned Knife || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5160.png</span>&nbsp;[[Bottle of Milk]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5022.png</span>&nbsp;[[Potato]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5042.png</span>&nbsp;[[Wolfsbane]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5893.png</span>&nbsp;[[Heinous Wolfsbaned Knife]] x5<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Artistry]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Small Fireworks || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5056.png</span>&nbsp;[[Rubywall Crystal]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5183.png</span>&nbsp;[[Saltpeter]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5306.png</span>&nbsp;[[Good Parchment]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5401.png</span>&nbsp;[[Small Firework]] x20
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Calligraphy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 10 || Secret Calligraphy: Broken || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5885.png</span>&nbsp;[[Advanced Holistic Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1 || Gain insight: '''+5% Piercing Attack Damage'''. (Stacks with regular calligraphy effects)
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Cooking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 35 || Fried Spider Leg || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5041.png</span>&nbsp;[[Flour]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5017.png</span>&nbsp;[[Oregano]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Fried Spider Leg]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 2 || Turn Corpse Trophies Into Crystal Ice || [[:Category:Items/CorpseTrophy|Corpse Trophies]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fishing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 10 || Ice Fishing Gear (5m) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5094.png</span>&nbsp;[[Handsaw]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 30% &#010;">(!)</sup></span><br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5312.png</span>&nbsp;[[String]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5311.png</span>&nbsp;[[Ice Fishing Gear (5 min)]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fletching]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 21 || Advanced Arrow Shafts (Organic Recipe) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5276.png</span>&nbsp;[[Maple Dowels]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5116.png</span>&nbsp;[[Empty Fletching Box]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5116.png</span>&nbsp;[[Drying Box of Advanced Arrow Shafts]] x1
+|-
+| 31 || Expert's Arrow Shafts (Organic Recipe) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5276.png</span>&nbsp;[[Maple Dowels]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5116.png</span>&nbsp;[[Empty Fletching Box]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5181.png</span>&nbsp;[[Weak Acidic Cleanser]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 10% &#010;">(!)</sup></span> || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5116.png</span>&nbsp;[[Drying Box of Expert's Arrow Shafts]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Lore]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 0 || Beginner's Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x5<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Basic Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5013.png</span>&nbsp;[[Salt]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Advanced Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Expert Augury || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x6<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || 
+|-
+| 0 || Perceive Spawn Premonitions (3 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x1<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 3 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|-
+| 0 || Perceive Spawn Premonitions (5 secs) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5659.png</span>&nbsp;[[Incense]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5213.png</span>&nbsp;[[Topaz]] x2<br>[[:Category:Items/CorpseTrophy|Corpse Trophy]] x1 || Perform a mind-altering ritual so that you can perceive newly-spawned monsters 5 seconds before they actually appear.<br>The effect does not wear off, but whenever you die there's a 5% chance that it will end.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mushroom Farming]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 15 || Mushroom Substrate: Limbs || [[:Category:Items/CorpseLimb|Limb or Extremity]] x1<br>[[:Category:Items/CorpseLimb|Limb or Extremity]] x1<br>[[:Category:Items/CorpseLimb|Limb or Extremity]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Mushroom Substrate (Limbs)]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Shamanic Infusion]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 19 || Beginner's Wing-Leg Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5399.png</span>&nbsp;[[Fairy Wing]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x3<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Fast-Flying Speed Boost +0.5, Flying Cost (Per Second In Combat) -0.5'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 19.
+|-
+| 34 || Novice's Wing-Leg Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5399.png</span>&nbsp;[[Fairy Wing]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x5<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Fast-Flying Speed Boost +1, Flying Cost (Per Second In Combat) -0.5'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 34.
+|-
+| 47 || Shaman's Wing-Leg Infusion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5399.png</span>&nbsp;[[Fairy Wing]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Giant Spider Leg]] x6<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5082.png</span>&nbsp;[[Ivory Mandibles]] x1<br>[[:Category:Items/Legs|Pants]] x1 || Infuses pants or skirts with the following power: '''Fast-Flying Speed Boost +1.5, Flying Cost (Per Second In Combat) -0.5'''.<br>Uses 100 Craft Points on the item and adds a requirement of Shamanic Infusion level 47.
+|}

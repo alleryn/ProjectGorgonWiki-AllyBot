@@ -1,0 +1,23 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Alchemy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 45 || Water Breathing Potion || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Water]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5054.png</span>&nbsp;[[Basic Fish Scales]] x10<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6319.png</span>&nbsp;[[Scallop Shell]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6313.png</span>&nbsp;[[Pearl]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5436.png</span>&nbsp;[[Water Breathing Potion]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5009.png</span>&nbsp;[[Empty Bottle]] x1
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fae (Race Skill)]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 1 || Turn Junk Into Crystal Ice || [[:Category:Items/VendorTrash|Miscellaneous Junk]] x1 || 
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Toolcrafting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 60 || Great Snail Greaves (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5074.png</span>&nbsp;[[Perfect Giant Snail Shell]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5403.png</span>&nbsp;[[Snail Sinews]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5175.png</span>&nbsp;[[Leather Strips]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6319.png</span>&nbsp;[[Scallop Shell]] x1<br>[[:Category:Items/Crystal|Primary Crystal]] x1<br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_11009.png</span>&nbsp;[[Great Snail Greaves]] x1
+|-
+| 60 || Great Snail Greaves (Max-Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5074.png</span>&nbsp;[[Perfect Giant Snail Shell]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5403.png</span>&nbsp;[[Snail Sinews]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5175.png</span>&nbsp;[[Leather Strips]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6319.png</span>&nbsp;[[Scallop Shell]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5211.png</span>&nbsp;[[Maximized Obsidian]] x1<br>[[:Category:Items/Crystal|Primary Crystal]] x1<br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_11009.png</span>&nbsp;[[Great Snail Greaves]] x1
+|}

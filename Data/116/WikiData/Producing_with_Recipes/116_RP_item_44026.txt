@@ -1,0 +1,11 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Leatherworking]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 53 || Quality Leather Helmet (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5177.png</span>&nbsp;[[Quality Leather Roll]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5176.png</span>&nbsp;[[Decent Leather Roll]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5175.png</span>&nbsp;[[Leather Strips]] x1<br>[[:Category:Items/Crystal|Primary Crystal]] x1<br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_16005.png</span>&nbsp;[[Quality Leather Helmet]] x1
+|-
+| 53 || Quality Leather Helmet (Max-Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5177.png</span>&nbsp;[[Quality Leather Roll]] x3<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5176.png</span>&nbsp;[[Decent Leather Roll]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5175.png</span>&nbsp;[[Leather Strips]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5205.png</span>&nbsp;[[Maximized Onyx]] x1<br>[[:Category:Items/Crystal|Primary Crystal]] x1<br>[[:Category:Items/Crystal|Auxiliary Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_16005.png</span>&nbsp;[[Quality Leather Helmet]] x1
+|}

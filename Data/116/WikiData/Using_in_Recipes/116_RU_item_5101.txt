@@ -1,0 +1,39 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Calligraphy]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 15 || Calligraphy: Violence || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Advanced Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5052.png</span>&nbsp;[[Clownfish]] x1 || Gain access to a combo that affects all enemies within 5 meters and does 5 extra damage.
+|-
+| 16 || Calligraphy: Violence+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Advanced Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5052.png</span>&nbsp;[[Clownfish]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that affects all enemies within 5 meters and does 5 extra damage. Also gain a passive insight: '''all slashing attacks deal +5% damage'''.
+|-
+| 27 || Calligraphy: Simplicity || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Advanced Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5052.png</span>&nbsp;[[Clownfish]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5056.png</span>&nbsp;[[Rubywall Crystal]] x1 || Gain access to a combo that affects all enemies within 5 meters and does 20 extra damage.
+|-
+| 28 || Calligraphy: Simplicity+ || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5888.png</span>&nbsp;[[Advanced Ink]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5052.png</span>&nbsp;[[Clownfish]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5056.png</span>&nbsp;[[Rubywall Crystal]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5295.png</span>&nbsp;[[Inkstone]] x1 || Gain access to a combo that affects all enemies within 5 meters and does 20 extra damage. Also gain a passive insight: '''all slashing attacks deal +7% damage'''.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Fishing]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 5 || Clownfish Fillet || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5052.png</span>&nbsp;[[Clownfish]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5036.png</span>&nbsp;[[Clownfish Fillet]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5054.png</span>&nbsp;[[Basic Fish Scales]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance of being created: 20% &#010;">(!)</sup></span>
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Meditation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 32 || Meditation #32 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5052.png</span>&nbsp;[[Clownfish]] x1 || Receive the two combos from a Meditation Pillar, plus a third Combo: Kick+Punch+Barrage: final step deals 125 extra damage.
+|-
+| 33 || Meditation #33 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5052.png</span>&nbsp;[[Clownfish]] x1 || Receive '''+15% Psychic Resistance''', plus the two combos from a Meditation Pillar, plus a third Combo: Kick+Punch+Barrage: final step deals 125 extra damage.
+|-
+| 34 || Meditation #34 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5052.png</span>&nbsp;[[Clownfish]] x1 || Receive the two combos from a Meditation Pillar, plus a third Combo: Punch+Kick+Cobra Strike+Punch: final step deals 75 extra damage that bypasses armor.
+|-
+| 35 || Meditation #35 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5052.png</span>&nbsp;[[Clownfish]] x1 || Receive '''+20 Max Power''', plus the two combos from a Meditation Pillar, plus a third Combo: Punch+Kick+Cobra Strike+Punch: final step deals 75 extra damage that bypasses armor.
+|}
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Mycology]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 15 || Potent Spore Bombs || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5002.png</span>&nbsp;[[Mycena Mushroom]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5052.png</span>&nbsp;[[Clownfish]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5019.png</span>&nbsp;[[Strange Dirt]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5685.png</span>&nbsp;[[Potent Spore Bomb]] x2
+|}

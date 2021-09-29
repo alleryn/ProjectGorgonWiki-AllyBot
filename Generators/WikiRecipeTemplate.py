@@ -1,8 +1,8 @@
 from .GeneratorGlobalStrings import versionString, botInfoString
 
-def GenerateWikiRecipeTemplate(RecipeDict, ItemDict, RecipeSourcesDict):
-	recipeTemplateSource = '<noinclude>\n' + versionString + '</noinclude><includeonly>{{#switch: {{{1|}}}\n'
-	for recipe in RecipeDict:
+def GenerateWikiRecipeTemplate(RecipeList, RecipeDict, ItemDict, RecipeSourcesDict):
+	templateList = []
+	for recipe in RecipeList:
 		if "Keywords" in RecipeDict[recipe] and ("Lint_NotLearnable" in RecipeDict[recipe]["Keywords"] or "Lint_NotObtainable" in RecipeDict[recipe]["Keywords"]):
 			continue
 		automaticFromSkill = True
@@ -17,14 +17,17 @@ def GenerateWikiRecipeTemplate(RecipeDict, ItemDict, RecipeSourcesDict):
 					if ItemDict["item_" + str(resultItem["ItemCode"])]["Name"] == recipeName:
 						sameName = True
 			if not sameName:
-				recipeTemplateSource += ' | ' + recipeName + ' = '
+				template = ' | ' + recipeName + ' = '
 				if len(RecipeDict[recipe]["ResultItems"]) == 1:
-					recipeTemplateSource += ItemDict["item_" + str(RecipeDict[recipe]["ResultItems"][0]["ItemCode"])]["Name"] + '\n'
+					template += ItemDict["item_" + str(RecipeDict[recipe]["ResultItems"][0]["ItemCode"])]["Name"]
 				else:
-					recipeTemplateSource += '<noinclude><!-- ' + recipe + ': ' + recipeName + 'produces the following result items: '
 					rItems = []
 					for resultItem in RecipeDict[recipe]["ResultItems"]:
 						rItems.append(ItemDict["item_" + str(resultItem["ItemCode"])]["Name"])
-					recipeTemplateSource += ', '.join(rItems) + '. Manually edit out the noinclude and comment tags and pick one result item for this template to display.--></noinclude>' + '\n'
-	recipeTemplateSource += ' | #default = {{{1}}}}}</includeonly><noinclude>\n{{documentation}}\n[[Category:Formatting templates]]\n</noinclude>\n'
-	return recipeTemplateSource
+					if "ProtoResultItems" in RecipeDict[recipe]:
+						for protoResultItem in RecipeDict[recipe]["ProtoResultItems"]:
+							rItems.append(ItemDict["item_" + str(protoResultItem["ItemCode"])]["Name"])
+					template += ' OR '.join(rItems)
+				templateList.append(template)
+	templateList.sort()
+	return '\n'.join(templateList)

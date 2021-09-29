@@ -1,0 +1,15 @@
+===Using in Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Sushi Preparation]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 20 || Catfish Nigiri || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5036.png</span>&nbsp;[[Catfish Fillet]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5676.png</span>&nbsp;[[Rahu Rice]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5680.png</span>&nbsp;[[Secret Vinegar]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5674.png</span>&nbsp;[[Catfish Nigiri]] x2
+|-
+| 25 || Yellow Perch Nigiri || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5037.png</span>&nbsp;[[Yellow Perch Fillet]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5676.png</span>&nbsp;[[Rahu Rice]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5680.png</span>&nbsp;[[Secret Vinegar]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6224.png</span>&nbsp;[[Dill]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5674.png</span>&nbsp;[[Yellow Perch Nigiri]] x2
+|-
+| 28 || Catfish Sushi Roll || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5036.png</span>&nbsp;[[Catfish Fillet]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5676.png</span>&nbsp;[[Rahu Rice]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5680.png</span>&nbsp;[[Secret Vinegar]] x2 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5675.png</span>&nbsp;[[Catfish Sushi Roll]] x2
+|-
+| 32 || Yellow Perch Sushi Roll || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5037.png</span>&nbsp;[[Yellow Perch Fillet]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5676.png</span>&nbsp;[[Rahu Rice]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5680.png</span>&nbsp;[[Secret Vinegar]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6224.png</span>&nbsp;[[Dill]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5675.png</span>&nbsp;[[Yellow Perch Sushi Roll]] x2
+|}

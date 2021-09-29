@@ -2,6 +2,7 @@ import os
 import urllib.request
 
 from Util import MakeDir, LoadJson, SaveJson, SaveTextFile
+from Generators.WikiRecipeTemplate import GenerateWikiRecipeTemplate
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
@@ -86,7 +87,7 @@ removedNpcs = sorted(set(npcListPrevious) - set(npcList))
 SaveTextFile(dirSave, 'removedNpcs.txt', str(removedNpcs))
 
 addedNpcs = sorted(set(npcList) - set(npcListPrevious))
-SaveTextFile(dirSave, 'addedNpcsForNpclocationsJson.txt', '\n'.join(',\n"' + npc + '": {\n\t"Location": "",\n\t"Name": "' + NpcDict[npc]["Name"] + '"\n}' for npc in addedNpcs))
+SaveTextFile(dirSave, 'addedNpcsForNpclocationsJson.txt', ''.join(',\n"' + npc + '": {\n\t"Location": "",\n\t"Name": "' + NpcDict[npc]["Name"] + '"\n}' for npc in addedNpcs))
 
 RecipeDict = LoadJson(dirSave, 'recipes.json', False)
 recipeList = sorted(RecipeDict.keys())
@@ -97,15 +98,16 @@ recipeListPrevious = LoadJson(dirJsons + '/v' + str(int(version) - 1), 'recipeLi
 removedRecipes = sorted(set(recipeListPrevious) - set(recipeList))
 SaveTextFile(dirSave, 'removedRecipes.txt', str(removedRecipes))
 
-addedRecipes = sorted(set(recipeList) - set(recipeListPrevious))
-SaveTextFile(dirSave, 'addedRecipesForRecipeTemplate.txt', '\n'.join(' | ' + RecipeDict[recipe]["Name"] + ' = \n' for recipe in addedRecipes))
+RecipeSourcesDict = LoadJson(dirSave, 'sources_recipes.json', False)
+addedRecipes = set(recipeList) - set(recipeListPrevious)
+SaveTextFile(dirSave, 'addedRecipesForRecipeTemplate.txt', GenerateWikiRecipeTemplate(addedRecipes, RecipeDict, ItemDict, RecipeSourcesDict))
 
 removedItems = set()
 nameChangedItems = set()
 ItemDictPrev = LoadJson(dirJsons + '/v' + str(int(version) - 1), 'items.json', False)
 for item in ItemDictPrev:
 	if item not in ItemDict:
-		removedItems.add(ItemDictPrev["Name"] + ": " + item)
+		removedItems.add(ItemDictPrev[item]["Name"] + ": " + item)
 	elif ItemDict[item]["Name"] != ItemDictPrev[item]["Name"]:
 		nameChangedItems.add(ItemDictPrev[item]["Name"] + ": " + item + " is now " + ItemDict[item]["Name"])
 SaveTextFile(dirSave, 'removedItems.txt', '\n'.join(sorted(removedItems)))

@@ -1658,6 +1658,86 @@ def getItemCategoryLink(keyword):
 		plural = "Yarn"
 	elif keyword == "YellowCrystal":
 		plural = "Yellow Crystals"
+	elif keyword == "Art":
+		plural = "Art"
+	elif keyword == "CandleMaking":
+		plural = "Candle Making Items"
+	elif keyword == "Catfish":
+		plural = "Catfish"
+	elif keyword == "DwarvenPlateArmor":
+		plural = "Dwarven Plate Armor"
+	elif keyword == "FalseAgaric":
+		plural = "False Agarics"
+	elif keyword == "GoblinOrangeDye":
+		plural = "Goblin Orange Dye"
+	elif keyword == "HusbandryRelated":
+		plural = "Husbandry Related Items"
+	elif keyword == "KuvouHide":
+		plural = "Kuvou Hides"
+	elif keyword == "LiveFrog":
+		plural = "Live Frogs"
+	elif keyword == "MacGuffin":
+		plural = "MacGuffins"
+	elif keyword == "MetalSlab9":
+		plural = ""
+	elif keyword == "OrcishPlateArmor":
+		plural = "Orcish Plate Armors"
+	elif keyword == "OrichalcumOre":
+		plural = "Orichalcum Ore"
+	elif keyword == "PaleontologyBone":
+		plural = "Paleontology Bones"
+	elif keyword == "PaleontologyPick":
+		plural = "Paleontology Picks"
+	elif keyword == "Poppy":
+		plural = "Poppies"
+	elif keyword == "PovusPaleontologyBone":
+		plural = "Povus Paleontology Bones"
+	elif keyword == "RequireBeeOrWasp":
+		plural = ""
+	elif keyword == "RequireBreedingPet":
+		plural = ""
+	elif keyword == "RequireCaptiveBredPet":
+		plural = ""
+	elif keyword == "RequireMale":
+		plural = ""
+	elif keyword == "RequireNonBreedingPet":
+		plural = ""
+	elif keyword == "ToolcraftingRecipe":
+		plural = "Toolcrafting Recipes"
+	elif keyword == "TrophyKuvouHide":
+		plural = "Trophy Kuvou Hides"
+	elif keyword == "TruePaleontologyPick":
+		plural = "True Paleontology Picks"
+	elif keyword == "TrueWhittlingKnife":
+		plural = "True Whittling Knives"
+	elif keyword == "UseInStable_Gestating":
+		plural = ""
+	elif keyword == "UseInStable_NonBreeding":
+		plural = ""
+	elif keyword == "UseInStable_Ready":
+		plural = ""
+	elif keyword == "UseInStable_Unregistered":
+		plural = ""
+	elif keyword == "Wax":
+		plural = "Waxes"
+	elif keyword == "WerewolfArmor":
+		plural = "Werewolf Armor"
+	elif keyword == "Whittling":
+		plural = "Whittling Related Items"
+	elif keyword == "WhittlingKnife":
+		plural = "Whittling Knives"
+	elif keyword == "WhittlingKnife1":
+		plural = ""
+	elif keyword == "WhittlingKnife2":
+		plural = ""
+	elif keyword == "WhittlingKnife3":
+		plural = ""
+	elif keyword == "WhittlingKnife4":
+		plural = ""
+	elif keyword == "WhittlingKnife5":
+		plural = ""
+	elif keyword == "YellowPerch":
+		plural = "Yellow Perch"
 	if plural:
 		return '[[:Category:Items/' + keyword + '|' + plural + ']]'
 	else:

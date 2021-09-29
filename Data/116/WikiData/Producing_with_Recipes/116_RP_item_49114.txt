@@ -1,0 +1,11 @@
+===Producing with Recipes===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|mw-collapsible mw-collapsed}}
+|+ style="text-align:left; width: 250px;" | [[Jewelry Crafting]]
+! Lvl !! Name !! Ingredients !! Results
+|-
+| 80 || Position Inferencing Ring (Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5578.png</span>&nbsp;[[Superb Metal Slab]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6351.png</span>&nbsp;[[Accuracy Circuit]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5569.png</span>&nbsp;[[Expert-Quality Armor Stake]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 50% &#010;">(!)</sup></span><br>[[:Category:Items/Crystal|Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_17002.png</span>&nbsp;[[Position Inferencing Ring]] x1
+|-
+| 80 || Position Inferencing Ring (Max-Enchanted) || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5578.png</span>&nbsp;[[Superb Metal Slab]] x2<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6351.png</span>&nbsp;[[Accuracy Circuit]] x1<br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5569.png</span>&nbsp;[[Expert-Quality Armor Stake]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 50% &#010;">(!)</sup></span><br><span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5702.png</span>&nbsp;[[Glowy Yellow Crystal]] x2<br>[[:Category:Items/Crystal|Crystal]] x1<br>[[:Category:Items/Crystal|Crystal]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_17002.png</span>&nbsp;[[Position Inferencing Ring]] x1
+|}
