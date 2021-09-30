@@ -33,6 +33,7 @@ QuestJson = LoadJson(dirJsons, "quests.json", True)
 RecipeJson = LoadJson(dirJsons, "recipes.json", True)
 AttributeJson = LoadJson(dirJsons, "attributes.json", True)
 LorebookJson = LoadJson(dirJsons, "lorebooks.json", True)
+XpTableJson = LoadJson(dirJsons, "xptables.json", True)
 NpcLocJson = LoadJson(dirJsons, "npclocations.json", True)
 
 # Add relevant information to Jsons
@@ -323,3 +324,4 @@ SaveJson(dirSave, 'npcs.json', NpcJson)
 SaveJson(dirSave, 'quests.json', QuestJson)
 SaveJson(dirSave, 'recipes.json', RecipeJson)
 SaveJson(dirSave, 'attributes.json', AttributeJson)
+SaveJson(dirSave, 'xptables.json', XpTableJson)

@@ -1,0 +1,8 @@
+<noinclude><!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+[[Category:Xptable]]</noinclude>
+{| {{STDT}}
+! Level !! Experience !! Total Experience
+|-
+|1||1||1
+|}

@@ -4,3 +4,4 @@ venv/*
 /**/.__pycache__/*
 Archive/*
 Logs/*
+bash.exe.stackdump

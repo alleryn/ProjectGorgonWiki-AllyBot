@@ -4,7 +4,7 @@ import sys
 import requests
 from Util import LoadTextFile, SaveTextFile, MakeDir, LoadJson
 import Logger
-from GlobalStrings import Ab_String, Fv_String, QR_String, QF_String, RU_String, RP_String, RK_String
+from GlobalStrings import Ab_String, Fv_String, QR_String, QF_String, RU_String, RP_String, RK_String, XP_String
 
 def main(*args):
 	logString = 'UploadWikiData.py: '
@@ -144,6 +144,7 @@ def main(*args):
 	dirRULoad = dirLoad + '/' + RU_String
 	dirRPLoad = dirLoad + '/' + RP_String
 	dirRKLoad = dirLoad + '/' + RK_String
+	dirXPLoad = dirLoad + '/' + XP_String
 
 	ItemDict = LoadJson(dirBase + '/Jsons', 'items.json', True)
 
@@ -163,6 +164,14 @@ def main(*args):
 					text = LoadTextFile(dirLoad, f)
 					summary = 'Bot added info for game version v' + gameVersion + ', bot version ' + botVersion + '. Contact [[User:Alleryn]] for issues concerning this bot edit.'
 					editPage(page, text, summary)
+
+	for f in os.listdir(dirXPLoad):
+		if f.endswith('.txt'):
+			page = 'Xptables/' + f[7:-4]
+			if page not in completedPageSectionPairs:
+				text = LoadTextFile(dirXPLoad, f)
+				summary = 'Bot added info for game version v' + gameVersion + ', bot version ' + botVersion + '. Contact [[User:Alleryn]] for issues concerning this bot edit.'
+				editPage(page, text, summary)
 
 	for f in os.listdir(dirRKLoad):
 		if f.endswith('.txt'):

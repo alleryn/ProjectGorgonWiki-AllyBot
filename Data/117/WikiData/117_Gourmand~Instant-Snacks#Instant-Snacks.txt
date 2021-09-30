@@ -1,0 +1,83 @@
+=== [[Gourmand/Instant-Snacks|Instant-Snacks]] ===
+<!-- __GAMEVERSION__ -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible <includeonly>mw-collapsed</includeonly>}} style="text-align: center"
+! Item !! Level !! Gourmand Requirement !! Health Restored !! Power Restored !! Metabolism Cost
+|-
+| style="text-align:left;" data-sort-value="Bottle of Sugar Water"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Bottle of Sugar Water]] || 0 || 0 || 15 || 0 || 0
+|-
+| style="text-align:left;" data-sort-value="Large Strawberry"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5066.png</span>&nbsp;[[Large Strawberry]] || 5 || 0 || 10 || 10 || 0
+|-
+| style="text-align:left;" data-sort-value="Cactus Juice"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5010.png</span>&nbsp;[[Cactus Juice]] || 8 || 0 || 90 || 28 || 15
+|-
+| style="text-align:left;" data-sort-value="Honey"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5706.png</span>&nbsp;[[Honey]] || 5 || 0 || 75 || 25 || 13
+|-
+| style="text-align:left;" data-sort-value="Rattus Root"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6227.png</span>&nbsp;[[Rattus Root]] || 10 || 0 || 100 || 30 || 16
+|-
+| style="text-align:left;" data-sort-value="Fairy Honey"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5706.png</span>&nbsp;[[Fairy Honey]] || 50 || 35 || 300 || 70 || 44
+|-
+| style="text-align:left;" data-sort-value="Raw Oyster"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6312.png</span>&nbsp;[[Raw Oyster]] || 20 || 40 || 150 || 40 || 23
+|-
+| style="text-align:left;" data-sort-value="Cleaned Shrimp"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_6305.png</span>&nbsp;[[Cleaned Shrimp]] || 15 || 0 || 125 || 35 || 20
+|-
+| style="text-align:left;" data-sort-value="Bacon"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5069.png</span>&nbsp;[[Bacon]] || 0 || 0 || 50 || 20 || 9
+|-
+| style="text-align:left;" data-sort-value="Venison Jerky"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Venison Jerky]] || 10 || 0 || 100 || 30 || 16
+|-
+| style="text-align:left;" data-sort-value="Ur-Bacon"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5069.png</span>&nbsp;[[Ur-Bacon]] || 30 || 15 || 200 || 50 || 30
+|-
+| style="text-align:left;" data-sort-value="Chicken Drumstick"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5224.png</span>&nbsp;[[Chicken Drumstick]] || 15 || 0 || 125 || 35 || 20
+|-
+| style="text-align:left;" data-sort-value="Shark Chew"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5039.png</span>&nbsp;[[Shark Chew]] || 52 || 37 || 310 || 72 || 45
+|-
+| style="text-align:left;" data-sort-value="Cavefish Sticks"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5308.png</span>&nbsp;[[Cavefish Sticks]] || 60 || 45 || 350 || 80 || 51
+|-
+| style="text-align:left;" data-sort-value="Pepper Venison"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5033.png</span>&nbsp;[[Pepper Venison]] || 59 || 44 || 345 || 79 || 50
+|-
+| style="text-align:left;" data-sort-value="House Cat"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5128.png</span>&nbsp;[[House Cat]] || 20 || 5 || 150 || 40 || 23
+|-
+| style="text-align:left;" data-sort-value="Clownfish Nigiri"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5674.png</span>&nbsp;[[Clownfish Nigiri]] || 4 || 0 || 70 || 24 || 12
+|-
+| style="text-align:left;" data-sort-value="Crab Nigiri"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5674.png</span>&nbsp;[[Crab Nigiri]] || 8 || 0 || 90 || 28 || 15
+|-
+| style="text-align:left;" data-sort-value="Grapefish Nigiri"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5674.png</span>&nbsp;[[Grapefish Nigiri]] || 12 || 0 || 110 || 32 || 17
+|-
+| style="text-align:left;" data-sort-value="Perch Nigiri"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5674.png</span>&nbsp;[[Perch Nigiri]] || 16 || 1 || 130 || 36 || 20
+|-
+| style="text-align:left;" data-sort-value="Eel Nigiri"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5674.png</span>&nbsp;[[Eel Nigiri]] || 20 || 5 || 150 || 40 || 23
+|-
+| style="text-align:left;" data-sort-value="Cavefish Nigiri"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5674.png</span>&nbsp;[[Cavefish Nigiri]] || 28 || 13 || 190 || 48 || 29
+|-
+| style="text-align:left;" data-sort-value="Shark Nigiri"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5674.png</span>&nbsp;[[Shark Nigiri]] || 32 || 17 || 210 || 52 || 31
+|-
+| style="text-align:left;" data-sort-value="Mint Candy Cane"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5688.png</span>&nbsp;[[Mint Candy Cane]] || 3 || 0 || 65 || 23 || 11
+|-
+| style="text-align:left;" data-sort-value="Tart Candy Cane"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5689.png</span>&nbsp;[[Tart Candy Cane]] || 10 || 0 || 100 || 30 || 16
+|-
+| style="text-align:left;" data-sort-value="Laura Neth's Famous Tart"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5690.png</span>&nbsp;[[Laura Neth's Famous Tart]] || 35 || 20 || 225 || 55 || 34
+|-
+| style="text-align:left;" data-sort-value="Magical Candy Cane"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5691.png</span>&nbsp;[[Magical Candy Cane]] || 60 || 0 || 350 || 80 || 51
+|-
+| style="text-align:left;" data-sort-value="Green Vexfish Nigiri"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5674.png</span>&nbsp;[[Green Vexfish Nigiri]] || 36 || 21 || 230 || 56 || 34
+|-
+| style="text-align:left;" data-sort-value="Great Bacon"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5069.png</span>&nbsp;[[Great Bacon]] || 35 || 20 || 225 || 55 || 34
+|-
+| style="text-align:left;" data-sort-value="Sweet-and-Minty Candy Cane"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5856.png</span>&nbsp;[[Sweet-and-Minty Candy Cane]] || 25 || 10 || 175 || 45 || 27
+|-
+| style="text-align:left;" data-sort-value="Lemon Candy Cane"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5857.png</span>&nbsp;[[Lemon Candy Cane]] || 35 || 20 || 225 || 55 || 34
+|-
+| style="text-align:left;" data-sort-value="Spearmint Candy Cane"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5858.png</span>&nbsp;[[Spearmint Candy Cane]] || 45 || 30 || 275 || 65 || 41
+|-
+| style="text-align:left;" data-sort-value="Grape Candy Cane"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5859.png</span>&nbsp;[[Grape Candy Cane]] || 55 || 40 || 325 || 75 || 48
+|-
+| style="text-align:left;" data-sort-value="Fried Potato Sticks"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5861.png</span>&nbsp;[[Fried Potato Sticks]] || 10 || 0 || 100 || 30 || 16
+|-
+| style="text-align:left;" data-sort-value="Flounder Nigiri"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5674.png</span>&nbsp;[[Flounder Nigiri]] || 24 || 9 || 170 || 44 || 26
+|-
+| style="text-align:left;" data-sort-value="Amberjack Nigiri"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5674.png</span>&nbsp;[[Amberjack Nigiri]] || 40 || 25 || 250 || 60 || 37
+|-
+| style="text-align:left;" data-sort-value="Catfish Nigiri"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5674.png</span>&nbsp;[[Catfish Nigiri]] || 40 || 25 || 250 || 60 || 37
+|-
+| style="text-align:left;" data-sort-value="Yellow Perch Nigiri"| <span class="extimage32px">http://cdn.projectgorgon.com/__GAMEVERSION__/icons/icon_5674.png</span>&nbsp;[[Yellow Perch Nigiri]] || 45 || 30 || 275 || 65 || 41
+|}
+<noinclude>[[Category:Skill Subpage]]</noinclude>

@@ -2,7 +2,7 @@ import os
 import sys
 import urllib.request
 from Util import LoadTextFile,MakeDir, SaveJson
-from GlobalStrings import Ab_String, Fv_String, QR_String, QF_String, RU_String, RP_String, RK_String
+from GlobalStrings import Ab_String, Fv_String, QR_String, QF_String, RU_String, RP_String, RK_String, XP_String
 
 def FindChangedFiles(directory):
 	dirCurrent = dirBaseCurrent + '/' + directory
@@ -40,3 +40,4 @@ SaveJson(dirSave, 'Changed_QF_Files.json', FindChangedFiles('WikiData/' + QF_Str
 SaveJson(dirSave, 'Changed_RU_Files.json', FindChangedFiles('WikiData/' + RU_String))
 SaveJson(dirSave, 'Changed_RP_Files.json', FindChangedFiles('WikiData/' + RP_String))
 SaveJson(dirSave, 'Changed_RK_Files.json', FindChangedFiles('WikiData/' + RK_String))
+SaveJson(dirSave, 'Changed_XP_Files.json', FindChangedFiles('WikiData/' + XP_String))

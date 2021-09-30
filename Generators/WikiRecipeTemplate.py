@@ -1,5 +1,3 @@
-from .GeneratorGlobalStrings import versionString, botInfoString
-
 def GenerateWikiRecipeTemplate(RecipeList, RecipeDict, ItemDict, RecipeSourcesDict):
 	templateList = []
 	for recipe in RecipeList:

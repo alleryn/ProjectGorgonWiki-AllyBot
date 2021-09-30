@@ -1,0 +1,479 @@
+=== [[Gourmand/Meals|Meals]] ===
+<!-- v350 -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+{| {{STDT|sortable mw-collapsible <includeonly>mw-collapsed</includeonly>}} style="text-align: center"
+! Item !! Level !! Gourmand Requirement !! Maximum Health !! Maximum Power !! In-Combat Health Regeneration !! In-Combat Power Regeneration !! Out-of-Combat Health Regeneration !! Out-of-Combat Power Regeneration !! Metabolism Regeneration !! Duration
+|-
+| style="text-align:left;" data-sort-value="Goblin Wheatbread"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5111.png</span>&nbsp;[[Goblin Wheatbread]] || 20 || 5 || 40 || 0 || 12 || 8 || 79 || 70 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Mogyar Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5339.png</span>&nbsp;[[Mogyar Cheese]] || 31 || 16 || 94 || 0 || 31 || 18 || 115 || 98 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Almonds"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5707.png</span>&nbsp;[[Almonds]] || 7 || 0 || 0 || 0 || 1 || 1 || 21 || 14 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Red Apple"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5137.png</span>&nbsp;[[Red Apple]] || 1 || 0 || 0 || 0 || 0 || 0 || 10 || 10 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Grapes"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5118.png</span>&nbsp;[[Grapes]] || 2 || 0 || 0 || 0 || 0 || 0 || 13 || 11 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Orange"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5138.png</span>&nbsp;[[Orange]] || 3 || 0 || 0 || 0 || 0 || 0 || 14 || 11 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Guava"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5139.png</span>&nbsp;[[Guava]] || 4 || 0 || 0 || 0 || 0 || 0 || 16 || 12 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Banana"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5390.png</span>&nbsp;[[Banana]] || 5 || 0 || 0 || 0 || 1 || 1 || 18 || 13 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Lemon"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5622.png</span>&nbsp;[[Lemon]] || 6 || 0 || 0 || 0 || 1 || 1 || 19 || 13 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Pear"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5710.png</span>&nbsp;[[Pear]] || 7 || 0 || 0 || 0 || 1 || 1 || 21 || 14 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Peach"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5711.png</span>&nbsp;[[Peach]] || 8 || 0 || 0 || 0 || 1 || 1 || 22 || 14 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Green Apple"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5728.png</span>&nbsp;[[Green Apple]] || 9 || 0 || 0 || 0 || 1 || 1 || 24 || 15 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cave Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5338.png</span>&nbsp;[[Cave Cheese]] || 3 || 0 || 22 || 0 || 3 || 1 || 24 || 27 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Brie Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5339.png</span>&nbsp;[[Brie Cheese]] || 28 || 13 || 86 || 0 || 28 || 16 || 105 || 90 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Camembert Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5339.png</span>&nbsp;[[Camembert Cheese]] || 34 || 19 || 102 || 0 || 34 || 20 || 124 || 106 || 1 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Emmentaler Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5339.png</span>&nbsp;[[Emmentaler Cheese]] || 40 || 25 || 117 || 0 || 40 || 24 || 144 || 121 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Limburger Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5339.png</span>&nbsp;[[Limburger Cheese]] || 44 || 29 || 127 || 0 || 44 || 26 || 157 || 131 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Danablu Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5342.png</span>&nbsp;[[Danablu Cheese]] || 48 || 33 || 138 || 0 || 48 || 28 || 170 || 141 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Appenzeller Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5339.png</span>&nbsp;[[Appenzeller Cheese]] || 50 || 35 || 143 || 0 || 50 || 30 || 176 || 146 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Roquefort Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5342.png</span>&nbsp;[[Roquefort Cheese]] || 54 || 39 || 153 || 0 || 54 || 32 || 189 || 156 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Gorgonzola Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5342.png</span>&nbsp;[[Gorgonzola Cheese]] || 57 || 42 || 161 || 0 || 57 || 34 || 199 || 164 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Grasgot Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5342.png</span>&nbsp;[[Grasgot Cheese]] || 60 || 45 || 169 || 0 || 60 || 36 || 209 || 172 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Esgarion Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5342.png</span>&nbsp;[[Esgarion Cheese]] || 63 || 48 || 176 || 0 || 63 || 37 || 218 || 179 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cambozola Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5342.png</span>&nbsp;[[Cambozola Cheese]] || 66 || 51 || 184 || 0 || 66 || 39 || 228 || 187 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Mur Del Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5342.png</span>&nbsp;[[Mur Del Cheese]] || 69 || 54 || 192 || 0 || 69 || 41 || 238 || 194 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Stilton Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5342.png</span>&nbsp;[[Stilton Cheese]] || 76 || 61 || 210 || 0 || 76 || 45 || 260 || 212 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Blue-Whisker Cheese"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5342.png</span>&nbsp;[[Blue-Whisker Cheese]] || 78 || 63 || 215 || 0 || 78 || 46 || 267 || 217 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Onion Rings"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5029.png</span>&nbsp;[[Onion Rings]] || 5 || 0 || 10 || 0 || 3 || 2 || 31 || 32 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Potato Wedges"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5028.png</span>&nbsp;[[Potato Wedges]] || 1 || 0 || 1 || 0 || 0 || 0 || 15 || 20 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Hash Browns"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5031.png</span>&nbsp;[[Hash Browns]] || 5 || 0 || 10 || 0 || 3 || 2 || 31 || 32 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Baked Potato"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5022.png</span>&nbsp;[[Baked Potato]] || 1 || 0 || 1 || 0 || 0 || 0 || 15 || 20 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Onion Blossom"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5123.png</span>&nbsp;[[Onion Blossom]] || 5 || 0 || 10 || 0 || 3 || 2 || 31 || 32 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Boiled Cabbage"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5103.png</span>&nbsp;[[Boiled Cabbage]] || 10 || 0 || 20 || 0 || 6 || 4 || 47 || 45 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Baked Beets"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5129.png</span>&nbsp;[[Baked Beets]] || 20 || 5 || 40 || 0 || 12 || 8 || 79 || 70 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Squash Soup"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5974.png</span>&nbsp;[[Squash Soup]] || 30 || 15 || 60 || 0 || 18 || 12 || 112 || 96 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Broccoli Florets"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5135.png</span>&nbsp;[[Broccoli Florets]] || 40 || 25 || 80 || 0 || 24 || 16 || 144 || 121 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Maple Carrots"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6222.png</span>&nbsp;[[Maple Carrots]] || 50 || 35 || 100 || 0 || 30 || 20 || 176 || 146 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Stuffed Squash"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5105.png</span>&nbsp;[[Stuffed Squash]] || 30 || 15 || 60 || 0 || 18 || 12 || 112 || 96 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Guava Beet Muffin"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5985.png</span>&nbsp;[[Guava Beet Muffin]] || 35 || 20 || 70 || 0 || 21 || 14 || 128 || 108 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Beef and Broccoli"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5129.png</span>&nbsp;[[Beef and Broccoli]] || 45 || 30 || 90 || 0 || 27 || 18 || 160 || 134 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Boring Fruit Cocktail"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5767.png</span>&nbsp;[[Boring Fruit Cocktail]] || 10 || 0 || 20 || 0 || 6 || 4 || 47 || 45 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Fruit Cocktail"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5767.png</span>&nbsp;[[Fruit Cocktail]] || 20 || 5 || 40 || 0 || 12 || 8 || 79 || 70 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Weird Fruit Cocktail"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5767.png</span>&nbsp;[[Weird Fruit Cocktail]] || 25 || 10 || 50 || 0 || 15 || 10 || 95 || 83 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Banana Bread"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5111.png</span>&nbsp;[[Banana Bread]] || 45 || 30 || 90 || 0 || 27 || 18 || 160 || 134 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Candied Lemon"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5823.png</span>&nbsp;[[Candied Lemon]] || 50 || 35 || 100 || 0 || 30 || 20 || 176 || 146 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Honey Ham"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5067.png</span>&nbsp;[[Honey Ham]] || 1 || 0 || 1 || 0 || 0 || 0 || 15 || 20 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Venison Roast"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5121.png</span>&nbsp;[[Venison Roast]] || 15 || 0 || 30 || 0 || 9 || 6 || 63 || 58 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Sausage"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5122.png</span>&nbsp;[[Sausage]] || 15 || 0 || 30 || 0 || 9 || 6 || 63 || 58 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="BBQ Ribs"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5933.png</span>&nbsp;[[BBQ Ribs]] || 40 || 25 || 80 || 0 || 24 || 16 || 144 || 121 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Fried Spider Leg"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5082.png</span>&nbsp;[[Fried Spider Leg]] || 35 || 20 || 70 || 0 || 21 || 14 || 128 || 108 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Mantis-Stuffed Mushroom"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5075.png</span>&nbsp;[[Mantis-Stuffed Mushroom]] || 35 || 20 || 70 || 0 || 21 || 14 || 128 || 108 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Fried Clownfish"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5038.png</span>&nbsp;[[Fried Clownfish]] || 1 || 0 || 1 || 0 || 0 || 0 || 15 || 20 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Breaded Perch with Onions"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5039.png</span>&nbsp;[[Breaded Perch with Onions]] || 20 || 5 || 40 || 0 || 12 || 8 || 79 || 70 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Super Fishy Surprise"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Super Fishy Surprise]] || 35 || 20 || 70 || 0 || 21 || 14 || 128 || 108 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Bonus Fishy Surprise"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Bonus Fishy Surprise]] || 35 || 20 || 70 || 0 || 21 || 14 || 128 || 108 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Boiled Crab"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5991.png</span>&nbsp;[[Boiled Crab]] || 1 || 0 || 1 || 0 || 0 || 0 || 15 || 20 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Grapefish Steak"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Grapefish Steak]] || 10 || 0 || 20 || 0 || 6 || 4 || 47 || 45 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Eel Stir-Fry"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Eel Stir-Fry]] || 30 || 15 || 60 || 0 || 18 || 12 || 112 || 96 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Maple-Smoked Shark"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Maple-Smoked Shark]] || 40 || 25 || 80 || 0 || 24 || 16 || 144 || 121 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Orange Perch"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Orange Perch]] || 25 || 10 || 50 || 0 || 15 || 10 || 95 || 83 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Shark and Crab Kebabs"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5933.png</span>&nbsp;[[Shark and Crab Kebabs]] || 50 || 35 || 100 || 0 || 30 || 20 || 176 || 146 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cheesy Baked Potato"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5022.png</span>&nbsp;[[Cheesy Baked Potato]] || 15 || 0 || 30 || 0 || 9 || 6 || 63 || 58 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Buttered Baked Potato"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5022.png</span>&nbsp;[[Buttered Baked Potato]] || 10 || 0 || 20 || 0 || 6 || 4 || 47 || 45 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Glazed Beets"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5129.png</span>&nbsp;[[Glazed Beets]] || 25 || 10 || 50 || 0 || 15 || 10 || 95 || 83 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cabbage Soup"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5114.png</span>&nbsp;[[Cabbage Soup]] || 15 || 0 || 30 || 0 || 9 || 6 || 63 || 58 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Hard-Boiled Egg"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5575.png</span>&nbsp;[[Hard-Boiled Egg]] || 1 || 0 || 1 || 0 || 0 || 0 || 15 || 20 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Plain Porridge"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5016.png</span>&nbsp;[[Plain Porridge]] || 1 || 0 || 1 || 0 || 0 || 0 || 15 || 20 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Bland Baked Chicken"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Bland Baked Chicken]] || 5 || 0 || 10 || 0 || 3 || 2 || 31 || 32 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Grilled Chicken"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Grilled Chicken]] || 25 || 10 || 50 || 0 || 15 || 10 || 95 || 83 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Chicken and Broccoli"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5133.png</span>&nbsp;[[Chicken and Broccoli]] || 30 || 15 || 60 || 0 || 18 || 12 || 112 || 96 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Lemon-Glazed Chicken"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Lemon-Glazed Chicken]] || 40 || 25 || 80 || 0 || 24 || 16 || 144 || 121 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Chicken Casserole"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5130.png</span>&nbsp;[[Chicken Casserole]] || 50 || 35 || 100 || 0 || 30 || 20 || 176 || 146 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Hardtack"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5681.png</span>&nbsp;[[Hardtack]] || 1 || 0 || 1 || 0 || 0 || 0 || 15 || 20 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Venison Psi-Mantis Style"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5128.png</span>&nbsp;[[Venison Psi-Mantis Style]] || 5 || 0 || 10 || 0 || 3 || 2 || 31 || 32 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Chicken Psi-Mantis Style"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6223.png</span>&nbsp;[[Chicken Psi-Mantis Style]] || 20 || 5 || 40 || 0 || 12 || 8 || 79 || 70 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Venison Hash"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5031.png</span>&nbsp;[[Venison Hash]] || 25 || 10 || 50 || 0 || 15 || 10 || 95 || 83 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Perfectly Baked Potato"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5022.png</span>&nbsp;[[Perfectly Baked Potato]] || 2 || 0 || 4 || 0 || 1 || 0 || 21 || 25 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Fairy Puffs"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5127.png</span>&nbsp;[[Fairy Puffs]] || 10 || 0 || 20 || 0 || 6 || 4 || 47 || 45 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Wolfsbane Muffin"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5985.png</span>&nbsp;[[Wolfsbane Muffin]] || 0 || 0 || 0 || 0 || 0 || 0 || 15 || 20 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Beets 'n Meats"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5133.png</span>&nbsp;[[Beets 'n Meats]] || 45 || 30 || 90 || 0 || 27 || 18 || 160 || 134 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cheesy Veggie Delight"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5130.png</span>&nbsp;[[Cheesy Veggie Delight]] || 45 || 30 || 90 || 0 || 27 || 18 || 160 || 134 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Laura's Crab Biscuits"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5126.png</span>&nbsp;[[Laura's Crab Biscuits]] || 15 || 0 || 30 || 0 || 9 || 6 || 63 || 58 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Laura's Cheesy Beets"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5131.png</span>&nbsp;[[Laura's Cheesy Beets]] || 30 || 15 || 60 || 0 || 18 || 12 || 112 || 96 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Black Soup"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5313.png</span>&nbsp;[[Black Soup]] || 25 || 10 || 50 || 0 || 15 || 10 || 95 || 83 || 3 || 120 minutes
+|-
+| style="text-align:left;" data-sort-value="Crab Roll"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5319.png</span>&nbsp;[[Crab Roll]] || 32 || 17 || 64 || 0 || 19 || 12 || 118 || 101 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Loaded Baked Potato"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5022.png</span>&nbsp;[[Loaded Baked Potato]] || 30 || 15 || 60 || 0 || 18 || 12 || 112 || 96 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Shepherd's Pie"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Shepherd's Pie]] || 45 || 30 || 90 || 0 || 27 || 18 || 160 || 134 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cottage Pie"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Cottage Pie]] || 35 || 20 || 70 || 0 || 21 || 14 || 128 || 108 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Peasant's Pie"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Peasant's Pie]] || 20 || 5 || 40 || 0 || 12 || 8 || 79 || 70 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Juicy Ham"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5067.png</span>&nbsp;[[Juicy Ham]] || 25 || 10 || 50 || 0 || 15 || 10 || 95 || 83 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Pumpkin Soup"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5976.png</span>&nbsp;[[Pumpkin Soup]] || 35 || 20 || 70 || 0 || 21 || 14 || 128 || 108 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Basic Pumpkin Pie"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Basic Pumpkin Pie]] || 50 || 35 || 100 || 0 || 30 || 20 || 176 || 146 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Gretchen's Millet Bar"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5126.png</span>&nbsp;[[Gretchen's Millet Bar]] || 25 || 10 || 50 || 0 || 15 || 10 || 95 || 83 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Gretchen's Potato Rolls"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5126.png</span>&nbsp;[[Gretchen's Potato Rolls]] || 30 || 15 || 60 || 0 || 18 || 12 || 112 || 96 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Lembas Brick"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5133.png</span>&nbsp;[[Lembas Brick]] || 22 || 7 || 44 || 0 || 13 || 8 || 86 || 75 || 3 || 180 minutes
+|-
+| style="text-align:left;" data-sort-value="Stuffed Bell Pepper"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5131.png</span>&nbsp;[[Stuffed Bell Pepper]] || 53 || 38 || 106 || 0 || 31 || 21 || 186 || 154 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Vegetable Masterpiece"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5131.png</span>&nbsp;[[Vegetable Masterpiece]] || 56 || 41 || 112 || 0 || 33 || 22 || 196 || 161 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Mountain Mutton"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5133.png</span>&nbsp;[[Mountain Mutton]] || 51 || 36 || 102 || 0 || 30 || 20 || 179 || 149 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Shroom Feast"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5455.png</span>&nbsp;[[Shroom Feast]] || 55 || 40 || 110 || 0 || 33 || 22 || 192 || 159 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Aromatic Chicken"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Aromatic Chicken]] || 54 || 39 || 108 || 0 || 32 || 21 || 189 || 156 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Spicy Chicken"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Spicy Chicken]] || 58 || 43 || 116 || 0 || 34 || 23 || 202 || 166 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Basic Pepperpot"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5395.png</span>&nbsp;[[Basic Pepperpot]] || 57 || 42 || 114 || 0 || 34 || 22 || 199 || 164 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Spicy Cavefish"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5313.png</span>&nbsp;[[Spicy Cavefish]] || 56 || 41 || 112 || 0 || 33 || 22 || 196 || 161 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Furpot"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5395.png</span>&nbsp;[[Furpot]] || 50 || 35 || 100 || 0 || 30 || 20 || 176 || 146 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Fancy Pumpkin Pie"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Fancy Pumpkin Pie]] || 60 || 45 || 120 || 0 || 36 || 24 || 209 || 172 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Soft-Boiled Egg"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5575.png</span>&nbsp;[[Soft-Boiled Egg]] || 7 || 0 || 14 || 0 || 4 || 2 || 37 || 37 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Poached Egg"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5575.png</span>&nbsp;[[Poached Egg]] || 15 || 0 || 30 || 0 || 9 || 6 || 63 || 58 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Bacon Basket"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5130.png</span>&nbsp;[[Bacon Basket]] || 13 || 0 || 26 || 0 || 7 || 5 || 57 || 52 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Scrambled Egg"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5575.png</span>&nbsp;[[Scrambled Egg]] || 14 || 0 || 28 || 0 || 8 || 5 || 60 || 55 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Orange Cat"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Orange Cat]] || 25 || 10 || 50 || 0 || 15 || 10 || 95 || 83 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Spicy Lemon Cat"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5313.png</span>&nbsp;[[Spicy Lemon Cat]] || 51 || 36 || 102 || 0 || 30 || 20 || 179 || 149 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Kraken Calamari"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5029.png</span>&nbsp;[[Kraken Calamari]] || 42 || 27 || 84 || 0 || 25 || 16 || 150 || 126 || 4 || 120 minutes
+|-
+| style="text-align:left;" data-sort-value="Pickled Fish"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5821.png</span>&nbsp;[[Pickled Fish]] || 3 || 0 || 6 || 0 || 1 || 1 || 24 || 27 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Alpha Beets"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5127.png</span>&nbsp;[[Alpha Beets]] || 25 || 0 || 50 || 0 || 15 || 10 || 95 || 83 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Basic Ham Omelet"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5128.png</span>&nbsp;[[Basic Ham Omelet]] || 40 || 25 || 80 || 0 || 24 || 16 || 144 || 121 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Bacon-Lover's Omelet"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5128.png</span>&nbsp;[[Bacon-Lover's Omelet]] || 55 || 40 || 110 || 0 || 33 || 22 || 192 || 159 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Rahu Rice"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5676.png</span>&nbsp;[[Rahu Rice]] || 1 || 0 || 1 || 0 || 0 || 0 || 15 || 20 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Clownfish Sushi Roll"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Clownfish Sushi Roll]] || 10 || 0 || 20 || 0 || 6 || 4 || 47 || 45 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Crab Sushi Roll"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Crab Sushi Roll]] || 15 || 0 || 30 || 0 || 9 || 6 || 63 || 58 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Grapefish Sushi Roll"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Grapefish Sushi Roll]] || 20 || 5 || 40 || 0 || 12 || 8 || 79 || 70 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Perch Sushi Roll"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Perch Sushi Roll]] || 25 || 10 || 50 || 0 || 15 || 10 || 95 || 83 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Eel Sushi Roll"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Eel Sushi Roll]] || 30 || 15 || 60 || 0 || 18 || 12 || 112 || 96 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cavefish Sushi Roll"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Cavefish Sushi Roll]] || 40 || 25 || 80 || 0 || 24 || 16 || 144 || 121 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Shark Sushi Roll"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Shark Sushi Roll]] || 45 || 30 || 90 || 0 || 27 || 18 || 160 || 134 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Hard Roll"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5682.png</span>&nbsp;[[Hard Roll]] || 8 || 0 || 16 || 0 || 4 || 3 || 40 || 40 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Celebratory Cake"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5692.png</span>&nbsp;[[Celebratory Cake]] || 60 || 0 || 120 || 0 || 36 || 24 || 209 || 172 || 5 || 120 minutes
+|-
+| style="text-align:left;" data-sort-value="Green Vexfish Sushi Roll"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Green Vexfish Sushi Roll]] || 50 || 35 || 100 || 0 || 30 || 20 || 176 || 146 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Tagenite Stack"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5705.png</span>&nbsp;[[Tagenite Stack]] || 45 || 30 || 90 || 0 || 27 || 18 || 160 || 134 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Orcish Onion Soup"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5313.png</span>&nbsp;[[Orcish Onion Soup]] || 50 || 35 || 100 || 0 || 30 || 20 || 176 || 146 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Orcish Eel"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5821.png</span>&nbsp;[[Orcish Eel]] || 55 || 40 || 110 || 0 || 33 || 22 || 192 || 159 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Welcome Cake"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5714.png</span>&nbsp;[[Welcome Cake]] || 20 || 0 || 40 || 0 || 12 || 8 || 79 || 70 || 3 || 120 minutes
+|-
+| style="text-align:left;" data-sort-value="Grapefish and Eggs"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5133.png</span>&nbsp;[[Grapefish and Eggs]] || 16 || 1 || 32 || 0 || 9 || 6 || 66 || 60 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Barley Bread"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5111.png</span>&nbsp;[[Barley Bread]] || 35 || 20 || 70 || 0 || 21 || 14 || 128 || 108 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Vegan Nut Barley Bread"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5111.png</span>&nbsp;[[Vegan Nut Barley Bread]] || 40 || 25 || 80 || 0 || 24 || 16 || 144 || 121 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Secret Rice"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5764.png</span>&nbsp;[[Secret Rice]] || 11 || 0 || 22 || 0 || 6 || 4 || 50 || 47 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Mushroom Barley Soup"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5975.png</span>&nbsp;[[Mushroom Barley Soup]] || 35 || 20 || 70 || 0 || 21 || 14 || 128 || 108 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Slightly Sub-Par Fruit Cocktail"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5767.png</span>&nbsp;[[Slightly Sub-Par Fruit Cocktail]] || 15 || 0 || 30 || 0 || 9 || 6 || 63 || 58 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Summer Apple Pie"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Summer Apple Pie]] || 35 || 0 || 70 || 0 || 21 || 14 || 128 || 108 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Watery Mushroom Soup"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5816.png</span>&nbsp;[[Watery Mushroom Soup]] || 1 || 0 || 1 || 0 || 0 || 0 || 15 || 20 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cream of Mushroom Soup"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5816.png</span>&nbsp;[[Cream of Mushroom Soup]] || 10 || 0 || 20 || 0 || 6 || 4 || 47 || 45 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Pork Chops with Watercress"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Pork Chops with Watercress]] || 6 || 0 || 12 || 0 || 3 || 2 || 34 || 35 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Watercress Salad"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5820.png</span>&nbsp;[[Watercress Salad]] || 11 || 0 || 22 || 0 || 6 || 4 || 50 || 47 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Chicken and Watercress Soup"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5816.png</span>&nbsp;[[Chicken and Watercress Soup]] || 9 || 0 || 18 || 0 || 5 || 3 || 44 || 42 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Clownfish Chowder"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5821.png</span>&nbsp;[[Clownfish Chowder]] || 7 || 0 || 14 || 0 || 4 || 2 || 37 || 37 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Fish and Mushroom Scramble"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5817.png</span>&nbsp;[[Fish and Mushroom Scramble]] || 8 || 0 || 16 || 0 || 4 || 3 || 40 || 40 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Pork Chops with Grape Jelly"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Pork Chops with Grape Jelly]] || 12 || 0 || 24 || 0 || 7 || 4 || 53 || 50 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Serbule-Style Lamb Chops"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Serbule-Style Lamb Chops]] || 17 || 2 || 34 || 0 || 10 || 6 || 69 || 63 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Bland Mutton Vindaloo"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Bland Mutton Vindaloo]] || 20 || 5 || 40 || 0 || 12 || 8 || 79 || 70 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Durstin's Mutton Stew"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5816.png</span>&nbsp;[[Durstin's Mutton Stew]] || 19 || 4 || 38 || 0 || 11 || 7 || 76 || 68 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Durstin's Minty Lamb Chops"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5816.png</span>&nbsp;[[Durstin's Minty Lamb Chops]] || 24 || 9 || 48 || 0 || 14 || 9 || 92 || 80 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Fried Lamb Chops"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5816.png</span>&nbsp;[[Fried Lamb Chops]] || 10 || 0 || 20 || 0 || 6 || 4 || 47 || 45 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Onion Omelet"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5575.png</span>&nbsp;[[Onion Omelet]] || 15 || 0 || 30 || 0 || 9 || 6 || 63 || 58 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Mutton and Eggs"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5031.png</span>&nbsp;[[Mutton and Eggs]] || 28 || 13 || 56 || 0 || 16 || 11 || 105 || 90 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Jerky Lembas Brick"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5133.png</span>&nbsp;[[Jerky Lembas Brick]] || 20 || 0 || 40 || 0 || 12 || 8 || 79 || 70 || 3 || 180 minutes
+|-
+| style="text-align:left;" data-sort-value="Ranalon Salad"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5820.png</span>&nbsp;[[Ranalon Salad]] || 24 || 9 || 48 || 0 || 14 || 9 || 92 || 80 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Lungfish Roll"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5867.png</span>&nbsp;[[Lungfish Roll]] || 20 || 5 || 40 || 0 || 12 || 8 || 79 || 70 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Fried Lungfish"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5038.png</span>&nbsp;[[Fried Lungfish]] || 15 || 0 || 30 || 0 || 9 || 6 || 63 || 58 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Mokapok Stew"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5821.png</span>&nbsp;[[Mokapok Stew]] || 21 || 6 || 42 || 0 || 12 || 8 || 82 || 73 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Succulent Pork Chops"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5933.png</span>&nbsp;[[Succulent Pork Chops]] || 14 || 0 || 28 || 0 || 8 || 5 || 60 || 55 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Sweet and Numb Chicken"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Sweet and Numb Chicken]] || 40 || 25 || 80 || 0 || 24 || 16 || 144 || 121 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Barbecue Rabbit Chops"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5933.png</span>&nbsp;[[Barbecue Rabbit Chops]] || 36 || 21 || 72 || 0 || 21 || 14 || 131 || 111 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="All-Flavor Chicken"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[All-Flavor Chicken]] || 43 || 28 || 86 || 0 || 25 || 17 || 154 || 128 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Creamy Squash Casserole"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Creamy Squash Casserole]] || 41 || 26 || 82 || 0 || 24 || 16 || 147 || 123 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Broccoli Squash Bake"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Broccoli Squash Bake]] || 42 || 27 || 84 || 0 || 25 || 16 || 150 || 126 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Winter Salad"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5820.png</span>&nbsp;[[Winter Salad]] || 40 || 25 || 80 || 0 || 24 || 16 || 144 || 121 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Banana-Almond Pancakes"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5705.png</span>&nbsp;[[Banana-Almond Pancakes]] || 45 || 30 || 90 || 0 || 27 || 18 || 160 || 134 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Chicken-Rabbit Rice"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Chicken-Rabbit Rice]] || 35 || 20 || 70 || 0 || 21 || 14 || 128 || 108 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Barbecue Chicken"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5933.png</span>&nbsp;[[Barbecue Chicken]] || 44 || 29 || 88 || 0 || 26 || 17 || 157 || 131 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Mandibles' Perfect Lunch"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5934.png</span>&nbsp;[[Mandibles' Perfect Lunch]] || 41 || 26 || 82 || 0 || 24 || 16 || 147 || 123 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Casino Stir-Fry"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Casino Stir-Fry]] || 46 || 31 || 92 || 0 || 27 || 18 || 163 || 136 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Disappointing Corn Surprise"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5933.png</span>&nbsp;[[Disappointing Corn Surprise]] || 57 || 42 || 114 || 0 || 34 || 22 || 199 || 164 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Eyeball Soup"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5977.png</span>&nbsp;[[Eyeball Soup]] || 30 || 15 || 60 || 0 || 18 || 12 || 112 || 96 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Candied Heart"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5978.png</span>&nbsp;[[Candied Heart]] || 32 || 17 || 64 || 0 || 19 || 12 || 118 || 101 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Bone Soup"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5979.png</span>&nbsp;[[Bone Soup]] || 50 || 35 || 100 || 0 || 30 || 20 || 176 || 146 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Baked Pig Snout"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5980.png</span>&nbsp;[[Baked Pig Snout]] || 30 || 15 || 60 || 0 || 18 || 12 || 112 || 96 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Maggot Soup"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5981.png</span>&nbsp;[[Maggot Soup]] || 42 || 27 || 84 || 0 || 25 || 16 || 150 || 126 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Mantis-Style Pumpkin Pie"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Mantis-Style Pumpkin Pie]] || 35 || 20 || 70 || 0 || 21 || 14 || 128 || 108 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Mandibles' Dandy Dinner"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5994.png</span>&nbsp;[[Mandibles' Dandy Dinner]] || 40 || 25 || 80 || 0 || 24 || 16 || 144 || 121 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Swamp Salad"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5820.png</span>&nbsp;[[Swamp Salad]] || 55 || 40 || 110 || 0 || 33 || 22 || 192 || 159 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Snakemeat Wraps"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5819.png</span>&nbsp;[[Snakemeat Wraps]] || 51 || 36 || 102 || 0 || 30 || 20 || 179 || 149 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Gobbledygook"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6223.png</span>&nbsp;[[Gobbledygook]] || 56 || 41 || 112 || 0 || 33 || 22 || 196 || 161 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Ruktagh"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6222.png</span>&nbsp;[[Ruktagh]] || 54 || 39 || 108 || 0 || 32 || 21 || 189 || 156 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Crelpin's Corn Dish"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6222.png</span>&nbsp;[[Crelpin's Corn Dish]] || 75 || 60 || 150 || 0 || 45 || 30 || 257 || 210 || 6 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Vexfish Lettuce Wraps"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5819.png</span>&nbsp;[[Vexfish Lettuce Wraps]] || 70 || 55 || 140 || 0 || 42 || 28 || 241 || 197 || 6 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Crelpin's Fish Dish"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Crelpin's Fish Dish]] || 72 || 57 || 144 || 0 || 43 || 28 || 247 || 202 || 6 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Toasted Spriggan Nuts"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5130.png</span>&nbsp;[[Toasted Spriggan Nuts]] || 68 || 53 || 136 || 0 || 40 || 27 || 234 || 192 || 6 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Top Swamp Steak"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Top Swamp Steak]] || 74 || 59 || 148 || 0 || 44 || 29 || 254 || 207 || 6 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Onion Chicken"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5130.png</span>&nbsp;[[Onion Chicken]] || 63 || 48 || 126 || 0 || 37 || 25 || 218 || 179 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Steak and Cheese Wraps"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5819.png</span>&nbsp;[[Steak and Cheese Wraps]] || 81 || 66 || 162 || 0 || 48 || 32 || 276 || 225 || 7 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Treas"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5131.png</span>&nbsp;[[Treas]] || 78 || 63 || 156 || 0 || 46 || 31 || 267 || 217 || 6 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Rustic Meatsterpiece"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5128.png</span>&nbsp;[[Rustic Meatsterpiece]] || 69 || 54 || 138 || 0 || 41 || 27 || 238 || 194 || 6 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Tregetable Steak"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Tregetable Steak]] || 77 || 62 || 154 || 0 || 46 || 30 || 263 || 215 || 6 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cavefish Supper"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5038.png</span>&nbsp;[[Cavefish Supper]] || 57 || 42 || 114 || 0 || 34 || 22 || 199 || 164 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Trish"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5127.png</span>&nbsp;[[Trish]] || 63 || 48 || 126 || 0 || 37 || 25 || 218 || 179 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Groovalu"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Groovalu]] || 75 || 60 || 150 || 0 || 45 || 30 || 257 || 210 || 6 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Crelpin's Sushi"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Crelpin's Sushi]] || 60 || 45 || 120 || 0 || 36 || 24 || 209 || 172 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Sweet-Roasted Pumpkin"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5127.png</span>&nbsp;[[Sweet-Roasted Pumpkin]] || 60 || 45 || 120 || 0 || 36 || 24 || 209 || 172 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Pumpkin Salad"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5820.png</span>&nbsp;[[Pumpkin Salad]] || 70 || 55 || 140 || 0 || 42 || 28 || 241 || 197 || 6 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Pumpkin-Spice Cookies"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6296.png</span>&nbsp;[[Pumpkin-Spice Cookies]] || 75 || 30 || 150 || 0 || 45 || 30 || 257 || 210 || 6 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Warden Food"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5133.png</span>&nbsp;[[Warden Food]] || 40 || 25 || 80 || 0 || 24 || 16 || 144 || 121 || 4 || 180 minutes
+|-
+| style="text-align:left;" data-sort-value="Basic Cranberry Sauce"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5127.png</span>&nbsp;[[Basic Cranberry Sauce]] || 15 || 0 || 30 || 0 || 9 || 6 || 63 || 58 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Tasty Cranberry Sauce"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5127.png</span>&nbsp;[[Tasty Cranberry Sauce]] || 26 || 11 || 52 || 0 || 15 || 10 || 99 || 85 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Amazing Cranberry Sauce"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5127.png</span>&nbsp;[[Amazing Cranberry Sauce]] || 55 || 40 || 110 || 0 || 33 || 22 || 192 || 159 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Bland Baked Turkey"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Bland Baked Turkey]] || 8 || 0 || 16 || 0 || 4 || 3 || 40 || 40 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Well-Baked Turkey"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Well-Baked Turkey]] || 15 || 0 || 30 || 0 || 9 || 6 || 63 || 58 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Perfectly Baked Turkey"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5225.png</span>&nbsp;[[Perfectly Baked Turkey]] || 44 || 29 || 88 || 0 || 26 || 17 || 157 || 131 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Turkey Peasant-Bake"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Turkey Peasant-Bake]] || 18 || 3 || 36 || 0 || 10 || 7 || 73 || 65 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Turkey Pot Pie"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Turkey Pot Pie]] || 45 || 30 || 90 || 0 || 27 || 18 || 160 || 134 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Fancy Turkey Pie"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5768.png</span>&nbsp;[[Fancy Turkey Pie]] || 63 || 48 || 126 || 0 || 37 || 25 || 218 || 179 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Turkey Stir-Fry"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5130.png</span>&nbsp;[[Turkey Stir-Fry]] || 77 || 62 || 154 || 0 || 46 || 30 || 263 || 215 || 6 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cranberry-Turkey Sandwich"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5128.png</span>&nbsp;[[Cranberry-Turkey Sandwich]] || 20 || 5 || 40 || 0 || 12 || 8 || 79 || 70 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Leftover Turkey Sandwich"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5128.png</span>&nbsp;[[Leftover Turkey Sandwich]] || 13 || 0 || 26 || 0 || 7 || 5 || 57 || 52 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cranberry-Barbecue Steak"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Cranberry-Barbecue Steak]] || 30 || 15 || 60 || 0 || 18 || 12 || 112 || 96 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cranberry-Barbecue Mutton"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5818.png</span>&nbsp;[[Cranberry-Barbecue Mutton]] || 14 || 0 || 28 || 0 || 8 || 5 || 60 || 55 || 2 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Flounder Sushi Roll"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Flounder Sushi Roll]] || 35 || 20 || 70 || 0 || 21 || 14 || 128 || 108 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Amberjack Sushi Roll"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Amberjack Sushi Roll]] || 55 || 40 || 110 || 0 || 33 || 22 || 192 || 159 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Baked Flounder"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Baked Flounder]] || 25 || 10 || 50 || 0 || 15 || 10 || 95 || 83 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Cheesy Flounder"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Cheesy Flounder]] || 33 || 18 || 66 || 0 || 19 || 13 || 121 || 103 || 3 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Lemon-Baked Flounder"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Lemon-Baked Flounder]] || 44 || 29 || 88 || 0 || 26 || 17 || 157 || 131 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Lemon Pepper Flounder"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Lemon Pepper Flounder]] || 45 || 30 || 90 || 0 || 27 || 18 || 160 || 134 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Grilled Amberjack"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5132.png</span>&nbsp;[[Grilled Amberjack]] || 70 || 55 || 140 || 0 || 42 || 28 || 241 || 197 || 6 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Apology Cake"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5714.png</span>&nbsp;[[Apology Cake]] || 20 || 0 || 40 || 0 || 12 || 8 || 79 || 70 || 3 || 120 minutes
+|-
+| style="text-align:left;" data-sort-value="Fairy Stew"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5816.png</span>&nbsp;[[Fairy Stew]] || 20 || 0 || 40 || 0 || 12 || 8 || 79 || 70 || 3 || 30 minute
+|-
+| style="text-align:left;" data-sort-value="Apprentice Surprise"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5977.png</span>&nbsp;[[Apprentice Surprise]] || 40 || 15 || 80 || 0 || 24 || 16 || 144 || 121 || 4 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="3-Year Steamed Cake"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5692.png</span>&nbsp;[[3-Year Steamed Cake]] || 80 || 0 || 160 || 0 || 48 || 32 || 273 || 222 || 6 || 120 minutes
+|-
+| style="text-align:left;" data-sort-value="Catfish Sushi Roll"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Catfish Sushi Roll]] || 53 || 38 || 106 || 0 || 31 || 21 || 186 || 154 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Yellow Perch Sushi Roll"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Yellow Perch Sushi Roll]] || 55 || 40 || 110 || 0 || 33 || 22 || 192 || 159 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Moku's Special Sushi"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5675.png</span>&nbsp;[[Moku's Special Sushi]] || 50 || 35 || 100 || 0 || 30 || 20 || 176 || 146 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Baked Swamp Gourd"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5127.png</span>&nbsp;[[Baked Swamp Gourd]] || 70 || 55 || 140 || 0 || 42 || 28 || 241 || 197 || 6 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Ratkin Surf 'n Turf"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5128.png</span>&nbsp;[[Ratkin Surf 'n Turf]] || 60 || 45 || 120 || 0 || 36 || 24 || 209 || 172 || 5 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Hexameat Soup"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6223.png</span>&nbsp;[[Hexameat Soup]] || 80 || 65 || 160 || 0 || 48 || 32 || 273 || 222 || 6 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Yellow Perch Ranalon-Style"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5039.png</span>&nbsp;[[Yellow Perch Ranalon-Style]] || 75 || 60 || 150 || 0 || 45 || 30 || 257 || 210 || 6 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Beast in the Tub"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6223.png</span>&nbsp;[[Beast in the Tub]] || 68 || 53 || 136 || 0 || 40 || 27 || 234 || 192 || 6 || 1 hour
+|-
+| style="text-align:left;" data-sort-value="Maggoty Ham"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5067.png</span>&nbsp;[[Maggoty Ham]] || 25 || 10 || 50 || 0 || 15 || 10 || 95 || 83 || 3 || 5 minutes
+|-
+| style="text-align:left;" data-sort-value="Rotten Meat"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5067.png</span>&nbsp;[[Rotten Meat]] || 25 || 10 || 50 || 0 || 15 || 10 || 95 || 83 || 3 || 5 minutes
+|-
+| style="text-align:left;" data-sort-value="Spoiled Rations"| <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_5067.png</span>&nbsp;[[Spoiled Rations]] || 25 || 10 || 50 || 0 || 15 || 10 || 95 || 83 || 3 || 5 minutes
+|}
+<noinclude>[[Category:Skill Subpage]]</noinclude>

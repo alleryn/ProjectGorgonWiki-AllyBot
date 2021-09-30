@@ -10,7 +10,8 @@ from Generators.WikiItemAbilityData import GenerateWikiItemAbilityData
 from Generators.WikiItemFavorData import GenerateWikiItemFavorData
 from Generators.WikiItemQuestData import GenerateWikiItemQuestData
 from Generators.WikiItemRecipeData import GenerateWikiItemRecipeData, GenerateWikiKeywordRecipeData
-from GlobalStrings import Ab_String, Fv_String, QR_String, QF_String, RU_String, RP_String, RK_String
+from Generators.WikiXpTableData import GenerateWikiXpTableData
+from GlobalStrings import Ab_String, Fv_String, QR_String, QF_String, RU_String, RP_String, RK_String, XP_String
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
@@ -32,6 +33,7 @@ NpcDict = LoadJson(dirLoad, "npcs.json", True)
 QuestDict = LoadJson(dirLoad, "quests.json", True)
 RecipeDict = LoadJson(dirLoad, "recipes.json", True)
 AttributeDict = LoadJson(dirLoad, "attributes.json", True)
+XpTableDict = LoadJson(dirLoad, "xptables.json", True)
 
 # Use ~ for slash in filenames and @ for :
 SaveTextFile(dirSave, botVersion + '_Hardcore_Mode#List_of_Items_Usable_Only_in_Hardcore_Mode.txt', GenerateWikiHardcoreDeathPenaltyItems(ItemDict))
@@ -43,6 +45,7 @@ SaveTextFile(dirSave, botVersion + '_Gourmand~Instant-Snacks#Instant-Snacks.txt'
 attributeLabelsSource, attributeIconsSource = GenerateWikiAttributes(AttributeDict)
 SaveTextFile(dirSave, botVersion + '_Template@Attribute_label.txt', attributeLabelsSource)
 SaveTextFile(dirSave, botVersion + '_Template@Attribute_icon.txt', attributeIconsSource)
+
 
 blacklistedItems = []
 for item in ItemDict:
@@ -72,6 +75,7 @@ dirQFSave = dirSave + '/' + QF_String
 dirRUSave = dirSave + '/' + RU_String
 dirRPSave = dirSave + '/' + RP_String
 dirRKSave = dirSave + '/' + RK_String
+dirXPSave = dirSave + '/' + XP_String
 MakeDir(dirAbSave)
 MakeDir(dirFvSave)
 MakeDir(dirQRSave)
@@ -79,6 +83,7 @@ MakeDir(dirQFSave)
 MakeDir(dirRUSave)
 MakeDir(dirRPSave)
 MakeDir(dirRKSave)
+MakeDir(dirXPSave)
 
 recipeKeywordSkips = {"Crystal", "CheapMeat", "Equipment", "MainHand", "OffHand", "Head", "Chest", "Legs", "Hands", "Feet", "Necklace", "Ring", "Shield"}
 
@@ -95,3 +100,7 @@ for item in ItemDict:
 	SaveTextFile(dirQFSave, botVersion + '_QF_' + item + '.txt', questFulfillmentSource)
 	SaveTextFile(dirRUSave, botVersion + '_RU_' + item + '.txt', usingInRecipesSource)
 	SaveTextFile(dirRPSave, botVersion + '_RP_' + item + '.txt', producingWithRecipesSource)
+
+for xpTable in XpTableDict:
+	xpTableSource = GenerateWikiXpTableData(XpTableDict[xpTable])
+	SaveTextFile(dirXPSave, botVersion + '_XP_' + XpTableDict[xpTable]["InternalName"] + '.txt', xpTableSource)

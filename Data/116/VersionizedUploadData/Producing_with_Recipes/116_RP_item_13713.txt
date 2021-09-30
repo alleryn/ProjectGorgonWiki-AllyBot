@@ -1,9 +1,0 @@
-===Producing with Recipes===
-<!-- v350 -->
-<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
-{| {{STDT|mw-collapsible mw-collapsed}}
-|+ style="text-align:left; width: 250px;" | [[Whittling]]
-! Lvl !! Name !! Ingredients !! Results
-|-
-| 41 || Decent Whittling Practice || <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6423.png</span>&nbsp;[[Good Whittling Knife]] x1 <span style="display: inline"><sup style="font-weight: bold; color: red;" title="Chance to consume: 5% &#010;">(!)</sup></span><br>[[:Category:Items/Wood|Wood]] x1 || <span class="extimage32px">http://cdn.projectgorgon.com/v350/icons/icon_6424.png</span>&nbsp;[[Wooden Figurine of a Rhino]] x1
-|}

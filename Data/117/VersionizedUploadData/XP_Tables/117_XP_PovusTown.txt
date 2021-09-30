@@ -1,0 +1,30 @@
+<noinclude><!-- v350 -->
+<!-- This section has been added automatically by a bot. Please contact [[User:Alleryn]] (check page history for link to user page with contact info) if you believe this section is in error. -->
+[[Category:Xptable]]</noinclude>
+{| {{STDT}}
+! Level !! Experience !! Total Experience
+|-
+|1||250||250
+|-
+|2||500||750
+|-
+|3||750||1500
+|-
+|4||1000||2500
+|-
+|5||1250||3750
+|-
+|6||1500||5250
+|-
+|7||1750||7000
+|-
+|8||2000||9000
+|-
+|9||2250||11250
+|-
+|10||2500||13750
+|-
+|11||2750||16500
+|-
+|12||3000||19500
+|}

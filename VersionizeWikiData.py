@@ -3,7 +3,7 @@ import urllib.request
 import sys
 
 from Util import LoadTextFile, LoadJson, SaveTextFile, MakeDir
-from GlobalStrings import Ab_String, Fv_String, QR_String, QF_String, RU_String, RP_String, RK_String
+from GlobalStrings import Ab_String, Fv_String, QR_String, QF_String, RU_String, RP_String, RK_String, XP_String
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
@@ -26,6 +26,7 @@ dirQFSave = dirSave + '/' + QF_String
 dirRUSave = dirSave + '/' + RU_String
 dirRPSave = dirSave + '/' + RP_String
 dirRKSave = dirSave + '/' + RK_String
+dirXPSave = dirSave + '/' + XP_String
 MakeDir(dirAbSave)
 MakeDir(dirFvSave)
 MakeDir(dirQRSave)
@@ -33,6 +34,7 @@ MakeDir(dirQFSave)
 MakeDir(dirRUSave)
 MakeDir(dirRPSave)
 MakeDir(dirRKSave)
+MakeDir(dirXPSave)
 
 OtherChangedFiles = LoadJson(dirLoadCompare, 'OtherChangedFiles.json', True)
 Changed_Ab_Files = LoadJson(dirLoadCompare, 'Changed_Ab_Files.json', True)
@@ -42,6 +44,7 @@ Changed_QF_Files = LoadJson(dirLoadCompare, 'Changed_QF_Files.json', True)
 Changed_RU_Files = LoadJson(dirLoadCompare, 'Changed_RU_Files.json', True)
 Changed_RP_Files = LoadJson(dirLoadCompare, 'Changed_RP_Files.json', True)
 Changed_RK_Files = LoadJson(dirLoadCompare, 'Changed_RK_Files.json', True)
+Changed_XP_Files = LoadJson(dirLoadCompare, 'Changed_XP_Files.json', True)
 
 for file in OtherChangedFiles:
 	SaveTextFile(dirSave, file, LoadTextFile(dirLoadWikiData, file).replace('__GAMEVERSION__', 'v' + gameVersion))
@@ -59,3 +62,5 @@ for file in Changed_RP_Files:
 	SaveTextFile(dirRPSave, file, LoadTextFile(dirLoadWikiData + '/' + RP_String, file).replace('__GAMEVERSION__', 'v' + gameVersion))
 for file in Changed_RK_Files:
 	SaveTextFile(dirRKSave, file, LoadTextFile(dirLoadWikiData + '/' + RK_String, file).replace('__GAMEVERSION__', 'v' + gameVersion))
+for file in Changed_XP_Files:
+	SaveTextFile(dirXPSave, file, LoadTextFile(dirLoadWikiData + '/' + XP_String, file).replace('__GAMEVERSION__', 'v' + gameVersion))
